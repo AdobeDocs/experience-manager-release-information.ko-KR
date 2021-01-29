@@ -1,11 +1,11 @@
 ---
-title: 이전 버전의 AEM, CQ 및 CRX
+title: AEM, CQ 및 CRX 이전 버전
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 47b391ed659264b611f08d2fa9e45a923be5c445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '746'
-ht-degree: 23%
+ht-degree: 100%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 23%
 
 ## 이전 버전의 [!DNL Experience Manager] 설명서 {#older-version-aem-documentation}
 
-이 페이지에 나열된 [!DNL Experience Manager], CQ 및 CRX 버전은 단종이며 더 이상 Adobe에서 공식적으로 판매되지 않습니다. 이러한 이전 버전에 대한 공식적인 설명서의 최신 버전은 자가 도움말 요구 시 사용할 수 있습니다. 최신 버전(현재 [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html))으로 업그레이드하는 것이 좋습니다.
+이 페이지에 나열된 [!DNL Experience Manager], CQ 및 CRX 버전은 단종되어 더 이상 Adobe에서 공식적으로 판매하지 않습니다. 이러한 이전 버전에 대한 공식적인 설명서의 최신 버전은 자가 도움말 요구 시 사용할 수 있습니다. 최신 버전(현재 [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html))으로 업그레이드하는 것이 좋습니다.
 
 >[!NOTE]
 >
->[!DNL Experience Manager] 버전이 핵심 지원이 종료되는 시기를 알려면 [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html) 및 `AEM`을(를) 참조하십시오.
+>[!DNL Experience Manager] 버전의 핵심 지원이 종료되는 시기를 확인하려면 [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html)을 보고 `AEM`을 검색하십시오.
 
 ### 설치하기 전에 {#before-installation}
 
@@ -29,14 +29,14 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->[!DNL Experience Manager] 작성자에서 이 콘텐츠에 액세스하려면 사용자가 [!DNL Experience Manager] 인스턴스에 로그인해야 합니다. 이 컨텐츠는 기본적으로 AEM 게시(/ libs 아래에 있음)에서 액세스할 수 없습니다.
+> [!DNL Experience Manager] 작성자에 대하여 이 컨텐츠에 액세스하려면 [!DNL Experience Manager] 인스턴스에 로그인해야 합니다. 이 컨텐츠는 기본적으로 AEM 게시(/ libs 아래에 있음)에서 액세스할 수 없습니다.
 
 ## 소프트웨어 배포 위치 {#software-distribution-locations}
 
-유효한 Adobe ID이 필요합니다.
+유효한 Adobe ID가 필요합니다.
 
-* Adobe ID이 없는 경우 www.adobe.com에서 만들 수 있습니다.
-Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서](https://helpx.adobe.com/manage-account.html)를 참조하십시오.
+* Adobe ID가 없는 경우, www.adobe.com에서 만들 수 있습니다.
+Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를 참조하십시오](https://helpx.adobe.com/kr/manage-account.html).
 
 | [!DNL Experience Manager] 버전 | 소프트웨어 배포 링크 |
 |:-----------:|:--------------------------------------------------:|
@@ -54,13 +54,13 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서](h
 
 ## 설명서 패키지를 설치하는 방법 {#how-to-install-documentation-package}
 
-기존 설명서 패키지를 설치하려면 로컬 드라이브나 네트워크 드라이브에 [!DNL Experience Manager]이(가) 설치되어 있어야 합니다.
+레거시 문서 패키지를 설치하려면 로컬 드라이브나 네트워크 드라이브에 [!DNL Experience Manager]를 설치 및 실행해야 합니다.
 
-### 설명서 패키지 {#download-documentation-package} 다운로드
+### 문서 패키지 다운로드 {#download-documentation-package}
 
-1. 위의 표에서 다운로드할 [!DNL Experience Manager] 설명서 버전의 링크를 선택합니다. 예: AEM 5.6.1.
+1. 위의 표에서 다운로드할 [!DNL Experience Manager] 문서 버전에 대한 링크를 선택하십시오. 예: AEM 5.6.1.
 
-1. Adobe ID을 사용하여 로그인합니다. ID가 없는 경우 ID를 만드십시오.
+1. Adobe ID를 사용하여 로그인합니다. ID가 없는 경우 ID를 만드십시오.
 
 1. **[!UICONTROL 다운로드]** 단추를 선택합니다.
 
@@ -68,9 +68,9 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서](h
 
 ![소프트웨어 배포 예](assets/screen_shot_2020-07-10at161922.jpg)
 
-### 로컬 인스턴스 {#install-package-local-instance}에 패키지를 설치합니다.
+### 로컬 인스턴스에 패키지 설치 {#install-package-local-instance}
 
-1. [!DNL Experience Manager] 사용자 인터페이스를 엽니다. 웹 브라우저에서 다음을 입력합니다.`http://localhost:4502/`. 관리자로 로그인합니다.
+1. [!DNL Experience Manager] 사용자 인터페이스를 엽니다. 웹 브라우저에서 다음을 입력합니다. `http://localhost:4502/` 관리자로 로그인합니다.
 
 1. **[!UICONTROL 도구]** > **[!UICONTROL 배포]** > **[!UICONTROL 패키지]**&#x200B;를 선택합니다.
 
@@ -86,8 +86,8 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서](h
 
 1. 확인 대화 상자에서 **[!UICONTROL 설치]**&#x200B;를 다시 선택합니다. 참고: 설치하는 데 몇 분 정도 소요됩니다.
 
-1. 웹 브라우저에서 설명서 페이지를 시작합니다. AEM 5.6.1 예를 사용하면 URL은 다음과 같습니다.http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html을 참조하십시오.
+1. 웹 브라우저에서 문서 페이지를 실행하십시오. AEM 5.6.1 예에서는 URL이 다음과 같습니다. http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html
 
-## [!DNL Experience Manager] 커뮤니티 {#get-help-from-aem-community}에서 도움 받기
+## [!DNL Experience Manager] 커뮤니티 에서 도움 받기 {#get-help-from-aem-community}
 
-Experience Manager 사용에 대한 질문이 있는 경우[forums [!DNL Experience Manager] 에서 경험이 많은 커뮤니티 전문가에게 문의하는 것이 좋습니다.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
+Experience Manager 사용에 대한 질문이 있는 경우  [!DNL Experience Manager]  포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)에서 경험이 많은 커뮤니티 전문가에게 [문의하는 것이 좋습니다.
