@@ -45,13 +45,10 @@ AEM 누적 수정 팩 6.2 SP1-CFP20은 AEM 6.2의 마지막 누적 수정 팩이
 >[!NOTE]
 >
 >* 새 Sling `discovery-  api` 번들 Johnzon 1.0.0은 AEM 누적 수정 팩 6.2 SP1-CFP10에 포함되어 있습니다. 또한 서비스 사용자 sling-discovery는 CRX 저장소의 노드 */var/discovery*&#x200B;에 대한 읽기 및 쓰기 권한이 있는 상태로 추가됩니다.
-   >
-   >
-* **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**&#x200B;를 대체하는 apache commons **org.apache.commons/commons-email/1.5**&#x200B;의 이메일 번들입니다.
-   >
-   >
-* Adobe에서는 AEM 인스턴스의 사용자가 많은 고객을 위해 설치 폴더를 통해 CFP를 배포하도록 권장합니다.
-
+>
+>* **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**&#x200B;를 대체하는 apache commons **org.apache.commons/commons-email/1.5**&#x200B;의 이메일 번들입니다.
+>
+>* Adobe에서는 AEM 인스턴스의 사용자가 많은 고객을 위해 설치 폴더를 통해 CFP를 배포하도록 권장합니다.
 >
 
 
@@ -1327,10 +1324,8 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 >
 >* Word/웹에서 CM 텍스트 편집기로의 복사 붙여넣기 기능은 줄바꿈 콘텐츠를 보여 줍니다. NPR-19530
 >* CM 텍스트 편집기에서 줄바꿈하지 않는 콘텐츠는 감싸지지 않습니다. NPR-19449
-
 >
->
-이러한 요구 사항은 향후 CFP에서 논의될 것입니다.
+>이러한 요구 사항은 향후 CFP에서 논의될 것입니다.
 
 #### 적응형 양식 {#adaptive-forms-9}
 
