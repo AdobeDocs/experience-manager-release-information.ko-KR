@@ -1,11 +1,11 @@
 ---
 title: AEM, CQ 및 CRX 이전 버전
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c8e7f79be233c94d33b7605c73e586dce022412c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '773'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->[!DNL Experience Manager] 버전의 핵심 지원이 종료되는 시기를 확인하려면 [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html)을 보고 `AEM`을 검색하십시오.
+>[!DNL Experience Manager] 버전의 핵심 지원이 종료되는 시기를 확인하려면 [제품 및 기술 지원 기간](https://helpx.adobe.com/support/programs/eol-matrix.html)을 보고 `AEM`을 검색하십시오.
 
 ### 설치하기 전에 {#before-installation}
 
@@ -36,7 +36,7 @@ ht-degree: 97%
 유효한 Adobe ID가 필요합니다.
 
 * Adobe ID가 없는 경우, www.adobe.com에서 만들 수 있습니다.
-Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를 참조하십시오](https://helpx.adobe.com/kr/manage-account.html).
+Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를 참조하십시오](https://helpx.adobe.com/manage-account.html).
 
 | [!DNL Experience Manager] 버전 | 소프트웨어 배포 링크 |
 |:-----------:|:--------------------------------------------------:|
