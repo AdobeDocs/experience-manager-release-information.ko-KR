@@ -2,11 +2,11 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 업데이트'
 description: '[!DNL Adobe Experience Manager] 릴리스 업데이트'
 contentOwner: AK
-translation-type: ht
-source-git-commit: 6435add7b1aee2a5a2b1d0f0a0d37c3c55885672
-workflow-type: ht
-source-wordcount: '334'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 2e6a43b1608d07adfcafe5a5db6747b9ec966977
+workflow-type: tm+mt
+source-wordcount: '310'
+ht-degree: 92%
 
 ---
 
@@ -23,11 +23,7 @@ ht-degree: 100%
 
 [!DNL Cloud Service]로서의 [!DNL Experience Manager]는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다.
 
-* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
-
-* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-10-0.html)
-
-월별 릴리스 노트에는 구성 요소 이름으로 분류된 새로운 섹션 정보도 포함되어 있습니다. 이전 [!DNL Cloud Service]로서의 [!DNL Experience Manager] 릴리스에 대한 정보는  [!DNL Cloud Service]로서의  [!DNL Experience Manager] 에 대한 [모든 릴리스 노트를 참조하십시오](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html).
+현재(최신) 버전에 대한 자세한 내용은 [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)를 참조하십시오. 여기에서 이전 버전의 세부 정보(시간순으로 배열됨)를 찾을 수도 있습니다.
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
