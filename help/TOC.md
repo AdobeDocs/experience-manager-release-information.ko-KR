@@ -6,9 +6,9 @@ audience: end-user
 user-guide-title: Adobe Experience Manager 릴리스 업데이트 및 로드맵
 breadcrumb-title: AEM 릴리스 정보
 user-guide-description: 최신 AEM 릴리스 업데이트를 참조하십시오.
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
