@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] 최근 설명서 업데이트'
 description: ' [!DNL Experience Manager]  설명서의 새로운 기능, 업데이트 또는 변경 사항'
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 2e6a43b1608d07adfcafe5a5db6747b9ec966977
+source-git-commit: 94a5511d9f88f023fa8947dd4cf4ff7a43979dac
 workflow-type: tm+mt
-source-wordcount: '3219'
+source-wordcount: '3220'
 ht-degree: 99%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 99%
 >
 >AEM은 Cloud Service을 매월 출시합니다.
 >
->개별 릴리스(현재 amd 버전)와 관련된 설명서는 [릴리스 노트](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)를 참조하십시오.
+>개별 릴리스(현재 amd 이전 버전)와 관련된 설명서는 [릴리스 노트](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)를 참조하십시오.
 
 | 날짜 | 주제 | 변경 사항 |
 | --- | --- | --- |
