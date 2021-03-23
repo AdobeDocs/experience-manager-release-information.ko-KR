@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] 최근 설명서 업데이트'
 description: ' [!DNL Experience Manager]  설명서의 새로운 기능, 업데이트 또는 변경 사항'
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+source-git-commit: 3299408b2206020ab8d31d905307d24f96c95368
 workflow-type: tm+mt
-source-wordcount: '3254'
+source-wordcount: '3247'
 ht-degree: 99%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 99%
 
 # [!DNL Experience Manager]설명서: 최신 설명서 업데이트{#aem-documentation-recent-documentation-updates}
 
-이 페이지에는 새 연도 시작 이후 [!DNL Adobe Experience Manager]에 대한 중요한 문서 변경 사항 및 업데이트가 나열됩니다.
+이 페이지에는 [!DNL Adobe Experience Manager]에 대한 중요한 문서 변경 사항 및 업데이트가 나열됩니다.
 
 [이전 문서 업데이트](previous-documentation-updates.md)를 볼 수도 있습니다.
 
@@ -58,7 +58,7 @@ ht-degree: 99%
 
 | 날짜 | 주제 | 변경 사항 |
 | --- | --- | --- |
-| 2021년 3월 11일 | [!DNL Experience Manager] 6.5 서비스 팩 8 | [[!DNL Experience Manager] 6.5 서비스 팩 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)을 사용할 수 있습니다. |
+| 2021년 3월 11일 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)을 사용할 수 있습니다. |
 | 2020년 11월 25일 | Dynamic Media의 액세스 가능성 | Dynamic Media 및 Dynamic Media 뷰어는 작성 사용자 인터페이스에서 키보드 제어와 JAWS 및 NVDA 화면 판독기와 같은 보조 기술을 지원합니다. ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic)Dynamic Media의 액세스 가능성[을 참조하십시오. |
 | 2020년 11월 26일 | [!DNL Experience Manager] 6.5 서비스 팩 7 | [[!DNL Experience Manager] 6.5 서비스 팩 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)을 사용할 수 있습니다. |
 | 2020년 9월 3일 | Dynamic Media의 CDN 무효화 | CDN 캐시가 몇 분 내에 만료될 수 있도록 Dynamic Media 내에서 요청을 보낼 수 있습니다. 이 기능은 Assets에 대한 업데이트를 만들 때 해당 변경을 즉시 웹 사이트에 적용하려는 경우 유용합니다.<br>[ Dynamic Media의 방식으로 CDN 캐시 무효화](https://docs.adobe.com/content/help/ko-KR/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)를 참조하십시오. |
@@ -80,7 +80,7 @@ ht-degree: 99%
 
 | 날짜 | 주제 | 변경 사항 |
 | --- | --- | --- |
-| 2021년 2월 25일 | [!DNL Experience Manager] 6.4 서비스 팩 8 누적 수정 팩 4 | [[!DNL Experience Manager] 6.4 서비스 팩 8 누적 수정 팩 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)을 사용할 수 있습니다.  |
+| 2021년 2월 25일 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4 | [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)을 사용할 수 있습니다. |
 | 2020년 11월 26일 | [!DNL Experience Manager] 6.4 서비스 팩 8 누적 수정 팩 3 | [[!DNL Experience Manager] 6.4 서비스 팩 8 누적 수정 팩 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)을 사용할 수 있습니다.  |
 | 2020년 9월 3일 | [!DNL Experience Manager] 6.4 서비스 팩 8 누적 수정 팩 2 | [[!DNL Experience Manager] 6.4 서비스 팩 8 누적 수정 팩 2](https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/cfp-release-notes.html)를 사용할 수 있습니다.  |
 | 2020년 7월 29일 | [다중 사이트 관리자] | [새 동기화 작업 만들기](https://docs.adobe.com/content/help/ko-KR/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action) 및 [새 롤아웃 구성 만들기](https://docs.adobe.com/content/help/ko-KR/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration) 절차에 업데이트가 있습니다. |
