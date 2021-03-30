@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 93%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)를 참조하십시오.
+[!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)를 참조하십시오.
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
@@ -56,12 +56,12 @@ ht-degree: 93%
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 서비스 팩 8 CFP 4는  [!DNL Experience Manager] 6.4의 마지막 CFP입니다. 최신 CFP에 대한 자세한 내용은  [[!DNL Experience Manager] 6.4 누적 수정 팩 릴리스 정보를 참조하십시오](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html).
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4는 [!DNL Experience Manager] 6.4에 대한 최종 CFP입니다. 최신 CFP 릴리스에 대한 자세한 내용은 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)를 참조하십시오.
 
 >[!MORELIKETHIS]
 >
->* [EOL 매트릭스](https://helpx.adobe.com/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager]  릴리스 및 업데이트 ](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] 학습 및 지원](https://helpx.adobe.com/support/experience-manager.html)
->* [[!DNL Experience Manager] 업데이트 릴리스 차량 정의](/help/update-release-vehicle-definitions.md)
+>* [EOL 매트릭스](https://helpx.adobe.com/kr/support/programs/eol-matrix.html)
+>* [[!DNL Experience Manager]  릴리스 및 업데이트 ](https://helpx.adobe.com/kr/experience-manager/aem-releases-updates.html)
+>* [[!DNL Experience Manager] 학습 및 지원](https://helpx.adobe.com/kr/support/experience-manager.html)
+>* [[!DNL Experience Manager] 업데이트 릴리스 정의](/help/update-release-vehicle-definitions.md)
 
