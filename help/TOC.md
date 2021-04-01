@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: Adobe Experience Manager
 solution: Experience Manager
 audience: end-user
@@ -8,13 +8,13 @@ breadcrumb-title: AEM 릴리스 정보
 user-guide-description: 최신 AEM 릴리스 업데이트를 참조하십시오.
 feature-set: Experience Manager
 feature: 릴리스 정보
-role: 리더, 건축가, 개발자, 데이터 아키텍트, 데이터 엔지니어, 관리자, 비즈니스 관리자
-level: 초급, 중급, 경험
+role: 리더, 설계자, 개발자, 데이터 설계자, 데이터 엔지니어, 관리자, 비즈니스 실사용자
+level: 초급, 중급, 고급
 translation-type: tm+mt
-source-git-commit: c9654d3e8d6a5b46036c3d1b01d80ab00148f63a
+source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
