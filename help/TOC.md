@@ -21,12 +21,12 @@ ht-degree: 100%
 
 # Adobe Experience Manager 릴리스 업데이트 및 로드맵 {#aem-release-updates}
 
-+ [릴리스 노트 홈 페이지](home.md)
++ [릴리스 정보 홈 페이지](home.md)
 + [AEM 릴리스 업데이트](aem-releases-updates.md)
 + [AEM 릴리스 로드맵](update-releases-roadmap.md)
 + [AEM 업데이트 릴리스 차량 정의](update-release-vehicle-definitions.md)
 + 이전 릴리스 업데이트 {#previous-updates}
-   + [AEM 6.3 Cumulative 수정 팩](release-notes-aem-6-3-cumulative-fix-pack.md)
+   + [AEM 6.3 누적 수정 팩](release-notes-aem-6-3-cumulative-fix-pack.md)
    + [AEM 6.2 누적 수정 팩](release-notes-aem-6-2-cumulative-fix-pack.md)
    + [AEM, CQ 및 CRX 이전 버전](aem-previous-versions.md)
 + AEM Forms 릴리스 업데이트 {#forms-updates}
