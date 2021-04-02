@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: ad6014815c1b15b66e549653bf0f66fc26b1d2f4
 workflow-type: tm+mt
 source-wordcount: '13263'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
    </tr>
    <tr> 
     <td>2021년 3월 18일</td> 
-    <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0용 AEM Forms 서비스 팩 8 Forms 추가 기능 패키지</a></td> 
+    <td><a href="https://docs.adobe.com/content/help/ko/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0용 AEM Forms 서비스 팩 8 Forms 추가 기능 패키지</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
     <td> 
      <ul> 
@@ -86,7 +86,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
    </tr> 
    <tr> 
     <td>2020년 9월 3일</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.6.0용 AEM Forms 서비스 팩 6 Forms 추가 기능 패키지</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR">AEM 6.5.6.0용 AEM Forms 서비스 팩 6 Forms 추가 기능 패키지</a></td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.6.0</a></td> 
     <td> 
      <ul> 
@@ -146,7 +146,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
    </tr> 
    <tr> 
     <td>2019년 9월 19일</td> 
-    <td><a href="https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0용 AEM Forms 서비스 팩 2 Forms 추가 기능 패키지</a></td> 
+    <td><a href="https://helpx.adobe.com/kr/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0용 AEM Forms 서비스 팩 2 Forms 추가 기능 패키지</a></td> 
     <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td> 
     <td> 
      <ul> 
@@ -198,7 +198,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tbody> 
  </table>
 
-`[1]` 워크벤치, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://www.adobe.com/account/sign-in.supportportal.html)에 문의하십시오.
+`[1]` 워크벤치, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://www.adobe.com/kr/account/sign-in.supportportal.html)에 문의하십시오.
 
 `[2]` Mac OS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. Mac OS X 패키지에는 PDF Generator 기능을 사용할 수 없습니다.
 
@@ -217,7 +217,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tr>
   <tr> 
    <td>2021년 3월 4일</td> 
-   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 4용 AEM Forms 추가 기능 패키지 (6.4.8.4)</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/ko/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 4용 AEM Forms 추가 기능 패키지 (6.4.8.4)</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
    <td> 
     <ul> 
@@ -244,7 +244,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tr> 
   <tr> 
    <td>2020년 12월 3일</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 3용 AEM Forms 추가 패키지(6.4.8.3)</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 3용 AEM Forms 추가 패키지 (6.4.8.3)</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.3</a></td> 
    <td> 
     <ul> 
@@ -270,7 +270,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tr>
   <tr> 
    <td>2020년 9월 3일</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 2용 AEM Forms 추가 패키지(6.4.8.2)</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 2용 AEM Forms 추가 패키지 (6.4.8.2)</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.2</a></td> 
    <td> 
     <ul> 
@@ -286,7 +286,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tr>
   <tr> 
    <td>2020년 6월 4일</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 1용 AEM Forms 추가 기능 패키지(6.4.8.1)</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 1용 AEM Forms 추가 기능 패키지 (6.4.8.1)</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.1</a></td> 
    <td> 
     <ul> 
@@ -302,7 +302,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tr>
   <tr> 
    <td>2020년 3월 5일</td> 
-   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.8.0용 AEM Forms 서비스 팩 8 Forms 추가 기능 패키지</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/ko/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.8.0용 AEM Forms 서비스 팩 8 Forms 추가 기능 패키지</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.8.0</a></td> 
    <td> 
     <ul> 
@@ -353,7 +353,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tr> 
   <tr> 
    <td>2019년 7월 3일</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.5.0용 AEM Forms 서비스 팩 5 Forms 추가 기능 패키지</a></td> 
+   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.5.0용 AEM Forms 서비스 팩 5 Forms 추가 기능 패키지</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.5.0</a></td> 
    <td> 
     <ul> 
@@ -432,7 +432,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   <tr> 
    <td>2018년 4월 4일</td> 
    <td>AEM 6.4 Forms 추가 기능 패키지</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/sites/deploying/using/deploy.html" target="_blank">AEM 6.4</a></td> 
+   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-4/sites/deploying/using/deploy.html" target="_blank">AEM 6.4</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-AIX" target="_blank">AIX용 AEM Forms 추가 기능 패키지</a></li> 
@@ -476,7 +476,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   <tr> 
    <td>2020년 3월 5일</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 누적 수정 팩 6.3.3.8용 Forms 추가 기능 패키지</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td> 
+   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-AIX.zip">AIX용 AEM Forms 추가 기능 패키지</a></li> 
@@ -646,7 +646,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tr> 
   <tr> 
    <td>2018년 4월 5일</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3 서비스 팩 2 Forms 추가 기능 패키지</a></td> 
+   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3 서비스 팩 2 Forms 추가 기능 패키지</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3.2.0</a></td> 
    <td> 
     <ul> 
@@ -700,7 +700,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tr> 
   <tr> 
    <td>2017년 10월 13일</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp1-release-notes.html">AEM 6.3 서비스 팩 1 Forms 추가 기능 패키지</a></td> 
+   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/sp1-release-notes.html">AEM 6.3 서비스 팩 1 Forms 추가 기능 패키지</a></td> 
    <td><a href="https://helpx.adobe.com/in/experience-manager/6-3/release-notes/sp1-release-notes.html" target="_blank">AEM 6.3 서비스 팩 1</a></td> 
    <td> 
     <ul> 
@@ -1162,7 +1162,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
  </tbody> 
 </table>
 
-`[1]` AEM [!DNL Forms] 추가 기능 패키지 및 AEM [!DNL Forms] 앱의 소스 코드 외에도 업데이트된 버전의 AEM [!DNL Forms] Document Security Extension for Microsoft Office와 JEE Core 및 Document Security 구성 요소의 AEM [!DNL Forms]에 대한 핫픽스도 릴리스됩니다. 자세한 내용은 [AEM 6.2  [!DNL Forms]  누적 수정 10325의 릴리스 정보](https://helpx.adobe.com/experience-manager/6-2/forms/using/cf1-release-notes.html)를 참조하십시오.
+`[1]` AEM [!DNL Forms] 추가 기능 패키지 및 AEM [!DNL Forms] 앱의 소스 코드 외에도 업데이트된 버전의 AEM [!DNL Forms] Document Security Extension for Microsoft Office와 JEE Core 및 Document Security 구성 요소의 AEM [!DNL Forms]에 대한 핫픽스도 릴리스됩니다. 자세한 내용은 [AEM 6.2  [!DNL Forms]  누적 수정 10325의 릴리스 정보](https://helpx.adobe.com/kr/experience-manager/6-2/forms/using/cf1-release-notes.html)를 참조하십시오.
 
 `[2]` Contact [Adobe 지원 센터](https://www.adobe.com/account/sign-in.supportportal.html)에 문의하여 AEM [!DNL Forms] JEE, AEM [!DNL Forms] 앱 소스 또는 AEM [!DNL Forms Designer] 설치 관리자, AEM [!DNL Forms Workbench] 핫픽스, 또는 AEM-fd 클라이언트 SDK(릴리스에 제공되는 경우)를 얻으십시오.
 
@@ -1170,7 +1170,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
 
 >[!NOTE]
 >
->AEM [!DNL Forms]는 버그를 해결하고 소프트웨어의 유용성과 성능을 개선하기 위해 패치를 정기적으로 출시하거나 빠른 수정을 제공합니다. AEM [!DNL Forms] 사용 시 문제가 발생하는 경우 패치 또는 빠른 수정을 통해 이미 문제가 해결되었을 수 있습니다. 사용 가능한 빠른 수정에 대한 자세한 내용은 [Adobe Experience Manager 6.2 핫픽스](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)를 참조하십시오.
+>AEM [!DNL Forms]는 버그를 해결하고 소프트웨어의 유용성과 성능을 개선하기 위해 패치를 정기적으로 출시하거나 빠른 수정을 제공합니다. AEM [!DNL Forms] 사용 시 문제가 발생하는 경우 패치 또는 빠른 수정을 통해 이미 문제가 해결되었을 수 있습니다. 사용 가능한 빠른 수정에 대한 자세한 내용은 [Adobe Experience Manager 6.2 핫픽스](https://helpx.adobe.com/kr/experience-manager/kb/aem62-available-hotfixes.html)를 참조하십시오.
 
 ## 기억해야 할 사항 {#things-to-remember}
 
