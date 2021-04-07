@@ -10,9 +10,9 @@ feature-set: Experience Manager
 feature: 릴리스 정보
 role: 리더, 설계자, 개발자, 데이터 설계자, 데이터 엔지니어, 관리자, 비즈니스 실사용자
 level: 초급, 중급, 고급
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
