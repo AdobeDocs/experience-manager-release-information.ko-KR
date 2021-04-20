@@ -7,9 +7,9 @@ user-guide-title: Adobe Experience Manager 릴리스 업데이트 및 로드맵
 breadcrumb-title: AEM 릴리스 정보
 user-guide-description: 최신 AEM 릴리스 업데이트를 참조하십시오.
 feature-set: Experience Manager
-feature: 릴리스 정보
-role: 리더, 설계자, 개발자, 데이터 설계자, 데이터 엔지니어, 관리자, 비즈니스 실사용자
-level: 초급, 중급, 고급
+feature: Release Information
+role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: ht
 source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
 workflow-type: ht
