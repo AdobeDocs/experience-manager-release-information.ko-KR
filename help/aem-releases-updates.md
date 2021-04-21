@@ -2,14 +2,14 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 업데이트'
 description: '[!DNL Adobe Experience Manager] 릴리스 업데이트'
 contentOwner: AK
+exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 translation-type: ht
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '314'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Adobe Experience Manager] 릴리스 및 업데이트 {#aem-releases-and-updates}
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 [!DNL Cloud Service]로서의 [!DNL Experience Manager]는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다.
 
-현재/최신 버전에 대한 세부 정보는 [ [!DNL Experience Manager] as a [!DNL Cloud Service]의 현재 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)를 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
+현재/최신 버전에 대한 세부 정보는 [ [!DNL Experience Manager] as a [!DNL Cloud Service]의 현재 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=ko-KR)를 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
@@ -33,25 +33,25 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다.
 
-* [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
+* [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR)
 
-* [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)
+* [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ko-KR)
 
-도입된 기능 목록을 보려면 [ [!DNL Experience Manager]  6.5 서비스 팩의 새로운 기능](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html)을 참조하십시오.
+도입된 기능 목록을 보려면 [ [!DNL Experience Manager]  6.5 서비스 팩의 새로운 기능](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html?lang=ko-KR)을 참조하십시오.
 
 ### [!DNL Experience Manager] 6.4 {#aem-64}
 
 [!DNL Experience Manager] 6.4 제품 업데이트는 분기별 CFP를 통해 제공됩니다. 여기에는 버그 수정이 포함됩니다.
 
-* [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)
+* [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ko-KR)
 
-* [[!DNL Experience Manager] 6.4 서비스 팩 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html)
+* [[!DNL Experience Manager] 6.4 서비스 팩 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ko-KR)
 
-* [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html)
+* [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=ko-KR)
 
 ### [!DNL Experience Manager] 6.3 {#aem-63}
 
-* [[!DNL Experience Manager] 6.3 서비스 팩 3 누적 수정 팩 8](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/release-notes-aem-6-3-cumulative-fix-pack.html)
+* [[!DNL Experience Manager] 6.3 서비스 팩 3 누적 수정 팩 8](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/release-notes-aem-6-3-cumulative-fix-pack.html?lang=ko-KR)
 
 * [[!DNL Experience Manager] 6.3 서비스 팩 3](https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/sp3-release-notes.html)
 
