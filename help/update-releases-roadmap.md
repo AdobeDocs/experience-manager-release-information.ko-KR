@@ -1,14 +1,14 @@
 ---
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
+exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 translation-type: ht
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '347'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Experience Manager] 릴리스 로드맵 {#aem-releases-roadmap}
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ## [!DNL Cloud Service]로서의 [!DNL Experience Manager] {#aem-as-cloud-service}
 
- [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html)로서의 [[!DNL Experience Manager] 는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다. [!DNL Cloud Service]로서 [!DNL Experience Manager]에 예정된 릴리스는 다음과 같습니다.
+ [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ko-KR)로서의 [[!DNL Experience Manager] 는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다. [!DNL Cloud Service]로서 [!DNL Experience Manager]에 예정된 릴리스는 다음과 같습니다.
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
@@ -42,7 +42,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)를 참조하십시오.
+[!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR)를 참조하십시오.
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
@@ -56,7 +56,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4는 [!DNL Experience Manager] 6.4에 대한 최종 CFP입니다. 최신 CFP 릴리스에 대한 자세한 내용은 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)를 참조하십시오.
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4는 [!DNL Experience Manager] 6.4에 대한 최종 CFP입니다. 최신 CFP 릴리스에 대한 자세한 내용은 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ko-KR)를 참조하십시오.
 
 >[!MORELIKETHIS]
 >
