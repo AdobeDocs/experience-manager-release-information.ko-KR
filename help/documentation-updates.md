@@ -2,14 +2,14 @@
 title: '[!DNL Experience Manager] 최근 설명서 업데이트'
 description: ' [!DNL Experience Manager]  설명서의 새로운 기능, 업데이트 또는 변경 사항'
 contentOwner: trushton
+exl-id: 8c136a03-f961-4854-af38-45457b85d289
 translation-type: ht
-source-git-commit: 3299408b2206020ab8d31d905307d24f96c95368
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '3247'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Experience Manager]설명서: 최신 설명서 업데이트{#aem-documentation-recent-documentation-updates}
 
@@ -120,7 +120,7 @@ ht-degree: 100%
 
 | 날짜 | 주제 | 변경 사항 |
 | --- | --- | --- |
-| 2020년 10월 27일 | [!DNL Experience Manager Assets] Brand Portal에서 에셋 다운로드 | 본 설명서는 다음 주요 업데이트를 다룹니다. <br>- 단순하고 빠른 다운로드를 위해 [다운로드 경험 개선](https://docs.adobe.com/content/help/ko/experience-manager-brand-portal/using/download/brand-portal-download-assets.html). 사용자와 비즈니스의 요구사항에 적합한 경험을 제공하기 위한 추가 다운로드 구성은 관리자가 구성할 수 있습니다.<br>- 이제 모든 페이지에서 한 번 클릭으로 파일, [컬렉션](https://docs.adobe.com/content/help/ko/experience-manager-brand-portal/using/share/brand-portal-share-collection.html), 공유 링크를 탐색할 수 있습니다.<br>- 사용자는 [특정 표현물을 선택하여 다운로드](https://docs.adobe.com/content/help/ko/experience-manager-brand-portal/using/download/brand-portal-download-assets.html#download-assets-from-asset-details-page)할 수 있습니다. 새 표현물 다운로드 옵션이 에셋 세부 사항 페이지의 표현물 패널에 제공됩니다.<br>- 게스트 사용자 세션에 15분의 시간 제한을 적용하여 모든 동시 사용자에게 더 나은 경험을 제공할 수 있습니다. |
+| 2020년 10월 27일 | [!DNL Experience Manager Assets] Brand Portal에서 에셋 다운로드 | 본 설명서는 다음 주요 업데이트를 다룹니다. <br>- 단순하고 빠른 다운로드를 위해 [다운로드 경험 개선](https://docs.adobe.com/content/help/ko/experience-manager-brand-portal/using/download/brand-portal-download-assets.html). 사용자와 비즈니스의 요구사항에 적합한 경험을 제공하기 위한 추가 다운로드 구성은 관리자가 구성할 수 있습니다.<br>- 이제 모든 페이지에서 한 번 클릭으로 파일, [컬렉션](https://docs.adobe.com/content/help/ko/experience-manager-brand-portal/using/share/brand-portal-share-collection.html), 공유 링크를 탐색할 수 있습니다.<br>- 사용자는 [특정 렌디션을 선택하여 다운로드](https://docs.adobe.com/content/help/ko/experience-manager-brand-portal/using/download/brand-portal-download-assets.html#download-assets-from-asset-details-page)할 수 있습니다. 새 렌디션 다운로드 옵션이 에셋 세부 사항 페이지의 렌디션 패널에 제공됩니다.<br>- 게스트 사용자 세션에 15분의 시간 제한을 적용하여 모든 동시 사용자에게 더 나은 경험을 제공할 수 있습니다. |
 | 2020년 10월 27일 | [!DNL Experience Manager Assets] Brand Portal 2020.10.0 릴리스 | Brand Portal 2020.10.0의 개선 사항에는 향상된 에셋 다운로드, 렌디션을 제외하는 추가 옵션, 렌디션 패널에서 직접 다운로드, 특정 사용자 그룹의 액세스 및 다운로드 권한을 허용하는 구성, 모든 Brand Portal 페이지에서 파일, 컬렉션, 공유 링크를 쉽게 탐색하는 기능이 포함되어 있습니다.<br>- [Brand Portal의 새로운 기능](https://docs.adobe.com/content/help/ko/experience-manager/brand-portal/using/whats-new.html)<br>- [Brand Portal 2020.10.0 릴리스 정보](https://docs.adobe.com/content/help/ko/experience-manager/brand-portal/release-notes/brand-portal-release-notes.html) |
 | 2020년 9월 3일 | [!DNL Experience Manager Assets] Brand Portal에서 에셋 다운로드 | Brand Portal 관리자는 다운로드 설정을 구성하여 Brand Portal에서 에셋을 다운로드하는 동안 단순한 사용자 경험을 제공할 수 있습니다.<br>이 설명서는 다음 주요 업데이트를 다룹니다. <br>- [Brand Portal에서 에셋 다운로드](https://docs.adobe.com/content/help/ko/experience-manager-brand-portal/using/download/brand-portal-download-assets.html)<br>- [가속화된 다운로드 안내서](https://docs.adobe.com/content/help/ko/experience-manager-brand-portal/using/download/accelerated-download.html)<br>- [이미지 사전 설정 적용](https://docs.adobe.com/content/help/ko/experience-manager-brand-portal/using/admin-tools/brand-portal-image-presets.html) |
 | 2020년 8월 12일 | [!DNL Experience Manager Assets] Brand Portal 6.4.7 릴리스 | Brand Portal 6.4.7에 Brand Portal 사용자의 에셋 다운로드와 PDF 보기 경험을 개선하는 새 기능이 도입되었습니다.<br>- [Brand Portal의 새로운 기능](https://docs.adobe.com/content/help/ko/experience-manager/brand-portal/using/whats-new.html)<br>- [Brand Portal 6.4.7 릴리스 정보](https://docs.adobe.com/content/help/ko/experience-manager/brand-portal/release-notes/brand-portal-release-notes.html) |
