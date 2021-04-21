@@ -2,14 +2,14 @@
 title: 업데이트 릴리스 차량 정의
 description: 이 문서에서는 전체 릴리스, 기능 팩 및 서비스 팩 등 다양한 유형의  [!DNL Experience Manager]  릴리스에 대해 자세히 설명합니다.
 contentOwner: AK
+exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 translation-type: ht
-source-git-commit: 11ff4f7d66038a80697afe5f104c560137e130f4
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '730'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Experience Manager] 업데이트 릴리스 차량 정의{#update-release-vehicle-definitions}
 
