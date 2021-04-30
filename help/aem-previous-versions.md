@@ -2,11 +2,11 @@
 title: AEM, CQ 및 CRX 이전 버전
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '793'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -18,25 +18,25 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->[!DNL Experience Manager] 버전의 핵심 지원이 종료되는 시기를 확인하려면 [제품 및 기술 지원 기간](https://helpx.adobe.com/support/programs/eol-matrix.html)을 보고 `AEM`을 검색하십시오.
+>[!DNL Experience Manager] 버전의 핵심 지원이 종료되는 시기를 확인하려면 [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html)을 보고 `AEM`을 검색하십시오.
 
 ### 설치하기 전에 {#before-installation}
 
-패키지를 다운로드하기 전에 컨텐츠를 누가 사용할 것인지 결정하십시오. 이 결정에 따라 배포 방법이 결정됩니다.
+패키지를 다운로드하기 전에 콘텐츠를 누가 사용할 것인지 결정하십시오. 이 결정에 따라 배포 방법이 결정됩니다.
 
 * 개발자는 빠른 참조를 위해 로컬에서 설치할 수 있습니다.
 * 보다 광범위한 조직의 문서화 요구를 위해서는 패키지가 내부적으로 액세스할 수 있는 비프로덕션 AEM 작성자 인스턴스에 배포되는 것이 좋습니다.
 
 >[!NOTE]
 >
-> [!DNL Experience Manager] 작성자에 대하여 이 컨텐츠에 액세스하려면 [!DNL Experience Manager] 인스턴스에 로그인해야 합니다. 이 컨텐츠는 기본적으로 AEM 게시(/ libs 아래에 있음)에서 액세스할 수 없습니다.
+>[!DNL Experience Manager] 작성자에 대하여 이 콘텐츠에 액세스하려면 [!DNL Experience Manager] 인스턴스에 로그인해야 합니다. 이 콘텐츠는 기본적으로 AEM 게시(/ libs 아래에 있음)에서 액세스할 수 없습니다.
 
 ## 소프트웨어 배포 위치 {#software-distribution-locations}
 
 유효한 Adobe ID가 필요합니다.
 
 * Adobe ID가 없는 경우, www.adobe.com에서 만들 수 있습니다.
-Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를 참조하십시오](https://helpx.adobe.com/manage-account.html).
+Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를 참조하십시오](https://helpx.adobe.com/kr/manage-account.html).
 
 | [!DNL Experience Manager] 버전 | 소프트웨어 배포 링크 |
 |:-----------:|:--------------------------------------------------:|
@@ -63,7 +63,7 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를
 
 1. Adobe ID를 사용하여 로그인합니다. ID가 없는 경우 ID를 만드십시오.
 
-1. **[!UICONTROL 다운로드]** 단추를 선택합니다.
+1. **[!UICONTROL 다운로드]** 버튼을 선택합니다.
 
 1. 다음은 표시되는 예제입니다.
 
@@ -73,7 +73,7 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를
 
 >[!NOTE]
 >
->AEM 6.2의 경우 다음 명령을 사용하여 로컬 인스턴스를 최대 더미 크기로 시작해야 할 수 있습니다.` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+>AEM 6.2의 경우, 예를 들어 다음과 같은 명령을 사용하여 최대 힙 크기를 늘린 상태로 로컬 인스턴스를 시작해야 할 수 있습니다. ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
 
 1. [!DNL Experience Manager] 사용자 인터페이스를 엽니다. 웹 브라우저에서 다음을 입력합니다. `http://localhost:4502/` 관리자로 로그인합니다.
 
@@ -81,7 +81,7 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를
 
 1. 패키지 관리자 UI에서 **[!UICONTROL 패키지 업로드]**&#x200B;를 선택합니다.
 
-1. AEM 패키지를 다운로드한 위치를 찾습니다.
+1. AEM 패키지를 다운로드한 위치로 이동합니다.
 
 1. 패키지를 선택하고 **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
 
@@ -91,8 +91,8 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를
 
 1. 확인 대화 상자에서 **[!UICONTROL 설치]**&#x200B;를 다시 선택합니다. 참고: 설치하는 데 몇 분 정도 소요됩니다.
 
-1. 웹 브라우저에서 문서 페이지를 실행하십시오. AEM 5.6.1 예를 사용하면 URL은 다음과 같습니다.http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html을 참조하십시오.
+1. 웹 브라우저에서 문서 페이지를 실행하십시오. AEM 5.6.1 사용 예, URL: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## [!DNL Experience Manager] 커뮤니티 에서 도움 받기 {#get-help-from-aem-community}
 
-Experience Manager 사용에 대한 질문이 있는 경우  [!DNL Experience Manager]  포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)에서 경험이 많은 커뮤니티 전문가에게 [문의하는 것이 좋습니다.
+Experience Manager 사용에 대한 질문이 있는 경우 [ [!DNL Experience Manager] 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)에서 경험이 풍부한 커뮤니티 전문가에게 문의해 보실 것을 권장합니다.
