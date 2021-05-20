@@ -3,9 +3,8 @@ title: AEM Forms JEE에 누적 수정 팩 설치
 description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 단계 요약
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-translation-type: ht
 source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1102'
 ht-degree: 100%
 
