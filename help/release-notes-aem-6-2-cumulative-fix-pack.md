@@ -2,9 +2,8 @@
 title: AEM 6.2 누적 수정 팩
 description: Experience Manager 6.2 누적 수정 팩 릴리스 정보. Experience Manager 구성 요소의 다양한 누적 수정 팩에서 수정된 문제에 대해 알아보십시오.
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
-translation-type: ht
 source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '19975'
 ht-degree: 100%
 
@@ -45,10 +44,13 @@ AEM 누적 수정 팩 6.2 SP1-CFP20은 AEM 6.2의 마지막 누적 수정 팩이
 >[!NOTE]
 >
 >* 새 Sling `discovery-  api` 번들 Johnzon 1.0.0은 AEM 누적 수정 팩 6.2 SP1-CFP10에 포함되어 있습니다. 또한 서비스 사용자 sling-discovery는 CRX 저장소의 노드 */var/discovery*&#x200B;에 대한 읽기 및 쓰기 권한이 있는 상태로 추가됩니다.
->
->* **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**&#x200B;를 대체하는 apache commons **org.apache.commons/commons-email/1.5**&#x200B;의 이메일 번들입니다.
->
->* Adobe에서는 AEM 인스턴스의 사용자가 많은 고객을 위해 설치 폴더를 통해 CFP를 배포하도록 권장합니다.
+   >
+   >
+* **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**&#x200B;를 대체하는 apache commons **org.apache.commons/commons-email/1.5**&#x200B;의 이메일 번들입니다.
+   >
+   >
+* Adobe에서는 AEM 인스턴스의 사용자가 많은 고객을 위해 설치 폴더를 통해 CFP를 배포하도록 권장합니다.
+
 >
 
 
@@ -117,7 +119,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP19는 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 * AEM 6.2에 대한 MS Translator API v3.0 지원이 활성화되었습니다.
 * 모든 SP, CFP 및 HF 패키지를 설치한 후 로그 메시지가 추가되었습니다.
 
-### 에셋 {#assets}
+### 자산 {#assets}
 
 * ACL 편집 권한이 없으면 DAM 폴더의 이름을 변경할 수 없습니다. NPR-27555: CQ-104652용 핫픽스
 * 6.2.1 CFP 17 이상에서 이미지 사전 설정 편집기 도구가 응답하지 않습니다. NPR-28147: CQ-4261041용 핫픽스
@@ -649,7 +651,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP14는 AEM 6.2 SP1의 일반 공급 이후 릴�
 * Adobe Campaign의 Importer 페이지를 가리키는 라이브 카피 페이지를 게시할 때 오류가 발생했습니다. NPR-22470: CQ-4237164용 핫픽스
 * 경험 구성요소 편집기를 여는 동안 JavaScript 오류가 발생했습니다. NPR-22598: CQ-4238415용 핫픽스
 
-### 워크플로 {#workflow}
+### 워크플로우 {#workflow}
 
 * 일별 CQ 워크플로 이메일 알림 서비스는 WorkflowCompleted 및 WorkflowAborted 알림에 대해 Mongo 노드당 하나의 이메일을 트리거합니다. NPR-22486: CQ-4238172용 핫픽스
 
@@ -1115,7 +1117,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * Safari에서 PDF를 첨부 파일로 첨부할 수 있도록 적응형 양식이 개선되었습니다. 기존 양식에서 동일한 기능을 지원하려면 첨부 파일 위젯의 구성을 변경하고 &quot;지원되는 파일 유형&quot;에서 .pdf 대신 값 application/pdf를 업데이트해야 합니다. NPR-19623
 
-#### Forms Manager {#forms-manager-1}
+#### Forms 관리자 {#forms-manager-1}
 
 * 적응형 양식 필드에 validationState가 정의되지 않은 경우 elementFocusChanged 이벤트가 발생하면 오류 이벤트(errorState)가 Adobe Analytics 서버로 반환됩니다. NPR-19513
 
@@ -1212,7 +1214,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP8은 AEM 6.2 SP1의 일반 공급 이후 릴리
 >* 문서 조각 내의 동적 콘텐츠(예: 데이터 사전 요소 값 또는 변수 값)에 대해서는 검색이 작동하지 않습니다.
 
 
-#### Forms Manager {#forms-manager-2}
+#### Forms 관리자 {#forms-manager-2}
 
 * 적응형 양식의 XML 스키마 속성은 AEM 6.2에서 CFP6을 적용한 후에는 편집할 수 없습니다. CQ-4219684 핫픽스
 * AEM Forms Manager 코어 번들의 모든 서비스가 서버를 다시 시작할 때 시작되지 않습니다. CQ-4217014용 핫픽스
@@ -1324,8 +1326,10 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 >
 >* Word/웹에서 CM 텍스트 편집기로의 복사 붙여넣기 기능은 줄바꿈 콘텐츠를 보여 줍니다. NPR-19530
 >* CM 텍스트 편집기에서 줄바꿈하지 않는 콘텐츠는 감싸지지 않습니다. NPR-19449
+
 >
->이러한 요구 사항은 향후 CFP에서 논의될 것입니다.
+>
+이러한 요구 사항은 향후 CFP에서 논의될 것입니다.
 
 #### 적응형 양식 {#adaptive-forms-9}
 
@@ -2263,7 +2267,7 @@ CFP는 다음과 같은 방법으로 실행 중인 인스턴스에 자동으로 
 
 별도의 설치 관리자를 통해 AEM Forms JEE의 수정 사항이 전달됩니다. JEE의 AEM Forms에 CFP를 설치하는 방법에 대한 자세한 내용은 [AEM Forms JEE에 CFP 설치](install-cfp-aem-forms-jee.md)를 참조하십시오.
 
-#### Forms 디자이너 설치 관리자 {#designer-installer}
+#### Forms 디자이너 설치 관리자  {#designer-installer}
 
 1. 업데이트를 설치하려면 Designer 6.2.0_&lt;Language>_Cumulative_QF.msp 파일을 실행합니다.
 1. 시작 화면에서 **업데이트**&#x200B;를 클릭합니다. 설치가 시작됩니다.
