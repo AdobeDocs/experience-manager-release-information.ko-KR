@@ -2,9 +2,8 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 업데이트 및 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 업데이트 및 로드맵'
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-translation-type: ht
 source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
