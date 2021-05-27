@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] 최근 설명서 업데이트'
 description: ' [!DNL Experience Manager]  설명서의 새로운 기능, 업데이트 또는 변경 사항'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: fa68729be0642a7369e2a1bef643fac32a76bc3e
+source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
 workflow-type: tm+mt
-source-wordcount: '3247'
+source-wordcount: '3262'
 ht-degree: 100%
 
 ---
@@ -57,7 +57,8 @@ ht-degree: 100%
 
 | 날짜 | 주제 | 변경 사항 |
 | --- | --- | --- |
-| 2021년 3월 11일 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR#service-pack)을 사용할 수 있습니다. |
+| 2021년 5월 27일 | [!DNL Experience Manager] 6.5 서비스 팩 9 | [[!DNL Experience Manager] 6.5 서비스 팩 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR#service-pack)를 사용할 수 있습니다. |
+| 2021년 3월 11일 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)을 사용할 수 있습니다. |
 | 2020년 11월 25일 | Dynamic Media의 액세스 가능성 | Dynamic Media 및 Dynamic Media 뷰어는 작성 사용자 인터페이스에서 키보드 제어와 JAWS 및 NVDA 화면 판독기와 같은 보조 기술을 지원합니다. ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=ko-KR#dynamic)Dynamic Media의 액세스 가능성[을 참조하십시오. |
 | 2020년 11월 26일 | [!DNL Experience Manager] 6.5 서비스 팩 7 | [[!DNL Experience Manager] 6.5 서비스 팩 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)을 사용할 수 있습니다. |
 | 2020년 9월 3일 | Dynamic Media의 CDN 무효화 | CDN 캐시가 몇 분 내에 만료될 수 있도록 Dynamic Media 내에서 요청을 보낼 수 있습니다. 이 기능은 Assets에 대한 업데이트를 만들 때 해당 변경을 즉시 웹 사이트에 적용하려는 경우 유용합니다.<br>[ Dynamic Media의 방식으로 CDN 캐시 무효화](https://docs.adobe.com/content/help/ko/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)를 참조하십시오. |
