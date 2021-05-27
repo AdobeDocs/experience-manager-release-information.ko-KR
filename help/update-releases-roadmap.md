@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0926a739fe07b10b425d198317a92724fcc85503
+source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '329'
 ht-degree: 100%
 
 ---
@@ -43,7 +43,6 @@ ht-degree: 100%
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 서비스 팩 9 | 6.5.9.0 | 서비스 팩 | 2021년 5월 27일 |
 | [!DNL Experience Manager] 6.5 서비스 팩 10 | 6.5.10.0 | 서비스 팩 | 2021년 8월 26일 |
 | [!DNL Experience Manager] 6.5 서비스 팩 11 | 6.5.11.0 | 서비스 팩 | 2021년 11월 25일 |
 
