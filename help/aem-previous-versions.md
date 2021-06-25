@@ -2,9 +2,9 @@
 title: AEM, CQ 및 CRX 이전 버전
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
+source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '820'
 ht-degree: 100%
 
 ---
@@ -39,6 +39,7 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를
 
 | [!DNL Experience Manager] 버전 | 소프트웨어 배포 링크 |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.3 | [소프트웨어 배포에서 AEM-DOCS-6.3 다운로드](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [소프트웨어 배포에서 AEM-DOCS-6.2 다운로드](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [소프트웨어 배포에서 AEM-DOCS-6.1 다운로드](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-6-1.zip) |
 | [!DNL Experience Manager] 6.0 | [소프트웨어 배포에서 AEM-DOCS-6.0 다운로드](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
@@ -92,6 +93,6 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를
 
 1. 웹 브라우저에서 문서 페이지를 실행하십시오. AEM 5.6.1 사용 예, URL: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
-## [!DNL Experience Manager] 커뮤니티 에서 도움 받기 {#get-help-from-aem-community}
+## [!DNL Experience Manager] 커뮤니티 에서 도움 받기  {#get-help-from-aem-community}
 
 Experience Manager 사용에 대한 질문이 있는 경우 [ [!DNL Experience Manager] 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)에서 경험이 풍부한 커뮤니티 전문가에게 문의해 보실 것을 권장합니다.
