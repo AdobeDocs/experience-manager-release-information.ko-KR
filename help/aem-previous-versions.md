@@ -3,7 +3,7 @@ title: AEM, CQ 및 CRX 이전 버전
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '820'
 ht-degree: 100%
 
@@ -55,9 +55,9 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를
 
 ## 설명서 패키지를 설치하는 방법 {#how-to-install-documentation-package}
 
-레거시 문서 패키지를 설치하려면 로컬 드라이브나 네트워크 드라이브에 [!DNL Experience Manager]를 설치 및 실행해야 합니다.
+레거시 설명서 패키지를 설치하려면 로컬 드라이브나 네트워크 드라이브에 [!DNL Experience Manager]를 설치 및 실행해야 합니다.
 
-### 문서 패키지 다운로드 {#download-documentation-package}
+### 설명서 패키지 다운로드 {#download-documentation-package}
 
 1. 위의 표에서 다운로드할 [!DNL Experience Manager] 문서 버전에 대한 링크를 선택하십시오. 예: AEM 5.6.1.
 
@@ -93,6 +93,6 @@ Adobe ID 만들기 또는 관리에 도움이 필요한 경우 [이 안내서를
 
 1. 웹 브라우저에서 문서 페이지를 실행하십시오. AEM 5.6.1 사용 예, URL: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
-## [!DNL Experience Manager] 커뮤니티 에서 도움 받기  {#get-help-from-aem-community}
+## [!DNL Experience Manager] 커뮤니티에서 도움 받기 {#get-help-from-aem-community}
 
 Experience Manager 사용에 대한 질문이 있는 경우 [ [!DNL Experience Manager] 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)에서 경험이 풍부한 커뮤니티 전문가에게 문의해 보실 것을 권장합니다.
