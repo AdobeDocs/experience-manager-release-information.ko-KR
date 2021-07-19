@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
-workflow-type: ht
-source-wordcount: '329'
-ht-degree: 100%
+source-git-commit: 964950fcd6ae02c5a1cb67f2673b3134a55ee12a
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,14 +17,12 @@ ht-degree: 100%
 >
 >이 문서에서 제공하는 로드맵 업데이트는 정보 전용이며 언제든지 변경될 수 있습니다.
 
-## [!DNL Cloud Service]로서의 [!DNL Experience Manager] {#aem-as-cloud-service}
+## [!DNL Experience Manager]로서의 [!DNL Cloud Service]  {#aem-as-cloud-service}
 
  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ko-KR)로서의 [[!DNL Experience Manager] 는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다. [!DNL Cloud Service]로서 [!DNL Experience Manager]에 예정된 릴리스는 다음과 같습니다.
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
-| [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2021.5.0 | 2021.5.0 | 월별 릴리스 | 2021년 5월 27일 |
-| [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2021.6.0 | 2021.6.0 | 월별 릴리스 | 2021년 6월 24일 |
 | [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2021.7.0 | 2021.7.0 | 월별 릴리스 | 2021년 7월 29일 |
 | [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2021.8.0 | 2021.8.0 | 월별 릴리스 | 2021년 8월 26일 |
 | [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2021.9.0 | 2021.9.0 | 월별 릴리스 | 2021년 9월 30일 |
