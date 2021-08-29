@@ -3,9 +3,9 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 7ad2dc86027f0c3a64922c1328f154e2fd8f403f
+source-git-commit: 90a8b515d9cb567a700714c215581361ef05f310
 workflow-type: tm+mt
-source-wordcount: '10036'
+source-wordcount: '9745'
 ht-degree: 100%
 
 ---
@@ -213,8 +213,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-WEBSPHERE-GLOBALSEC-CONFIG">AEM Websphere 전역 보안 구성 패키지</a> </li> 
       <li><a href="https://licensing.adobe.com/">AEM Forms JEE 설치 관리자</a><sup> [1]</sup></li> 
       <li><a href="https://licensing.adobe.com/">AEM Workbench</a> <sup>[1]</sup></li> 
-      <li><a href="https://licensing.adobe.com/">AEM Designer 설치 관리자</a> <sup>[1]</sup></li> 
-      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.4.0-COMPAT">AEM Forms 호환성 패키지</a></li> 
+      <li><a href="https://licensing.adobe.com/">AEM Designer 설치 관리자</a> <sup>[1]</sup></li>      
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FORMS-APP-SRC-PKG">AEM Forms 앱 소스</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI 참조 사이트 패키지</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov 참조 사이트 패키지</a></li> 
@@ -385,8 +384,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-LX">Linux용 AEM Forms 추가 기능 패키지</a><br /> </li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-WIN">Windows용 AEM Forms 추가 기능 패키지</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-OSX">Mac OS X용 AEM Forms 추가 기능 패키지 [2]</a><br /> </li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/fd/AEM-FORMS-6.4.5.0-COMPAT">AEM Forms 호환성 패키지</a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-OSX">Mac OS X용 AEM Forms 추가 기능 패키지 [2]</a><br /> </li>      
      <li>AEM Forms JEE 설치 관리자 [1]<br /> </li> 
     </ul> </td> 
    <td><p>AEM Forms JEE 설치 관리자: 6.4.0-0008_00</p> <p>AEM Forms 추가 기능 패키지: 5.1.66</p> <p>AEM Forms 호환성 패키지:<strong> </strong>1.1.14</p> <br /> </td> 
@@ -417,8 +415,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-LX">Linux용 AEM Forms 추가 기능 패키지</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-WIN">Windows용 AEM Forms 추가 기능 패키지</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-SOL">Solaris용 AEM Forms 추가 기능 패키지</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-OSX">Mac OS X용 AEM Forms 추가 기능 패키지 <sup>[2]</sup></a></li> 
-     <li>AEM Forms JEE 설치 관리자<sup> [1]</sup><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.1.0-FORMS-APP-SRC-PKG"></a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-OSX">Mac OS X용 AEM Forms 추가 기능 패키지 <sup>[2]</sup></a></li>      
     </ul> </td> 
    <td><p>AEM Forms 추가 기능 패키지 및 클라이언트 SDK: <strong>5.1.42</strong></p> <p>AEM Forms JEE 설치 관리자:<strong>6.4.0-004</strong></p> </td> 
   </tr> 
@@ -770,9 +767,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-LX" target="_blank">Linux용 AEM Forms 추가 기능 패키지</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-WIN" target="_blank">Windows용 AEM Forms 추가 기능 패키지</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-SOL" target="_blank">Solaris용 AEM Forms 추가 기능 패키지</a></li>
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">Mac OS X용 AEM Forms 추가 기능 패키지 </a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG" target="_blank">AEM Forms JEE 패키지</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-FORMS-APP-SRC-PKG" target="_blank">AEM Forms 앱 소스 코드</a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">Mac OS X용 AEM Forms 추가 기능 패키지 </a></li>      
      <li>AEM Forms 클라이언트 SDK<sup> [1]</sup><br /> </li> 
      <li>AEM Forms 디자이너 <sup>[1]</sup></li> 
      <li>AEM Forms JEE 설치 관리자 <sup> [1]</sup></li> 
@@ -785,18 +780,9 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
    <td>AEM 6.3 Forms 추가 기능 패키지</td> 
    <td><a href="https://docs.adobe.com/docs/ko/aem/6-3/deploy.html" target="_blank">AEM 6.3</a></td> 
    <td> 
-    <ul> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-AIX">AIX용 AEM Forms 추가 기능 패키지</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-LX">Linux용 AEM Forms 추가 기능 패키지</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-WIN">Windows용 AEM Forms 추가 기능 패키지</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-SOL">Solaris용 AEM Forms 추가 기능 패키지</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-Forms-6.3-OSX">Mac OS X용 AEM Forms 추가 기능 패키지</a><sup> [2]</sup></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-CMB">중앙 마이그레이션 Bridge 패키지</a><br /> </li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FORMS-APP-SRC-PKG">AEM Forms 앱 소스 코드 패키지</a></li> 
+    <ul>      
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/fd/AEM-DOCUMENTSECURITY-INDEXER-6.3">AEM Forms Document Security Indexer 패키지</a></li> 
-     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms 클라이언트 SDK</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FSI-REF-SITE" target="_blank">AEM Forms FSI 참조 사이트 패키지</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-GOV-REF-SITE" target="_blank">AEM Forms Gov 참조 사이트 패키지</a></li> 
+     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms 클라이언트 SDK</a></li>      
     </ul> </td> 
    <td><p>AEM Forms 추가 기능 패키지 및 클라이언트 SDK: <strong>4.0.74</strong></p> <p>중앙 마이그레이션 Bridge 패키지: <strong> 5.0.10</strong></p> <p>AEM Forms 앱 소스: <strong>3.1.12</strong></p> <p>AEM Forms Document Security Indexer: <strong>2.0.4</strong></p> <p>AEM Forms FSI 참조 사이트 패키지: <strong> aemfd: cq-we-finance-pkg:3.0.6</strong></p> <p>AEM Forms Gov 참조 사이트 패키지: <strong>day/cq60/fd:cq -we-gov-all-pkg:4.0.8</strong></p> </td> 
   </tr> 
