@@ -3,27 +3,27 @@ title: AEM Forms JEE에 누적 수정 팩 설치
 description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 단계 요약
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '1044'
 ht-degree: 100%
 
 ---
 
 # AEM[!DNL  Forms] JEE에 누적 수정 팩 설치하기{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
-## AEM 6.3 [!DNL Forms JEE]에 CFP 설치 {#install-cfp-forms-6-3}
+## AEM 6.3 [!DNL Forms JEE]에 CFP 설치  {#install-cfp-forms-6-3}
 
 지정된 시퀀스에서 다음 단계를 수행하여 AEM 6.3 [!DNL Forms JEE]에 누적 수정 팩을 설치합니다.
 
-1. CFP에 대한 AEM 6.3 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://www.adobe.com/account/sign-in.supportportal.html)에 문의하십시오.
+1. CFP에 대한 AEM 6.3 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://www.adobe.com/kr/account/sign-in.supportportal.html)에 문의하십시오.
 1. [AEM 설치 및 구성 [!DNL Forms JEE]](#install-and-configure-aem-forms-jee)의 설명에 따라 CFP 설치 관리자를 실행하고 AEM [!DNL Forms JEE]를 구성하십시오.
 1. 최신 AEM CFP [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md) 설치
 1. [!DNL Forms]AEM CFP [6.3.3.x](aem-forms-releases.md)용 추가 기능 패키지 설치
 
 ### AEM [!DNL Forms JEE] 번들 패키지 설치 {#install-aem-forms-jee-bundles-package}
 
-[AEM[!DNL  Forms JEE] 패키지](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG)(aemfd-jee-bundles-package-6.3CFP1; version 1.0.2)에서는 AEM [!DNL Forms JEE]의 [!DNL Forms] 사용자에게 AEM [!DNL Forms OSGi]의 사용자와 동일한 권한과 기능을 제공합니다. 패키지 관리자에서 설치된 패키지를 확인하고 아직 설치하지 않은 경우 패키지를 설치합니다.
+AEM[!DNL  Forms JEE] 패키지(aemfd-jee-bundles-package-6.3CFP1; version 1.0.2)에서는 AEM [!DNL Forms]의 [!DNL Forms JEE] 사용자에게 AEM [!DNL Forms OSGi]의 사용자와 동일한 권한과 기능을 제공합니다. 패키지 관리자에서 설치된 패키지를 확인하고 아직 설치하지 않은 경우 패키지를 설치합니다.
 
 ### CQ-4208044에 대한 추가 지침 {#additional-instructions-for-cq}
 
@@ -38,7 +38,7 @@ AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용하
 
 1. 수정된 파일을 다시 가져온 다음 동기화를 다시 실행합니다.
 
-## AEM 6.2 [!DNL  Forms JEE]에 CFP 설치 {#install-cfp-on-aem-62-forms-jee}
+## AEM 6.2 [!DNL  Forms JEE]에 CFP 설치  {#install-cfp-on-aem-62-forms-jee}
 
 지정된 시퀀스에서 다음 단계를 수행하여 AEM 6.2 [!DNL Forms JEE]에 누적 수정 팩을 설치합니다.
 
@@ -48,16 +48,16 @@ AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용하
 
 1. CFP에 대한 AEM 6.2 [ 설치 관리자를 얻으려면 ](https://www.adobe.com/account/sign-in.supportportal.html)Adobe 지원 센터[!DNL Forms JEE]에 문의하십시오.
 1. [AEM 설치 및 구성 [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee)의 설명에 따라 CFP 설치 관리자를 실행하고 AEM [!DNL Forms JEE]를 구성하십시오.
-1. [AEM 핫픽스 12785 버전 7.0](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/hotfix/cq-6.2.0-hotfix-12785)을 설치합니다.
-1. [AEM 6.2 서비스 팩 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html)을 설치합니다.
+1. AEM 핫픽스 12785 버전 7.0을 설치합니다.
+1. [AEM 6.2 서비스 팩 1](https://docs.adobe.com/docs/ko/aem/6-2/release-notes/sp1.html)을 설치합니다.
 1. 최신 [AEM 6.2 서비스 팩1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md)를 설치합니다.
 1. [AEM 6.2 서비스 팩 1 CFP](aem-forms-releases.md)의 [!DNL Forms] 추가 기능 패키지를 설치하십시오.
 
 ### AEM [!DNL Forms JEE] 번들 패키지 설치 {#install-aem-forms-jee-bundles-package-1}
 
-[AEM Forms JEE 패키지](https://www.adobeaemcloud.com/content/packageshare/tools/login.html?resource=%2Fcontent%2Fmarketplace%2FmarketplaceProxy.html%3FpackagePath%3D%2Fcontent%2Fcompanies%2Fpublic%2Fadobe%2Fpackages%2Fcq620%2Fcumulativefixpack%2Ffd%2FAEM-FORMS-6.2-SP1-CFP5-JEE-PKG&amp;$$login$$=%24%24login%24%24) (aemfd-jee-bundles-package-6.2CFP5, 버전 1.0.2)에서는 AEM [!DNL Forms JEE]의 [!DNL Forms] 사용자에게 AEM [!DNL Forms OSGi]에서와 동일한 권한과 기능을 제공합니다. 패키지 관리자에서 설치된 패키지를 확인하고 아직 설치하지 않은 경우 패키지를 설치합니다.
+AEM Forms JEE 패키지 (aemfd-jee-bundles-package-6.2CFP5, 버전 1.0.2)에서는 AEM [!DNL Forms]의 [!DNL Forms JEE] 사용자에게 AEM [!DNL Forms OSGi]에서와 동일한 권한과 기능을 제공합니다. 패키지 관리자에서 설치된 패키지를 확인하고 아직 설치하지 않은 경우 패키지를 설치합니다.
 
-### 구성 요소 수준(NPR-16774)에서 작업에 대한 시간 제한 구성하기 {#configuring-timeout-for-operations-at-component-level-npr}
+### 구성 요소 수준(NPR-16774)에서 작업에 대한 시간 제한 구성하기  {#configuring-timeout-for-operations-at-component-level-npr}
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
    `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600` 설정
 
-## AEM [!DNL Forms JEE] 설치 및 구성 {#install-and-configure-aem-forms-jee}
+## AEM [!DNL Forms JEE] 설치 및 구성  {#install-and-configure-aem-forms-jee}
 
 1. /deploy 폴더의 백업을 수행합니다. 빠른 수정 사항을 제거하려는 경우 필요합니다.
 1. 애플리케이션 서버를 중지합니다.

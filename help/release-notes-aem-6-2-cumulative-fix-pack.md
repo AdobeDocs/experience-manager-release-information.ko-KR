@@ -1,9 +1,9 @@
 ---
 title: AEM 6.2 누적 수정 팩
 description: AEM 6.2 누적 수정 팩 릴리스 노트.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '19953'
+source-wordcount: '19928'
 ht-degree: 99%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 99%
 | **제품** | Adobe Experience Manager |
 |---|---|
 | **버전** | 6.2 |
-| **릴리스** | [누적 수정 팩 6.2 SP1-CFP20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **릴리스** | 누적 수정 팩 6.2 SP1-CFP20 |
 | **전제 조건** | [AEM 6.2 서비스 팩 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **일반 출시** | 2019년 6월 06일 |
 
@@ -2206,7 +2206,7 @@ AEM 6.2 SP2-CFP1의 주요 특징:
 
 * AEM 6.2 서비스 팩 1은 CFP을 위한 필수 구성 요소입니다. 설치 지침은 [AEM 6.2 서비스 팩 1 릴리스 노트](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html)를 참조하십시오.
 
-* 누적 수정 팩 다운로드는 AEM 인스턴스에서 직접 액세스할 수 있는 [소프트웨어 배포](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20)에서 제공합니다.
+* 누적 수정 팩 다운로드는 AEM 인스턴스에서 직접 액세스할 수 있는 [소프트웨어 배포](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html)에서 제공합니다.
 * RDBMK 또는 MongoDB를 사용한 클러스터 배포를 위해 패키지 관리자를 사용하는 작성자 인스턴스에 CFP 패키지를 설치할 수 있습니다.
 
 * 누적 수정 팩을 설치하기 전에 스냅샷을 작성하거나 AEM 인스턴스를 백업하십시오.

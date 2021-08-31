@@ -3,9 +3,9 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 90a8b515d9cb567a700714c215581361ef05f310
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '9745'
+source-wordcount: '9735'
 ht-degree: 100%
 
 ---
@@ -218,7 +218,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI 참조 사이트 패키지</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov 참조 사이트 패키지</a></li> 
      </ul> </td> 
-    <td><p>AEM Forms 추가 기능 패키지 및 클라이언트 SDK: <a href="https://repo.adobe.com/nexus/content/repositories/public/com/adobe/aemfd/aemfd-client-sdk/6.0.80/">6.0.80</a></p> <p>AEM Websphere 전역 보안 구성 패키지: 6.5.0.20190329.1.935745</p> <p>AEM Forms 앱 소스: 5.0.16</p> <p> </p> </td> 
+    <td><p>AEM Forms 추가 기능 패키지 및 클라이언트 SDK: 6.0.80</p> <p>AEM Websphere 전역 보안 구성 패키지: 6.5.0.20190329.1.935745</p> <p>AEM Forms 앱 소스: 5.0.16</p> <p> </p> </td> 
    </tr> 
   </tbody> 
  </table>

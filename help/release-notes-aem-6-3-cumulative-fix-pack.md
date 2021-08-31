@@ -1,9 +1,9 @@
 ---
 title: AEM 6.3 Cumulative 수정 팩
 description: AEM 6.3 누적 수정 팩 릴리스 노트.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '15916'
+source-wordcount: '15893'
 ht-degree: 99%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 99%
 | **제품** | Adobe Experience Manager |
 |---|---|
 | **버전** | 6.3 |
-| **릴리스** | [PackageShare](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8)의 누적 수정 팩 6.3.3.8, [소프트웨어 배포(베타)](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
+| **릴리스** | [소프트웨어 배포의 누적 수정 팩 6.3.3.8](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
 | **전제 조건** | [AEM 6.3 서비스 팩 3(6.3.3.0)](https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/sp3-release-notes.html) |
 | **일반 가용성** | 2020년 3월 5일 |
 
@@ -1722,7 +1722,7 @@ AEM 누적 수정 팩 6.3.0.1은 2017년 4월 AEM 6.3의 일반 제공 이후 �
 
 ## 소프트웨어 배포를 통한 CFP용 지침 다운로드 {#download-instructions-for-cfp-via-package-share}
 
-[소프트웨어 배포](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8)에서 직접 CFP 패키지를 다운로드하거나 다음 단계를 수행할 수 있습니다.
+[소프트웨어 배포](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html)에서 직접 CFP 패키지를 다운로드하거나 다음 단계를 수행할 수 있습니다.
 
 1. [소프트웨어 배포](https://experience.adobe.com/downloads)를 엽니다. 소프트웨어 배포에 로그인하려면 Adobe ID가 필요합니다.
 1. 헤더 메뉴에 제공된 **[!UICONTROL Adobe Experience Manager]**&#x200B;를 누릅니다.
