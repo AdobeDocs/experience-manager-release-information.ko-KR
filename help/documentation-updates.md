@@ -10,19 +10,19 @@ ht-degree: 72%
 
 ---
 
-# [!DNL Experience Manager]설명서: 최신 설명서 업데이트 {#aem-documentation-recent-documentation-updates}
+# [!DNL Experience Manager] 설명서: 최신 설명서 업데이트 {#aem-documentation-recent-documentation-updates}
 
 이 페이지에는 새 연도 시작 이후 Adobe Experience Manager에 대한 중요한 설명서 변경 사항 및 업데이트가 나열됩니다.
 
-[이전 문서 업데이트](previous-documentation-updates.md)를 볼 수도 있습니다.
+[이전 문서 업데이트](previous-documentation-updates.md)도 조회할 수 있습니다.
 
-## [!DNL Cloud Service]로서의 [!DNL Experience Manager] {#aem-as-a-cloud-service}
+## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-a-cloud-service}
 
 이 페이지에는 [!DNL Adobe Experience Manager]에 대한 설명서의 중요 변경 사항 및 업데이트가 기재되어 있습니다.
 
-[이전 문서 업데이트](previous-documentation-updates.md)를 볼 수도 있습니다.
+[이전 문서 업데이트](previous-documentation-updates.md)도 조회할 수 있습니다.
 
-## [!DNL Cloud Service]로서의 [!DNL Adobe Experience Manager] {#aem-cloud-service}
+## [!DNL Adobe Experience Manager] 로서의  [!DNL Cloud Service] {#aem-cloud-service}
 
 >[!NOTE]
 >
