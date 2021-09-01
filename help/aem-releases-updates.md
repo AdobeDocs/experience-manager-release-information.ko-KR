@@ -4,13 +4,13 @@ description: '[!DNL Adobe Experience Manager] 릴리스 업데이트'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
 ht-degree: 100%
 
 ---
 
-# [!DNL Adobe Experience Manager] 릴리스 및 업데이트  {#aem-releases-and-updates}
+# [!DNL Adobe Experience Manager] 릴리스 및 업데이트 {#aem-releases-and-updates}
 
 ![[!DNL Experience Manager] 새로운 릴리스](assets/new-aem-releases1.jpeg)
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 이 문서에서는 각 릴리스 카테고리에 대한 최신 릴리스를 나열하고 해당 버전에 대한 설명서로 연결합니다.
 
-## [!DNL Cloud Service]로서의 [!DNL Experience Manager] {#aem-as-cloud-service}
+## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
 [!DNL Cloud Service]로서의 [!DNL Experience Manager]는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다.
 
