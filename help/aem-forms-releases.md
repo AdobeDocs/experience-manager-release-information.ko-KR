@@ -3,10 +3,10 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 2a236007b057269c3f6fab059f4a426f9b40c70a
+source-git-commit: ca29e401c462861c07befd91914f21660a0fd44a
 workflow-type: tm+mt
-source-wordcount: '10241'
-ht-degree: 99%
+source-wordcount: '10253'
+ht-degree: 98%
 
 ---
 
@@ -54,7 +54,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebSphere/Solaris/AEMForms-6.5.0-0030_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebSphere/AIX/AEMForms-6.5.0-0030_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <br><b>SDK</b></br>
-      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.490/">AEM Forms 클라이언트 SDK</a></li>      
+      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms 클라이언트 SDK</a></li>      
      </ul> </td> 
     <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0030<br /> </p> AEM Forms 추가 기능 패키지: 6.0.490</p> <p>클라이언트 SDK: 6.0.490<br /> </p><p>AEM Forms 호환성 패키지: 2.0.40</p><p>AEM Forms Designer 패치: 650.017</p><p>JEE 포함 패키지의 AEM Forms: 5.0.18</p></td> 
    </tr>
@@ -67,7 +67,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.434.zip">Linux용 AEM Forms 추가 기능 패키지</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.434.zip">Windows용 AEM Forms 추가 기능 패키지</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.434.zip">Mac OS X용 AEM Forms 추가 기능 패키지 [2]</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">LiveCycle 임베드 패키지</a></li>      
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">JEE 포함 패키지의 AEM Forms</a></li>      
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20210524-1-938669/Workbench_DVD.zip">AEM Forms Workbench</a></li>      
       <br><b>JEE 패치 설치 관리자</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/jboss/Win/AEMForms-6.5.0-0028_jboss_win.zip">JBoss Windows</a></li>
@@ -82,7 +82,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/aix/AEMForms-6.5.0-0028_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms 클라이언트 SDK [1]</li>  
      </ul> </td> 
-    <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0028<br /> </p> AEM Forms 추가 기능 패키지: 6.0.434</p> <p>클라이언트 SDK: 6.0.434<br /> </p><p>AEM Forms Workbench: 6.5.0.20210524.1.938669</p><p>LiveCycle 임베드 패키지: 5.0.14</p></td> 
+    <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0028<br /> </p> AEM Forms 추가 기능 패키지: 6.0.434</p> <p>클라이언트 SDK: 6.0.434<br /> </p><p>AEM Forms Workbench: 6.5.0.20210524.1.938669</p><p>JEE 포함 패키지의 AEM Forms: 5.0.14</p></td> 
    </tr>
    <tr> 
     <td>2021년 3월 18일</td> 
@@ -506,7 +506,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
  </tbody> 
 </table>
 
-`[1]` [Adobe 지원 센터](https://www.adobe.com/account/sign-in.supportportal.html)에 문의하여 AEM [!DNL Forms JEE], AEM [!DNL Forms] 클라이언트 SDK, [!DNL LiveCycle] 임베드 패키지, AEM [!DNL Forms Designer], RMCSDK, PPL 및 EnhancedPPL의 설치 관리자를 받으십시오.
+`[1]` [Adobe 지원 센터](https://www.adobe.com/account/sign-in.supportportal.html)에 문의하여 AEM [!DNL Forms JEE], AEM [!DNL Forms] 클라이언트 SDK, [!DNL AEM Forms on JEE] 임베드 패키지, AEM [!DNL Forms Designer], RMCSDK, PPL 및 EnhancedPPL의 설치 관리자를 받으십시오.
 
 `[2]` Mac OS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. Mac OS X 패키지에는 PDF Generator 기능을 사용할 수 없습니다.
 
@@ -743,10 +743,10 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-OSX">Mac OS X용 AEM Forms 추가 기능 패키지</a><sup> [2]</sup></li> 
      <li>AEM Forms JEE 설치 관리자 <sup> [1]</sup></li> 
      <li>AEM Forms 클라이언트 SDK <sup>[1]</sup></li> 
-     <li>LiveCycle 임베드 패키지 <sup>[1] [3]</sup></li> 
+     <li>JEE의 AEM Forms 포함 패키지 <sup>[1] [3]</sup></li> 
      <li>AEM Forms 앱 소스<sup> [1]</sup></li> 
     </ul> </td> 
-   <td><p>AEM Forms 추가 기능 패키지 및 클라이언트 SDK: <strong>4.1.36</strong></p> <p>AEM Forms JEE 설치 관리자: <strong>6.3.0-0013</strong></p> <p> Livecycle 임베드 패키지: <strong>4.0.20</strong></p> <p>AEM Forms 앱 소스: <strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
+   <td><p>AEM Forms 추가 기능 패키지 및 클라이언트 SDK: <strong>4.1.36</strong></p> <p>AEM Forms JEE 설치 관리자: <strong>6.3.0-0013</strong></p> <p> JEE 포함 패키지의 AEM Forms: <strong>4.0.20</strong></p> <p>AEM Forms 앱 소스: <strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
   </tr> 
   <tr> 
    <td>2017년 10월 13일</td> 
@@ -816,11 +816,11 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
  </tbody> 
 </table>
 
-`[1]` [Adobe 지원 센터](https://www.adobe.com/account/sign-in.supportportal.html)에 문의하여 AEM [!DNL Forms] JEE, AEM [!DNL Forms] 클라이언트 SDK, [!DNL LiveCycle] 임베드 패키지, AEM [!DNL Forms Designer], RMCSDK, PPL 및 EnhancedPPL의 설치 관리자를 받으십시오.
+`[1]` [Adobe 지원 센터](https://www.adobe.com/account/sign-in.supportportal.html)에 문의하여 AEM [!DNL Forms] JEE, AEM [!DNL Forms] 클라이언트 SDK, [!DNL AEM Forms on JEE] 임베드 패키지, AEM [!DNL Forms Designer], RMCSDK, PPL 및 EnhancedPPL의 설치 관리자를 받으십시오.
 
 `[2]` Mac OS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. Mac OS X 패키지에는 PDF Generator 기능을 사용할 수 없습니다.
 
-`[3]` **중요**: LiveCycle 임베드 패키지를 설치하기 전에 [AEM 누적 수정 팩 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md)을 설치하고 **Apache Sling 인증 서비스** 번들의 버전이 1.4.0 이상인지 확인하십시오. 그렇지 않으면 서버가 응답하지 않고 복구할 수 없습니다. `http://[server]:[port]/system/console/bundles`에서 번들 버전을 확인할 수 있습니다.
+`[3]` **중요**: JEE 포함 패키지에 AEM Forms을 설치하기 전에  [AEM 누적 수정 팩 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) 을 설치하고  **Apache Sling 인증** 서비스 번들의 버전이 1.4.0 이상인지 확인하십시오. 그렇지 않으면 서버가 응답하지 않고 복구할 수 없습니다. `http://[server]:[port]/system/console/bundles`에서 번들 버전을 확인할 수 있습니다.
 
 <!--
 ## AEM 6.2 [!DNL Forms] releases {#aem-62-forms-releases}
