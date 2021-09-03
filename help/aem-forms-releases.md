@@ -3,9 +3,9 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: d944b1690e0a57512b270961f77bb6aaaa7db12c
+source-git-commit: 7643bdd0f4ec4e9b30bcbc36e07b38f6ed017ff0
 workflow-type: tm+mt
-source-wordcount: '9918'
+source-wordcount: '9921'
 ht-degree: 99%
 
 ---
@@ -42,7 +42,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.490.zip">Mac OS X용 AEM Forms 추가 기능 패키지 [2]</a></li>            
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.40.zip">AEM Forms 호환성 패키지</a></li>        
       <br><b>SDK</b></br>
-      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms 클라이언트 SDK</a></li>      
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.490/">AEM Forms 클라이언트 SDK</a></li>      
      </ul> </td> 
     <td>AEM Forms 추가 기능 패키지: 6.0.490</p> <p>클라이언트 SDK: 6.0.490<br /> </p><p>AEM Forms 호환성 패키지: 2.0.40</p><p>AEM Forms Designer 패치: 650.017</p></td> 
    </tr>
