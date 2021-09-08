@@ -1,10 +1,10 @@
 ---
 title: AEM 6.2 누적 수정 팩
-description: AEM 6.2 누적 수정 팩 릴리스 노트.
+description: AEM 6.2 누적 수정 팩 릴리스 노트
 source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '19928'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 99%
 <!-- TBD: Should we keep this article published after AEM 6.2 content is archived via UGP-1894. If an AEM version is EOL should we discard its details RNs but still retain its docs?
 -->
 
-## 릴리스 노트 {#release-information}
+## 릴리스 정보 {#release-information}
 
 | **제품** | Adobe Experience Manager |
 |---|---|
@@ -32,9 +32,9 @@ Adobe는 수정 사항을 릴리스하기 위해 단일 제공 모델을 도입�
 
 CFP 및 기타 릴리스 유형에 대한 자세한 내용은 [유지 관리 릴리스 수단](https://docs.adobe.com/content/docs/ko-KR/aem/6-2/deploy/maintenance-release-vehicle-definitions.html)을 참조하십시오.
 
-## 릴리스 노트 {#about-the-release}
+## 릴리스 정보 {#about-the-release}
 
-AEM 누적 수정 팩 6.2 SP1-CFP20은 AEM 6.2의 마지막 누적 수정 팩이며 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항이 포함된 중요한 업데이트입니다.
+AEM 누적 수정 팩 6.2 SP1-CFP20은 AEM 6.2의 마지막 누적 수정 팩이며 [AEM 6.2 SP1](https://helpx.adobe.com/kr/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항이 포함된 중요한 업데이트입니다.
 
 >[!CAUTION]
 >
@@ -59,7 +59,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP20은 AEM 6.2의 마지막 누적 수정 팩이
 
 ### 통합 {#integration}
 
-* 여러 캠페인 타깃팅 개인화 개선 사항을 지원합니다. NPR-29163: CQ-4264126용 핫픽스
+* 여러 캠페인 타기팅 개인화 개선 사항을 지원합니다. NPR-29163: CQ-4264126용 핫픽스
 * com.day.cq.personalization.impl.TeaserResourceEventHandler가 무한 루프로 이동하고 게시 인스턴스의 노드에 대한 업데이트가 발생합니다. NPR-28561: CQ-4263096용 핫픽스
 
 ### DAM - 일반 {#dam-general}
@@ -70,7 +70,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP20은 AEM 6.2의 마지막 누적 수정 팩이
 
 * CSRF 보호 프레임워크가 AEM Foundation Forms에서 작동하지 않습니다. NPR-28612: GRANITE-22231용 핫픽스
 
-### 양식 {#forms}
+### Forms {#forms}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 [AEM Forms 릴리스](aem-forms-releases.md)를 참조하십시오.
 
@@ -88,7 +88,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * iOS 12.1 디바이스용 스크리블 구성 요소 사용 문제 NPR-29082: CQ-4261765용 핫픽스
 
-#### 양식 - 문서 보안 {#forms-document-security}
+#### Forms - 문서 보안 {#forms-document-security}
 
 * PAdES(PDF 고급 전자 서명)를 사용하여 PDF에서 모든 서명을 확인하면 InvalidOperationException이 발생합니다. NPR-27848: CQ-4244837용 핫픽스
 
@@ -96,7 +96,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * 편지를 PDF로 미리 볼 때 마스터 페이지에 배치된 텍스트 필드에 데이터 탭에서 입력한 값이나 지정된 데이터 링크 내용이 적용되지 않습니다. NPR-29239: CQ-4266856용 핫픽스.
 
-#### 양식 - 대화형 통신 {#forms-interactive-communication}
+#### Forms - 인터랙티브 커뮤니케이션 {#forms-interactive-communication}
 
 * 아포스트로피 문자를 추가하면 편지에 미리 입력된 필드가 일반 알파벳이 아닌 ASCII 문자로 표시됩니다. NPR-28863: CQ-4262900용 핫픽스
 
@@ -108,14 +108,14 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 ### 누적 수정 팩 19 {#cumulative-fix-pack-1}
 
-AEM 누적 수정 팩 6.2 SP1-CFP19는 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항을 포함하는 중요한 업데이트입니다.
+AEM 누적 수정 팩 6.2 SP1-CFP19는 [AEM 6.2 SP1](https://helpx.adobe.com/kr/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항을 포함하는 중요한 업데이트입니다.
 
 이 누적 수정 팩의 주요 사항은 다음과 같습니다.
 
 * AEM 6.2에 대한 MS Translator API v3.0 지원이 활성화되었습니다.
 * 모든 SP, CFP 및 HF 패키지를 설치한 후 로그 메시지가 추가되었습니다.
 
-### 자산 {#assets}
+### 에셋 {#assets}
 
 * ACL 편집 권한이 없으면 DAM 폴더의 이름을 변경할 수 없습니다. NPR-27555: CQ-104652용 핫픽스
 * 6.2.1 CFP 17 이상에서 이미지 사전 설정 편집기 도구가 응답하지 않습니다. NPR-28147: CQ-4261041용 핫픽스
@@ -127,8 +127,8 @@ AEM 누적 수정 팩 6.2 SP1-CFP19는 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 
 ### 통합 {#integration-1}
 
-* LiveCopy 상속 취소가 타깃팅된 컨테이너에서 제대로 작동하지 않습니다. NPR-28129: CQ-4259813용 핫픽스
-* cq: 작업은 타깃팅된 구성 요소에서 고려하지 않습니다. NPR-27616: CQ-4257497용 핫픽스
+* LiveCopy 상속 취소가 타기팅된 컨테이너에서 제대로 작동하지 않습니다. NPR-28129: CQ-4259813용 핫픽스
+* cq: 작업은 타기팅된 구성 요소에서 고려하지 않습니다. NPR-27616: CQ-4257497용 핫픽스
 
 * 상속을 중단하기 위한 아이콘 표시에 일관성이 없습니다. NPR-27671: CQ-4257779용 핫픽스
 
@@ -140,7 +140,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP19는 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 
 * MS Translator를 API v3.0으로 업그레이드하면 AEM 6.3에서 MS Translator 서비스를 지원합니다. NPR-28123: CQ-4259096용 핫픽스
 
-### UI - 기초 {#ui-foundation}
+### UI - Foundation {#ui-foundation}
 
 * OOTB 사이트 달력에 잘못된 날짜가 표시됩니다. NPR-28392
 
@@ -155,7 +155,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP19는 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 * Granite 패키지 플러그인은 낮은 버전의 org.apache.sling.i18n에 대한 종속성을 선택합니다. CQ-4263245용 핫픽스
 * com.adobe.cq.com.adobe.cq.ui.commons 번들은 6.2SP1-CFP15 이후 최신 CFP를 설치할 때 삭제됩니다. CQ-4258808용 핫픽스
 
-### 양식 {#forms-1}
+### Forms {#forms-1}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 [AEM Forms 릴리스](aem-forms-releases.md)를 참조하십시오.
 
@@ -169,7 +169,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * Forms JEE 설치 관리자에서 새 AEM Forms가 수정되지 않습니다.
 
-### OSGi 번들 및 콘텐츠 패키지가 포함됨 {#osgi-bundles-and-content-packages-included}
+### OSGi 번들 및 콘텐츠 패키지 포함됨 {#osgi-bundles-and-content-packages-included}
 
 다음 텍스트 문서에는 CFP에 포함된 OSGi 번들 및 콘텐츠 패키지 목록이 있습니다.
 
@@ -183,7 +183,7 @@ AEM 6.2SP1-CFP19에 포함된 콘텐츠 패키지 목록
 
 ### 누적 수정 팩 18 {#cumulative-fix-pack-2}
 
-AEM 누적 수정 팩 6.2 SP1-CFP18은 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항을 포함하는 중요한 업데이트입니다.
+AEM 누적 수정 팩 6.2 SP1-CFP18은 [AEM 6.2 SP1](https://helpx.adobe.com/kr/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항을 포함하는 중요한 업데이트입니다.
 
 이 누적 수정 팩의 주요 사항은 다음과 같습니다.
 
@@ -191,7 +191,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP18은 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 * ReplicationEventListener의 세션 누수가 수정되었습니다.
 * 코어 페이지 구성 요소에 리디렉션 지원을 추가했습니다.
 
-### 자산 {#assets-1}
+### 에셋 {#assets-1}
 
 * Camera Raw 프로세스가 대량의 처리 기간 중 중단되어 그 결과 모든 워크플로 처리가 차단됩니다. NPR-26990: NPR-23860용 핫픽스
 * 다운로드 기능은 익명의 사용자가 모든 에셋을 다운로드할 수 있도록 하는 assetdownload 서블릿을 통해 AEM Assets를 활용합니다. NPR-27054, CQ-4254732용 핫픽스
@@ -227,7 +227,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP18은 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 
 * ReplicationListener의 JCR 세션 누수. NPR-27063: CQ-4232088용 핫픽스
 
-### 양식 {#forms-2}
+### Forms {#forms-2}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 [AEM Forms 릴리스](aem-forms-releases.md)를 참조하십시오.
 
@@ -239,7 +239,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * Forms JEE 설치 관리자에서 새 AEM Forms가 수정되지 않습니다.
 
-#### OSGi 번들 및 콘텐츠 패키지가 포함됨 {#osgi-bundles-and-content-packages-included-1}
+#### OSGi 번들 및 콘텐츠 패키지 포함됨 {#osgi-bundles-and-content-packages-included-1}
 
 AEM 6.2 SP1-CFP18에 포함된 OSGi 번들 목록
 
@@ -251,7 +251,7 @@ AEM 6.2 SP1-CFP18에 포함된 콘텐츠 패키지 목록
 
 ### 누적 수정 팩 17 {#cumulative-fix-pack-3}
 
-AEM 누적 수정 팩 6.2 SP1-CFP17은 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항을 포함하는 중요한 업데이트입니다.
+AEM 누적 수정 팩 6.2 SP1-CFP17은 [AEM 6.2 SP1](https://helpx.adobe.com/kr/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항을 포함하는 중요한 업데이트입니다.
 
 이 누적 수정 팩의 주요 사항은 다음과 같습니다.
 
@@ -260,7 +260,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP17은 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 * 멀티 테넌트 구현을 위한 폴더 구조를 지원하기 위한 대상 보기의 변경 사항입니다.
 * jqueryui clientlib v1.12.1로 업데이트합니다.
 
-### 자산 {#assets-2}
+### 에셋 {#assets-2}
 
 * 에셋 UI에서 워크플로를 시작하려면 사용자에게 쓰기/삭제/수정 권한이 있어야 합니다. NPR-25688: CQ-4250140용 핫픽스
 * 복제 권한이 없는 사용자에게도 게시 및 게시 취소 버튼이 계속 표시됩니다. NPR-25094
@@ -275,12 +275,12 @@ AEM 누적 수정 팩 6.2 SP1-CFP17은 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 * 페이지가 활성화될 때 디자인 Importer 구성 요소와 연관된 리소스를 게시하는 데 관련된 문제 NPR-25638: CQ-102532용 핫픽스
 * RTE 리치 텍스트 도구 모음에는 선택 목록이 있습니다. NPR-25165: CQ-4248948용 핫픽스
 * contexthub를 jquery 3으로 마이그레이션합니다. NPR-25059: Granite-19902용 핫픽스
-* 중첩된 parsys 구성 요소의 경우, 사용 가능한 여러 구성 요소에서 항상 첫 번째로 만족스러운 디자인(중첩된 경로가 가장 적게 있음)을 적용합니다. 자세한 내용은 [디자인 경로 해상도](https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/page-templates-static.html)를 참조하십시오. NPR-25250: CQ-4246276용 핫픽스
+* 중첩된 parsys 구성 요소의 경우, 사용 가능한 여러 구성 요소에서 항상 첫 번째로 만족스러운 디자인(중첩된 경로가 가장 적게 있음)을 적용합니다. 자세한 내용은 [디자인 경로 해상도](https://helpx.adobe.com/kr/experience-manager/6-3/sites/developing/using/page-templates-static.html)를 참조하십시오. NPR-25250: CQ-4246276용 핫픽스
 
 ### 통합 {#integration-3}
 
-* OOTB 대상 통합을 사용하여 구성 요소를 타깃팅하면 빈 타깃팅된 구성 요소 대신 전체 페이지가 렌더링됩니다. NPR-25273: CQ-4248003용 핫픽스
-* 타깃팅 모드에서 상속을 중단해도 구성 요소는 편집 모드에서 중단되지 않은 상속으로 타깃팅된 것으로 표시됩니다. NPR-25324: CQ-4248162용 핫픽스
+* OOTB 대상 통합을 사용하여 구성 요소를 타기팅하면 빈 타기팅된 구성 요소 대신 전체 페이지가 렌더링됩니다. NPR-25273: CQ-4248003용 핫픽스
+* 타기팅 모드에서 상속을 중단해도 구성 요소는 편집 모드에서 중단되지 않은 상속으로 타기팅된 것으로 표시됩니다. NPR-25324: CQ-4248162용 핫픽스
 * 페이지에 개인화가 정의되어 있고 대상이 해결되면 해당 경험이 편집 모드로 표시됩니다. NPR-25731: CQ-4249465용 핫픽스
 * 기본값이 아닌 컨텍스트 경로가 있는 AEM을 사용할 때의 잘못된 티저 URL입니다. NPR-25971: CQ-4250953용 핫픽스
 * 옵트아웃 사용 시 빈 렌더링입니다. NPR-25295: CQ-4246792용 핫픽스
@@ -304,13 +304,13 @@ AEM 누적 수정 팩 6.2 SP1-CFP17은 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 
 * cq -social-as-provider 번들은 mongo 드라이버 3.x 버전에서 시작하지 않습니다. NPR-26271: CQ-4252710용 핫픽스
 
-### UI - 기초 {#ui-foundation-1}
+### UI - Foundation {#ui-foundation-1}
 
 * jqueryui clientlib v1.12.1에 대한 업데이트. NPR-25090: Granite-21981용 핫픽스, CQ-4248897
 
 * (Omnisearch): &#39;Title&#39; 속성은 사이트의 XSS(크로스 사이트) 스크립팅에 취약합니다. NPR-24994: Granite-19933용 핫픽스
 
-### 양식 {#forms-3}
+### Forms {#forms-3}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 [AEM Forms 릴리스](aem-forms-releases.md)를 참조하십시오.
 
@@ -320,7 +320,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * 적응형 양식에서 데이터를 제출하는 동안 인코딩이 잘못되었습니다. NPR-25539
 
-#### 양식 - 관리 {#forms-management}
+#### Forms - 관리 {#forms-management}
 
 * 페이지를 게시하는 동안 관련 없는 양식 에셋이 참조로 보고되었습니다. NPR-26167: CQ-4251004용 핫픽스
 
@@ -331,7 +331,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 * 변수는 데이터 유형 List로 채워지고 하위 유형은 문자열이지만 &quot;오브젝트를 강제 변환할 수 없습니다.&quot; 오류가 발생합니다. NPR-26194: CQ-4252287용 핫픽스
 * 6.2-SP1-CFP15를 설치한 후 워터마크 구성에 액세스할 수 없습니다. NPR-26130: CQ-4250984용 핫픽스
 
-### OSGi 번들 및 콘텐츠 패키지가 포함됨 {#osgi-bundles-and-content-packages-included-2}
+### OSGi 번들 및 콘텐츠 패키지 포함됨 {#osgi-bundles-and-content-packages-included-2}
 
 AEM 6.2 SP1-CFP17에 포함된 OSGi 번들 목록
 
@@ -343,7 +343,7 @@ AEM 6.2SP1-CFP17에 포함된 콘텐츠 패키지 목록
 
 ### 누적 수정 팩 16 {#cumulative-fix-pack-4}
 
-AEM 누적 수정 팩 6.2 SP1-CFP16은 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항을 포함하는 중요한 업데이트입니다.
+AEM 누적 수정 팩 6.2 SP1-CFP16은 [AEM 6.2 SP1](https://helpx.adobe.com/kr/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항을 포함하는 중요한 업데이트입니다.
 
 이 누적 수정 팩의 주요 사항은 다음과 같습니다.
 
@@ -352,7 +352,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP16은 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 * 드롭다운 구성 요소의 표시/숨기기 기능이 수정되었습니다.
 * 최신 Jackson 버전 2.8.11로 업그레이드
 
-### 자산 {#assets-3}
+### 에셋 {#assets-3}
 
 * 목록 보기에서 워크플로를 시작할 수 없습니다. NPR-24393: CQ-4245788용 핫픽스
 * (Firefox/Chrome) 에셋 공유 페이지에서 에셋을 다운로드할 수 없습니다. NPR-24523: CQ-4224408용 핫픽스
@@ -360,7 +360,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP16은 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 
 ### 통합 {#integration-4}
 
-* 구성 요소가 게시 인스턴스에서 타깃팅되면 타깃팅된 구성 요소 전의 기본 경험이 깜박거리는 것처럼 표시됩니다. NPR-23992: CQ-4242038용 핫픽스
+* 구성 요소가 게시 인스턴스에서 타기팅되면 타기팅된 구성 요소 전의 기본 경험이 깜박거리는 것처럼 표시됩니다. NPR-23992: CQ-4242038용 핫픽스
 * 작성 환경에서 삭제된 경험은 페이지 활성화 시 게시 사이트에서 제거되지 않습니다. NPR-24869: CQ-4247832용 핫픽스
 
 ### 플랫폼 {#platform-2}
@@ -413,7 +413,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP16은 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 * (클래식 UI) 연관된 양식 데이터 모델 서비스가 빈 필드로 설정된 경우에도 구성 요소에 기본값이 표시됩니다. NPR-21903: GRANITE-19744용 핫픽스
 * 요청에 대한 FormData가 없을 때 다중 필드에서 NPE가 발생합니다. NPR-24513: Granite-21055용 핫픽스
 
-## 양식 {#forms-4}
+## Forms {#forms-4}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 [AEM Forms 릴리스](aem-forms-releases.md)를 참조하십시오.
 
@@ -423,7 +423,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * (OSGI) AEM Forms OSGI가 Jackson 데이터 바인딩 보안 경고의 영향을 받습니다. NPR-24274: CQ-4230245용 핫픽스
 
-#### 권한 관리 {#rights-management}
+#### Rights Management {#rights-management}
 
 * Apache POI에서 설치 후 AEM 6.2 SP1-CFP14에 실패합니다. NPR-25054, NPR-25052: CQ-4245898, CQ-4244778용 핫픽스
 
@@ -443,7 +443,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * Shell 스크립트 파일의 Window 줄 끝으로 인해 LCM이 UNIX에서 실행되지 않습니다. NPR-22958
 
-### OSGi 번들 및 콘텐츠 패키지가 포함됨 {#osgi-bundles-and-content-packages-included-3}
+### OSGi 번들 및 콘텐츠 패키지 포함됨 {#osgi-bundles-and-content-packages-included-3}
 
 AEM 6.2 SP1-CFP16에 포함된 OSGi 번들 목록
 
@@ -455,7 +455,7 @@ AEM 6.2SP1-CFP16에 포함된 콘텐츠 패키지 목록
 
 ### 누적 수정 팩 15 {#cumulative-fix-pack-5}
 
-AEM 누적 수정 팩 6.2 SP1-CFP15는 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항을 포함하는 중요한 업데이트입니다.
+AEM 누적 수정 팩 6.2 SP1-CFP15는 [AEM 6.2 SP1](https://helpx.adobe.com/kr/experience-manager/6-2/release-notes/sp1.html)의 일반 공급 이후 릴리스된 주요 고객 수정 사항을 포함하는 중요한 업데이트입니다.
 
 이 누적 수정 팩의 주요 사항은 다음과 같습니다.
 
@@ -465,7 +465,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP15는 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 * Reader 확장의 수정을 위해 최신 adobe-reader-extensions-dsc.jar 파일로 업데이트
 * 증폭 번호 입력에 &quot;:invalid&quot; 항목을 고려하도록 유효성 검사 후크 조정
 
-### 자산 {#assets-4}
+### 에셋 {#assets-4}
 
 * EmbedXMP 데이터가 Ptiff 생성 프로세스에 대해 항상 &quot;활성&quot;으로 설정됩니다. NPR-22776: CQ-4234498용 핫픽스
 * 복수 값 필드에 기본값을 여러 개 설정할 수 없습니다. NPR-22900: CQ-4239000용 핫픽스
@@ -521,7 +521,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP15는 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 
 * 관리자 UI 프로젝트의 XSS(교차 사이트 스크립팅)가 연결됩니다. NPR-23272: CQ-4241795용 핫픽스
 
-## 양식 {#forms-5}
+## Forms {#forms-5}
 
 ### Forms 추가 기능 패키지 {#forms-add-on-package-5}
 
@@ -538,7 +538,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP15는 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 
 * Adobe PDF에서 Reader 확장을 적용할 수 없습니다. NPR-23067
 
-#### Forms Manager {#forms-manager}
+#### Forms 관리자 {#forms-manager}
 
 * 사이트에 임베드된 Forms는 사이트 페이지를 다시 게시할 때 게시되지 않습니다. NPR-23014: CQ-4236566용 핫픽스
 
@@ -561,7 +561,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP15는 [AEM 6.2 SP1](https://helpx.adobe.com/exp
 
 * HTML 대 PDF 변환기가 작동하지 않습니다. NPR-21545
 
-### OSGi 번들 및 콘텐츠 패키지가 포함됨 {#osgi-bundles-and-content-packages-included-4}
+### OSGi 번들 및 콘텐츠 패키지 포함됨 {#osgi-bundles-and-content-packages-included-4}
 
 다음 텍스트 문서에는 CFP에 포함된 OSGi 번들 및 콘텐츠 패키지 목록이 있습니다.
 
@@ -585,7 +585,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP14는 AEM 6.2 SP1의 일반 공급 이후 릴�
 * 효율적인 Livecopyindex 동기화를 위해 cq-msm-core가 업데이트되었습니다.
 * 다양한 롤아웃에 대한 복제 기능이 간소화되었습니다.
 
-### 자산 {#assets-5}
+### 에셋 {#assets-5}
 
 * 사용자가 면책조항이 있으며 긴 파일 이름을 사용하는 에셋을 다운로드할 수 없습니다. NPR-22163: CQ-4235274용 핫픽스
 * 작은 따옴표를 사용하면 빠른 도구 모음 작업을 사용하여 에셋의 속성을 열 때 일괄 보기에서 메타데이터 업데이트가 수행되지 않으며 UI가 완전히 중단됩니다. NPR-22317, NPR-22353: CQ-4236990, CQ-4236469용 핫픽스
@@ -604,7 +604,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP14는 AEM 6.2 SP1의 일반 공급 이후 릴�
 * 패키지 이름과 일치하려고 하면 패키지 선언의 후행 공백 문자로 인해 Java Use 오브젝트가 SightlyJavaCompilerService를 중지합니다. NPR-22557: Granite-20836용 핫픽스
 * Touch UI 콘솔에서는 태깅에 사용할 새 언어를 선택하지 않습니다. NPR-22250: CQ-4239194용 핫픽스
 
-### Mobile On-Demand {#mobile-on-demand}
+### 모바일 온디맨드 {#mobile-on-demand}
 
 * (Digital Publishing Suite) 발행 날짜와 표지 날짜 필드는 모두 Folio를 DPS로 업로드하기 전에 설정해야 하는 필수 필드입니다. NPR-22484
 
@@ -645,13 +645,13 @@ AEM 누적 수정 팩 6.2 SP1-CFP14는 AEM 6.2 SP1의 일반 공급 이후 릴�
 ### WCM - Foundation 구성 요소  {#wcm-foundation-components-3}
 
 * Adobe Campaign의 Importer 페이지를 가리키는 라이브 카피 페이지를 게시할 때 오류가 발생했습니다. NPR-22470: CQ-4237164용 핫픽스
-* 경험 구성요소 편집기를 여는 동안 JavaScript 오류가 발생했습니다. NPR-22598: CQ-4238415용 핫픽스
+* 경험 조각 편집기를 여는 동안 JavaScript 오류가 발생했습니다. NPR-22598: CQ-4238415용 핫픽스
 
-### 워크플로우 {#workflow}
+### 워크플로 {#workflow}
 
 * 일별 CQ 워크플로 이메일 알림 서비스는 WorkflowCompleted 및 WorkflowAborted 알림에 대해 Mongo 노드당 하나의 이메일을 트리거합니다. NPR-22486: CQ-4238172용 핫픽스
 
-## 양식 {#forms-6}
+## Forms {#forms-6}
 
 ### Forms 추가 기능 패키지 {#forms-add-on-package-6}
 
@@ -661,19 +661,19 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * IE11 및 Chrome에서 적응형 양식의 드롭다운 자리 표시자 값이 일치하지 않습니다. NPR-22405: CQ-4227096용 핫픽스
 
-### Forms JEE 설치 프로그램 {#forms-jee-installer-6}
+### Forms JEE 설치 관리자 {#forms-jee-installer-6}
 
 #### LCM 설치 {#install-lcm}
 
 * 설치 관리자 및 LCM에서 Jsafe Jars를 Cryptoj 6.1.3.1로 업데이트합니다. NPR-22744
 
-### 기능 팩이 포함됨 {#feature-packs-included}
+### 기능 팩 포함됨 {#feature-packs-included}
 
 #### 프로세스 관리 {#process-management}
 
 * (HTML 작업 공간) 사용자가 작업을 요청하면 해당 사용자에 대한 큐 개수를 새로 고치지만 다른 사용자의 경우 페이지를 새로 고쳐야만 큐 개수를 새로 고칩니다. NPR-19778: CQ-4233665용 핫픽스
 
-### CFP14에 포함된 OSGI 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp}
+### CFP14에 포함된 OSGi 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp}
 
 AEM 6.2 SP1-CFP14에 포함된 OSGi 번들 목록
 
@@ -691,7 +691,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP13은 AEM 6.2 SP1의 일반 공급 이후 릴�
 * 대상 동기화 대상 사용에 대한 수정 사항.
 * 특수 문자를 포함하기 위해 서신 관리를 위한 다기능성을 개선했습니다.
 
-### 자산 {#assets-6}
+### 에셋 {#assets-6}
 
 * 버전 삭제에서 이전 버전의 에셋을 제거하지 못했습니다. NPR-21682: CQ-4212996용 핫픽스
 * 재정렬 가능한 폴더에 있는 폴더를 다시 정렬하면 정렬이 유지되지 않습니다. NPR-21964: CQ-4231761용 핫픽스
@@ -707,7 +707,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP13은 AEM 6.2 SP1의 일반 공급 이후 릴�
 ### 통합 {#integration-7}
 
 * 모바일 유형 및 브라우저의 대상 만들기가 AEM에서 Target 작성 모드로 작동하지 않습니다. NPR-21676, NPR-21681: CQ-4232100용 핫픽스
-* 타깃팅된 구성 요소를 새로 고치는 동안 지연 시간이 길어지는 중 구성 요소를 완전히 새로 고치기 전에 다른 오퍼를 추가할 수 있습니다. NPR-21744: CQ-4233158/CQ-4234293용 핫픽스
+* 타기팅된 구성 요소를 새로 고치는 동안 지연 시간이 길어지는 중 구성 요소를 완전히 새로 고치기 전에 다른 오퍼를 추가할 수 있습니다. NPR-21744: CQ-4233158/CQ-4234293용 핫픽스
 * 클라우드 구성에서 클라이언트 라이브러리로 AT.js를 사용하여 테스트할 때 볼 수 있는 mbox 호출에서 정적 매개 변수의 테스트 값을 볼 수 없습니다. NPR-21930: CQ-4234520용 핫픽스
 
 ### 플랫폼 {#platform-4}
@@ -725,7 +725,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP13은 AEM 6.2 SP1의 일반 공급 이후 릴�
 
 * 양식 드롭다운 구성 요소의 기능 표시/숨기기 기능이 예상대로 작동하지 않습니다. NPR-22164: CQ-4235288용 핫픽스
 
-## 양식 {#forms-7}
+## Forms {#forms-7}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 AEM Forms 릴리스를 참조하십시오.
 
@@ -741,7 +741,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * 특수 문자가 포함된 xml 데이터의 렌더링 문제가 있습니다. NPR-21712: CQ-4229137용 핫픽스
 
-### Forms JEE 설치 프로그램 {#forms-jee-installer-7}
+### Forms JEE 설치 관리자 {#forms-jee-installer-7}
 
 #### 어셈블러 서비스 {#assembler-service}
 
@@ -751,7 +751,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * PNG, JPEG 및 TIFF 파일의 예기치 않은 페이지 크기(PDF)로 인해 OCR이 실패했습니다. NPR-19489: CQ-4209079용 핫픽스
 
-## CFP13에 포함된 OSGI 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp-1}
+## CFP13에 포함된 OSGi 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp-1}
 
 AEM 6.2 SP1-CFP13에 포함된 OSGi 번들 목록
 
@@ -770,7 +770,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP12.1은 AEM 6.2 SP1의 일반 공급 이후 릴
 * 중첩 구성 요소가 여러 개 있는 페이지의 렌더링을 개선했습니다.
 * AEM과 Adobe Digital Publishing Suite 간 에셋에 대한 게시 날짜 동기화를 개선했습니다.
 
-### 자산 {#assets-7}
+### 에셋 {#assets-7}
 
 * OmniSearch에 문자가 너무 많아 AEM 서버가 충돌합니다. NPR-21083: CQ-4223602용 핫픽스
 * 메타데이터 스키마의 복수 값 필드에서 두 번째 옵션에 지정된 값은 CRX-de에 이전에 지정한 값에 추가되지 않습니다. NPR-21220: CQ-4224526용 핫픽스
@@ -784,7 +784,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP12.1은 AEM 6.2 SP1의 일반 공급 이후 릴
 
 ### 통합 {#integration-8}
 
-* Target 프레임워크를 추가할 때 편집기의 선택 모드 목록에서 타깃팅 모드를 사용할 수 없습니다. NPR-21047
+* Target 프레임워크를 추가할 때 편집기의 선택 모드 목록에서 타기팅 모드를 사용할 수 없습니다. NPR-21047
 
 ### Mobile-on-demand {#mobile-on-demand-1}
 
@@ -813,7 +813,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP12.1은 AEM 6.2 SP1의 일반 공급 이후 릴
 * DAM 메타데이터 편집기의 XSS(크로스 사이트 스크립팅). NPR-21434: CQ-83472용 핫픽스
 * XSS(크로스 사이트 스크립팅)에 취약할 수 있는 여러 SWF 파일. NPR-20612: CQ-4213297용 핫픽스
 
-## 양식 {#forms-8}
+## Forms {#forms-8}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 AEM Forms 릴리스를 참조하십시오.
 
@@ -831,7 +831,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 * AEM Forms 제출 버튼 구성 요소에 type=&quot;submit&quot; 대신 type=&quot;button&quot;이 표시됩니다. NPR-21007
 * 데이터는 반복 가능한 패널의 새 패널을 추가하거나 삭제할 때 계속 유지됩니다. NPR-21408
 
-### Forms JEE 설치 프로그램 {#forms-jee-installer-8}
+### Forms JEE 설치 관리자 {#forms-jee-installer-8}
 
 #### 코어 {#core-2}
 
@@ -857,7 +857,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * RE에서 jsafe jar을 cryptoj 6.1.3.1로 업데이트합니다. NPR-21357
 
-## CFP12.1에 포함된 OSGI 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp-2}
+## CFP12.1에 포함된 OSGi 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp-2}
 
 AEM 6.2 SP1-CFP12.1에 포함된 OSGi 번들 목록
 
@@ -878,7 +878,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP11은 AEM 6.2 SP1의 일반 공급 이후 릴�
 * Dynamic Media 파일에 대한 비디오 인코딩 기능이 개선되었습니다.
 * Sightly 구성 요소 및 라이브 카피의 수정 사항.
 
-### 자산 {#assets-8}
+### 에셋 {#assets-8}
 
 * 이름에 공백이 포함된 파일은 Dynamic Media 비디오 인코딩에 실패합니다. NPR-20818: CQ-102469용 핫픽스
 * AEM CQ 작성자/게시 빠른 시작에서 일부 SWF 파일의 다중 크로스 사이트 스크립팅(XSS) 취약점. NPR-21071, NPR-21072
@@ -903,7 +903,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP11은 AEM 6.2 SP1의 일반 공급 이후 릴�
 
 * (Search &amp; Promote) 콘텐츠 패키지에 대한 필터 정의가 모호하면 설치 시 경로를 덮어씁니다. NPR-20808: CQ-4227615용 핫픽스
 
-### 워크플로우 {#workflow-1}
+### 워크플로 {#workflow-1}
 
 * AEM 프로덕션 서버 배포에 안정성 문제가 있습니다. NPR-20979: Granite-19104용 핫픽스
 
@@ -928,7 +928,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP11은 AEM 6.2 SP1의 일반 공급 이후 릴�
 
 * AEM의 OOTB 에셋에 대한 curl Head 요청 문제가 수정되었습니다. NPR-20511: CQ-4221520 및 CQ-103024용 핫픽스
 
-## 양식 {#forms-9}
+## Forms {#forms-9}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 AEM Forms 릴리스를 참조하십시오.
 
@@ -947,7 +947,7 @@ AEM Forms의 주요 사항은 다음과 같습니다.
 
 * (서신 UI) 한 번의 클릭으로 제출 버튼을 비활성화할 수 있습니다. NPR-21078
 
-### Forms JEE 설치 프로그램 {#forms-jee-installer-9}
+### Forms JEE 설치 관리자 {#forms-jee-installer-9}
 
 #### 어셈블러 서비스 {#assembler-service-1}
 
@@ -962,7 +962,7 @@ AEM Forms의 주요 사항은 다음과 같습니다.
 
 * 데이터 준비 프로세스는 모바일 양식을 dataref 매개 변수로 렌더링할 때 여러 번 호출합니다. NPR-19801: CQ-4230427용 핫픽스: CQ-4230400
 
-## CFP11에 포함된 OSGI 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp-3}
+## CFP11에 포함된 OSGi 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp-3}
 
 AEM 6.2 SP1-CFP11에 포함된 OSGi 번들 목록
 
@@ -981,7 +981,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP10은 AEM 6.2 SP1의 일반 공급 이후 릴�
 * 복수 이미지 즉석 편집기 구성 요소의 성능 수정 사항.
 * Apache Sling JCR ResourceBundleProvider의 구성 업데이트.
 
-### 자산 {#assets-9}
+### 에셋 {#assets-9}
 
 * 에셋 업데이트 워크플로가 비활성화된 경우 에셋 미리보기가 작동하지 않습니다. NPR-20543: CQ-4204986용 핫픽스
 * granite에 클래스의 렌더링 문제가 추가됨: 클래스 속성(cq-damadmin-admin-assets-upload). NPR-20514: CQ-4219238용 핫픽스
@@ -1022,7 +1022,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP10은 AEM 6.2 SP1의 일반 공급 이후 릴�
 
 * ImageMap 속성은 여러 이미지 즉석 편집기 구성 요소에서 이미지를 제거한 후에도 계속 존재합니다. NPR-20142: CQ-4222982용 핫픽스
 
-## 양식 {#forms-10}
+## Forms {#forms-10}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 AEM Forms 릴리스를 참조하십시오.
 
@@ -1044,7 +1044,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 * CAC/상호 인증 인증서 선택 대화 상자에는 EKU(고급 키 사용)가 있는 인증서가 클라이언트 인증 또는 스마트 카드 로그온으로 표시되어야 합니다. NPR-20708
 * Forms JEE가 PKCS#11 상호 인증을 지원합니다. NPR-15001
 
-## CFP10에 포함된 OSGI 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp-4}
+## CFP10에 포함된 OSGi 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp-4}
 
 AEM CFP 6.2 SP1-CFP10에 포함된 OSGi 번들 목록
 
@@ -1067,7 +1067,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP9는 AEM 6.2 SP1의 일반 공급 이후 릴리
 * Safari에서 PDF를 첨부 파일로 첨부할 수 있도록 적응형 양식이 개선되었습니다.\
    새로운 Dynamic Media 게시 인프라에 연결하여 보다 빠르고 확장 가능한 복제를 지원하는 새 Dynamic Media를 제공합니다.
 
-### 자산 {#assets-10}
+### 에셋 {#assets-10}
 
 * InDesign 에셋에 해당 에셋에 대한 중복된 링크가 포함되어 있어서 AEM Assets에서 하위 에셋 참조를 추출할 수 없습니다. NPR-19006: CQ-4204186용 핫픽스
 * 전자 상거래 컬렉션 내부의 에셋에 대해 정렬 옵션이 작동하지 않습니다. NPR-19508: CQ-4213622용 핫픽스
@@ -1099,7 +1099,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP9는 AEM 6.2 SP1의 일반 공급 이후 릴리
 
 * AEM에서 tagadmin/tagging 콘솔의 Brand Portal에 태그를 게시하도록 설정합니다. NPR-20271
 
-## 양식 {#forms-11}
+## Forms {#forms-11}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 AEM Forms 릴리스를 참조하십시오.
 
@@ -1113,7 +1113,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * Safari에서 PDF를 첨부 파일로 첨부할 수 있도록 적응형 양식이 개선되었습니다. 기존 양식에서 동일한 기능을 지원하려면 첨부 파일 위젯의 구성을 변경하고 &quot;지원되는 파일 유형&quot;에서 .pdf 대신 값 application/pdf를 업데이트해야 합니다. NPR-19623
 
-#### Forms Manager {#forms-manager-1}
+#### Forms 관리자 {#forms-manager-1}
 
 * 적응형 양식 필드에 validationState가 정의되지 않은 경우 elementFocusChanged 이벤트가 발생하면 오류 이벤트(errorState)가 Adobe Analytics 서버로 반환됩니다. NPR-19513
 
@@ -1127,7 +1127,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 * Dynamic Media의 썸네일 수정 및 투명도 개선. NPR-15207
 
-## CFP9에 포함된 OSGI 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp-5}
+## CFP9에 포함된 OSGi 번들 및 콘텐츠 패키지 {#osgi-bundles-and-content-packages-included-in-cfp-5}
 
 AEM 6.2 SP1-CFP9에서 업데이트된 콘텐츠 패키지 목록
 
@@ -1149,7 +1149,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP8은 AEM 6.2 SP1의 일반 공급 이후 릴리
 * 문서 조각 콘텐츠에 대한 대/소문자를 구분하는 검색 기능을 사용할 수 있습니다.
 * AEM Forms 설치 설명서에 Linux 라이브러리 목록을 추가했습니다.
 
-### 자산 {#assets-11}
+### 에셋 {#assets-11}
 
 * Safari 브라우저에서 스마트 컬렉션에 Omnisearch 필터를 적용하는 문제. NPR-19511
 * PDF 에셋과 연관된 키워드가 여러 개 있는 경우 PDF 키워드 메타데이터가 제대로 추출되지 않고 잘못 수정됩니다. 이 문제를 해결하기 위해 PDF 에셋에 대한 제목 필드 메타데이터 속성이 제거되었습니다. 그러나 메타데이터 스키마를 편집하여 제목 필드에 대한 여러 값 텍스트 필드를 추가할 수 있습니다. NPR-19126
@@ -1182,14 +1182,14 @@ AEM 누적 수정 팩 6.2 SP1-CFP8은 AEM 6.2 SP1의 일반 공급 이후 릴리
 * 문서에 대한 액세스 속성이 클래식 UI의 Adobe Digital Publishing Solution에서 잘못 설정됩니다. NPR-19366
 * AEM 기사 콘솔의 전체 화면 기사로 인해 썸네일의 렌더링이 느려집니다. NPR-19086: CQ-4217148
 * 사용자가 여러 영역에 액세스할 수 있는 경우 Campaign을 통해 오퍼를 개인화할 때 잘못된 자동 접기 동작이 수행됩니다. NPR-19290: CQ-4218029용 핫픽스
-* 대상 모듈을 편집하고 두 번 이상 저장하면 타깃팅 대화 상자가 타깃팅 모드에 표시되지 않습니다. NPR-19144: CQ-4216708용 핫픽스
+* 대상 모듈을 편집하고 두 번 이상 저장하면 타기팅 대화 상자가 타기팅 모드에 표시되지 않습니다. NPR-19144: CQ-4216708용 핫픽스
 
-### 워크플로우 {#workflow-2}
+### 워크플로 {#workflow-2}
 
 * 받은 편지함 클래식 UI에서 사용자/그룹별로 받은 편지함의 알림을 필터링할 수 없습니다. NPR-19122: CQ-4215374용 핫픽스
 * 이미지 맵은 HTL 이미지 구성 요소에서 선택한 좌표를 유지하지 않습니다. NPR-18911: CQ-4211584
 
-## 양식 {#forms-12}
+## Forms {#forms-12}
 
 * AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 [AEM Forms 릴리스](aem-forms-releases.md)를 참조하십시오.
 
@@ -1210,7 +1210,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP8은 AEM 6.2 SP1의 일반 공급 이후 릴리
 >* 문서 조각 내의 동적 콘텐츠(예: 데이터 사전 요소 값 또는 변수 값)에 대해서는 검색이 작동하지 않습니다.
 
 
-#### Forms Manager {#forms-manager-2}
+#### Forms 관리자 {#forms-manager-2}
 
 * 적응형 양식의 XML 스키마 속성은 AEM 6.2에서 CFP6을 적용한 후에는 편집할 수 없습니다. CQ-4219684 핫픽스
 * AEM Forms Manager 코어 번들의 모든 서비스가 서버를 다시 시작할 때 시작되지 않습니다. CQ-4217014용 핫픽스
@@ -1246,7 +1246,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP7은 AEM 6.2 SP1의 일반 공급 이후 릴리
 * 대상 라이브러리 파일, AT.JS, 일반적인 웹 구현 및 단일 페이지 애플리케이션 모두를 위해 설계된 Adobe Target과의 클라이언트 측 통합을 위한 구현 라이브러리입니다.
 * Marketing Cloud 솔루션(Analytics, DTM, Target 및 S&amp;P)에 대한 사용자 구성 가능한 연결 시간 초과 기간을 도입하여 AEM 성능이 개선되었습니다.
 
-### 자산 {#assets-12}
+### 에셋 {#assets-12}
 
 * Dynamic Media Cloud Services로 구성된 AEM 6.3을 사용하여 비디오 처리를 테스트하는 동안 &quot;열려 있는 파일이 너무 많습니다.&quot; 예외가 발생합니다. NPR-18734, CQ-4211407용 핫픽스
 * AEM 인스턴스를 다시 시작한 후 페이지의 에셋에 대한 별칭 URL 설정이 작동하지 않습니다. NPR-18634, Granite-18085용 핫픽스
@@ -1303,7 +1303,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP7은 AEM 6.2 SP1의 일반 공급 이후 릴리
 
 * AEM에서 tagadmin/tagging 콘솔의 Brand Portal에 태그를 게시하도록 설정합니다. CQ-4212165
 
-## 양식 {#forms-13}
+## Forms {#forms-13}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 [AEM Forms 릴리스](aem-forms-releases.md)를 참조하십시오.
 
@@ -1361,7 +1361,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP6은 AEM 6.2 SP1의 일반 공급 이후 릴리
 * 하이브리드 디바이스에 대한 빠른 작업을 도입했습니다.
 * 라이브 카피 관련 구성 요소 수준 동기화 문제 해결을 제공합니다.
 
-### 자산 {#assets-13}
+### 에셋 {#assets-13}
 
 * 권한이 없는 사용자가 에셋에 대한 작업을 이동하려고 하면 고객이 차단됩니다. NPR-18330, CQ-4212560용 핫픽스
 * 여러 스마트 콘텐츠 서비스 구성을 병합하면 유용성 문제가 발생합니다. NPR-18273, CQ-4201557용 핫픽스
@@ -1400,7 +1400,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP6은 AEM 6.2 SP1의 일반 공급 이후 릴리
 
 * AEM Day HTTP Client 3.1 OSGI가 다이제스트 인증을 필요로 하는 프록시로 구성된 경우 발생할 수 있는 AEM 검색 구성 요소 오류가 해결되었습니다. NPR 18128
 * 상속을 되돌리는 데 필요한 확인란이 없습니다. NPR-17753, CQ-4210139용 핫픽스 요청
-* 여러 활동이 있는 하나의 구성 요소를 타깃팅할 때 우선 순위를 설정할 수 없습니다. NPR-18658, CQ-4210727용 핫픽스
+* 여러 활동이 있는 하나의 구성 요소를 타기팅할 때 우선 순위를 설정할 수 없습니다. NPR-18658, CQ-4210727용 핫픽스
 * /etc/segmentation/group1 폴더에 작성된 대상을 선택하기 위해 folder /etc/segmentation 폴더를 찾을 수 없습니다. NPR-18522
 
 ### 보안 {#security-1}
@@ -1419,7 +1419,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP6은 AEM 6.2 SP1의 일반 공급 이후 릴리
 * HTL 이미지 구성 요소가 렌더링될 때 URL의 파일 이름이 바뀌면서 잘못된 URL이 발생합니다. NPR-17908, CQ-4211587용 핫픽스
 * 변경한 후 페이지 속성을 종료할 수 없습니다. NPR-17832, CQ-96110용 핫픽스
 
-## 양식 {#forms-14}
+## Forms {#forms-14}
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 [AEM Forms 릴리스](aem-forms-releases.md)를 참조하십시오.
 
@@ -1466,7 +1466,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP5는 AEM 6.2 SP1의 일반 공급 이후 릴리
 * 게시 취소 및 버전 삭제와 같은 WCM 구성 요소 및 워크플로와 관련된 여러 문제가 해결되었습니다.
 * 도구 모음 작업 및 Coral 구성 요소 표시와 관련된 작업 표시줄의 응답성이 개선되었습니다.
 
-### 자산 {#assets-14}
+### 에셋 {#assets-14}
 
 * Brand Portal에 게시 기능의 성능이 개선되었습니다. NPR-17189, CQ-4204150용 핫픽스
 * 링크 공유 옵션을 사용하여 에셋을 공유해도 다운로드할 기본 폴더 구조가 있는 zip 파일이 만들어지지 않습니다. NPR-17513, CQ-4209381용 핫픽스
@@ -1504,7 +1504,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP5는 AEM 6.2 SP1의 일반 공급 이후 릴리
 * HTMLRendererServlet에 의해 생성된 출력의 XSS 취약성. NPR-17136
 * AEM Web Syndication Feeds 페이지의 AEM 버전 공개를 방지하는 요청. NPR-16219
 
-### 양식 {#forms-15}
+### Forms {#forms-15}
 
 #### Forms 추가 기능 패키지 {#forms-add-on-package-15}
 
@@ -1608,7 +1608,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP4는 AEM 6.2 SP1의 일반 공급 이후 릴리
 * 사용자 관리 화면에 표시되는 결과 수가 카드 및 목록 보기에서 다릅니다. NPR-16241, GRANITE-16914용 핫픽스
 * 전체 화면 모드로 Google Chrome 브라우저에서 보는 동안 워크플로 알림을 지연할 수 없습니다. NPR-17013: CQ-4207567용 핫픽스
 
-### 자산 {#assets-15}
+### 에셋 {#assets-15}
 
 * 정의된 방향이 있는 이미지를 가져오는 동안 이미지 방향이 올바르게 적용되지 않습니다. NPR-16750: CQ-4204356용 핫픽스
 * &#39;모두 표시&#39;가 기본적으로 설정되어 있어도 에셋 타임라인 보기에는 에셋이 표시되지 않습니다. NPR-16957: CQ-98780용 핫픽스
@@ -1635,7 +1635,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP4는 AEM 6.2 SP1의 일반 공급 이후 릴리
 
 * AEM Campaign 템플릿을 테스트하고 시드 주소를 수정하여 &#39;추가 데이터&#39;를 포함하는 동안 Adobe Campaign 드롭다운이 Touch UI 컨텍스트 허브에서 사라집니다. NPR-16771: CQ-105748용 핫픽스
 
-### Mobile On-Demand {#mobile-on-demand-3}
+### 모바일 온디맨드 {#mobile-on-demand-3}
 
 * AEM 작성 환경에서 발행물을 사전 점검할 때 5초 이상 걸리는 사전 점검 작업이 있으면 AEMM - AEM PECS 통합 splunk 대시보드에 초당 높은 상태 요청이 있는 비정상적인 스파이크가 발생합니다. NPR-16908: CQ-4207055용 핫픽스
 * AEM-6.2-SP1-CFP1-1.0 업데이트를 설치한 후 AEM Mobile 구성 관리에 실패합니다. NPR-16909: CQ-4204892용 핫픽스
@@ -1650,7 +1650,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP4는 AEM 6.2 SP1의 일반 공급 이후 릴리
 * 파일 바이너리를 AEM에 업로드할 때 MIME 유형 유효성 검사가 수행되지 않습니다. NPR-16617
 * LDAP 사용자에 대한 아바타 이미지 업로드 시 문제가 발생합니다. NPR-16561
 
-### 양식 {#forms-16}
+### Forms {#forms-16}
 
 #### Forms 추가 기능 패키지 {#forms-add-on-package-16}
 
@@ -1735,7 +1735,7 @@ CFP3의 주요 특징:
 * 다이제스트 인증이 있는 프록시를 사용하여 클래식 UI 및 AEM 검색 구성 요소에 대한 보다 효율적인 검색 기능 제공
 * 에셋 업로드 및 에셋 메타데이터 표시 중 발생한 문제가 해결되었습니다.
 * 제목에 특수 문자가 있을 경우 폴더를 만들고 페이지를 이동하는 동안 발생했던 문제가 수정되었습니다.
-* 대상 동기화, 캠페인 게시 및 Touch UI에서 목표 지표 선택을 위한 타깃팅 수정
+* 대상 동기화, 캠페인 게시 및 Touch UI에서 목표 지표 선택을 위한 타기팅 수정
 * 번역 작업의 동기화 문제 해결
 * Forms 미리 채우기 서비스에 대한 보안 개선
 * 양식 포털 초안 및 제출 구성 요소와 Barcoded Forms Service의 개선 사항
@@ -1761,7 +1761,7 @@ CFP3의 주요 특징:
 * 양식 제한으로 `ConstraintMessage` 속성을 읽을 수 없습니다. NPR-16388: CQ-101330용 핫픽스
 * `wcm/foundation/components/parsys` 구성 요소는 **[!UICONTROL &#39;구성 요소를 여기로 드래그하십시오]**&#39; 자리 표시자가 표시되지 않습니다. NPR: 16748: CQ-4205187용 핫픽스
 
-### 자산 {#assets-16}
+### 에셋 {#assets-16}
 
 * 6.2 SP1 또는 Hotfix 12430을 설치한 후 pdf 래스터라이저 기능 작동이 중단되고 메모리 부족 문제가 발생합니다. NPR-15991
 * 문자열 속성의 메타데이터 `documentNumber`가 날짜로 표시되지만 숫자여야 합니다. NPR-16134: GRANITE-16916용 핫픽스
@@ -1774,14 +1774,14 @@ CFP3의 주요 특징:
 
 * 다이제스트 인증을 사용하여 프록시 인증을 활성화하면 AEM 검색 구성 요소에 ConcurrentModificationException이 발생합니다. NPR-15309: CQ-4199191용 핫픽스
 * AEM에서 Target A/B 테스트 활동을 만들 때 대상이 Target에 동기화되지 않고 &#39;대상 없음&#39;을 표시합니다. NPR-16229: CQ-4204210용 핫픽스
-* SP1+NPR-11577 v1.2를 설치한 후 TouchUI에서 타깃팅하는 동안 목표 지표에 대해 &#39;분석 지표 사용&#39;을 선택하면 지표 드롭다운 목록이 로드되지 않습니다. NPR-16129: CQ-4204316용 핫픽스
-* 타깃팅을 사용할 때 캠페인을 게시해도 브랜드 및 마스터를 포함한 전체 트리가 자동으로 게시되지 않습니다. NPR-15855: CQ-94630용 핫픽스
+* SP1+NPR-11577 v1.2를 설치한 후 TouchUI에서 타기팅하는 동안 목표 지표에 대해 &#39;분석 지표 사용&#39;을 선택하면 지표 드롭다운 목록이 로드되지 않습니다. NPR-16129: CQ-4204316용 핫픽스
+* 타기팅을 사용할 때 캠페인을 게시해도 브랜드 및 마스터를 포함한 전체 트리가 자동으로 게시되지 않습니다. NPR-15855: CQ-94630용 핫픽스
 
 ### 번역 {#translation-8}
 
 * 번역 작업 동기화가 자동으로 트리거되지 않으며 번역 프로젝트를 시작하지 않으면 AEM에서 폴링을 수행할 수 없습니다. NPR-15163: CQ-90856용 핫픽스
 
-### 양식 {#forms-17}
+### Forms {#forms-17}
 
 #### Forms 추가 기능 패키지 {#forms-add-on-package-17}
 
@@ -1799,7 +1799,7 @@ CFP3의 주요 특징:
    NPR: 16611
 
 * 여러 첨부 파일이 허용되는 파일 첨부 위젯의 경우, 첨부 파일이 있는 새 양식 인스턴스가 이전 첨부 파일이 있는 위젯에 제출되면 실제 콘텐츠 대신 추가된 첨부 파일을 열 때 오류 코드가 표시됩니다. NPR-16258
-* `file://`, `http://` 및 `ftp://` 등의 프로토콜을 통해 권한 없는 액세스로부터 양식 미리 채우기 서비스를 보호합니다. [구성 관리자를 사용하여 미리 채우기 서비스 구성하기](https://helpx.adobe.com/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754)를 참조하십시오. NPR-15414
+* `file://`, `http://` 및 `ftp://` 등의 프로토콜을 통해 권한 없는 액세스로부터 양식 미리 채우기 서비스를 보호합니다. [구성 관리자를 사용하여 미리 채우기 서비스 구성하기](https://helpx.adobe.com/kr/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754)를 참조하십시오. NPR-15414
 
 * 확인 단계에서 HTML 대신 PDF 형식으로 적응형 양식을 렌더링하도록 요청하고 모든 첨부 파일을 PDF에 추가하므로 인쇄물에 전체 양식이 표시됩니다. NPR-9011
 
@@ -1831,7 +1831,7 @@ CFP3의 주요 특징:
 
 **프로세스 관리 - HTML 작업 공간**
 
-* file://, &quot;http://&quot;, 및 ftp:// 등의 프로토콜을 통해 권한 없는 액세스로부터 양식 미리 채우기 서비스를 보호합니다. 자세한 내용은 [구성 관리자를 사용하여 미리 채우기 서비스 구성하기](https://helpx.adobe.com/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754)를 참조하십시오. NPR-15434
+* file://, &quot;http://&quot;, 및 ftp:// 등의 프로토콜을 통해 권한 없는 액세스로부터 양식 미리 채우기 서비스를 보호합니다. 자세한 내용은 [구성 관리자를 사용하여 미리 채우기 서비스 구성하기](https://helpx.adobe.com/kr/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754)를 참조하십시오. NPR-15434
 
 **사용자 관리 **
 
@@ -1908,7 +1908,7 @@ AEM 6.2 SP1과 CFP3 간에 업데이트된 OSGi 번들 목록
 * 타임워프 모드 중에 편집 페이지를 닫고 사이트 관리자에서 다시 열려고 하면 페이지를 다시 여는 대신 상태가 &#39;500&#39;인 오류가 발생합니다. NPR-14965: CQ-109647용 핫픽스:
 * DAM(Digital Asset Manager) UI에서 사용자 선택기의 승인 가능 대상 찾기 검색을 수행하면 &#39;메모리 부족&#39; 예외가 발생합니다. NPR: 15307: CQ-98542용 핫픽스
 
-### 자산 {#assets-17}
+### 에셋 {#assets-17}
 
 * Omnisearch에서 에셋을 검색한 후, 에셋을 선택하고 &#39;속성 보기&#39;를 클릭하여 속성을 편집한 다음 &#39;저장&#39; 버튼을 사용하면 사용자가 빈 페이지로 리디렉션됩니다. NPR-15900: CQ-4202372용 핫픽스
 * Assets 사용자 인터페이스가 이벤트에 응답하지 않습니다. 에셋을 선택하고 &#39;게시&#39; 또는 &#39;렌디션&#39;을 클릭해도 어떤 작업도 수행되지 않습니다. NPR-15828: CQ-4202247용 핫픽스
@@ -1957,14 +1957,14 @@ AEM 6.2 SP1과 CFP3 간에 업데이트된 OSGi 번들 목록
 
 ### 캠페인 {#campaign-1}
 
-* Campaign - 타깃팅 및 MAC - 테스트, Target 통합 구성 요소를 사용하는 동안 활동 게시를 취소하면 마스터 UI에서 활동 상태가 업데이트되지 않습니다. NPR-15401: CQ-4199839용 핫픽스
+* Campaign - 타기팅 및 MAC - 테스트, Target 통합 구성 요소를 사용하는 동안 활동 게시를 취소하면 마스터 UI에서 활동 상태가 업데이트되지 않습니다. NPR-15401: CQ-4199839용 핫픽스
 * AEM Commerce에서 제품을 이동하는 동안, 제품 이동 마법사에서 제품 이름, 제목, 참조된 페이지, 작성자 만들기 및 만든 날짜에 대해 미리 채워진 값을 누락합니다. NPR-15228: CQ-98617용 핫픽스
 
 ### 보안 {#security-4}
 
 * CSRF 토큰 매개 변수가 GET 메서드를 사용하여 양식에 추가되었습니다. NPR-15229
 
-### 양식 {#forms-18}
+### Forms {#forms-18}
 
 #### Forms 추가 기능 패키지 {#forms-add-on-package-18}
 
@@ -2044,7 +2044,7 @@ AEM 6.2 SP2-CFP1의 주요 특징:
 * 편집기에서 PageProperties 대화 상자를 제출하면 MSM 포스트 프로세서는 `msm:writeLiveCopyConfig` 매개 변수 대신 요청에서 일부 매개 변수를 기록합니다. NPR-14434
 * 롤아웃 구성 요소, 라이브 카피 및 MSM의 기타 측면과 관련된 여러 문제입니다. NPR-12235
 
-### 자산 {#assets-18}
+### 에셋 {#assets-18}
 
 * 압축 해제 워크플로에서 이미지 파일 이름에 특수 문자가 있는 이미지를 처리할 수 없습니다. NPR-15227: CQ-103887용 핫픽스
 * 조건 표현식이 있는 반복이 포함된 에셋이 제대로 표시되지 않습니다. 사용자가 `*CDN3835RLCEN*` 편지 템플릿을 미리 볼 때 본문 대상 영역에 있는 에셋이 표시되지 않습니다. 선택적 에셋인 `*VIPReassement*` 에셋을 미리 선택하지 않은 경우, 사전에 선택한 다른 에셋이 편지에 표시됩니다. NPR-14844
@@ -2087,7 +2087,7 @@ AEM 6.2 SP2-CFP1의 주요 특징:
 * 번역 프로젝트가 업데이트되면 번역 작업에서 &#39;사이트에 표시&#39; 옵션이 누락됩니다. NPR-12966: CQ-93740용 핫픽스
 * 내보낸 사이트 페이지에 대한 번역 프로젝트를 만들 때 미리보기에서 올바르게 렌더링되지 않습니다. NPR-12964: CQ-84627용 핫픽스
 
-### 워크플로우 {#workflow-3}
+### 워크플로 {#workflow-3}
 
 * 워크플로 콘솔의 보관 탭에 있는 페이로드 링크는 클릭 시 응답 코드 &#39;404&#39;가 있는 오류를 반환합니다. NPR-14993: CQ-4194977용 핫픽스
 * AEM 기본 워크플로를 사용하는 경우 CQ 발송은 단일 구성원의 이메일 주소를 누락한 그룹에 이메일 알림을 보내지 못합니다. NPR-14804: CQ-91499용 핫픽스 요청
@@ -2099,7 +2099,7 @@ AEM 6.2 SP2-CFP1의 주요 특징:
 
 * AEM 6.2를 Search &amp; Promote과 통합한 후 사용자가 배너를 반환하는 용어를 검색하면 검색 기능이 응답하지 않습니다. NPR-14549: CQ-109631용 CFP
 
-### 다이내믹 미디어 {#dynamic-media}
+### Dynamic Media {#dynamic-media}
 
 * 복제 중 AEM 활성화가 아카이브 작업으로 기록될 때 생성 및 취소된 수많은 AEM-Scene7 Sling 작업. NPR-12835: CQ-86115용 핫픽스
 
@@ -2196,7 +2196,7 @@ AEM 6.2 SP2-CFP1의 주요 특징:
 
 >[!NOTE]
 >
->Adobe에서 제공하는 선택적 기능 팩은 릴리스 버전 및 누적 수정 팩에 종속되어 있습니다. 기능 팩이 설치되어 있는 경우 [AEM 고객 지원팀](https://helpx.adobe.com/marketing-cloud/contact-support.html)에 문의하여 이 AEM 6.2용 누적 수정 팩과의 호환성을 확인하십시오.
+>Adobe에서 제공하는 선택적 기능 팩은 릴리스 버전 및 누적 수정 팩에 종속되어 있습니다. 기능 팩이 설치되어 있는 경우 [AEM 고객 지원팀](https://helpx.adobe.com/kr/marketing-cloud/contact-support.html)에 문의하여 이 AEM 6.2용 누적 수정 팩과의 호환성을 확인하십시오.
 
 >[!NOTE]
 >
@@ -2227,7 +2227,7 @@ AEM 6.2 SP2-CFP1의 주요 특징:
 CFP는 다음과 같은 방법으로 실행 중인 인스턴스에 자동으로 설치할 수 있습니다.
 
 * 서버가 실행되는 동안 ../crx-quickstart/install에 패키지를 둡니다. 패키지가 자동으로 설치됩니다.
-* [패키지 관리자에서 HTTP API](https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/package-manager.html)를 사용하여 `cmd=install&recursive=true`를 사용하는지 확인합니다. 이 경우 중첩된 패키지가 설치됩니다.
+* [패키지 관리자에서 HTTP API](https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/package-manager.html)를 사용하여 `cmd=install&recursive=true`를 사용하는지 확인합니다. 이 경우 중첩된 패키지가 설치됩니다.
 
 ### 설치 확인 {#validate-installation}
 
@@ -2256,7 +2256,7 @@ CFP는 다음과 같은 방법으로 실행 중인 인스턴스에 자동으로 
 
 1. AEM 6.2 SP1 CFP 패키지를 설치했는지 확인합니다.
 1. 운영 체제에 대한 [AEM Forms 릴리스](aem-forms-releases.md)에 나열된 해당 양식 추가 기능 패키지를 다운로드합니다.
-1. [AEM Forms 추가 기능 패키지 설치](https://helpx.adobe.com/experience-manager/6-2/forms/using/installing-configuring-aem-forms-osgi.html)에 설명된 대로 Forms 추가 기능 패키지를 설치합니다.
+1. [AEM Forms 추가 기능 패키지 설치](https://helpx.adobe.com/kr/experience-manager/6-2/forms/using/installing-configuring-aem-forms-osgi.html)에 설명된 대로 Forms 추가 기능 패키지를 설치합니다.
 
 #### AEM Forms JEE 번들 패키지 설치 {#install-aem-forms-jee-bundles-package}
 
@@ -2332,7 +2332,7 @@ NPR-21355는 CFP12.1에 포함되어 있습니다. CFP12.1 이상을 설치하�
 
 1. [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/에 있는 jsafeFIPS.jar, jsafeJCEFIPS.jar 및 certjFIPS.jar 파일의 백업을 만들고 위의 디렉터리에서 파일을 삭제합니다.
 
-   새 JAR 파일을 가져오려면 [Adobe 지원](https://helpx.adobe.com/marketing-cloud/contact-support.html)에 문의하십시오. [Adobe 지원](https://helpx.adobe.com/marketing-cloud/contact-support.html)([AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/)에서 가져온 JAR 파일을 배치합니다.
+   새 JAR 파일을 가져오려면 [Adobe 지원](https://helpx.adobe.com/kr/marketing-cloud/contact-support.html)에 문의하십시오. [Adobe 지원](https://helpx.adobe.com/kr/marketing-cloud/contact-support.html)([AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/)에서 가져온 JAR 파일을 배치합니다.
 
 1. (Windows 전용) `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` 또는 `domain.conf.bat` 구성 파일을 수정합니다.
 
@@ -2436,19 +2436,19 @@ Maven 프로젝트에서 Uber Jar을 사용하려면 프로젝트 POM에 다음 
 </dependency>
 ```
 
-## OSGi 번들 및 콘텐츠 패키지가 포함됨 {#osgi-bundles-and-content-packages-included-5}
+## OSGi 번들 및 콘텐츠 패키지 포함됨 {#osgi-bundles-and-content-packages-included-5}
 
-다음 텍스트 문서에는 CFP에 포함된 OSGi 번들 및 콘텐츠 패키지 목록이 있습니다.
+다음 텍스트 문서에는 CFP에 포함된 OSGi 번들 및 콘텐츠 패키지 목록이 기재되어 있습니다.
 
 * [AEM 6.2 SP1-CFP20에 포함된 OSGi 번들 목록](assets/do-not-localize/updated.txt)
 * [AEM 6.2 SP1-CFP20에 포함된 콘텐츠 패키지 목록](assets/do-not-localize/content_package_comparison_result.txt)
 
 >[!MORELIKETHIS]
 >
->* [AEM 6.2 핫픽스 페이지](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
+>* [AEM 6.2 핫픽스 페이지](https://helpx.adobe.com/kr/experience-manager/kb/aem62-available-hotfixes.html)
 >* [AEM 6.2 SP1 릴리스 노트](https://docs.adobe.com/content/docs/ko-kr/aem/6-2/release-notes/sp1.html)
 >* [AEM 6.2 릴리스 노트](https://docs.adobe.com/docs/ko/aem/6-2/release-notes.html)
->* [AEM 제품 페이지](http://www.adobe.com/solutions/web-experience-management.html)
+>* [AEM 제품 페이지](http://www.adobe.com/kr/solutions/web-experience-management.html)
 >* [AEM 6.2 설명서](https://docs.adobe.com/content/docs/en/aem/6-2.html)
->* [Adobe 우선 순위 제품 업데이트](https://docs.adobe.com/content/help/ko-KR/release-notes/experience-cloud/current.html)
+>* [Adobe 우선순위 제품 업데이트](https://docs.adobe.com/content/help/ko-KR/release-notes/experience-cloud/current.html)
 
