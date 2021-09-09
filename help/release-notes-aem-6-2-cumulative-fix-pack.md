@@ -1238,7 +1238,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP7은 AEM 6.2 SP1의 일반 공급 이후 릴리
 
 이 누적 수정 팩의 주요 사항은 다음과 같습니다.
 
-* dc: 제목 속성이 String [](multifield)으로 설정된 이미지에 대한 이미지 카드의 제목을 표시할 때 동작이 변경됩니다.
+* dc: 제목 속성이 String [] (multifield)으로 설정된 이미지에 대한 이미지 카드의 제목을 표시할 때 동작이 변경됩니다.
 * Dynamic Media 클라우드 서비스, Touch UI 및 보안 UI 인터페이스의 성능 문제 수정.
 * Apache Felix Http Bridge 3.0.8 수정 사항
 * 작성자 및 게시 환경 간 바이너리 없는 복제(BLR) 문제를 해결했습니다.
