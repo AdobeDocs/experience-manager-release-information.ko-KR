@@ -2,10 +2,10 @@
 title: AEM, CQ 및 CRX 이전 버전
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
-workflow-type: ht
+source-git-commit: c18f6ccda6945de5fe36c49421c549b5361dec16
+workflow-type: tm+mt
 source-wordcount: '820'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ## 이전 버전의 [!DNL Experience Manager] 설명서 {#older-version-aem-documentation}
 
-이 페이지에 나열된 [!DNL Experience Manager], CQ 및 CRX 버전은 단종되어 더 이상 Adobe에서 공식적으로 판매하지 않습니다. 이러한 이전 버전에 대한 공식적인 설명서의 최신 버전은 자가 도움말 요구 시 사용할 수 있습니다. 최신 버전(현재 [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html?lang=ko-KR))으로 업그레이드하는 것이 좋습니다.
+이 페이지에 나열된 [!DNL Adobe Experience Manager], CQ 및 CRX 버전은 단종되어 더 이상 Adobe에서 공식적으로 판매하지 않습니다. 이러한 이전 버전에 대한 공식적인 설명서의 최신 버전은 자가 도움말 요구 시 사용할 수 있습니다. 최신 버전 [[!DNL Adobe Experience Manager] 으로 Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)로 업그레이드하는 것이 좋습니다.
 
 >[!NOTE]
 >
