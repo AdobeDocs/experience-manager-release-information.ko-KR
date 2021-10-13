@@ -3,9 +3,9 @@ title: AEM, CQ 및 CRX 이전 버전
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: c18f6ccda6945de5fe36c49421c549b5361dec16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '820'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -13,11 +13,11 @@ ht-degree: 98%
 
 ## 이전 버전의 [!DNL Experience Manager] 설명서 {#older-version-aem-documentation}
 
-이 페이지에 나열된 [!DNL Adobe Experience Manager], CQ 및 CRX 버전은 단종되어 더 이상 Adobe에서 공식적으로 판매하지 않습니다. 이러한 이전 버전에 대한 공식적인 설명서의 최신 버전은 자가 도움말 요구 시 사용할 수 있습니다. 최신 버전 [[!DNL Adobe Experience Manager] 으로 Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)로 업그레이드하는 것이 좋습니다.
+이 페이지에 나열된 [!DNL Adobe Experience Manager], CQ 및 CRX 버전은 단종되어 더 이상 Adobe에서 공식적으로 판매하지 않습니다. 이러한 이전 버전에 대한 공식적인 설명서의 최신 버전은 자가 도움말 요구 시 사용할 수 있습니다. 최신 버전인 [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)로 업그레이드할 것이 권장됩니다.
 
 >[!NOTE]
 >
->[!DNL Experience Manager] 버전의 핵심 지원이 종료되는 시기를 확인하려면 [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html)을 보고 `AEM`을 검색하십시오.
+>[!DNL Experience Manager] 버전의 핵심 지원이 종료되는 시기를 확인하려면 [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html)을 참조하고 `AEM`을 검색하십시오.
 
 ### 설치하기 전에 {#before-installation}
 
