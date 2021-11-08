@@ -27,7 +27,7 @@ ht-degree: 98%
 | [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2021.10.0 | 2021.10.0 | 월별 릴리스 | 2021년 11월 4일 |
 | [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2021.11.0 | 2021.11.0 | 월별 릴리스 | 2021년 12월 2일 |
 
-월별 릴리스 외에도, 다양한 주요 업데이트가 [!DNL Experience Manager]에서 [!DNL Cloud Service]로서 일별 릴리스와 함께 제공됩니다.
+월별 릴리스 외에도 다양한 주요 업데이트가 [!DNL Experience Manager] as a [!DNL Cloud Service]에서 일별 릴리스로 제공됩니다.
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
