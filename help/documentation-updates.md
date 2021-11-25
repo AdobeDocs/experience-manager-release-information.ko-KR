@@ -3,10 +3,10 @@ title: '[!DNL Experience Manager] 최근 설명서 업데이트'
 description: ' [!DNL Experience Manager]  설명서의 새로운 기능, 업데이트 또는 변경 사항'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: a64bc67f185aaefd41d9376e1119e72a56cce598
 workflow-type: tm+mt
-source-wordcount: '4430'
-ht-degree: 100%
+source-wordcount: '4506'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 100%
 
 | 날짜 | 주제 | 변경 사항 |
 | --- | --- | --- |
+| 2021년 11월 25일 | Dynamic Media을 사용한 AEM - 구성 | 이제 Dynamic Media Desktop 애플리케이션을 사용하지 않고 AEM의 Dynamic Media 내에서 직접 일반 설정 및 게시 설정을 구성할 수 있습니다.<br>자세한 내용은 [Dynamic Media 일반 설정 구성](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-general-settings.html) 및 [이미지 서버에 대한 Dynamic Media 게시 설정 구성](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-publish-settings.html).<br>참조 - [Dynamic Media 구성 - Scene7 모드](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html) |
 | 2021년 11월 4일 | Dynamic Media 포함 AEM - 스마트 자르기 | 최신 Adobe Sensei 서비스를 사용하여 이미지 에셋의 스마트 자르기 및 스마트 색상 견본 기능을 개선했습니다. 다음 사항을 포함하도록 설명서가 업데이트되었습니다.<br>• 이미지 프로필의 자르기 옵션 대화 상자에 새로운 **[!UICONTROL 대상 해상도 전체에서 자르기 콘텐츠 유지]** 옵션이 도입되었습니다.<br>• 여러 에셋의 스마트 자르기 창을 수동으로 재정렬하거나 크기를 조정하면 나중에 해당 에셋을 재처리하는 경우에도 이러한 편집 내용이 유지되고 보존됩니다. 단, 이미지 프로필의 **[!UICONTROL 반응형 이미지 자르기]** 영역에서 폭, 높이 또는 두 가지 모두를 편집하면 해당 에셋이 재처리됩니다.<br>• 스마트 자르기 및 색상 견본에 대해 지원되는 이미지 파일 형식의 표가 새로 도입되었습니다.<br>이러한 업데이트에 대해 [이미지 프로필](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/image-profiles.html)을 참조하십시오. |
 | 2021년 11월 3일 | 스마트 자르기 비디오 뷰어 API | 이제 Dynamic Media 뷰어 참조 안내서에서 새로운 [스마트 자르기 비디오 뷰어 API 설명서](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html?lang=en)를 이용할 수 있습니다. |
 | 2020년 12월 2일 | 일괄처리 집합 사전 설정 | Dynamic Media에서 일괄처리 집합 사전 설정을 사용하여 이미지 세트 및 스핀 세트 생성을 자동화하는 방법을 알아봅니다. [일괄처리 집합 사전 설정](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html?lang=ko-KR#dynamicmedia)을 참조하십시오. |
@@ -70,7 +71,7 @@ ht-degree: 100%
 | 2021년 8월 26일 | [!DNL Experience Manager] 6.5 서비스 팩 10 | [[!DNL Experience Manager] 6.5 서비스 팩 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)을 사용할 수 있습니다. |
 | 2021년 5월 27일 | [!DNL Experience Manager] 6.5 서비스 팩 9 | [[!DNL Experience Manager] 6.5 서비스 팩 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)를 사용할 수 있습니다. |
 | 2021년 3월 11일 | [!DNL Experience Manager] 6.5 서비스 팩 8 | [[!DNL Experience Manager] 6.5 서비스 팩 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)을 사용할 수 있습니다. |
-| 2020년 11월 25일 | Dynamic Media의 액세스 가능성 | Dynamic Media 및 Dynamic Media 뷰어는 작성 사용자 인터페이스에서 키보드 제어와 JAWS 및 NVDA 화면 판독기와 같은 보조 기술을 지원합니다. ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=ko-KR#dynamic)Dynamic Media의 액세스 가능성[을 참조하십시오. |
+| 2020년 11월 25일 | Dynamic Media의 액세스 가능성 | Dynamic Media 및 Dynamic Media 뷰어는 작성 사용자 인터페이스에서 키보드 제어와 JAWS 및 NVDA 화면 판독기와 같은 보조 기술을 지원합니다. ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic)Dynamic Media의 액세스 가능성[을 참조하십시오. |
 | 2020년 11월 26일 | Experience Manager 6.5 서비스 팩 7 | [Experience Manager 6.5 서비스 팩 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)을 사용할 수 있습니다. |
 | 2020년 9월 3일 | Dynamic Media의 CDN 무효화 | CDN 캐시가 몇 분 내에 만료될 수 있도록 Dynamic Media 내에서 요청을 보낼 수 있습니다. 이 기능은 Assets에 대한 업데이트를 만들 때 해당 변경을 즉시 웹 사이트에 적용하려는 경우 유용합니다.<br>[ Dynamic Media의 방식으로 CDN 캐시 무효화](https://docs.adobe.com/content/help/ko/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)를 참조하십시오. |
 | 2020년 9월 3일 | Dynamic Media의 선택적 게시 작업 | 폴더 수준에서 Experience Manager 또는 Dynamic Media로/에서 에셋을 게시 또는 게시 취소하도록 선택할 수 있습니다. Dynamic Media 인스턴스의 모든 폴더에 전역 설정을 적용하는 **Dynamic Media 구성**&#x200B;에 전적으로 의존하는 대신 **[!UICONTROL 게시 관리]** 또는 **[!UICONTROL 빠른 게시]**&#x200B;를 사용하여 해당 작업을 수행할 수 있습니다.<br>[Dynamic Media의 선택적 게시 작업](https://docs.adobe.com/content/help/ko/experience-manager-65/assets/dynamic/selective-publishing.html)을 참조하십시오. |
