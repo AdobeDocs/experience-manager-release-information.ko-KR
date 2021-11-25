@@ -3,8 +3,8 @@ title: '[!DNL Adobe Experience Manager] 릴리스 업데이트'
 description: '[!DNL Adobe Experience Manager] 릴리스 업데이트'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
-workflow-type: ht
+source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다.
 
-* [[!DNL Experience Manager] 6.5 서비스 팩 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR)
+* [[!DNL Experience Manager] 6.5 서비스 팩 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR)
 
 * [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ko-KR)
 
