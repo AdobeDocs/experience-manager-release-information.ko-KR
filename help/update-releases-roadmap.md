@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: 3a32f1a6f2807219c235d59c841e53e88a017fad
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
-| [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2021.11.0 | 2021.11.0 | 월별 릴리스 | 2021년 12월 2일 |
+| [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2021.11.0 | 2021.11.0 | 월별 릴리스 | 2021년 12월 16일 |
 
 월별 릴리스 외에도 다양한 주요 업데이트가 [!DNL Experience Manager] as a [!DNL Cloud Service]에서 일별 릴리스로 제공됩니다.
 
