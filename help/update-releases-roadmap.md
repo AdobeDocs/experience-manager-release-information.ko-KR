@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: baca4b11a2fa6e0187275c74a7223058ec927589
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '335'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,18 +17,18 @@ ht-degree: 98%
 >
 >이 문서에서 제공하는 로드맵 업데이트는 정보 전용이며 언제든지 변경될 수 있습니다.
 
-## [!DNL Cloud Service]로서의 [!DNL Experience Manager] {#aem-as-cloud-service}
+## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
- [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ko-KR)로서의 [[!DNL Experience Manager] 는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다. [!DNL Cloud Service]로서 [!DNL Experience Manager]에 예정된 릴리스는 다음과 같습니다.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ko-KR)는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다. [!DNL Cloud Service]로서 [!DNL Experience Manager]에 예정된 릴리스는 다음과 같습니다.
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
-| [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2021.11.0 | 2021.11.0 | 월별 릴리스 | 2021년 12월 16일 |
-| [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2022.1.0 | 2022.1.0 | 월별 릴리스 | 2022년 1월 27일 |
-| [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2022.2.0 | 2022.2.0 | 월별 릴리스 | 2022년 2월 24일 |
-| [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2022.3.0 | 2022.3.0 | 월별 릴리스 | 2022년 3월 31일 |
-| [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2022.4.0 | 2022.4.0 | 월별 릴리스 | 2022년 4월 28일 |
-| [!DNL Cloud Service]로서의 [!DNL Experience Manager] 2022.5.0 | 2022.5.0 | 월별 릴리스 | 2022년 5월 26일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 월별 릴리스 | 2021년 12월 16일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | 월별 릴리스 | 2022년 1월 27일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 | 2022.2.0 | 월별 릴리스 | 2022년 2월 24일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 월별 릴리스 | 2022년 3월 31일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 월별 릴리스 | 2022년 4월 28일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 월별 릴리스 | 2022년 5월 26일 |
 
 월별 릴리스 외에도 다양한 주요 업데이트가 [!DNL Experience Manager] as a [!DNL Cloud Service]에서 일별 릴리스로 제공됩니다.
 
