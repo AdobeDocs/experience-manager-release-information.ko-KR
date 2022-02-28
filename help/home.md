@@ -3,7 +3,7 @@ title: '"[!DNL Adobe Experience Manager] 릴리스 업데이트 및 로드맵"'
 description: '"[!DNL Adobe Experience Manager] 릴리스 업데이트 및 로드맵"'
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -19,8 +19,8 @@ ht-degree: 100%
 
 ## 이전 릴리스 업데이트
 
-* [릴리스 노트:  [!DNL Experience Manager]  6.3 누적 수정 팩](release-notes-aem-6-3-cumulative-fix-pack.md)
-* [릴리스 노트:  [!DNL Experience Manager]  6.2 누적 수정 팩](release-notes-aem-6-2-cumulative-fix-pack.md)
+* [릴리스 정보: [!DNL Experience Manager] 6.3 누적 수정 팩](release-notes-aem-6-3-cumulative-fix-pack.md)
+* [릴리스 정보: [!DNL Experience Manager] 6.2 누적 수정 팩](release-notes-aem-6-2-cumulative-fix-pack.md)
 
 ## [!DNL Experience Manager] Forms 릴리스 업데이트
 
