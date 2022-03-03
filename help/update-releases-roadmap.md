@@ -2,8 +2,8 @@
 title: '"[!DNL Adobe Experience Manager] 릴리스 로드맵"'
 description: '"[!DNL Adobe Experience Manager] 릴리스 로드맵"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
-workflow-type: ht
+source-git-commit: 7050ba180d88533bc057a6789ba5e1fb75b4f28a
+workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 월별 릴리스 | 2021년 12월 16일 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | 월별 릴리스 | 2022년 2월 3일 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 | 2022.2.0 | 월별 릴리스 | 2022년 3월 3일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 | 2022.2.0 | 월별 릴리스 | 2022년 10월 3일 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 월별 릴리스 | 2022년 3월 31일 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 월별 릴리스 | 2022년 4월 28일 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 월별 릴리스 | 2022년 5월 26일 |
