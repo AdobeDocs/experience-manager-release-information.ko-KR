@@ -2,10 +2,10 @@
 title: '"[!DNL Adobe Experience Manager] 릴리스 로드맵"'
 description: '"[!DNL Adobe Experience Manager] 릴리스 로드맵"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 978e2aa8a6ce928e11249b10550d7bad1bdf5462
+source-git-commit: cb13da360f7c4e6adcfd08b5d0eb7710dc3c8f21
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,17 +19,15 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ko-KR)는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다. [!DNL Experience Manager] as a [!DNL Cloud Service]에 예정된 릴리스는 다음과 같습니다.
+[[!DNL Experience Manager] 로서의 [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ko-KR) 일반적으로 새 기능에 대해서는 월별 릴리스 케이던스를 따릅니다. 에 예정된 기능 릴리스 [!DNL Experience Manager] 로서의 [!DNL Cloud Service]는 다음과 같이 계획되어 있습니다.
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 월별 릴리스 | 2021년 12월 16일 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | 월별 릴리스 | 2022년 2월 3일 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 월별 릴리스 | 2022년 3월 31일 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 월별 릴리스 | 2022년 4월 28일 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 월별 릴리스 | 2022년 5월 26일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 기능 릴리스 | 2022년 3월 31일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 기능 릴리스 | 2022년 4월 28일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 기능 릴리스 | 2022년 5월 26일 |
 
-월별 릴리스 외에도 다양한 주요 업데이트가 [!DNL Experience Manager] as a [!DNL Cloud Service]에서 일별 릴리스로 제공됩니다.
+기능 릴리스 외에도 중요한 버그 및 보안 수정 사항이 있습니다. [!DNL Experience Manager] 로서의 [!DNL Cloud Service] 유지 관리 릴리스 형태로, 일반적으로 해당 유지 관리 업데이트가 매주 수행됩니다.
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
