@@ -3,10 +3,10 @@ title: AEM Forms JEE에 누적 수정 팩 설치
 description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 단계 요약
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: ht
-source-wordcount: '1044'
-ht-degree: 100%
+source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
+workflow-type: tm+mt
+source-wordcount: '910'
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 1. CFP에 대한 AEM 6.3 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://www.adobe.com/kr/account/sign-in.supportportal.html)에 문의하십시오.
 1. [AEM 설치 및 구성 [!DNL Forms JEE]](#install-and-configure-aem-forms-jee)의 설명에 따라 CFP 설치 관리자를 실행하고 AEM [!DNL Forms JEE]를 구성하십시오.
-1. 최신 AEM CFP [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md) 설치
+1. 최신 AEM CFP 6.3.3.x 설치
 1. [!DNL Forms]AEM CFP [6.3.3.x](aem-forms-releases.md)용 추가 기능 패키지 설치
 
 ### AEM [!DNL Forms JEE] 번들 패키지 설치 {#install-aem-forms-jee-bundles-package}
@@ -27,7 +27,7 @@ AEM [!DNL  Forms JEE] 패키지(aemfd-jee-bundles-package-6.3CFP1, 버전 1.0.2)
 
 ### CQ-4208044에 대한 추가 지침 {#additional-instructions-for-cq}
 
-AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용하는 경우, 구성 관리자를 실행한 후 CFP1을 배포하고 다음 설정을 구성합니다. 이 설정은 엔터프라이즈 도메인 동기화가 실행될 때 사용자, 그룹 및 그룹 구성원을 동기화하는 데 필요합니다. [AEM 6.3 릴리스 노트](release-notes-aem-6-3-cumulative-fix-pack.md#main-pars-header-853219205)의 문제 CQ-4208044를 참조하십시오.
+AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용하는 경우, 구성 관리자를 실행한 후 CFP1을 배포하고 다음 설정을 구성합니다. 이 설정은 엔터프라이즈 도메인 동기화가 실행될 때 사용자, 그룹 및 그룹 구성원을 동기화하는 데 필요합니다.
 
 1. **관리** UI에 로그인합니다.
 1. **[!UICONTROL 설정]** > **[!UICONTROL 사용자 관리]** > **[!UICONTROL 구성]** > **[!UICONTROL 구성 파일 가져오기 및 내보내기]**&#x200B;로 이동합니다. 
@@ -42,16 +42,12 @@ AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용하
 
 지정된 시퀀스에서 다음 단계를 수행하여 AEM 6.2 [!DNL Forms JEE]에 누적 수정 팩을 설치합니다.
 
->[!NOTE]
->
->AEM 6.2 [!DNL Forms OSGi]에 있는 경우, [AEM 6.2 CFP 릴리스 노트](release-notes-aem-6-2-cumulative-fix-pack.md)의 설치 지침을 따르십시오.
-
-1. CFP에 대한 AEM 6.2 [ 설치 관리자를 얻으려면 ](https://www.adobe.com/kr/account/sign-in.supportportal.html)Adobe 지원 센터[!DNL Forms JEE]에 문의하십시오.
+1. CFP에 대한 AEM 6.2 [ 설치 관리자를 얻으려면 ](https://www.adobe.com/account/sign-in.supportportal.html)Adobe 지원 센터[!DNL Forms JEE]에 문의하십시오.
 1. [AEM 설치 및 구성 [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee)의 설명에 따라 CFP 설치 관리자를 실행하고 AEM [!DNL Forms JEE]를 구성하십시오.
 1. AEM 핫픽스 12785 버전 7.0을 설치합니다.
-1. [AEM 6.2 서비스 팩 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html)을 설치합니다.
-1. 최신 [AEM 6.2 서비스 팩1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md)를 설치합니다.
-1. [AEM 6.2 서비스 팩 1 CFP](aem-forms-releases.md)의 [!DNL Forms] 추가 기능 패키지를 설치하십시오.
+1. AEM 6.2 서비스 팩 1을 설치합니다.
+1. 최신 릴리스 노트-aem-6-2-cumulative-fix-pack.md를 설치합니다.
+1. AEM 6.2 서비스 팩 1 CFP의 [!DNL Forms] 추가 기능 패키지를 설치하십시오.
 
 ### AEM [!DNL Forms JEE] 번들 패키지 설치 {#install-aem-forms-jee-bundles-package-1}
 
@@ -61,7 +57,7 @@ AEM Forms JEE 패키지 (aemfd-jee-bundles-package-6.2CFP5, 버전 1.0.2)에서�
 
 >[!NOTE]
 >
->AEM 6.2 CFP4 이후에는, 업그레이드 프로세스 중 시간 초과로 인해 문제가 발생할 경우 다음 지침에 따라 DSC 작업에 대한 시간 제한을 구성할 수 있습니다. ([AEM 6.2 CFP4 릴리스 노트](release-notes-aem-6-2-cumulative-fix-pack.md)의 NPR-16774를 참조하십시오.)
+>AEM 6.2 CFP4 이후에는, 업그레이드 프로세스 중 시간 초과로 인해 문제가 발생할 경우 다음 지침에 따라 DSC 작업에 대한 시간 제한을 구성할 수 있습니다.
 
 DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니다. 설치, 로드, 시작, 중지 등의 DSC 작업에 대한 시간 제한을 변경하려면 -D 옵션과 함께 JVM 인수를 사용하여 `adobe.component.registry.timeout`을 설정해야 합니다.
 
@@ -142,22 +138,8 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
    AEM [!DNL Forms] 6.3의 경우 다음을 참조하십시오.
 
-   * [JBoss용 AEM  [!DNL Forms]  설치 및 배포](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-jboss.pdf)
-   * [WebSphere용 AEM  [!DNL Forms]  설치 및 배포](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
-   * [WebLogic용 AEM  [!DNL Forms]  설치 및 배포](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-weblogic.pdf)
-
-   AEM [!DNL Forms] 6.2의 경우 다음을 참조하십시오.
-
-   * [JBoss용 AEM  [!DNL Forms]  설치 및 배포](http://www.adobe.com/go/learn_aemforms_installJBoss_62_kr)
-   * [WebSphere용 AEM  [!DNL Forms]  설치 및 배포](http://www.adobe.com/go/learn_aemforms_installWebSphere_62_kr)
-   * [WebLogic용 AEM  [!DNL Forms]  설치 및 배포](http://www.adobe.com/go/learn_aemforms_installWebLogic_62_kr)
-
-   AEM Forms 6.1의 경우 다음을 참조하십시오.
-
-   * [JBoss용 AEM  [!DNL Forms]  설치 및 배포](http://www.adobe.com/go/learn_aemforms_installJBoss_61_kr)
-   * [WebSphere용 AEM  [!DNL Forms]  설치 및 배포](http://www.adobe.com/go/learn_aemforms_installWebSphere_61_kr)
-   * [WebLogic용 AEM  [!DNL Forms]  설치 및 배포](http://www.adobe.com/go/learn_aemforms_installWebLogic_61_kr)
-
-
+   * JBoss용 AEM [!DNL Forms] 설치 및 배포
+   * WebSphere용 AEM [!DNL Forms] 설치 및 배포
+   * WebLogic용 AEM [!DNL Forms] 설치 및 배포
 
 1. AEM [!DNL Forms] JEE 서버를 다시 시작합니다.
