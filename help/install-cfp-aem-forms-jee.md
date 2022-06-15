@@ -4,9 +4,9 @@ description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 99%
 1. CFP에 대한 AEM 6.3 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://www.adobe.com/kr/account/sign-in.supportportal.html)에 문의하십시오.
 1. [AEM 설치 및 구성 [!DNL Forms JEE]](#install-and-configure-aem-forms-jee)의 설명에 따라 CFP 설치 관리자를 실행하고 AEM [!DNL Forms JEE]를 구성하십시오.
 1. 최신 AEM CFP 6.3.3.x 설치
-1. [!DNL Forms]AEM CFP [6.3.3.x](aem-forms-releases.md)용 추가 기능 패키지 설치
+1. AEM CFP [6.3.3.x](aem-forms-releases.md)용 [!DNL Forms] 추가 기능 패키지 설치
 
 ### AEM [!DNL Forms JEE] 번들 패키지 설치 {#install-aem-forms-jee-bundles-package}
 
@@ -30,7 +30,7 @@ AEM [!DNL  Forms JEE] 패키지(aemfd-jee-bundles-package-6.3CFP1, 버전 1.0.2)
 AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용하는 경우, 구성 관리자를 실행한 후 CFP1을 배포하고 다음 설정을 구성합니다. 이 설정은 엔터프라이즈 도메인 동기화가 실행될 때 사용자, 그룹 및 그룹 구성원을 동기화하는 데 필요합니다.
 
 1. **관리** UI에 로그인합니다.
-1. **[!UICONTROL 설정]** > **[!UICONTROL 사용자 관리]** > **[!UICONTROL 구성]** > **[!UICONTROL 구성 파일 가져오기 및 내보내기]**&#x200B;로 이동합니다. 
+1. **[!UICONTROL 설정]** > **[!UICONTROL 사용자 관리]** > **[!UICONTROL 구성]** > **[!UICONTROL 구성 파일 가져오기 및 내보내기]**&#x200B;로 이동합니다.
 1. config.xml 파일을 내보냅니다.
 1. *config.xml*&#x200B;의 도메인 구성 아래에 있는 &quot;`groupMemberDBQueryBatchSize`&quot;의 항목을 수정합니다. 샘플 항목:
 
@@ -42,11 +42,11 @@ AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용하
 
 지정된 시퀀스에서 다음 단계를 수행하여 AEM 6.2 [!DNL Forms JEE]에 누적 수정 팩을 설치합니다.
 
-1. CFP에 대한 AEM 6.2 [ 설치 관리자를 얻으려면 ](https://www.adobe.com/account/sign-in.supportportal.html)Adobe 지원 센터[!DNL Forms JEE]에 문의하십시오.
+1. CFP에 대한 AEM 6.2 [ 설치 관리자를 얻으려면 ](https://www.adobe.com/kr/account/sign-in.supportportal.html)Adobe 지원 센터[!DNL Forms JEE]에 문의하십시오.
 1. [AEM 설치 및 구성 [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee)의 설명에 따라 CFP 설치 관리자를 실행하고 AEM [!DNL Forms JEE]를 구성하십시오.
 1. AEM 핫픽스 12785 버전 7.0을 설치합니다.
 1. AEM 6.2 서비스 팩 1을 설치합니다.
-1. 최신 릴리스 노트-aem-6-2-cumulative-fix-pack.md를 설치합니다.
+1. 최신 release-notes-aem-6-2-cumulative-fix-pack.md를 설치합니다.
 1. AEM 6.2 서비스 팩 1 CFP의 [!DNL Forms] 추가 기능 패키지를 설치하십시오.
 
 ### AEM [!DNL Forms JEE] 번들 패키지 설치 {#install-aem-forms-jee-bundles-package-1}
@@ -61,7 +61,7 @@ AEM Forms JEE 패키지 (aemfd-jee-bundles-package-6.2CFP5, 버전 1.0.2)에서�
 
 DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니다. 설치, 로드, 시작, 중지 등의 DSC 작업에 대한 시간 제한을 변경하려면 -D 옵션과 함께 JVM 인수를 사용하여 `adobe.component.registry.timeout`을 설정해야 합니다.
 
-키 값을 초 단위로 지정합니다. 예를 들어,`-Dadobe.component.registry.timeout=300`
+키 값을 초 단위로 지정합니다. 예를 들어`-Dadobe.component.registry.timeout=300`
 
 다음 3가지 속성을 사용하여 구성 요소 수준에서 시간 제한을 변경할 수도 있습니다.
 
@@ -73,7 +73,7 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
 다음 명령을 사용하여 구성 요소 수준에서 시간 제한을 설정합니다.
 
-1. 모든 서비스 작업의 시간 제한을 600초로 설정하려면 다음을 수행합니다.
+1. 모든 서비스 작업의 시간 제한을 600초로 설정하려면 다음 작업을 수행합니다.
 
    `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600` 설정
 
@@ -93,17 +93,17 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
 1. /deploy 폴더의 백업을 수행합니다. 빠른 수정 사항을 제거하려는 경우 필요합니다.
 1. 애플리케이션 서버를 중지합니다.
-1. 패치 설치 프로그램 아카이브 파일을 하드 드라이브에 추출합니다.
-1. 사용 중인 운영 체제에 따라 이름이 지정된 디렉토리에서 다음 작업을 수행합니다.
+1. 패치 설치 관리자 아카이브 파일을 하드 드라이브에 추출합니다.
+1. 사용 중인 운영 체제에 따라 이름이 지정된 디렉터리에서 다음 작업을 수행합니다.
 
    **Windows**
 
-   설치 프로그램을 복사한 하드 디스크의 설치 미디어 또는 폴더로 이동합니다.
+   설치 관리자를 복사한 하드 디스크의 설치 미디어 또는 폴더로 이동합니다.
 
    * (Windows 32비트): Disk1\InstData\Windows\VM
    * (Windows 64비트): Disk1\InstData\Windows_64bit\VM
 
-   그리고 다음 파일을 두 번 클릭합니다.
+   그리고 다음 파일을 더블 클릭합니다.
 
    * aemforms63_cfp_install.exe **(AEM [!DNL Forms] 6.3**)
    * aemforms62_cfp_install.exe **(AEM [!DNL Forms] 6.2**)
@@ -111,7 +111,7 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
    **Linux, Solaris, AIX**
 
-   적절한 디렉토리로 이동합니다.
+   적절한 디렉터리로 이동합니다.
 
    * (Linux): Disk1/InstData/Linux/ NoVM
    * (Solaris): Disk1/InstData/Solaris/ NoVM
@@ -132,7 +132,7 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 1. 설치가 완료되면 **[!UICONTROL 다음]**&#x200B;을 클릭하여 설치된 파일에 빠른 수정 업데이트를 적용합니다.
 1. 기본적으로 구성 관리자 시작 확인란이 선택됩니다. **[!UICONTROL 완료]**&#x200B;를 클릭하여 구성 관리자를 실행합니다.
 
-   나중에 구성 관리자를 실행하려면 **[!UICONTROL 완료]**&#x200B;를 클릭하기 전에 **[!UICONTROL 구성 관리자 시작]** 옵션을 선택 해제합니다. *`[AEM_forms_root]`/configurationManager/bin* 디렉토리에 있는 적절한 스크립트를 사용하여 나중에 구성 관리자를 시작할 수 있습니다.
+   나중에 구성 관리자를 실행하려면 **[!UICONTROL 완료]**&#x200B;를 클릭하기 전에 **[!UICONTROL 구성 관리자 시작]** 옵션을 선택 해제합니다. *`[AEM_forms_root]`/configurationManager/bin* 디렉터리에 있는 적절한 스크립트를 사용하여 나중에 구성 관리자를 시작할 수 있습니다.
 
 1. 애플리케이션 서버에 따라 다음 문서 중 하나를 선택하고 *AEM[!DNL Forms]* 구성 및 배포 섹션의 지침을 따릅니다.
 
