@@ -3,10 +3,10 @@ title: 이전 설명서 업데이트
 description: 이 페이지에는  [!DNL Adobe Experience Manager]에 대한 이전 중요 설명서 변경 사항 및 업데이트가 나열됩니다.
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: febba72bfc60c2b92304da4cd38945674c66f9cf
-workflow-type: ht
-source-wordcount: '9150'
-ht-degree: 100%
+source-git-commit: d984db863b24ced14834c437b76fea80774b17d8
+workflow-type: tm+mt
+source-wordcount: '3632'
+ht-degree: 99%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2019년 10월 18일<br /> </td> 
-   <td>AEM Project Archetype<br /> </td> 
+   <td>AEM 프로젝트 원형<br /> </td> 
    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">AEM 프로젝트 전형</a>은 사용자 자신의 AEM 프로젝트의 시작점으로서 우수 사례 기반 Adobe Experience Manager 프로젝트를 생성합니다.<br /> </td> 
   </tr>
   <tr>
@@ -71,7 +71,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 10월 1일</td> 
    <td>JEE 설치에 대한 AEM Forms </td> 
-   <td><p>Oracle 18c 데이터베이스 드라이버에 대한 AEM Forms 지원이 추가되었습니다. </p> <p>플랫폼 매트릭스: <a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Oracle 18c 데이터베이스 드라이버에 대한 AEM Forms 지원이 추가되었습니다. </p> <p>플랫폼 매트릭스: <a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>2019년 10월 1일 </td> 
@@ -156,7 +156,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 7월 3일</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR">AEM 6.5 Service Pack 1(6.5.1.0)</a>을 사용할 수 있습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1(6.5.1.0)</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 6월 25일</td> 
@@ -267,7 +267,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 9월 9일<br /> </td> 
    <td>AEM Desktop App</td> 
-   <td>AEM Desktop App v2.0은 크리에이티브, 마케터 및 사업 부문 사용자가 AEM Assets에서 사용할 수 있도록 공개적으로 제공됩니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">릴리스 정보</a>를 참조하십시오.</td> 
+   <td>AEM 데스크탑 앱 v2.0은 크리에이티브, 마케터 및 사업 부문 사용자가 AEM Assets에서 사용할 수 있도록 공개적으로 제공됩니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">릴리스 정보</a>를 참조하십시오.</td> 
   </tr>
   <tr>
    <td>2019년 9월 6일</td> 
@@ -302,7 +302,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 4월 4일</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 서비스 팩 4(6.4.4.0)</a>를 사용할 수 있습니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 서비스 팩 4(6.4.4.0)</a>를 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 2월 22일</td> 
@@ -339,7 +339,7 @@ ht-degree: 100%
   <tr>
    <td>2018년 12월 20일</td> 
    <td>AEM 6.4 서비스 팩 3</td> 
-   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 서비스 팩 3(6.4.3.0)</a>을 사용할 수 있습니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 서비스 팩 3(6.4.3.0)</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2018년 12월 17일</td> 
@@ -414,7 +414,7 @@ ht-degree: 100%
   <tr>
    <td>2018년 10월 3일</td> 
    <td>AEM 6.4 서비스 팩 2</td> 
-   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 서비스 팩 2</a>(6.4.2.0)를 사용할 수 있습니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 서비스 팩 2</a>(6.4.2.0)를 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2018년 9월 18일</td> 
@@ -434,12 +434,12 @@ ht-degree: 100%
   <tr>
    <td>2018년 8월 24일</td> 
    <td>리치 텍스트 편집기<br /> </td> 
-   <td>구성을 개선하고 누락된 정보를 추가하며 워크플로 일러스트레이션을 추가하고 긴 양식 문서를 분할하도록 <a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">RTE 구성 문서</a>를 보완했습니다.</td> 
+   <td>구성을 개선하고 누락된 정보를 추가하며 워크플로 일러스트레이션을 추가하고 긴 양식 문서를 분할하도록 <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">RTE 구성 문서</a>를 보완했습니다.</td> 
   </tr>
   <tr>
    <td>2018년 8월 24일</td> 
    <td>SPA(Single Page Applications)<br /> </td> 
-   <td>AEM SPA 편집기의 <a href="https://helpx.adobe.com/kr/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">SPA(단일 페이지 애플리케이션)</a> 개발을 위한 설명서가 업데이트되어 확장되었습니다.<br /> </td> 
+   <td>AEM SPA 편집기의 <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">SPA(단일 페이지 애플리케이션)</a> 개발을 위한 설명서가 업데이트되어 확장되었습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 8월 16일</td> 
@@ -474,7 +474,7 @@ ht-degree: 100%
   <tr>
    <td>2018년 7월 5일</td> 
    <td>MC-CC 통합<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/administering/integration/configure-assets-cc-integration.html">AEM Assets와 Marketing Cloud 및Creative Cloud 통합 구성 문서</a>에 버그 수정 사항 및 편집 개선 사항이 있습니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">AEM Assets와 Marketing Cloud 및Creative Cloud 통합 구성 문서</a>에 버그 수정 사항 및 편집 개선 사항이 있습니다.</td> 
   </tr>
   <tr>
    <td>2018년 7월 5일</td> 
@@ -489,7 +489,7 @@ ht-degree: 100%
   <tr>
    <td>2018년 6월 29일</td> 
    <td>AEM 6.4.1.0</td> 
-   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a>이 제공됩니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a>이 제공됩니다.</td> 
   </tr>
   <tr>
    <td>2018년 6월 25일</td> 
@@ -509,7 +509,7 @@ ht-degree: 100%
   <tr>
    <td>2018년 6월 14일</td> 
    <td>향상된 스마트 태그</td> 
-   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">스마트 콘텐츠 서비스를 사용하여 에셋 태그 지정을 구성</a>하는 방법에 대한 설명서가 개선되었습니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">스마트 콘텐츠 서비스를 사용하여 에셋 태그 지정을 구성</a>하는 방법에 대한 설명서가 개선되었습니다.</td> 
   </tr>
   <tr>
    <td>2018년 6월 4일</td> 
@@ -555,7 +555,7 @@ ht-degree: 100%
   <tr>
    <td>2018년 4월 24일<br /> </td> 
    <td>SPA(Single Page Applications)<br /> </td> 
-   <td><p>SPA(단일 페이지 애플리케이션)는 웹 사이트 사용자에게 훌륭한 경험을 제공할 수 있습니다. 개발자는 SPA 프레임워크를 사용하여 사이트를 작성하려고 하며 작성자는 SPA로 빌드된 사이트의 AEM 내에서 콘텐츠를 원활하게 편집하려고 합니다.</p> <p><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 작성 기능</a>(현재 기술 미리 보기)에서는 AEM에서 SPA를 지원하는 복합 솔루션을 제공합니다.</p> </td> 
+   <td><p>SPA(단일 페이지 애플리케이션)는 웹 사이트 사용자에게 훌륭한 경험을 제공할 수 있습니다. 개발자는 SPA 프레임워크를 사용하여 사이트를 작성하려고 하며 작성자는 SPA로 빌드된 사이트의 AEM 내에서 콘텐츠를 원활하게 편집하려고 합니다.</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 작성 기능</a>(현재 기술 미리 보기)에서는 AEM에서 SPA를 지원하는 복합 솔루션을 제공합니다.</p> </td> 
   </tr>
   <tr>
    <td>2018년 4월 4일</td> 
@@ -571,10 +571,13 @@ ht-degree: 100%
 
 ## 이전 콘텐츠 {#legacy-content}
 
-2017년 10월 24일부터 이전 버전의 AEM 설명서를 다음 새 위치로 이동했습니다. [https://helpx.adobe.com/kr/experience-manager/aem-previous-versions.html](https://helpx.adobe.com/kr/experience-manager/aem-previous-versions.html).
+2017년 10월 24일부터 이전 버전의 AEM 설명서를 다음 새 위치로 이동했습니다. [이전 버전의 Adobe Experience Manager, CQ 및 CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR).
 
 다음 버전을 이동했습니다.
 
+* AEM 6.3
+* AEM 6.2
+* AEM 6.1
 * AEM 6.0
 * AEM 5.6.1
 * AEM 5.6
@@ -598,355 +601,355 @@ ht-degree: 100%
   <tr>
    <td>2018년 2월 14일</td> 
    <td>AEM 릴리스 및 업데이트</td> 
-   <td><p>사용 가능한 모든 AEM 릴리스와 업데이트를 위한 원스탑 허브가 게시되었습니다. AEM 6.4, AEM 6.3, AEM 6.2, AEM 6.1의 최신 누적 수정 팩, 서비스 팩, 기능 팩 및 핫픽스에 연결합니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/aem-releases-updates.html">AEM 릴리스 및 업데이트</a>를 참조하십시오. </p> </td> 
+   <td><p>사용 가능한 모든 AEM 릴리스와 업데이트를 위한 원스탑 허브가 게시되었습니다. AEM 6.4, AEM 6.3, AEM 6.2, AEM 6.1의 최신 누적 수정 팩, 서비스 팩, 기능 팩 및 핫픽스에 연결합니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html">AEM 릴리스 및 업데이트</a>를 참조하십시오. </p> </td> 
   </tr>
  </tbody>
 </table>
 
-## [!DNL Adobe Experience Manager] 6.3 {#aem-1}
+<!-- ## [!DNL Adobe Experience Manager] 6.3 {#aem-1}
 
 <table> 
  <tbody>
   <tr>
-   <td>날짜</td> 
-   <td>주제</td> 
-   <td>변경 사항</td> 
+   <td>Date</td> 
+   <td>Topic</td> 
+   <td>Changes</td> 
   </tr>
     <tr>
-   <td>2019년 12월 12일</td> 
+   <td>Dec 12 2019</td> 
    <td>AEM 6.3.3.7</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2019년 10월 11일</td> 
+   <td>October 11, 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Adobe Analytics API의 보안 변경 사항으로 인해, AEM 내에 포함된 Activity Map 버전을 더는 사용할 수 없습니다. 이제 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html" target="_blank">Adobe Analytics에서 제공한 ActivityMap 플러그인</a>을 사용해야 합니다.</p> </td> 
+   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used.</p> </td> 
   </tr>
   <tr>
-   <td>2019년 9월 25일</td> 
+   <td>September 25, 2019</td> 
    <td>AEM 6.3.3.6</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2019년 9월 9일<br /> </td> 
-   <td>AEM Assets 스마트 태그</td> 
-   <td>인증서가 만료된 후 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/assets/using/config-smart-tagging.html" target="_blank">인증서를 업데이트하는 방법</a>을 알아봅니다.</td> 
+   <td>September 9, 2019<br /> </td> 
+   <td>AEM Assets Smart Tags</td> 
+   <td>Know how to <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html" target="_blank">update certificate</a> after it expires.</td> 
   </tr>
   <tr>
-   <td>2019년 7월 03일</td> 
+   <td>July 03, 2019</td> 
    <td>AEM 6.3.3.5</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2019년 5월 09일</td> 
+   <td>May 09, 2019</td> 
    <td>AEM 6.3.3.4</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2019년 14월 3일</td> 
+   <td>March 14, 2019</td> 
    <td>AEM 6.3.3.3</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2019년 1월 15일</td> 
+   <td>January 15, 2019</td> 
    <td>AEM 6.3.3.2</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2019년 1월 10일</td> 
-   <td>경험 조각</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/administering/using/experience-fragments-target.html">경험 조각과 Target 통합</a>에 대한 문서.</td> 
+   <td>January 10, 2019</td> 
+   <td>Experience Fragments</td> 
+   <td>Documentation on <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/experience-fragments-target.html">Target Integration with Experience Fragments</a>.</td> 
   </tr>
   <tr>
-   <td>2018년 12월 11일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/developing/using/templates.html#template-availability">템플릿 가용성</a></td> 
-   <td>템플릿 가용성을 정의할 때의 권장 사항이 업데이트되었습니다.</td> 
+   <td>December 11, 2018</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/templates.html#template-availability">Template Availability</a></td> 
+   <td>Updated recommendations when defining the availability of your templates.</td> 
   </tr>
   <tr>
-   <td>2018년 11월 19일</td> 
-   <td>경험 조각</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/developing/using/we-retail-experience-fragments.html">We.Retail에서 경험 조각</a>을 사용하는 방법을 주로 표시하는 개발자용 빠른 시작 페이지입니다.<br /> </td> 
+   <td>November 19, 2018</td> 
+   <td>Experience Fragments</td> 
+   <td>Quick-start page for developers, highlighting how to use <a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/we-retail-experience-fragments.html">Experience Fragments in We.Retail</a>.<br /> </td> 
   </tr>
   <tr>
-   <td>2018년 11월 15일</td> 
+   <td>November 15, 2018</td> 
    <td>AEM 6.3.3.1</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 10월 16일</td> 
-   <td>코어 구성 요소<br /> </td> 
-   <td>이미지, 제목, 페이지 구성 요소에 대한 개선 사항과 다양한 버그 수정이 포함된 <a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-core-components/using/components/tabs.html">탭</a>과 <a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-core-components/using/components/carousel.html">회전 메뉴</a> 구성 요소의 릴리스 2.2.0입니다.</td> 
+   <td>October 16, 2018</td> 
+   <td>Core Components<br /> </td> 
+   <td>Release 2.2.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a> components along with improvements to the Image, Title, and Page components and numerous bug fixes.</td> 
   </tr>
   <tr>
-   <td>2018년 10월 3일</td> 
-   <td>정적 템플릿<br /> </td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/developing/using/page-templates-static.html#how-template-designs-are-applied">정적 템플릿에 디자인을 적용하는 방법</a>이 자세히 설명되어 있습니다.</td> 
+   <td>October 03, 2018</td> 
+   <td>Static Templates<br /> </td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/page-templates-static.html#how-template-designs-are-applied">How designs are applied to static templates</a> has been detailed.</td> 
   </tr>
   <tr>
-   <td>2018년 9월 12일</td> 
+   <td>September 12, 2018</td> 
    <td>AEM 6.3.3.0</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/assets/using/cascading-metadata.html" target="_blank">계단식 메타데이터</a> 및 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/assets/using/asset-reports.html" target="_blank">에셋 보고</a>.</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/cascading-metadata.html" target="_blank">cascading metadata</a> and <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/asset-reports.html" target="_blank">asset reporting</a>.</td> 
   </tr>
   <tr>
-   <td>2018년 8월 29일</td> 
+   <td>August 29, 2018</td> 
    <td>AEM Assets</td> 
-   <td>oAuth 통합을 구성하기 위해서 Adobe I/O 게이트웨이 서비스가 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">AEM Assets 통합 구성</a> 및 <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR" target="_blank">Brand Portal로 Assets 통합 구성</a> 문서에 제공됩니다.<br /> </td> 
+   <td>To configure oAuth integrations, the Adobe I/O gateway service is available at <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">configure AEM Assets integration</a> and <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html" target="_blank">configure Assets integration with Brand Portal</a> articles.<br /> </td> 
   </tr>
   <tr>
-   <td>2018년 8월 24일</td> 
-   <td>리치 텍스트 편집기</td> 
-   <td>구성을 개선하고 누락된 정보를 추가하며 워크플로 일러스트레이션을 추가하고 긴 양식 문서를 분할하도록 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/administering/using/rich-text-editor.html" target="_blank">RTE 구성 문서</a>를 보완했습니다.</td> 
+   <td>August 24, 2018</td> 
+   <td>Rich Text Editor</td> 
+   <td>Revamped <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/rich-text-editor.html" target="_blank">configure RTE article</a> to structure it better, add some missing information, add a workflow illustration, and split the long-form article.</td> 
   </tr>
   <tr>
-   <td>2018년 8월 16일</td> 
-   <td>Livefyre와 통합하기</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/feature-packs-release-notes.html">기능 팩</a> 페이지를 비롯한 <a href="https://helpx.adobe.com/kr/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 기능 팩 릴리스</a>가 업데이트되었습니다. </td> 
+   <td>August 16, 2018</td> 
+   <td>Integrating with Livefyre</td> 
+   <td>Updated <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 feature pack release</a>, as well as the <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/feature-packs-release-notes.html">Feature Pack</a> page. </td> 
   </tr>
   <tr>
-   <td>2018년 8월 2일</td> 
-   <td>Livefyre와 통합하기</td> 
-   <td>AEM의 Livefyre 앱에 대한 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/administering/using/livefyre.html">지원 매트릭스</a>가 추가되었습니다. </td> 
+   <td>August 2, 2018</td> 
+   <td>Integrating with Livefyre</td> 
+   <td>Added <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html">support matrix</a> for Livefyre apps in AEM. </td> 
   </tr>
   <tr>
-   <td>2018년 7월 19일</td> 
-   <td>AEM 6.3<br /> FP 24424 및 FP 24425<br /> 콘텐츠 조각 업데이트와 Content Services 기능 팩</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/content-services-fragments-featurepacks.html">콘텐츠 조각 업데이트 및 Content Services 기능 팩</a>.</td> 
+   <td>July 19, 2018</td> 
+   <td>AEM 6.3<br /> FP 24424 and FP 24425<br /> Content Fragment Updates and Content Services Feature Pack</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/content-services-fragments-featurepacks.html">Content Fragments Updates and Content Services Feature Pack</a>.</td> 
   </tr>
   <tr>
-   <td>2018년 7월 10일</td> 
-   <td>적응형 양식</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/forms/using/create-your-first-adaptive-form.html">첫 번째 적응형 양식</a> 튜토리얼과 관련 문서 시리즈 만들기를 사용할 수 있습니다. </td> 
+   <td>July 10, 2018</td> 
+   <td>Adaptive Forms</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/create-your-first-adaptive-form.html">Create your first adaptive form</a> tutorial and related articles in the series are available. </td> 
   </tr>
   <tr>
-   <td>2018년 7월 5일<br /> </td> 
-   <td>에셋 스마트 태그</td> 
-   <td>구성을 개선하고 버그를 수정하며 관련 문서를 상호 연결하기 위해 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/assets/using/config-smart-tagging.html">스마트 태그 구성 문서</a>가 개선되었습니다.</td> 
+   <td>July 5, 2018<br /> </td> 
+   <td>Assets Smart Tags</td> 
+   <td>Improvements to the <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html">Configure Smart Tags article</a> to structure better, fix bugs, and cross-link with relatedarticle.</td> 
   </tr>
   <tr>
-   <td>2018년 7월 5일</td> 
-   <td>Adobe Analytics와 통합<br /> </td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/administering/using/adobeanalytics.html">Adobe Analytics와 통합</a> 페이지에 대한 여러 업데이트가 있습니다.<br /> </td> 
+   <td>July 5, 2018</td> 
+   <td>Integrating with Adobe Analytics<br /> </td> 
+   <td>Various updates to the <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics.html">Integrating with Adobe Analytics</a> pages.<br /> </td> 
   </tr>
   <tr>
-   <td>2018년 6월 25일</td> 
+   <td>June 25, 2018</td> 
    <td>AEM 6.3.2.2</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 5월 30일</td> 
+   <td>May 30, 2018</td> 
    <td>Activity Map</td> 
-   <td>페이지 편집기의 일부로 게시된 페이지의 Activity Map 기능입니다. <a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/authoring/using/pa-using.html#analyticsvisiblefromthepageeditor">사용</a> 방법.</td> 
+   <td>Activity map functionality for published pages as part of the page editor. How to <a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/pa-using.html#analyticsvisiblefromthepageeditor">use</a>.</td> 
   </tr>
   <tr>
-   <td>2018년 5월 25일<br /> </td> 
-   <td>AEM 6.3 FP 22818<br /> 콘텐츠 조각 업데이트 및 Content Services 기능 팩<br /> </td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/fp-22818-content-services-fragments-featurepack.html">콘텐츠 조각 업데이트 및 Content Services 기능 팩</a>.</td> 
+   <td>May 25, 2018<br /> </td> 
+   <td>AEM 6.3 FP 22818<br /> Content Fragment Updates and Content Services Feature Pack<br /> </td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/fp-22818-content-services-fragments-featurepack.html">Content Fragments Updates and Content Services Feature Pack</a>.</td> 
   </tr>
   <tr>
-   <td>2018년 5월 10일</td> 
+   <td>May 10, 2018</td> 
    <td>AEM 6.3.2.1</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 4월 30일</td> 
-   <td>Livefyre와 통합하기</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/livefyre-feature-pack-204.html">Livefyre 기능 팩 2.0.4</a> 및 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/livefyre-feature-pack202.html">Livefyre 기능 팩 2.0.2</a> 페이지가 추가되었습니다.</td> 
+   <td>April 30, 2018</td> 
+   <td>Integrating with Livefyre</td> 
+   <td>Added a page for <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/livefyre-feature-pack-204.html">Livefyre Feature Pack 2.0.4</a>, and <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/livefyre-feature-pack202.html">Livefyre Feature Pack 2.0.2</a>.</td> 
   </tr>
   <tr>
-   <td>2018년 4월 05일</td> 
+   <td>April 05, 2018</td> 
    <td>AEM 6.3.2.0</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/sp2-release-notes.html">서비스 팩 6.3.2.0</a>을 사용할 수 있습니다.</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html">Service Pack 6.3.2.0</a> is available.</td> 
   </tr>
   <tr>
-   <td>2018년 2월 23일</td> 
-   <td>개정 정리</td> 
-   <td><p>오프라인 개정 정리 후 온라인 개정 정리 실행이라는 새 섹션을 추가하여 오프라인 개정 정리 후 온라인 개정 정리를 실행할 때 발생하는 내용을 자세히 설명합니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/deploying/using/revision-cleanup.html#how-to-run-online-revision-cleanup">개정 정리</a>를 참조하십시오.</p> </td> 
+   <td>February 23, 2018</td> 
+   <td>Revision Cleanup</td> 
+   <td><p>Added a new section named "Running Online Revision Cleanup After Offline Revision Cleanup" that details what happens when online revision cleanup is executed after offline revision cleanup.</p> <p>See <a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/using/revision-cleanup.html#how-to-run-online-revision-cleanup">Revision Cleanup</a>.</p> </td> 
   </tr>
   <tr>
-   <td>2018년 2월 19일</td> 
-   <td>Forms PDF Generator를 사용한 HTML 대 PDF 변환</td> 
-   <td><p>PDF Generator를 사용하여 HTML 파일을 PDF로 변환하는 PhantomJS 구성 및 사용 정보가 추가되었습니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/forms/using/install-configure-pdf-generator.html">PDF Generator 설치 및 구성</a>을 참조하십시오.</p> </td> 
+   <td>February 19, 2018</td> 
+   <td>HTML to PDF conversion using Forms PDF Generator</td> 
+   <td><p>Added information to configure and use PhantomJS for converting HTML files to PDF using PDF Generator.</p> <p>See <a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/install-configure-pdf-generator.html">Installing and configuring PDF Generator</a>.</p> </td> 
   </tr>
   <tr>
-   <td>2018년 2월 15일</td> 
-   <td>AEM Forms 데이터 통합</td> 
-   <td><p>양식 데이터 모델로 온프레미스 Microsoft Dynamics와 AEM Forms를 구성하고 통합하는 데 관한 정보가 추가되었습니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/forms/using/ms-dynamics-odata-configuration.html">Microsoft Dynamics OData 구성</a>을 참조하십시오.</p> </td> 
+   <td>February 15, 2018</td> 
+   <td>AEM Forms data integration</td> 
+   <td><p>Added information to configure and integrate on-premises Microsoft Dynamics with AEM Forms using form data model.</p> <p>See <a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/ms-dynamics-odata-configuration.html">Microsoft Dynamics OData Configuration</a>.</p> </td> 
   </tr>
   <tr>
-   <td>2018년 2월 5일</td> 
-   <td>Adobe Analytics 통합</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">관리되는 폴링 구성</a>에 대한 업데이트입니다. <a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/authoring/using/pa-using.html">페이지 분석 데이터 보기</a>도 참조하십시오.<br /> </td> 
+   <td>February 5, 2018</td> 
+   <td>Adobe Analytics Integration</td> 
+   <td>Updates to <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">Managed Polling Configurations</a>. Also <a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/pa-using.html">Seeing Page Analytics Data</a>.<br /> </td> 
   </tr>
   <tr>
-   <td>2018년 1월 19일</td> 
-   <td>코어 구성 요소 릴리스 2.0.0</td> 
-   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-core-components/using/versions.html">코어 구성 요소</a>의 릴리스 2.0.0이 제공되어 기존 버전 2 구성 요소에 탐색, 언어 탐색, 빠른 검색 구성 요소가 함께 제공됩니다.</td> 
+   <td>January 19, 2018</td> 
+   <td>Core Components Release 2.0.0</td> 
+   <td>Release 2.0.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">core components</a> is now available, introducing version 2 of the existing components along with new components including Navigation, Language Navigation, and Quick Search components.</td> 
   </tr>
   <tr>
-   <td>2018년 1월 8일</td> 
-   <td>AEM 6.3 누적 수정 팩 6.3.1.2<br /> </td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.<br /> </td> 
+   <td>January 8, 2018</td> 
+   <td>AEM 6.3 Cumulative Fix Pack 6.3.1.2<br /> </td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.<br /> </td> 
   </tr>
   <tr>
-   <td>2017년 12월 14일<br /> </td> 
-   <td>스타일 시스템 기능 팩<br /> </td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/style-system-fp.html">스타일 시스템 기능 팩과 관련 설명서</a>가 릴리스되어 페이지에 구성 요소를 편집할 때 콘텐츠 작성자가 선택할 수 있도록 템플릿 작성자가 구성 요소의 구성 요소 정책에서 스타일 클래스를 정의할 수 있습니다.</td> 
+   <td>December 14, 2017<br /> </td> 
+   <td>Style System Feature Pack<br /> </td> 
+   <td>The <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/style-system-fp.html">Style System feature pack and its associated documentation</a> was released allowing a template author to define style classes in the component policy of components so that a content author can select these when editing the component on a page.</td> 
   </tr>
   <tr>
-   <td>2017년 11월 29일</td> 
-   <td>AEM 6.3 누적 수정 팩 6.3.1.1</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>November 29, 2017</td> 
+   <td>AEM 6.3 Cumulative Fix Pack 6.3.1.1</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 11월 28일</td> 
-   <td>업그레이드 설명서</td> 
-   <td>더 완벽한 업그레이드 프로세스 플로우를 제공하고 누락된 영역을 해결하며 고객 피드백을 처리할 수 있도록 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/deploying/user-guide.html">AEM 6.3 업그레이드 설명서</a>가 보완되었습니다.</td> 
+   <td>November 28, 2017</td> 
+   <td>Upgrade Documentation</td> 
+   <td>The <a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/user-guide.html">AEM 6.3 Upgrade documentation</a> was revamped to provide a more complete upgrade process flow, addressed missing areas and addressed outstanding customer feedback.</td> 
   </tr>
   <tr>
-   <td>2017년 11월 14일 </td> 
-   <td>스마트 이미징</td> 
-   <td><p>Dynamic Media Classic / Dynamic Media의 새 스마트 이미징 기능 관련 FAQ입니다.<br /> </p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">스마트 이미징</a>을 참조하십시오.</p> </td> 
+   <td>November 14, 2017 </td> 
+   <td>Smart Imaging</td> 
+   <td><p>Frequently asked questions regarding the new feature smart imaging in Dynamic Media Classic / Dynamic Media.<br /> </p> <p>See <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Smart Imaging</a>.</p> </td> 
   </tr>
   <tr>
-   <td>2017년 10월 13일</td> 
-   <td>AEM 6.3 서비스 팩 1</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes.html">AEM 6.3 서비스 팩 1</a>의 릴리스 정보.</td> 
+   <td>October 13, 2017</td> 
+   <td>AEM 6.3 Service Pack 1</td> 
+   <td>Release notes for <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes.html">AEM 6.3 Service Pack 1</a>.</td> 
   </tr>
   <tr>
-   <td>2017년 10월 11일</td> 
-   <td>콘텐츠 조각 업데이트 및 Content Services - 기능 팩</td> 
-   <td>이 기능 팩 세트는 콘텐츠 조각, JSON 내보내기 도구 및 코어 구성 요소에 대한 업데이트를 제공합니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">콘텐츠 조각 업데이트 및 콘텐츠 서비스 - 기능 팩 릴리스 정보</a>를 참조하십시오.</td> 
+   <td>October 11, 2017</td> 
+   <td>Content Fragment Updates and Content Services - Feature Pack</td> 
+   <td>This set of Feature Packs delivers updates to Content Fragments, the JSON Exporter and Core Components. See the <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Content Fragment Updates and Content Services - Feature Pack Release Notes</a>.</td> 
   </tr>
   <tr>
-   <td>2017년 10월 3일</td> 
+   <td>October 3, 2017</td> 
    <td>AEM Repo Tool</td> 
-   <td><p>파일 시스템과 AEM 사이에 최소한의 종속성으로 FTP와 비슷한 간편한 전송을 지원하기 위해 AEM 보고 도구가 문서로 제공됩니다. 단순한 Bash 스크립트이며 IntelliJ와 Eclipse로 통합 가능합니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/developing/using/aem-repo-tool.html">AEM Repo Tool</a></p> </td> 
+   <td><p>Documented AEM Repo Tool, which is available for simplified, FTP-like transfers between the filesystem and AEM with minimal dependencies. It is a simple bash script and integratable into IntelliJ and Eclipse.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/aem-repo-tool.html">AEM Repo Tool</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 9월 12일</td> 
-   <td>AEM 6.3 Forms로 업그레이드</td> 
-   <td><p>마이그레이션 유틸리티를 사용하여 자동으로 마이그레이션되지 않는 적응형 양식 규칙 처리에 관한 정보가 추가되었습니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/forms/using/migration-utility.html">AEM Forms 에셋 및 문서 마이그레이션</a></p> </td> 
+   <td>September 12, 2017</td> 
+   <td>Upgrade to AEM 6.3 Forms</td> 
+   <td><p>Added information about handling adaptive form rules that are not migrated automatically using the migration utility.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/migration-utility.html">Migrate AEM Forms assets and documents</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 9월 11일<br /> </td> 
-   <td>AEM Forms JEE의 호스트 이름 변경</td> 
-   <td><p>호스트 시스템의 이름이 변경된 경우, 호스트 시스템에서 실행 중인 Adobe Experience Manager Forms 서비스용 JBoss를 시작할 수 없습니다. 문제를 해결하려면 Windows 레지스트리 키를 재설정하고 현재 호스트 이름을 레지스트리에 추가해야 합니다.</p> <p><a href="https://helpx.adobe.com/kr/aem-forms/kb/JBoss-aem-forms-service-fails-to-start.html">호스트 이름을 변경할 때 Adobe Experience Manager Forms 서비스의 JBoss를 시작할 수 없습니다.</a></p> </td> 
+   <td>September 11, 2017<br /> </td> 
+   <td>Change hostname for AEM Forms JEE</td> 
+   <td><p>When the name of the host machine is changed, the JBoss for Adobe Experience Manager Forms service running on the host machine fails to start. To resolve the issue, you must reset the Windows Registry key and add the name of the current host to the registry.</p> <p><a href="https://helpx.adobe.com/aem-forms/kb/JBoss-aem-forms-service-fails-to-start.html">JBoss for Adobe Experience Manager Forms service fails to start when the host name is changed</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 9월 5일</td> 
-   <td>Dynamic Media 기능 팩 14410 및 18912</td> 
-   <td><p>이 기능 팩은 Dynamic Media 고객을 위한 새로운 자동화 및 제공 기능을 제공하며 Dynamic Media Classic 고객이 Dynamic Media로 전환하도록 업그레이드된 것입니다. </p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">기능 팩 14410 및 18912가 포함된 Dynamic Media 구성</a></p> </td> 
+   <td>September 5, 2017</td> 
+   <td>Dynamic Media Feature Packs 14410 and 18912</td> 
+   <td><p>This feature pack provides new automation and delivery capabilities for Dynamic Media customers and is an upgrade for Dynamic Media Classic customers to transition to Dynamic Media. </p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuring Dynamic Media with Feature Pack 14410 and 18912</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 31일</td> 
-   <td>Touch UI 기능 상태</td> 
-   <td><p>터치 사용 UI에 대부분의 기능이 표시되지만 아직 완성되지 않아 향후 릴리스에서 추가될 기능도 있습니다. 다음 페이지는 AEM 6.3에 구현된 현재 기능 상태를 표시합니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/touch-ui-features-status.html">Touch UI 기능 상태</a></p> </td> 
+   <td>August 31, 2017</td> 
+   <td>Touch UI Feature Status</td> 
+   <td><p>While most capabilities are present in the touch-enabled UI, there are features that are not yet complete and will be added in future releases.The following page shows the current status of the capabilities as implemented in AEM 6.3.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/touch-ui-features-status.html">Touch UI Feature Status</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 29일</td> 
-   <td>Forms 규칙 편집기</td> 
-   <td><p>적응형 양식 구성 서비스에서는 규칙 편집기 액세스를 사용자의 역할이나 기능을 기준으로 제한합니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/forms/using/rule-editor-access-user-groups.html">사용자 그룹을 선택하는 규칙 편집기 액세스 부여</a></p> </td> 
+   <td>August 29, 2017</td> 
+   <td>Forms Rule Editor</td> 
+   <td><p>Adaptive Forms Configuration Service allows you to limit rule editor access to users based on their role or function.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/rule-editor-access-user-groups.html">Grant rule editor access to select user groups</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 29일</td> 
-   <td>Forms 성능 조정</td> 
-   <td><p>AEM Forms 파일과 폴더를 실시간 바이러스 검사 애플리케이션에서 제외하여 Forms 서버의 성능을 개선할 수 있습니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/forms/using/performance-tuning-aem-forms.html">AEM Forms 서버의 성능 조정</a></p> </td> 
+   <td>August 29, 2017</td> 
+   <td>Forms Performance Tuning</td> 
+   <td><p>You can exclude AEM Forms files and folders from on-access virus scan application to improve the performance of your Forms server.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/performance-tuning-aem-forms.html">Performance tuning of AEM Forms server</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 28일</td> 
-   <td>적응형 양식</td> 
-   <td><p>양식 개발자는 완전한 기능의 적응형 양식을 AEM 외부에 호스트된 외부 웹 페이지에 임베드할 수 있습니다. 최종 사용자가 웹 페이지를 종료하지 않고 양식을 작성하여 페이지의 다른 요소 컨텍스트에 남아 있게 지원합니다.</p> <p><a href="https://helpx.adobe.com/kr/aem-forms/6-3/embed-adaptive-form-external-web-page.html">외부 웹 페이지에 적응형 양식 임베드</a></p> </td> 
+   <td>August 28, 2017</td> 
+   <td>Adaptive Forms</td> 
+   <td><p>Form developers can embed a fully functional adaptive forms in an external web page hosted outside AEM. It helps end users fill a form without leaving the web page and remain in context of other elements on the page.</p> <p><a href="https://helpx.adobe.com/aem-forms/6-3/embed-adaptive-form-external-web-page.html">Embed adaptive form in external web page</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 25일</td> 
-   <td>양식 데이터 통합</td> 
-   <td><p>AEM Forms에서는 Dynamics 365를 Forms와 빠르게 통합하는 데 사용할 수 있는 구성 패키지를 제공합니다. 이 패키지에는 클라우드 서비스 구성과 양식 데이터 모델이 사전 구성된 Dynamics 365 및 서비스와 함께 포함됩니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/forms/using/ms-dynamics-odata-configuration.html">Microsoft Dynamics 365 OData 구성</a></p> </td> 
+   <td>August 25, 2017</td> 
+   <td>Forms Data Integration</td> 
+   <td><p>AEM Forms provides a configuration package that you can use to quickly integrate Dynamics 365 with Forms. The package includes a cloud service configuration and a form data model with preconfigured Dynamics 365 entities and services.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/ms-dynamics-odata-configuration.html">Microsoft Dynamics 365 OData Configuration</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 24일</td> 
-   <td>Forms JEE 설치 및 구성</td> 
-   <td><p>여러 문제를 수정하고 AEM 6.3 Forms JEE용 설치 및 업그레이드 설명서가 갱신되었습니다.</p> <p><a href="https://helpx.adobe.com/kr/aem-forms/6-3/user-guide.html">JEE에 AEM Forms 설치 또는 업그레이드</a></p> </td> 
+   <td>August 24, 2017</td> 
+   <td>Install and Upgrade Forms JEE</td> 
+   <td><p>Fixed several issues and refreshed installation and upgrade documentation for AEM 6.3 Forms JEE.</p> <p><a href="https://helpx.adobe.com/aem-forms/6-3/user-guide.html">Install or upgrade AEM Forms on JEE</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 23일</td> 
-   <td>데코레이션 태그 동작</td> 
-   <td><p>웹 페이지의 구성 요소를 렌더링할 때 HTML 요소를 생성하여 자체에 렌더링된 구성 요소를 둘러쌀 수 있습니다. 개발자를 위해 AEM에서는 포함된 구성 요소를 감싸는 데코레이션 태그를 제어하는 분명하고 단순한 로직을 제공합니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/decoration-tag.html">장식 태그</a></p> </td> 
+   <td>August 23, 2017</td> 
+   <td>Decoration Tag Behavior</td> 
+   <td><p>When a component in a web page is rendered, an HTML element can be generated, wrapping the rendered component within itself. For developers, AEM offers clear and simple logic controlling the decoration tags that wrap included components.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/decoration-tag.html">Decoration Tag</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 23일</td> 
-   <td>편집기 제한 사항</td> 
-   <td><p>터치에 적합한 UI의 편집기에서 오버레이를 사용하여 iframe에 한정된 콘텐츠와 상호작용할 수 있습니다. 이러한 상호 작용은 편집자와 개발자의 사용에 모두 제한을 만듭니다.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/editor-limitations.html">편집기 제한 사항</a></p> </td> 
+   <td>August 23, 2017</td> 
+   <td>Editor Limitations</td> 
+   <td><p>The editor in the touch-optimized UI makes use of overlays to interact with content confined in an iframe. This interaction creates some limitations in both usage of the editor and also for developers.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/editor-limitations.html">Editor Limitations</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 14일</td> 
+   <td>August 14, 2017</td> 
    <td>AEM Screens 6.3</td> 
-   <td><p>새 AEM Screens 6.3 설명서가 제공됩니다. 또는, 5분 안에 디지털 서명 경험을 만들 수 있는 Quickstart도 사용할 수 있습니다. 다음 리소스를 참조하십시오.</p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/deploying/using/setting-up-a-basic-project-screens.html">Quickstart</a></p> <p><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/administering/using/administering-screens.html">AEM Screens 콘텐츠 관리</a><br /> </p> </td> 
+   <td><p>New AEM Screens 6.3 documentation is available. Alternatively, a Quickstart is available that lets a user create a Digital Signage Experience in 5 minutes. See the following resources:</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/using/setting-up-a-basic-project-screens.html">Quickstart</a></p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/administering-screens.html">Administering Content for AEM Screens</a><br /> </p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 10일</td> 
-   <td>AEM Sites 6.3 개발 시작 - WKND 튜토리얼</td> 
-   <td><p>새 개발자 6.3 시작 튜토리얼이 최신 AEM 기술을 기반으로 제공됩니다.</p> 
+   <td>August 10, 2017</td> 
+   <td>Getting Started Developing AEM Sites 6.3 - WKND Tutorial</td> 
+   <td><p>New developer 6.3 getting started tutorial is available based on the latest AEM technologies:</p> 
     <ul> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/htl/using/overview.html">HTL</a></li> 
-     <li><a href="https://sling.apache.org/documentation/bundles/models.html">Sling 모델</a></li> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/developing/using/touch-ui-concepts.html">Touch UI</a></li> 
-     <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-core-components/using/introduction.html">코어 구성 요소</a></li> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/developing/using/page-templates-editable.html">편집 가능한 템플릿</a></li> 
-    </ul> <p>튜토리얼은 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/developing/using/getting-started.html를 따라 코어 구성 요소를 사용하여 AEM 사이트 개발을 시작하십시오.">여기</a>에 있습니다.</p> </td> 
+     <li><a href="https://helpx.adobe.com/experience-manager/htl/using/overview.html">HTL</a></li> 
+     <li><a href="https://sling.apache.org/documentation/bundles/models.html">Sling Models</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/touch-ui-concepts.html">Touch UI</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html">Core Components</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/page-templates-editable.html">Editable Templates</a></li> 
+    </ul> <p>Find the tutorial <a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/getting-started.html">here</a>.</p> </td> 
   </tr>
   <tr>
-   <td>2017년 8월 9일</td> 
-   <td>클라이언트측 라이브러리 사용</td> 
-   <td>전처리기 사용 세부 사항은 물론 /apps에서 clientlibs를 찾고 프록시 서블릿을 사용하는 방법에 대한 세부 사항이 추가되었습니다.</td> 
+   <td>August 9, 2017</td> 
+   <td>Using Client-Side Libraries</td> 
+   <td>Details on locating clientlibs under /apps and using the proxy servlet as well as details on using preprocessors have been added.</td> 
   </tr>
   <tr>
-   <td>2017년 8월 8일</td> 
-   <td>AEM 6.3 누적 수정 팩 6.3.0.2</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>August 8, 2017</td> 
+   <td>AEM 6.3 Cumulative Fix Pack 6.3.0.2</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 7월 27일</td> 
-   <td>데스크탑 앱과 Creative Cloud 통합을 위한 Assets 우수 사례</td> 
-   <td><p>다음을 참조하십시오.</p> 
+   <td>July 27, 2017</td> 
+   <td>Assets Best Practices for the Desktop App and Creative Cloud Integration</td> 
+   <td><p>See:</p> 
     <ul> 
-     <li>AEM 및 Creative Cloud 통합 우수 사례</li> 
-     <li>AEM 데스크탑 앱 우수 사례</li> 
-     <li>AEM에서 Creative Cloud로의 폴더 공유 우수 사례</li> 
+     <li>AEM and Creative Cloud Integration Best Practices</li> 
+     <li>AEM Desktop App Best Practices</li> 
+     <li>AEM to Creative Cloud Folder Sharing Best Practices</li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2017년 6월 4일</td> 
-   <td>AEM 6.3 누적 수정 팩 6.3.0.1</td> 
-   <td>AEM 6.3용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>June 23, 2017</td> 
+   <td>AEM 6.3 Cumulative Fix Pack 6.3.0.1</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 6월 7일</td> 
-   <td>Digital River가 포함된 AEM Commerce</td> 
-   <td><p>새 전자 상거래 통합이 제공됩니다.</p> 
+   <td>June 7, 2017</td> 
+   <td>AEM commerce with Digital River</td> 
+   <td><p>A new commerce integration is available:</p> 
     <ul> 
-     <li>Digital River로 eCommerce 배포</li> 
-     <li>Digital River 관리</li> 
+     <li>Deploying eCommerce with Digital River</li> 
+     <li>Administering Digital River</li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2017년 5월 24일</td> 
-   <td>AEM 6.3 참조 자료</td> 
-   <td><p>다음 등의 참조 자료가 제공됩니다.</p> 
+   <td>May 24, 2017</td> 
+   <td>AEM 6.3 Reference Material</td> 
+   <td><p>Reference Material is available including:</p> 
     <ul> 
      <li>Adobe AEM 6.3.0 API</li> 
-     <li>API 차이</li> 
-     <li>Granite UI(터치에 적합한 UI) API 설명서</li> 
-     <li>Coral UI 안내서</li> 
-     <li>위젯 API(클래식 UI) 설명서</li> 
-     <li>UI 테스트 프레임워크</li> 
-     <li>JavaScript API 참조</li> 
-     <li>편집기 코어 JavaScript API 참조</li> 
+     <li>API Differences</li> 
+     <li>Granite UI (Touch-Optimized UI) API Documentation</li> 
+     <li>Coral UI Guide</li> 
+     <li>Widgets API (Classic UI) Documentation</li> 
+     <li>UI Test Framework</li> 
+     <li>JavaScript API Reference</li> 
+     <li>Editor Core JavaScript API Reference</li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2017년 5월 17일</td> 
+   <td>May 17, 2017</td> 
    <td>HTML Template Language</td> 
-   <td>개선 사항은 AEM 6.3 기능을 기반으로 합니다.</td> 
+   <td>Improvements based on AEM 6.3 features.</td> 
   </tr>
  </tbody>
 </table>
@@ -956,328 +959,328 @@ ht-degree: 100%
 <table> 
  <tbody>
   <tr>
-   <td>날짜</td> 
-   <td>주제</td> 
-   <td>변경 사항</td> 
+   <td>Date</td> 
+   <td>Topic</td> 
+   <td>Changes</td> 
   </tr>
   <tr>
-   <td>2019년 6월 6일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>June 6, 2019</td> 
+   <td>AEM 6.2 Cumulative Fix Pack</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 12월 11일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>December 11, 2018</td> 
+   <td>AEM 6.2 Cumulative Fix Pack</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 10월 16일</td> 
-   <td>코어 구성 요소<br /> </td> 
-   <td>이미지, 제목, 페이지 구성 요소에 대한 개선 사항과 다양한 버그 수정이 포함된 <a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-core-components/using/components/tabs.html">탭</a>과 <a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-core-components/using/components/carousel.html">회전 메뉴</a> 구성 요소의 릴리스 2.2.0입니다.</td> 
+   <td>October 16, 2018</td> 
+   <td>Core Components<br /> </td> 
+   <td>Release 2.2.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a>components along with improvements to the Image, Title, and Page components and numerous bug fixes.</td> 
   </tr>
   <tr>
-   <td>2018년 10월 10일</td> 
-   <td>정적 템플릿<br /> </td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/page-templates-static.html#how-template-designs-are-applied">정적 템플릿에 디자인을 적용하는 방법</a>이 자세히 설명되어 있습니다.</td> 
+   <td>October 10, 2018</td> 
+   <td>Static Templates<br /> </td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/page-templates-static.html#how-template-designs-are-applied">How designs are applied to static templates</a> has been detailed.</td> 
   </tr>
   <tr>
-   <td>2018년 10월 10일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>October 10, 2018</td> 
+   <td>AEM 6.2 Cumulative Fix Pack</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 8월 29일</td> 
+   <td>August 29, 2018</td> 
    <td>AEM Assets</td> 
-   <td>oAuth 통합을 구성하기 위해 Adobe I/O 게이트웨이 서비스가 <a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/configure-assets-cc-integration.html" target="_blank">AEM Assets 통합 구성</a> 문서에 제공됩니다.</td> 
+   <td>To configure oAuth integrations, the Adobe I/O gateway service is available at <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/configure-assets-cc-integration.html" target="_blank">configure AEM Assets integration</a> article.</td> 
   </tr>
   <tr>
-   <td>2018년 8월 16일</td> 
-   <td>Livefyre 통합</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/release-notes/feature-packs-release-notes.html">기능 팩</a> 페이지를 비롯한 <a href="https://helpx.adobe.com/kr/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 기능 팩 릴리스</a>가 업데이트되었습니다. </td> 
+   <td>August 16, 2018</td> 
+   <td>Integrating Livefyre</td> 
+   <td>Updated <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 feature pack release</a>, as well as the <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/feature-packs-release-notes.html">Feature Pack</a> page. </td> 
   </tr>
   <tr>
-   <td>2018년 8월 3일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>August 3, 2018</td> 
+   <td>AEM 6.2 Cumulative Fix Pack</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 8월 2일</td> 
-   <td>Livefyre와 통합하기</td> 
-   <td>AEM의 Livefyre 앱에 대한 <a href="https://helpx.adobe.com/kr/experience-manager/6-3/sites/administering/using/livefyre.html">지원 매트릭스</a>가 추가되었습니다. </td> 
+   <td>August 2, 2018</td> 
+   <td>Integrating with Livefyre</td> 
+   <td>Added <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html">support matrix</a> for Livefyre apps in AEM. </td> 
   </tr>
   <tr>
-   <td>2018년 6월 11일</td> 
-   <td>AEM 6.2 누적 수정 팩<br /> </td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>June 11, 2018</td> 
+   <td>AEM 6.2 Cumulative Fix Pack<br /> </td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 4월 30일</td> 
-   <td>Livefyre와 통합하기</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/release-notes/livefyre-feature-pack-204.html">Livefyre 기능 팩 2.0.4</a> 및 <a href="https://helpx.adobe.com/kr/experience-manager/6-2/release-notes/livefyre-feature-pack202.html">Livefyre 기능 팩 2.0.2</a> 추가.</td> 
+   <td>April 30, 2018</td> 
+   <td>Integrating with Livefyre</td> 
+   <td>Added <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/livefyre-feature-pack-204.html">Livefyre Feature Pack 2.0.4</a>, and <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/livefyre-feature-pack202.html">Livefyre Feature Pack 2.0.2</a>.</td> 
   </tr>
   <tr>
-   <td>2018년 4월 10일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>April 10, 2018</td> 
+   <td>AEM 6.2 Cumulative Fix Pack</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 3월 12일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>March 12, 2018</td> 
+   <td>AEM 6.2 Cumulative Fix Pack</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 2월 13일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>February 13, 2018</td> 
+   <td>AEM 6.2 Cumulative Fix Pack</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2018년 1월 18일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>January 18, 2018</td> 
+   <td>AEM 6.2 Cumulative Fix Pack</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 12월 8일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>December 8, 2017</td> 
+   <td>AEM 6.2 Cumulative Fix Pack</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 11월 9일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>November 9, 2017</td> 
+   <td>AEM 6.2 Cumulative Fix Packs</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 10월 10일</td> 
-   <td>AEM 6.2 콘텐츠 마이그레이션</td> 
-   <td>AEM 6.2 설명서를 docs.adobe.com에서 <a href="https://helpx.adobe.com/kr/support/experience-manager/6-2.html">Helpx</a>로 마이그레이션했습니다.</td> 
+   <td>October 10, 2017</td> 
+   <td>AEM 6.2 Content Migration</td> 
+   <td>AEM 6.2 Documentation has migrated from docs.adobe.com to <a href="https://helpx.adobe.com/support/experience-manager/6-2.html">Helpx</a>.</td> 
   </tr>
   <tr>
-   <td>2017년 10월 9일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>October 9, 2017</td> 
+   <td>AEM 6.2 Cumulative Fix Packs</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 9월 12일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>September 12, 2017</td> 
+   <td>AEM 6.2 Cumulative Fix Packs</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 8월 11일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>August 11, 2017</td> 
+   <td>AEM 6.2 Cumulative Fix Packs</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 7월 5일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>July 5, 2017</td> 
+   <td>AEM 6.2 Cumulative Fix Packs</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 6월 5일</td> 
-   <td>AEM 6.2 누적 수정 팩</td> 
-   <td>AEM 6.2 서비스 팩 1용 누적 수정 팩을 사용할 수 있습니다.</td> 
+   <td>June 5, 2017</td> 
+   <td>AEM 6.2 Cumulative Fix Packs</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
-   <td>2017년 4월 12일</td> 
-   <td>콘텐츠의 HTTP/2 전달</td> 
-   <td><p>Adobe에서는 전반적인 성능이 개선된 HTTP/2 콘텐츠 제공을 발표하게 되었습니다.</p> <p>콘텐츠의 HTTP2 전달 FAQ를 참조하십시오.</p> </td> 
+   <td>April 12, 2017</td> 
+   <td>HTTP/2 delivery of content</td> 
+   <td><p>Adobe is excited to announce the availability of HTTP/2 delivery of content with the overall benefit of improved performance.</p> <p>See HTTP2 Delivery of Content FAQ.</p> </td> 
   </tr>
   <tr>
-   <td>2017년 4월 12일</td> 
-   <td>마스터 비디오를 응용 비디오 세트에서 제외</td> 
-   <td><p>Scene 7을 통합하는 경우, 생성하는 응용 비디오 세트에서 마스터 비디오(F4V, MP3 또는 OGG)를 제외하는 것이 바람직합니다.</p> <p>마스터 비디오를 응용 비디오 세트에서 제외하는 정보를 참조하십시오.</p> </td> 
+   <td>April 12, 2017</td> 
+   <td>Excluding master videos from adaptive video sets</td> 
+   <td><p>If you are integrating with Scene 7, it is a best practice to exclude the master video (F4V, MP3, or OGG) from any adaptive video set that you create.</p> <p>See Excluding master videos from adaptive video sets.</p> </td> 
   </tr>
   <tr>
-   <td>2017년 3월 9일</td> 
-   <td>페이지 문제 해결</td> 
-   <td>새 문제 해결 페이지에서 모든 AEM 문제 해결 콘텐츠를 하나의 페이지에 수집합니다.</td> 
+   <td>March 9, 2017</td> 
+   <td>Troubleshooting page</td> 
+   <td>A new troubleshooting page collects all the AEM Troubleshooting content onto one page.</td> 
   </tr>
   <tr>
-   <td>2017년 3월 2일</td> 
-   <td>AEM 6.2 기능 팩</td> 
-   <td>모든 AEM 6.2 기능 팩이 표시되는 새 페이지가 제공됩니다.</td> 
+   <td>March 2, 2017</td> 
+   <td>AEM 6.2 Feature Packs</td> 
+   <td>A new page listing all the AEM 6.2 Features Packs is available.</td> 
   </tr>
   <tr>
-   <td>2017년 3월 2일</td> 
-   <td>보안 비디오 게재</td> 
-   <td><p><br /> 보안 비디오 게재를 임베드 코드 또는 URL 경로의 VideoPlayer.ssl 구성 속성을 사용하여 제공합니다.</p> <p>웹 페이지의 비디오 또는 이미지 뷰어 임베드 정보에서 보안 비디오 게재 방법을 참조하십시오.</p> <p>웹 애플리케이션에 URL을 링크하는 보안 비디오 게재 방법을 참조하십시오.</p> </td> 
+   <td>March 2, 2017</td> 
+   <td>Secure video delivery</td> 
+   <td><p><br /> Secure video delivery is now available using the VideoPlayer.ssl configuration attribute in your embed code or URL path.</p> <p>See How to deliver secure video in Embedding the Video or Image Viewer on a Web Page.</p> <p>See How to deliver secure video in Linking URLs to your Web Application.</p> </td> 
   </tr>
   <tr>
-   <td>2017년 2월 8일</td> 
-   <td>개발자 코드 샘플</td> 
-   <td>사용 가능한 모든 <a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/code-samples.html">개발자 코드 샘플</a>을 한 위치에 가져올 수 있는 새 페이지가 생성되었습니다.</td> 
+   <td>February 8, 2017</td> 
+   <td>Developer Code Samples</td> 
+   <td>Created a new page to pull all the available <a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/code-samples.html">Developer code samples</a> in one place.</td> 
   </tr>
   <tr>
-   <td>2016년 12월 2일</td> 
+   <td>December 2, 2016</td> 
    <td>Query Builder API</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/querybuilder-api.html">Query Builder API</a> 설명서에서 p.guessTotal 매개변수를 사용하는 시점을 명확히 합니다.</td> 
+   <td>Clarification of when to use the p.guessTotal parameter in the <a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/querybuilder-api.html">Query Builder API</a> documentation.</td> 
   </tr>
   <tr>
-   <td>2016년 11월 30일</td> 
-   <td>성능 설명서 업데이트</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/deploying/using/performance-tree.html">성능 문제 해결</a> 설명서가 개선되었습니다.</td> 
+   <td>November 30, 2016</td> 
+   <td>Performance documentation updates</td> 
+   <td>Enhanced documentation for <a href="https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/performance-tree.html">Troubleshoot Performance issues</a>.</td> 
   </tr>
   <tr>
-   <td>2016년 11월 28일</td> 
-   <td>엔터프라이즈 DevOps</td> 
-   <td><p>여러 환경의 소프트웨어 배치를 쉽게 하는 데 필요한 <a href="https://helpx.adobe.com/kr/experience-manager/6-2/managing/using/enterprise-devops.html">Enterprise DevOps</a>, 프로세스, 메서드, 통신에 대한 우수 사례가 추가되었습니다.</p> </td> 
+   <td>November 28, 2016</td> 
+   <td>Enterprise DevOps</td> 
+   <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/managing/using/enterprise-devops.html">Best Practices added for Enterprise DevOps</a>, the processes, methods and communication required to ease the deployment of your software across the various environments.</p> </td> 
   </tr>
   <tr>
-   <td>2016년 11월 23일</td> 
-   <td>디자인 Importer 설명서 업데이트</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/extending-the-design-importer-for-landingpages.html">디자인 패키지 준비</a> 설명서도 업데이트되었습니다.</td> 
+   <td>November 23, 2016</td> 
+   <td>Design importer documentation updated</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/extending-the-design-importer-for-landingpages.html">Preparing the design</a> package documentation also updated.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 27일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/related-community-articles.html">Marketing Cloud 통합 커뮤니티 문서</a></td> 
-   <td>AEM 콘텐츠가 있는 관련 Marketing Cloud 통합 커뮤니티 문서에 연결됩니다.</td> 
+   <td>October 27, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/related-community-articles.html">Marketing Cloud Integrations Community Articles</a></td> 
+   <td>Linked related Marketing Cloud Integrations Community articles with AEM content.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 27일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/video-profiles.html#using%2520custom-added%2520video%2520encoding%2520parameters">사용자가 추가한 비디오 인코딩 매개변수 사용</a></td> 
-   <td>이제 기존 비디오 인코딩 프로필을 편집하여 AEM의 비디오 프로필을 만들거나 편집할 때 사용자 인터페이스에서 볼 수 없는 고급 비디오 인코딩 매개변수를 활용할 수 있습니다.</td> 
+   <td>October 27, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/video-profiles.html#using%2520custom-added%2520video%2520encoding%2520parameters">Using custom-added video encoding parameters</a></td> 
+   <td>You can now edit an existing video encoding profile to take advantage of advanced video encoding parameters that are not found in the user interface when you create or edit a Video Profile in AEM.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 25일</td> 
-   <td><p><a href="https://helpx.adobe.com/kr/experience-manager/6-2/communities/using/subscriptions.html">커뮤니티 구독</a></p> </td> 
-   <td>AEM Communities에서 이제 구성원 활동의 이메일 구독과 알림을 위한 커뮤니티 사이트를 구성할 수 있습니다.</td> 
+   <td>October 25, 2016</td> 
+   <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/communities/using/subscriptions.html">Communities Subscriptions</a></p> </td> 
+   <td>For AEM Communities, it is now possible to configure a community site for email subscriptions and notifications of member activity.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 19일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/htl/using/related-community-articles.html">HTL 커뮤니티 문서</a></td> 
-   <td>AEM HTL 콘텐츠가 있는 관련 HTL 커뮤니티 문서에 연결됩니다.</td> 
+   <td>October 19, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/htl/using/related-community-articles.html">HTL Community Articles</a></td> 
+   <td>Linked related HTL Community articles with the AEM HTL content.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 13일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/msm.html#stacked%20live%20copies">MSM - 누적 라이브 카피</a></td> 
-   <td>누적 라이브 카피를 포함하도록 라이브 카피 - 구성을 확장했습니다.</td> 
+   <td>October 13, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/msm.html#stacked%20live%20copies">MSM - Stacked Live Copies</a></td> 
+   <td>Expanded Live Copies - Compositions to cover Stacked Live Copies.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 7일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/workflows.html">워크플로 개발 및 확장</a></td> 
-   <td><p>AEM 워크플로 개발 및 확장 설명서가 개선되었습니다.</p> 
+   <td>October 7, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/workflows.html">Developing and Extending Workflows</a></td> 
+   <td><p>Improved the documentation for Developing and Extending AEM Workflows, including:</p> 
     <ul> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/workflows.html#transient%20workflows">임시 워크플로</a></li> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/wf-models.html">워크플로 모델 만들기</a></li> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/wf-customizing-extending.html">워크플로 기능 확장</a></li> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/wf-step-ref.html">워크플로 단계 참조</a></li> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/wf-process-ref.html">워크플로 프로세스 참조</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/workflows.html#transient%20workflows">Transient Workflows</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/wf-models.html">Creating Workflow Models</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/wf-customizing-extending.html">Extending Workflow Functionality</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/wf-step-ref.html">Workflow Step Reference</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/wf-process-ref.html">Workflow Process Reference</a></li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2016년 9월 30일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/communities/using/groups.html">커뮤니티 그룹 콘솔</a></td> 
-   <td><p>AEM Communities에서는 커뮤니티 사이트의 구조에 <a href="https://helpx.adobe.com/kr/experience-manager/6-2/communities/using/functions.html#groups%2520function">그룹 기능</a>이 포함된 경우 그룹 콘솔에서 커뮤니티 그룹 생성에 액세스를 제공합니다. 커뮤니티 그룹(하위 커뮤니티라고도 함)은 작성 환경뿐만 아니라 게시 환경에서도 만들 수 있습니다.</p> </td> 
+   <td>September 30, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/communities/using/groups.html">Community Groups Console</a></td> 
+   <td><p>For AEM Communities, the Groups console provides access to creating community groups when a community site's structure includes the <a href="https://helpx.adobe.com/experience-manager/6-2/communities/using/functions.html#groups%2520function">groups function</a>. Community groups (also known as sub-communities) may be created from the publish environment as well as the author environment.</p> </td> 
   </tr>
   <tr>
-   <td>2016년 9월 15일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/forms/using/using-web-service-rule-editor.html">규칙 편집기의 웹 서비스</a></td> 
-   <td>적응형 양식 규칙 편집기에서 웹 서비스를 사전 구성하는 방법을 설명하는 데 사용하는 예제가 여러 부분 개선되었습니다. 예제를 사용하기 위해 직접 CRX에 업로드할 수 있는 첨부된 샘플 파일도 있습니다.</td> 
+   <td>September 15, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/forms/using/using-web-service-rule-editor.html">Web services in rule editor</a></td> 
+   <td>Made several enhancements to the example used to explain how to pre-configure a web service in adaptive forms rule editor. Also, attached sample files that one can directly upload to CRX to get the example working.</td> 
   </tr>
   <tr>
-   <td>2016년 9월 14일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/best-practices.html">개발자 우수 사례</a></td> 
-   <td>다음 개발자 우수 사례 추가: 콘텐츠 아키텍처, 소프트웨어 아키텍처, 코딩 팁, 코딩 위험, JCR 통합 및 OSGI 번들.</td> 
+   <td>September 14, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/best-practices.html">Developer Best Practices</a></td> 
+   <td>Added developer best practices for: Content Architecture, Software Architecture, Coding Tips, Coding Pitfalls, JCR Interaction and OSGI Bundles.</td> 
   </tr>
   <tr>
-   <td>2016년 9월 13일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/forms/using/install-configure-pdf-generator.html">PDF Generator 설치 및 구성</a></td> 
-   <td>AEM Forms PDF Generator로 OpenOffice 파일을 사용하는 데 관한 설정이 문서화되었습니다.</td> 
+   <td>September 13, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/forms/using/install-configure-pdf-generator.html">Install and configure PDF Generator</a></td> 
+   <td>Documented settings to use OpenOffice files with AEM Forms PDF Generator.</td> 
   </tr>
   <tr>
-   <td>2016년 9월 9일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/saml-2-0-authenticationhandler.html">SAML 2.0 인증 핸들러</a></td> 
-   <td>다음을 포함하도록 설명서를 업데이트했습니다.
+   <td>September 9, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/saml-2-0-authenticationhandler.html">SAML 2.0 Authentication Handler</a></td> 
+   <td>Updated the documentation to include:
     <ul> 
-     <li>AEM Truststore에서 IdP 인증서의 새 위치</li> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/saml-2-0-authenticationhandler.html#add%20the%20service%20provider%20key%20and%20certificate%20chain%20to%20the%20aem%20keystore">AEM의 키 저장소에서 서비스 제공자 키와 인증서 체인의 새 위치</a></li> 
+     <li>The new location of the IdP certificate in the AEM Truststore</li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/saml-2-0-authenticationhandler.html#add%20the%20service%20provider%20key%20and%20certificate%20chain%20to%20the%20aem%20keystore">The new location of the Service Provider key and certificate chain in the AEM Keystore</a></li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2016년 9월 8일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">비디오와 관련 썸네일 에셋 업그레이드</a></td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">비디오 및 관련 썸네일 에셋 업로드</a> 주제에 하이퍼링크가 추가되었습니다. </td> 
+   <td>September 8, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Uploading a video and its associated thumbnail assets</a></td> 
+   <td>Added a hyperlink to <a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Uploading a video and its associated thumbnail assets</a> topic. </td> 
   </tr>
   <tr>
-   <td>2016년 9월 1일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/msm.html">다중 사이트 관리</a></td> 
+   <td>September 1, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/msm.html">Multi Site Management</a></td> 
    <td>
     <ul> 
-     <li>신규 섹션: <a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/msm.html#live%20copies%20-%20composition">라이브 카피 - 구성</a></li> 
-     <li>개선 사항: <a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/extending-msm.html#overview%20of%20the%20java%20api">MSM 확장 - Java API 개요</a></li> 
+     <li>New section: <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/msm.html#live%20copies%20-%20composition">Live Copies - Composition</a></li> 
+     <li>Improvements to: <a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/extending-msm.html#overview%20of%20the%20java%20api">Extending MSM - Overview of the Java API</a></li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2016년 8월 25일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/using/ecommerce62.html">eCommerce</a></td> 
-   <td>새 <a href="https://helpx.adobe.com/kr/experience-manager/using/ecommerce62.html">AEM 커뮤니티 문서: 사용자 지정 eCommerce 커넥터 만들기</a>에 대한 링크가 eCommerce 설명서에 포함됩니다.</td> 
+   <td>August 25, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/using/ecommerce62.html">eCommerce</a></td> 
+   <td>Links to the new <a href="https://helpx.adobe.com/experience-manager/using/ecommerce62.html">AEM Community article: Creating Custom eCommerce connectors</a> is included in the eCommerce documentation.</td> 
   </tr>
   <tr>
-   <td>2016년 8월 24일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/ht-projects-maven.html">Adobe UberJar</a></td> 
-   <td>Adobe Experience Manager에서 공개한 모든 공개 Java API가 포함된 AEM 6.2 UberJar이 이제 공개 제공되며 문서화되었습니다.</td> 
+   <td>August 24, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/ht-projects-maven.html">Adobe UberJar</a></td> 
+   <td>The AEM 6.2 UberJar, containing all public Java APIs exposed by Adobe Experience Manager is now publicly availalble and documented.</td> 
   </tr>
   <tr>
-   <td>2016년 8월 24일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/workflows.html">워크플로 관리</a></td> 
-   <td>다음을 포함한 AEM Workflows의 관리 설명서가 개선되었습니다.
+   <td>August 24, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/workflows.html">Administering Workflows</a></td> 
+   <td>Improved Administering documentation for AEM Workflows, including:
     <ul> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/wf-starting.html">워크플로 시작</a></li> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/wf-administering.html">워크플로 인스턴스 관리</a></li> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/wf-managing.html">워크플로에 대한 액세스 관리</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/wf-starting.html">Starting Workflows</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/wf-administering.html">Administering Workflow Instances</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/wf-managing.html">Managing Access to Workflows</a></li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2016년 8월 22일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/managing/using/seo-and-url-management.html">SEO 및 URL 관리</a></td> 
-   <td>AEM 6.2 SEO 및 URL 관리 설명서가 개선되었습니다.</td> 
+   <td>August 22, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/managing/using/seo-and-url-management.html">SEO and URL Management</a></td> 
+   <td>Improved AEM 6.2 SEO and URL Management documentation.</td> 
   </tr>
   <tr>
-   <td>2016년 8월 17일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">인증 설정</a></td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">Dynamic Media 구성</a>에 관련되어 있습니다.<br /> 인증을 더 명확하게 설정하도록 단계가 개선되었습니다.<br /> </td> 
+   <td>August 17, 2016</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Setting up authentication</a></td> 
+   <td>Pertains to <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuring Dynamic Media</a>.<br /> Improved steps to make setting up authentication clearer.<br /> </td> 
   </tr>
   <tr>
-   <td>2016년 8월 17일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">복제 에이전트 구성</a></td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">Dynamic Media 구성</a>에 관련되어 있습니다.<br /> 복제 에이전트의 구성을 더 명확하게 하도록 단계가 개선되었습니다.</td> 
+   <td>August 17, 2016</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuring the Replication Agent</a></td> 
+   <td>Pertains to <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuring Dynamic Media</a>.<br /> Improved steps to make configuration of the Replication Agent clearer.</td> 
   </tr>
   <tr>
-   <td>2016년 8월 17일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">인증 문제 해결</a></td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">Dynamic Media 구성</a>에 관련되어 있습니다.<br /> 3개의 새 문제 해결 인증 주제가 추가되었습니다.</td> 
+   <td>August 17, 2016</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Troubleshooting Authentication</a></td> 
+   <td>Pertains to <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuring Dynamic Media</a>.<br /> Added three new troubleshooting authentication topics.</td> 
   </tr>
   <tr>
-   <td>2016년 8월 4일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/mobile/using/getting-started-with-aem-mobile.html">AEM 6.2 Mobile</a></td> 
-   <td>AEM 6.2 Mobile 설명서가 개선되었습니다.</td> 
+   <td>August 4, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/mobile/using/getting-started-with-aem-mobile.html">AEM 6.2 Mobile</a></td> 
+   <td>Improved AEM 6.2 Mobile documentation.</td> 
   </tr>
   <tr>
-   <td>2016년 8월 4일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/translation.html">AEM 6.2 번역 기능</a></td> 
-   <td>새 6.2 기능을 설명하는 새 콘텐츠가 추가되었습니다.</td> 
+   <td>August 4, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/translation.html">AEM 6.2 Translation feature</a></td> 
+   <td>Added new content to describe the new 6.2 feature.</td> 
   </tr>
   <tr>
-   <td>2016년 7월 30일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/htl/using/overview.html">HTML Template Language</a></td> 
-   <td>이전 HTL(Sightly) 문서가 개선되었습니다.</td> 
+   <td>July 30, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/htl/using/overview.html">HTML Template Language</a></td> 
+   <td>Improved HTL formerly (Sightly) documentation.</td> 
   </tr>
   <tr>
-   <td>2016년 7월 22일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/authoring/using/workflows.html">워크플로 작업</a></td> 
-   <td><p>다음을 포함한 AEM Workflows의 작성 설명서가 개선되었습니다.</p> 
+   <td>July 22, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/authoring/using/workflows.html">Working with Workflows</a></td> 
+   <td><p>Improved Authoring documentation for AEM Workflows, including:</p> 
     <ul> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/authoring/using/applying-workflows.html">페이지에 워크플로 적용</a></li> 
-     <li><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/authoring/using/participating-workflows.html">워크플로에 참여</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/authoring/using/applying-workflows.html">Applying Workflows to Pages</a></li> 
+     <li><a href="https://helpx.adobe.com/experience-manager/6-2/sites/authoring/using/participating-workflows.html">Participating in Workflows</a></li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2016년 7월 20일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/developing/using/reference-materials/coral-ui/home/index.html">Coral UI 참조</a></td> 
-   <td>Coral UI API 참조(터치에 적합한 UI)가 제공됩니다.</td> 
+   <td>July 20, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/reference-materials/coral-ui/home/index.html">Coral UI Reference</a></td> 
+   <td>Coral UI API Reference (Touch-Optimized UI) now available.</td> 
   </tr>
   <tr>
-   <td>2016년 7월 16일</td> 
-   <td>eCommerce 커넥터</td> 
-   <td>AEM 6.2 eCommerce Connector 설명서에 이제 Demandware <a href="https://helpx.adobe.com/kr/experience-manager/6-2/sites/administering/using/demandware.html">관리</a> 방법에 대한 세부 사항이 포함됩니다.</td> 
+   <td>July 16, 2016</td> 
+   <td>eCommerce Connector</td> 
+   <td>AEM 6.2 eCommerce Connector documentation now includes details on how to <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/demandware.html">administer</a> Demandware.</td> 
   </tr>
  </tbody>
 </table>
@@ -1287,223 +1290,223 @@ ht-degree: 100%
 <table> 
  <tbody>
   <tr>
-   <td>날짜</td> 
-   <td>주제</td> 
-   <td>변경 사항</td> 
+   <td>Date</td> 
+   <td>Topic</td> 
+   <td>Changes</td> 
   </tr>
   <tr>
-   <td>2016년 12월 22일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">AEM Assets 6.2 FP2</a></td> 
-   <td>이 기능 팩에는 AEM 6.2 고객을 위핸 새 확장성, 성능, 유용성 개선 사항이 포함되어 있습니다. 이 기능 팩에는 사용자 지정 비디오 썸네일에 대한 지원 및 Dynamic Media 색상 관리 기능도 포함되어 있습니다.</td> 
+   <td>December 22, 2016</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">AEM Assets 6.2 FP2</a></td> 
+   <td>This feature pack includes new scalability, performance, usability improvements for AEM 6.2 customers. The feature pack also includes support for custom video thumbnails and Dynamic Media color management capabilities.</td> 
   </tr>
   <tr>
-   <td>2016년 11월 22일</td> 
-   <td><a href="https://docs.adobe.com/content/docs/ko-KR/aem/6-1/administer/content/assets/aem-assets-6-1-feature-pack-1.html">AEM Assets 6.1 FP1</a></td> 
-   <td>이 기능 팩에는 AEM Assets 6.1의 확장성, 성능, 유용성 개선 사항이 포함되어 있습니다.</td> 
+   <td>November 22, 2016</td> 
+   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/assets/aem-assets-6-1-feature-pack-1.html">AEM Assets 6.1 FP1</a></td> 
+   <td>This feature pack includes scalability, performance, and usability improvements for AEM Assets 6.1.</td> 
   </tr>
   <tr>
-   <td>2016년 11월 18일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">Dynamic Media 색상 수정</a></td> 
-   <td>Dynamic Media 에셋을 미리보기 전에 색상 수정하는 방법에 대한 지침입니다.</td> 
+   <td>November 18, 2016</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media color correction</a></td> 
+   <td>Instructions on how you can color correct Dynamic Media assets before previewing them.</td> 
   </tr>
   <tr>
-   <td>2016년 11월 18일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">이미지 복제 구성</a></td> 
-   <td>이미지 복제 구성을 위한 새 지침에 관련되어 있습니다.</td> 
+   <td>November 18, 2016</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuring Image Replication</a></td> 
+   <td>Pertains to new instructions for configuring image replication.</td> 
   </tr>
   <tr>
-   <td>2016년 11월 4일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/assets-offloading-best-practices.html">Assets 오프로딩 우수 사례</a></td> 
-   <td>AEM Assets 오프로딩에 관한 우수 사례와 사용 사례입니다.</td> 
+   <td>November 4, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/assets-offloading-best-practices.html">Assets Offloading Best Practices</a></td> 
+   <td>Best practices and use cases around AEM Assets offloading.</td> 
   </tr>
   <tr>
-   <td>2016년 11월 3일</td> 
-   <td>Dynamic Media 기술 요구 사항 <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">6.1</a>, <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">6.2</a>가 업데이트되었습니다.</td> 
-   <td>기술 요구 사항에 대해 Visual Studio C++ 재배포 가능 패키지를 업데이트했습니다.</td> 
+   <td>November 3, 2016</td> 
+   <td>Updated Dynamic Media Technical Requirements <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.1</a>, <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.2</a></td> 
+   <td>Updated Visual Studio C++ redistributables for technical requirements.</td> 
   </tr>
   <tr>
-   <td>2016년 11월 2일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/assets-file-format-best-practices.html">Assets 파일 형식 우수 사례</a></td> 
-   <td>AEM Assets 내의 파일 지원에 대한 우수 사례를 설명합니다.</td> 
+   <td>November 2, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/assets-file-format-best-practices.html">Assets File Format Best Practices</a></td> 
+   <td>Best practices around file support within AEM Assets.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 19일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/assets-monitoring-best-practices.html">Assets 모니터링 우수 사례</a></td> 
-   <td>AEM Assets 모니터링 우수 사례</td> 
+   <td>October 19, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/assets-monitoring-best-practices.html">Assets Monitoring Best Practices</a></td> 
+   <td>AEM Assets monitoring best practices</td> 
   </tr>
   <tr>
-   <td>2016년 10월 17일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">Dynamic Media 뷰어</a></td> 
-   <td>AEM 6.1에 이제 AEM 6.2 뷰어가 제공됩니다.</td> 
+   <td>October 17, 2016</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media Viewers</a></td> 
+   <td>AEM 6.2 viewers now available in AEM 6.1.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 11일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">Dynamic Media 색상 관리</a></td> 
-   <td>Dynamic Media 에셋을 미리보기 전에 색상 수정할 수 있는 AEM 6.1용 새 기능 팩입니다.</td> 
+   <td>October 11, 2016</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media Color Management</a></td> 
+   <td>New feature pack for AEM 6.1 that lets you color correct Dynamic Media assets before previewing them.</td> 
   </tr>
   <tr>
-   <td>2016년 9월 21일</td> 
-   <td>AEM Asset Formats <a href="https://docs.adobe.com/content/docs/ko-KR/aem/6-1/administer/content/assets/assets-formats.html">6.1</a></td> 
-   <td>PSB 이미지에 대한 기본 지원 정보가 추가되었습니다.</td> 
+   <td>September 21, 2016</td> 
+   <td>AEM Asset Formats <a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/assets/assets-formats.html">6.1</a></td> 
+   <td>Added info on native support for PSB images</td> 
   </tr>
   <tr>
-   <td>2016년 9월 16일</td> 
-   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-desktop-app/using/release-notes.html">AEM Assets 데스크탑 앱 1.3 릴리스 정보</a></td> 
-   <td>AEM Assets 데스크탑 앱 1.3 릴리스 정보 <br /> </td> 
+   <td>September 16, 2016</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html">AEM Assets Desktop App 1.3 Release Notes</a></td> 
+   <td>Release notes for AEM Assets Desktop App 1.3<br /> </td> 
   </tr>
   <tr>
-   <td>2016년 9월 16일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/desktop-app/aem-desktop-app.html">AEM Assets 데스크탑 앱</a></td> 
-   <td>데스크탑 앱 버전 1.3의 업데이트가 추가되었습니다. </td> 
+   <td>September 16, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/desktop-app/aem-desktop-app.html">AEM Assets Desktop App</a></td> 
+   <td>Added updates for Desktop App version 1.3 </td> 
   </tr>
   <tr>
-   <td>2016년 8월 17일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">인증 설정</a></td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">Dynamic Media 설정</a>에 관련되어 있습니다.<br /> 인증을 더 명확하게 설정하도록 단계가 개선되었습니다.</td> 
+   <td>August 17, 2016</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Setting up authentication</a></td> 
+   <td>Pertains to <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Setting up Dynamic Media</a>.<br /> Improved steps to make setting up authentication clearer.</td> 
   </tr>
   <tr>
-   <td>2016년 8월 17일<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">복제 에이전트 구성</a></td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">Dynamic Media 설정</a>에 관련되어 있습니다.<br /> 복제 에이전트의 구성을 더 명확하게 하도록 단계가 개선되었습니다.</td> 
+   <td>August 17, 2016<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuring the Replication Agent</a></td> 
+   <td>Pertains to <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Setting up Dynamic Media</a>.<br /> Improved steps to make configuration of the Replication Agent clearer.</td> 
   </tr>
   <tr>
-   <td>2016년 8월 17일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">인증 문제 해결</a></td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR">Dynamic Media 설정</a>에 관련되어 있습니다.<br /> 3개의 새 문제 해결 인증 주제가 추가되었습니다.</td> 
+   <td>August 17, 2016</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Troubleshooting Authentication</a></td> 
+   <td>Pertains to <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Setting up Dynamic Media</a>.<br /> Added three new troublshooting authentication topics.</td> 
   </tr>
   <tr>
-   <td>2016년 8월 12일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/best-practices-for-assets.html">에셋에 대한 우수 사례</a></td> 
-   <td>모든 우수 사례 문서에 연결되는 랜딩 페이지</td> 
+   <td>August 12, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/best-practices-for-assets.html">Best Practices for Assets</a></td> 
+   <td>Landing page that links out to all best practice docs</td> 
   </tr>
   <tr>
-   <td>2016년 8월 12일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/performance-tuning-guidelines.html">Assets 성능 조정 안내서</a></td> 
-   <td>성능 조정 안내서</td> 
+   <td>August 12, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/performance-tuning-guidelines.html">Assets Performance Tuning Guide</a></td> 
+   <td>Performance tuning guide</td> 
   </tr>
   <tr>
-   <td>2016년 8월 12일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/assets-sizing-guide.html">Assets 크기 조정 안내서</a></td> 
-   <td>AEM Assets 크기 조절 지침</td> 
+   <td>August 12, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/assets-sizing-guide.html">Assets Sizing Guide</a></td> 
+   <td>AEM Assets sizing guidelines</td> 
   </tr>
   <tr>
-   <td>2016년 8월 12일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/assets-migration-guide.html">Assets 마이그레이션 안내서</a></td> 
-   <td>에셋을 AEM으로 마이그레이션하는 단계</td> 
+   <td>August 12, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/assets-migration-guide.html">Assets Migration Guide</a></td> 
+   <td>Steps to migrate assets to AEM</td> 
   </tr>
   <tr>
-   <td>2016년 8월 12일</td> 
-   <td><a href="https://helpx.adobe.com/kr/experience-manager/6-2/assets/using/assets-network-considerations.html">Assets 네트워크 고려사항</a></td> 
-   <td>네트워크 성능을 파악하는 네트워크 토폴로지 안내서</td> 
+   <td>August 12, 2016</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/assets-network-considerations.html">Assets Network Considerations</a></td> 
+   <td>Network topology guide to understand network performance</td> 
   </tr>
  </tbody>
 </table>
 
 ## Dispatcher {#dispatcher}
 
-| 날짜 | 주제 | 변경 사항 |
+| Date |Topic |Changes |
 |---|---|---|
-| 2016년 9월 26일 | [Dispatcher 보안 검사 목록](https://helpx.adobe.com/kr/experience-manager/dispatcher/using/security-checklist.html) | Dispatcher 보안 확인 목록이 새 권장 사항으로 개선되었습니다. |
-| 2016년 9월 26일 | [Dispatcher 구성](https://helpx.adobe.com/kr/experience-manager/dispatcher/using/dispatcher-configuration.html#filter%2520section) | /filters 필터를 구성할 때 우회되는 필터에 연결되므로 /allow를 /glob와 함께 사용하지 않도록 강조하는 여러 변경 사항이 작성되었습니다. |
+| September 26, 2016 | [The Dispatcher Security Checklist](https://helpx.adobe.com/experience-manager/dispatcher/using/security-checklist.html) |Enhanced the Dispatcher Security Checklist with new recommendations. |
+| September 26, 2016 | [Configuring Dispatcher](https://helpx.adobe.com/experience-manager/dispatcher/using/dispatcher-configuration.html#filter%2520section) |Made several changes to highlight that /allow should not be used with /glob when configuring /filters as it can lead to filters being bypassed. |
 
 ## Livefyre {#livefyre}
 
 <table> 
  <tbody>
   <tr>
-   <td>날짜</td> 
-   <td>주제</td> 
-   <td>변경 사항</td> 
+   <td>Date</td> 
+   <td>Topic</td> 
+   <td>Changes</td> 
   </tr>
   <tr>
-   <td>2017년 4월 3일</td> 
-   <td>AEM 6.3과 Livefyre 통합</td> 
-   <td>AEM용 Livefyre를 설치 및 구성하는 방법에 대한 새 비디오가 생성되어 추가되었습니다.</td> 
+   <td>April 3, 2017</td> 
+   <td>AEM 6.3 and Livefyre Integration</td> 
+   <td>Created and added new video on how to install and configure Livefyre for AEM.</td> 
   </tr>
   <tr>
-   <td>2017년 3월 30일<br /> </td> 
-   <td>릴리스 정보</td> 
-   <td>Livefyre 릴리스의 2017년 3월 30일 릴리스 정보.</td> 
+   <td>March 30, 2017<br /> </td> 
+   <td>Release Notes</td> 
+   <td>Release notes for the March 30, 2017, Livefyre release.</td> 
   </tr>
   <tr>
-   <td>2017년 2월 23일</td> 
-   <td><p><a href="http://answers.livefyre.com/product/storify-2/createastory/">Storify 2 만들기</a></p> </td> 
-   <td>사이트 방문자가 Storify 2 게시물에 대한 링크를 공유할 때 양식 창을 여는 새 옵션을 반영하도록 설명서가 업데이트되었습니다.</td> 
+   <td>February 23, 2017</td> 
+   <td><p><a href="http://answers.livefyre.com/product/storify-2/createastory/">Create a Storify 2</a></p> </td> 
+   <td>Updated documentation to reflect a new option to open a Modal window when a site visitor shares a link to a Storify 2 post.</td> 
   </tr>
   <tr>
-   <td>2017년 2월 23일</td> 
-   <td><a href="http://answers.livefyre.com/product/studio-v2/streams/creating-streams/add-rules-for-your-stream/add-instagram-rules/">Instagram 규칙 추가</a></td> 
-   <td>Studio 사용자는 이제 Instagram에 특정 체크인 위치를 포함하는 스트림 규칙을 만들 수 있습니다.</td> 
+   <td>February 23, 2017</td> 
+   <td><a href="http://answers.livefyre.com/product/studio-v2/streams/creating-streams/add-rules-for-your-stream/add-instagram-rules/">Add Instagram Rules</a></td> 
+   <td>Studio Users can now create stream rules that include a specific check-in location on Instagram.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 26일</td> 
-   <td><a href="https://answers.livefyre.com/product/studio-v2/apps/customizing-apps/">사용자 지정 앱</a></td> 
-   <td>댓글에 대한 응답을 제어하는 설정의 작동 방법을 반영하도록 설명서가 업데이트되었습니다. </td> 
+   <td>October 26, 2016</td> 
+   <td><a href="https://answers.livefyre.com/product/studio-v2/apps/customizing-apps/">Customizing Apps</a></td> 
+   <td>Updated documentation to reflect how settings work to control replies to comments. </td> 
   </tr>
   <tr>
-   <td>2016년 10월 26일</td> 
-   <td><a href="https://answers.livefyre.com/product/studio-v2/streams/creating-streams/">스트림 만들기</a></td> 
-   <td>스트림에서 콘텐츠를 가져오는 방법을 선택하는 새 기능을 반영하도록 RSS 스트림 설명서가 업데이트되었습니다.</td> 
+   <td>October 26, 2016</td> 
+   <td><a href="https://answers.livefyre.com/product/studio-v2/streams/creating-streams/">Creating streams</a></td> 
+   <td>Updated RSS Streams documentation to reflect new functionality for choosing how to obtain content from streams.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 26일</td> 
-   <td><a href="https://answers.livefyre.com/product/storify-2/createastory/">스토리 만들기</a></td> 
-   <td>새 자세히 표시 기능을 추가하도록 Storify 2 디자이너 설명을 업데이트했습니다.</td> 
+   <td>October 26, 2016</td> 
+   <td><a href="https://answers.livefyre.com/product/storify-2/createastory/">Create a Story</a></td> 
+   <td>Updated Storify 2 designer description to add new show more functionality.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 26일</td> 
-   <td><a href="https://answers.livefyre.com/developers/reference/architecture/">아키텍처</a></td> 
-   <td>이미지 링크가 업데이트 및 수정되었습니다.</td> 
+   <td>October 26, 2016</td> 
+   <td><a href="https://answers.livefyre.com/developers/reference/architecture/">Architecture</a></td> 
+   <td>Updated and fixed image links.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 21일</td> 
-   <td><a href="https://answers.livefyre.com/product/studio-v2/apps/customizing-apps/#CommentsOptions">댓글</a></td> 
-   <td>기존 옵션의 새 기능을 포함하도록 주석 페이지를 업데이트했습니다.</td> 
+   <td>October 21, 2016</td> 
+   <td><a href="https://answers.livefyre.com/product/studio-v2/apps/customizing-apps/#CommentsOptions">Comments</a></td> 
+   <td>Updated Comments page to include new functionality for existing options.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 21일</td> 
-   <td><a href="https://answers.livefyre.com/developers/cms-plugins/livefyre-for-adobe-experience-manager/">AEM용 Livefyre</a></td> 
-   <td>AEM 6.1 또는 AEM 6.2가 있는 Livefyre를 사용하기 위해 다운로드할 AEM 패키지를 더 명확하게 구분할 수 있도록 AEM용 Livefyre 페이지를 업데이트했습니다.</td> 
+   <td>October 21, 2016</td> 
+   <td><a href="https://answers.livefyre.com/developers/cms-plugins/livefyre-for-adobe-experience-manager/">Livefyre for AEM</a></td> 
+   <td>Updated Livefyre for AEM page to reduce ambiguity about which AEM package to download to use Livefyre with AEM 6.1 or AEM 6.2.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 21일</td> 
-   <td><a href="https://answers.livefyre.com/developers/reference/release-notes/october-20-2016/">릴리스 정보</a></td> 
-   <td>Livefyre 2016/10/20 릴리스의 릴리스 정보.</td> 
+   <td>October 21, 2016</td> 
+   <td><a href="https://answers.livefyre.com/developers/reference/release-notes/october-20-2016/">Release Notes</a></td> 
+   <td>Release Notes for the 10/20/2016 release of Livefyre.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 14일</td> 
-   <td><a href="https://answers.livefyre.com/announcements/end-of-livefyre-community-comments/">공지</a></td> 
-   <td>만료 예정인 Livefyre 커뮤니티 댓글에 대한 페이지가 작성되어 고객에게 이메일이 발송되었습니다.</td> 
+   <td>October 14, 2016</td> 
+   <td><a href="https://answers.livefyre.com/announcements/end-of-livefyre-community-comments/">Announcements</a></td> 
+   <td>Created page for Livefyre Community Comments coming to an end and sent email to customers.</td> 
   </tr>
   <tr>
-   <td>2016년 10월 7일</td> 
-   <td>제품</td> 
-   <td>새 Storify 2 무한 스크롤링 기능의 도구 설명이 편집되었습니다.</td> 
+   <td>October 7, 2016</td> 
+   <td>Product</td> 
+   <td>Edited a tooltip for new Storify 2 infinite scrolling feature.</td> 
   </tr>
   <tr>
-   <td>2016년 9월 29일</td> 
-   <td><a href="https://answers.livefyre.com/developers/reference/release-notes/september-29-2016/">릴리스 정보</a></td> 
-   <td>Livefyre의 2026/9/29 릴리스 정보를 게시했습니다.</td> 
+   <td>September 29, 2016</td> 
+   <td><a href="https://answers.livefyre.com/developers/reference/release-notes/september-29-2016/">Release Notes</a></td> 
+   <td>Published release notes for 9/29/2016 release of Livefyre.</td> 
   </tr>
   <tr>
-   <td>2016년 9월 29일</td> 
-   <td><a href="https://answers.livefyre.com/product/studio-v2/settings/network-settings/#translationsets">수정된 번역 세트</a></td> 
-   <td>수정된 번역 세트 설명서는 일부 링크와 페이지 문제를 수정했습니다.</td> 
+   <td>September 29, 2016</td> 
+   <td><a href="https://answers.livefyre.com/product/studio-v2/settings/network-settings/#translationsets">Modified Translation Sets</a></td> 
+   <td>Modified Translation Sets documentation to correct some linking and page issues.</td> 
   </tr>
   <tr>
-   <td>2016년 9월 22일</td> 
-   <td><a href="https://answers.livefyre.com/developers/cms-plugins/livefyre-for-adobe-experience-manager/">AEM Sites 패키지 설명서</a></td> 
-   <td>6.2 및 6.1에 Livefyre AEM 통합에 대한 업데이트를 포함하도록 answers.livefyre.com을 업데이트했습니다. </td> 
+   <td>September 22, 2016</td> 
+   <td><a href="https://answers.livefyre.com/developers/cms-plugins/livefyre-for-adobe-experience-manager/">AEM Sites Package Documentation</a></td> 
+   <td>Updated answers.livefyre.com to include updates to the Livefyre AEM integration in 6.2 and 6.1. </td> 
   </tr>
   <tr>
-   <td>2016년 9월 22일<a href="https://answers.livefyre.com/product/features-2/content-integration/#FriendMentions"></a></td> 
-   <td><a href="https://answers.livefyre.com/product/features-2/content-integration/#FriendMentions">친구의 언급</a></td> 
-   <td>Twitter를 사용하여 댓글에 다른 사용자를 @언급할 수 있음을 잘못 설명하는 설명서를 제거했습니다.</td> 
+   <td>September 22, 2016<a href="https://answers.livefyre.com/product/features-2/content-integration/#FriendMentions"></a></td> 
+   <td><a href="https://answers.livefyre.com/product/features-2/content-integration/#FriendMentions">Friend Mentions</a></td> 
+   <td>Removed documentation that incorrectly stated that you can @mention someone in comments using Twitter.</td> 
   </tr>
   <tr>
-   <td>2016년 9월 22일</td> 
-   <td><a href="https://answers.livefyre.com/product/studio-v2/streams/creating-streams/">스트림 만들기</a></td> 
-   <td>Livefyre 스트림에 새 변경을 반영하도록 스트림 만들기 설명서를 업데이트했습니다.</td> 
+   <td>September 22, 2016</td> 
+   <td><a href="https://answers.livefyre.com/product/studio-v2/streams/creating-streams/">Creating Streams</a></td> 
+   <td>Updated the Creating Streams documentation to reflect new changes in Livefyre streams.</td> 
   </tr>
  </tbody>
 </table>
@@ -1513,156 +1516,158 @@ ht-degree: 100%
 <table> 
  <tbody>
   <tr>
-   <td>날짜</td> 
-   <td>주제</td> 
-   <td>변경 사항</td> 
+   <td>Date</td> 
+   <td>Topic</td> 
+   <td>Changes</td> 
   </tr>
   <tr>
-   <td>2019년 12월 20일</td> 
-   <td>비디오 및 FAQ 구성 업데이트</td> 
-   <td><p>Brand Portal 6.4.5는 작성자 환경에 액세스하지 않아도 콘텐츠를 Brand Portal에 업로드하고 AEM Assets에 게시할 수 있는 기능을 Brand Portal 사용자(외부 에이전시/팀)에게 제공하는 데 중점을 둔 기능 릴리스입니다. 이 기능은 <strong>Brand Portal의 에셋 소싱</strong>이라고 합니다.</p> <p>이 설명서에서는 다음과 같은 주요 업데이트를 다룹니다.</p> 
+   <td>Dec 20, 2019</td> 
+   <td>Configuration videos and FAQs updated</td> 
+   <td><p>Brand Portal 6.4.5 is a feature release that focuses on providing Brand Portal users (external agencies/teams) with the ability to upload content to Brand Portal and publish to AEM Assets, without needing access to the author environment. This feature is called <strong>Asset Sourcing in Brand Portal</strong>.</p> <p>The documentation covers the following major updates:</p> 
     <ul> 
-     <li>Brand Portal에서 에셋 소싱의 전체 워크플로를 보여 주는 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=ko-KR">기능 비디오</a>가 추가되었습니다.<br /> </li> 
-     <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-configure-asset-sourcing.html">AEM Assets에서 에셋 소싱을 구성하는 방법</a>에 대한 새로운 비디오가 추가되었습니다.</li> 
-     <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">AEM Assets에서 기여 폴더를 구성하는 방법</a>에 새로운 비디오가 추가되었습니다.</li> 
-     <li>에셋 소싱의 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=ko-KR">FAQ</a>.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Feature video</a> added demonstrating the overall workflow of Asset Sourcing in Brand Portal.<br /> </li> 
+     <li>New video added on <a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-configure-asset-sourcing.html">How to Configure Asset Sourcing in AEM Assets</a>.</li> 
+     <li>New video added on <a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">How to Configure Contribution folder in AEM Assets</a>.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">Frequently Asked Questions</a> in Asset Sourcing.</li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2019년 11월 20일 </td> 
-   <td>에셋 소싱 기능 비디오와 구성 문서</td> 
-   <td><p>Brand Portal 6.4.5는 작성자 환경에 액세스하지 않아도 콘텐츠를 Brand Portal에 업로드하고 AEM Assets에 게시할 수 있는 기능을 Brand Portal 사용자(외부 에이전시/팀)에게 제공하는 데 중점을 둔 기능 릴리스입니다. 이 기능은 <strong>Brand Portal의 에셋 소싱</strong>이라고 합니다.</p> <p>이 설명서에서는 다음과 같은 주요 업데이트를 다룹니다.</p> 
+   <td>Nov 20, 2019 </td> 
+   <td>Asset Sourcing feature video and configuraiton articles</td> 
+   <td><p>Brand Portal 6.4.5 is a feature release that focuses on providing Brand Portal users (external agencies/teams) with the ability to upload content to Brand Portal and publish to AEM Assets, without needing access to the author environment. This feature is called <strong>Asset Sourcing in Brand Portal</strong>.</p> <p>The documentation covers the following major updates:</p> 
     <ul> 
-     <li>Brand Portal에서 에셋 소싱의 전체 워크플로를 보여 주는 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=ko-KR">기능 비디오</a>가 추가되었습니다.</li> 
-     <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">AEM Assets의 기여 폴더 구성</a></li> 
-     <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html">에셋 소싱을 사용하여 기여 폴더의 에셋을 AEM Assets에 게시</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Feature video</a> added demonstrating the overall workflow of Asset Sourcing in Brand Portal.</li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">Configure Contribution folder in AEM Assets</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html">Using Asset Sourcing to publish contribution folder's assets to AEM Assets</a></li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2019년 11월 11일 </td> 
-   <td>Brand Portal FAQ 도입</td> 
-   <td>이 설명서에서는 다음과 같은 주요 업데이트를 다룹니다.
+   <td>Nov 11, 2019 </td> 
+   <td>Brand Portal FAQs introduced</td> 
+   <td>The documentation covers the following major updates:
     <ul> 
-     <li>Brand Portal 에셋 소싱의 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=ko-KR">FAQ</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=ko-KR">Brand Portal의 에셋 소싱</a>에 대한 설명서가 업데이트되었습니다.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">Frequently Asked Questions</a> in Brand Portal Asset Sourcing.</li> 
+     <li>Updated documentation for <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Asset Sourcing in Brand Portal</a>.</li> 
     </ul> </td> 
   </tr>
   <tr>
-   <td>2019년 10월 10일 </td> 
-   <td>Brand Portal의 에셋 소싱</td> 
-   <td><p>AEM Assets 및 관련 문서의 에셋 소싱을 구성하는 방법에 대한 설명서입니다.</p> <p>기능 설명서는 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=ko-KR">Brand Portal의 에셋 소싱</a>을 참조하십시오.</p> </td> 
+   <td>October 10, 2019 </td> 
+   <td>Asset Sourcing in Brand Portal</td> 
+   <td><p>Documentation on how to configure Asset Sourcing in AEM Assets and and related articles.</p> <p>See, <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Asset Sourcing in Brand Portal</a> for the feature documentation.</p> </td> 
   </tr>
   <tr>
-   <td>2019년 9월 28일</td> 
-   <td>AEM Assets Brand Portal 6.4.5 릴리스</td> 
-   <td><p>Brand Portal 6.4.5는 작성자 환경에 액세스하지 않아도 콘텐츠를 Brand Portal에 업로드하고 AEM Assets에 게시할 수 있는 기능을 Brand Portal 사용자(외부 에이전시/팀)에게 제공하는 데 중점을 둔 기능 릴리스입니다. 이 기능은 <strong>Brand Portal의 에셋 소싱</strong>이라고 합니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=ko-KR#what-changed-in-645">Brand Portal 6.4.5의 새로운 기능</a></p> </td> 
+   <td>September 28, 2019</td> 
+   <td>AEM Assets Brand Portal 6.4.5 release</td> 
+   <td><p>Brand Portal 6.4.5 is a feature release that focuses on providing Brand Portal users (external agencies/teams) with the ability to upload content to Brand Portal and publish to AEM Assets, without needing access to the author environment. This feature is called <strong>Asset Sourcing in Brand Portal</strong>.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en#what-changed-in-645">What's New in Brand Portal 6.4.5</a></p> </td> 
   </tr>
   <tr>
-   <td>2019년 8월 8일</td> 
-   <td>AEM Assets Brand Portal 6.4.4.7 및 6.4.4.6 릴리스</td> 
-   <td><p>BP 6.4.4.7 및 BP 6.4.4.6에서 출시된 핫픽스</p> 
+   <td>August 8, 2019</td> 
+   <td>AEM Assets Brand Portal 6.4.4.7 and 6.4.4.6 release</td> 
+   <td><p>Hotfixes released in BP 6.4.4.7 and BP 6.4.4.6</p> 
     <ul> 
-     <li><strong>BP 6.4.4.7</strong> - 동시 실행을 방지하는 사용자 동기화 프로세스 최적화.</li> 
-     <li><strong>BP 6.4.4.6</strong> - 다운로드 보고서 생성을 위한 성능 최적화.</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=ko-KR">Brand Portal 릴리스 정보</a></p> </td> 
+     <li><strong>BP 6.4.4.7</strong> - Optimize User Sync process to prevent concurrent execution.</li> 
+     <li><strong>BP 6.4.4.6</strong> - Performance optimizations for download report generation.</li> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en">Brand Portal release notes</a></p> </td> 
   </tr>
   <tr>
-   <td>2019년 2월 13일</td> 
-   <td>AEM Assets Brand Portal 6.4.4 릴리스 </td> 
-   <td><p>Brand Portal 6.4.4 릴리스는 텍스트 검색 향상 및 상위 고객 요청 사항에 중점을 둡니다.</p> <p>이 설명서에서는 다음과 같은 주요 업데이트를 다룹니다.</p> 
+   <td>February 13, 2019</td> 
+   <td>AEM Assets Brand Portal 6.4.4 release </td> 
+   <td><p>Brand Portal 6.4.4 release focuses on enhancements to text search and top customer requests.</p> <p>The documentation covers the following major updates:</p> 
     <ul> 
-     <li>이제 검색 필터의 속성 설명에서 부분 문구 검색을 지원합니다.</li> 
-     <li>이제 검색 필터의 속성 설명에서 와일드카드(*) 검색을 지원합니다.</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=ko-KR">Brand Portal 릴리스 정보</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=ko-KR">Brand Portal 사용 안내서</a></p> </td> 
+     <li>Property predicate in Search filter now supports searching for partial phrases.</li> 
+     <li>Property predicate in Search Filter now supports wild card (*) searches.</li> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">Brand Portal release notes</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">Brand Portal user guide</a></p> </td> 
   </tr>
   <tr>
-   <td>2018년 11월 1일 </td> 
-   <td>AEM Assets Brand Portal 6.4.3 릴리스</td> 
-   <td><p>Brand Portal 6.4.3 릴리스에는 고객 경험을 풍부하게 하고 조직의 제어를 강화하는 개선 사항이 포함됩니다.</p> <p>이 문서에서는 다음과 같은 주요 업데이트를 다룹니다.</p> 
+   <td>November 1, 2018 </td> 
+   <td>AEM Assets Brand Portal 6.4.3 release</td> 
+   <td><p>Brand Portal 6.4.3 release includes enhancements to enrich the customer experience and give greater control to organizations.</p> <p>The documentation covers the following major updates:</p> 
     <ul> 
-     <li>조직은 URL에 대체 접두사를 포함하여 기존 Brand Portal 액세스 URL 외에도 한 개의 대체 URL을 요청할 수 있습니다.</li> 
-     <li>관리자가 아닌 사용자의 폴더 계층 구조를 사용하는 새 구성입니다.</li> 
-     <li>Dynamic Media 렌디션을 미리보기하고, 재생하고, 다운로드합니다.</li> 
-     <li>AEM 작성자 인스턴스에서 Brand Portal로 예약된 게시입니다.</li> 
-     <li>Dynamic Media 서버 설정을 설정하는 새 구성입니다.</li> 
-     <li>경로 브라우저 설명이 검색 양식에 도입되었습니다.</li> 
-     <li>이메일 링크를 통한 다운로드가 45일 후 만료됩니다. </li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-brand-portal/using/introduction/whats-new.html/brand-portal/release-notes/brand-portal-release-notes-643.html" target="_blank">Brand Portal 릴리스 정보</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=ko-KR" target="_blank">Brand Portal 사용 안내서</a></p> </td> 
+     <li>Organizations can request for one alternate URL apart from existing Brand Portal access URL, by having an alternate prefix in the URL.</li> 
+     <li>New configuration to enable folder hierarchy for non-admin users.</li> 
+     <li>Preview, play and download the Dynamic Media renditions.</li> 
+     <li>Scheduled publishing from AEM Author instance to Brand Portal.</li> 
+     <li>New configuration to set up Dynamic Media image server settings.</li> 
+     <li>Path Browser predicate introduced in Search Form.</li> 
+     <li>Download via email link expires after 45 days. </li> 
+    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html/brand-portal/release-notes/brand-portal-release-notes-643.html" target="_blank">Brand Portal release notes</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en" target="_blank">Brand Portal user guide</a></p> </td> 
   </tr>
   <tr>
-   <td>2018년 8월 16일 </td> 
-   <td>AEM Assets Brand Portal 6.4.2 릴리스</td> 
-   <td><p>Brand Portal 6.4.2 릴리스는 조직의 에셋 배분 요구 사항을 처리하는 기능을 도입하였고 게스트 액세스 기능을 통해 전 세계에 분포한 많은 사용자에게 연결하며 빨라진 다운로드로 사용자 경험을 최적화할 수 있습니다. 이 릴리스에서는 관리자를 위한 새 구성을 통해 조직의 제어를 강화합니다.</p> <p>이 문서에서는 다음과 같은 주요 업데이트를 다룹니다.</p> 
+   <td>August 16, 2018 </td> 
+   <td>AEM Assets Brand Portal 6.4.2 release</td> 
+   <td><p>Brand Portal 6.4.2 release brings in capabilities to address asset distribution needs of organizations and help them reach out to a large number of users distributed globally through Guest access functionality and optimize user experience with accelerated downloads. This release provides greater control to organizations through new configurations for administrators.</p> <p>The documentation covers the following major updates:</p> 
     <ul> 
-     <li>Brand Portal에 대한 게스트 액세스.</li> 
-     <li>Brand Portal 및 공유 링크에서 에셋 파일의 다운로드를 가속화하는 옵션.</li> 
-     <li>로그인 활동을 추적하는 새 사용자 로그인 보고서가 제공됩니다.</li> 
-     <li>저해상도 렌디션에 액세스를 허용하면서 원본 렌디션(.psd, .indd)에 대한 액세스를 특정 사용자 그룹으로 제한합니다.</li> 
-     <li>다른 상위 폴더에 속한 비슷한 이름의 공유 하위 폴더를 구분할 수 있도록 관리자가 아닌 사용자의 카드 보기에서 폴더 카드에 대한 폴더 계층 구조 정보가 제공됩니다.<br /> </li> 
-     <li>목록 보기의 경로 열에서 특정 에셋이 있는 계층 구조를 표시합니다. </li> 
-     <li>검색 필터의 속성 설명과 다중 값 속성 설명을 위해 대소문자를 구분하지 않는 검색을 지원합니다.</li> 
-     <li>조직의 제어를 강화하고 개별 비즈니스 요구 사항을 제공할 수 있게 하는 6개의 새 구성입니다.</li> 
-     <li>oAuth 통합 구성을 위한 UI가 이제 <a href="https://legacy-oauth.cloud.adobe.io/">https://legacy-oauth.cloud.adobe.io/</a>에 호스팅됩니다.</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=ko-KR">Brand Portal 사용 안내서</a></p> </td> 
+     <li>Guest access to Brand Portal.</li> 
+     <li>Option to accelerate the download of asset files from Brand Portal and shared links.</li> 
+     <li>New User Logins report to track the login activity.</li> 
+     <li>Restrict access to original renditions (.psd, .indd), to specific user groups while allowing them to access low-resolution renditions.</li> 
+     <li>Folder hierarchy information on folder cards in card view for non-admin users (Guest user, Viewer, Editor), to help differentiate the shared child folders with similar names belonging to different parent folders.<br /> </li> 
+     <li>Path column in list view to indicate the hierarchy in which a particular asset resides. </li> 
+     <li>Support for non-case sensitive search for property predicate and multi-value property predicate in search Filter.</li> 
+     <li>Six new configurations to give greater control to organizations and enable them to cater to individual business needs.</li> 
+     <li>The UI for configuring oAuth integrations is now hosted in <a href="https://legacy-oauth.cloud.adobe.io/">https://legacy-oauth.cloud.adobe.io/</a>.</li> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal user guide</a></p> </td> 
   </tr>
   <tr>
-   <td>2018년 5월 17일</td> 
-   <td>AEM Assets Brand Portal 6.4.1 릴리스</td> 
-   <td><p>AEM Assets Brand Portal 6.4.1 릴리스는 여러 새 기능과 핵심 개선 사항(예: 고객 경험 개선을 위한 브라우징, 검색, 성능 개선 사항)이 포함된 플랫폼 업그레이드 릴리스였습니다. 이 문서에서는 다음과 같은 주요 업데이트를 다룹니다.</p> 
+   <td>May, 17 2018</td> 
+   <td>AEM Assets Brand Portal 6.4.1 release</td> 
+   <td><p>AEM Assets Brand Portal 6.4.1 release was a platform upgrade release that included several new features and vital enhancements such as browsing, searching, and performance enhancements for fulfilling customer experiences. The documentation covers the following major updates:</p> 
     <ul> 
-     <li>에셋 계층 구조를 빠르게 탐색하는 콘텐츠 트리 기반 탐색.</li> 
-     <li>카드 보기와 목록 보기를 사용자 지정하는 설정을 봅니다.</li> 
-     <li>최적화된 다운로드, 검색 및 브라우징 성능.</li> 
-     <li>에셋 탐색 중 레이지 로드 경험이 개선되었습니다.</li> 
-     <li>새 링크 공유 보고서가 도입되었습니다.</li> 
-     <li>보고 인터페이스가 보고서를 사용자 지정하는 세부 기능으로 더 직관적으로 수정되었습니다.</li> 
-     <li>에셋 검색이 정확한 타임스탬프 필터, 새 액세스 유형 필터, 파일 유형 검색 필터의 새 검색 옵션, 검색 결과로 돌아가는 기능으로 개선되었습니다.</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=ko-KR">Brand Portal 사용 안내서</a></p> </td> 
+     <li>Content tree-based navigation to quickly navigate an asset hierarchy.</li> 
+     <li>View Settings to customize Card View and List View.</li> 
+     <li>Optimized download, search, and browsing performance.</li> 
+     <li>Enhanced lazy loading experience while browsing assets.</li> 
+     <li>New Link Share report introduced.</li> 
+     <li>Reporting interface made more intuitive with granular capabilities to customize reports.</li> 
+     <li>Asset search enhanced with accurate time stamp filters, new Access type filter, new search options in File Type search filter, and capability to navigate back to search results.</li> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal user guide</a></p> </td> 
   </tr>
   <tr>
-   <td>2017년 10월 26일</td> 
-   <td>AEM Assets Brand Portal 6.3.1 릴리스<br /> </td> 
-   <td><p>AEM Assets Brand Portal 6.3.1 릴리스에서는 새 Brand Portal 사용자 인터페이스와 개선된 설명서 경험을 도입했습니다. 이 설명서에서는 다음과 같은 주요 업데이트를 다룹니다.</p> 
+   <td>October 26, 2017</td> 
+   <td>AEM Assets Brand Portal 6.3.1 release<br /> </td> 
+   <td><p>AEM Assets Brand Portal 6.3.1 release introduces the new Brand Portal user interface and enhanced documentation experience. The documentation experience covers the following major updates:</p> 
     <ul> 
-     <li>탐색, 정렬, 검색, 다운로드 경험이 개선되었습니다.</li> 
-     <li>로그인 화면 배경 무늬 컨트롤이 개선되었습니다.</li> 
-     <li>Assets에서 Brand Portal로 전체 메타데이터 스키마 게시</li> 
-     <li>다운로드, 만료 및 게시된 에셋의 보고 기능이 개선되었습니다.</li> 
-     <li>새로 도입된 DRM 기능 - 에셋 만료 제어 및 알림</li> 
-     <li>새 기능 및 업데이트된 기능을 알아보는 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=ko-KR">새로운 기능 문서</a></li> 
-     <li>새 버전-독립적인 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=ko-KR">Brand Portal 사용 안내서</a>(AEM Assets 사용 안내서와 별도로 제공)</li> 
+     <li>Improved navigation, sorting, search, and download experience</li> 
+     <li>Improved login screen wallpaper controls</li> 
+     <li>Complete metadata schema publishing from Assets to Brand Portal</li> 
+     <li>Enhanced reporting capabilities—assets downloaded, expired, and published</li> 
+     <li>Newly introduced DRM capabilities—assets expiration controls and notification</li> 
+     <li>New <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">what’s new article</a> to learn about the new and updated features</li> 
+     <li>New version-agnostic <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal user guide</a> independent of AEM Assets User Guide</li> 
     </ul> </td> 
   </tr>
  </tbody>
 </table>
 
-## [!DNL Adobe Experience Manager] 데스크탑 앱 {#aem-desktop-app}
+## [!DNL Adobe Experience Manager] desktop app {#aem-desktop-app}
 
 <table> 
  <tbody>
   <tr>
-   <td>날짜</td> 
-   <td>주제</td> 
-   <td>변경 사항</td> 
+   <td>Date</td> 
+   <td>Topic</td> 
+   <td>Changes</td> 
   </tr>
   <tr>
-   <td>2018년 7월 5일</td> 
-   <td>버전 비종속 문서</td> 
-   <td>AEM 6.4 릴리스와의 연계가 끊어지도록 데스크탑 앱 문서가 업데이트되었습니다(<a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-desktop-app/using/install-upgrade.html">설치</a>, <a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-desktop-app/using/release-notes.html">RN</a>, <a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-desktop-app/using/archive/best-practices-for-v1.html">우수 사례</a>). 이 앱은 여러 릴리스에서 작동하며 문서가 이제 버전에 관계없이 제공됩니다.</td> 
+   <td>July 5, 2018</td> 
+   <td>Version indepenent articles</td> 
+   <td>Updated the Desktop App articles (<a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/install-upgrade.html">Install</a>, <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html">RNs</a>, and <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/archive/best-practices-for-v1.html">Best Practices</a>) to untie from AEM 6.4 release. The app works with multiple releases and articles are now version agnostic.</td> 
   </tr>
   <tr>
-   <td>2018년 6월 21일</td> 
-   <td>v1.9.1 릴리스</td> 
-   <td>새 버그 수정 사항이 있는 새 버전이 제공됩니다. 자세한 내용은 <a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-desktop-app/using/release-notes.html" target="_blank">릴리스 정보</a>를 참조하십시오.<br /> </td> 
+   <td>June 21, 2018</td> 
+   <td>Release of v1.9.1</td> 
+   <td>New version is made available with a few bug fixes. For details, see the <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html" target="_blank">release notes</a>.<br /> </td> 
   </tr>
   <tr>
-   <td>2018년 5월 31일</td> 
-   <td>v1.9 릴리스<br /> </td> 
-   <td>AEM 데스크탑 앱 1.9 설명서가 이제 제공됩니다.
+   <td>May 31, 2018</td> 
+   <td>Release of v1.9<br /> </td> 
+   <td>Documentation for AEM Desktop App 1.9 is now available.
     <ul> 
-     <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-desktop-app/using/release-notes.html" target="_blank">릴리스 정보</a></li> 
-     <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-desktop-app/using/introduction.html">AEM 데스크탑 앱 사용</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html" target="_blank">Release Notes</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html">Use AEM Desktop App</a></li> 
     </ul> </td> 
   </tr>
  </tbody>
 </table>
+
+-->
