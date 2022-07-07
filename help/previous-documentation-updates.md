@@ -4,9 +4,9 @@ description: 이 페이지에는  [!DNL Adobe Experience Manager]에 대한 이�
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: d984db863b24ced14834c437b76fea80774b17d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3632'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 99%
   </tr>
   <tr>
    <td>2019년 10월 18일<br /> </td> 
-   <td>AEM 프로젝트 원형<br /> </td> 
+   <td>AEM Project Archetype<br /> </td> 
    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">AEM 프로젝트 전형</a>은 사용자 자신의 AEM 프로젝트의 시작점으로서 우수 사례 기반 Adobe Experience Manager 프로젝트를 생성합니다.<br /> </td> 
   </tr>
   <tr>
@@ -71,7 +71,7 @@ ht-degree: 99%
   <tr>
    <td>2019년 10월 1일</td> 
    <td>JEE 설치에 대한 AEM Forms </td> 
-   <td><p>Oracle 18c 데이터베이스 드라이버에 대한 AEM Forms 지원이 추가되었습니다. </p> <p>플랫폼 매트릭스: <a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Oracle 18c 데이터베이스 드라이버에 대한 AEM Forms 지원이 추가되었습니다. </p> <p>플랫폼 매트릭스: <a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>2019년 10월 1일 </td> 
@@ -156,7 +156,7 @@ ht-degree: 99%
   <tr>
    <td>2019년 7월 3일</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1(6.5.1.0)</a>을 사용할 수 있습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR">AEM 6.5 Service Pack 1(6.5.1.0)</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 6월 25일</td> 
@@ -302,7 +302,7 @@ ht-degree: 99%
   <tr>
    <td>2019년 4월 4일</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 서비스 팩 4(6.4.4.0)</a>를 사용할 수 있습니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 서비스 팩 4(6.4.4.0)</a>를 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 2월 22일</td> 
@@ -339,7 +339,7 @@ ht-degree: 99%
   <tr>
    <td>2018년 12월 20일</td> 
    <td>AEM 6.4 서비스 팩 3</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 서비스 팩 3(6.4.3.0)</a>을 사용할 수 있습니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 서비스 팩 3(6.4.3.0)</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2018년 12월 17일</td> 
@@ -414,7 +414,7 @@ ht-degree: 99%
   <tr>
    <td>2018년 10월 3일</td> 
    <td>AEM 6.4 서비스 팩 2</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 서비스 팩 2</a>(6.4.2.0)를 사용할 수 있습니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 서비스 팩 2</a>(6.4.2.0)를 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2018년 9월 18일</td> 
@@ -434,12 +434,12 @@ ht-degree: 99%
   <tr>
    <td>2018년 8월 24일</td> 
    <td>리치 텍스트 편집기<br /> </td> 
-   <td>구성을 개선하고 누락된 정보를 추가하며 워크플로 일러스트레이션을 추가하고 긴 양식 문서를 분할하도록 <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">RTE 구성 문서</a>를 보완했습니다.</td> 
+   <td>구성을 개선하고 누락된 정보를 추가하며 워크플로 일러스트레이션을 추가하고 긴 양식 문서를 분할하도록 <a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">RTE 구성 문서</a>를 보완했습니다.</td> 
   </tr>
   <tr>
    <td>2018년 8월 24일</td> 
    <td>SPA(Single Page Applications)<br /> </td> 
-   <td>AEM SPA 편집기의 <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">SPA(단일 페이지 애플리케이션)</a> 개발을 위한 설명서가 업데이트되어 확장되었습니다.<br /> </td> 
+   <td>AEM SPA 편집기의 <a href="https://helpx.adobe.com/kr/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">SPA(단일 페이지 애플리케이션)</a> 개발을 위한 설명서가 업데이트되어 확장되었습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 8월 16일</td> 
@@ -474,7 +474,7 @@ ht-degree: 99%
   <tr>
    <td>2018년 7월 5일</td> 
    <td>MC-CC 통합<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">AEM Assets와 Marketing Cloud 및Creative Cloud 통합 구성 문서</a>에 버그 수정 사항 및 편집 개선 사항이 있습니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/administering/integration/configure-assets-cc-integration.html">AEM Assets와 Marketing Cloud 및Creative Cloud 통합 구성 문서</a>에 버그 수정 사항 및 편집 개선 사항이 있습니다.</td> 
   </tr>
   <tr>
    <td>2018년 7월 5일</td> 
@@ -489,7 +489,7 @@ ht-degree: 99%
   <tr>
    <td>2018년 6월 29일</td> 
    <td>AEM 6.4.1.0</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a>이 제공됩니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a>이 제공됩니다.</td> 
   </tr>
   <tr>
    <td>2018년 6월 25일</td> 
@@ -509,7 +509,7 @@ ht-degree: 99%
   <tr>
    <td>2018년 6월 14일</td> 
    <td>향상된 스마트 태그</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">스마트 콘텐츠 서비스를 사용하여 에셋 태그 지정을 구성</a>하는 방법에 대한 설명서가 개선되었습니다.</td> 
+   <td><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">스마트 콘텐츠 서비스를 사용하여 에셋 태그 지정을 구성</a>하는 방법에 대한 설명서가 개선되었습니다.</td> 
   </tr>
   <tr>
    <td>2018년 6월 4일</td> 
@@ -555,12 +555,12 @@ ht-degree: 99%
   <tr>
    <td>2018년 4월 24일<br /> </td> 
    <td>SPA(Single Page Applications)<br /> </td> 
-   <td><p>SPA(단일 페이지 애플리케이션)는 웹 사이트 사용자에게 훌륭한 경험을 제공할 수 있습니다. 개발자는 SPA 프레임워크를 사용하여 사이트를 작성하려고 하며 작성자는 SPA로 빌드된 사이트의 AEM 내에서 콘텐츠를 원활하게 편집하려고 합니다.</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 작성 기능</a>(현재 기술 미리 보기)에서는 AEM에서 SPA를 지원하는 복합 솔루션을 제공합니다.</p> </td> 
+   <td><p>SPA(단일 페이지 애플리케이션)는 웹 사이트 사용자에게 훌륭한 경험을 제공할 수 있습니다. 개발자는 SPA 프레임워크를 사용하여 사이트를 작성하려고 하며 작성자는 SPA로 빌드된 사이트의 AEM 내에서 콘텐츠를 원활하게 편집하려고 합니다.</p> <p><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 작성 기능</a>(현재 기술 미리 보기)에서는 AEM에서 SPA를 지원하는 복합 솔루션을 제공합니다.</p> </td> 
   </tr>
   <tr>
    <td>2018년 4월 4일</td> 
    <td>AEM 6.4 릴리스</td> 
-   <td><p>Adobe Experience Manager 6.4는 Adobe Web Experience Manager 6.3 코드 베이스에 대한 업그레이드 릴리스입니다. 새롭고 향상된 기능, 주요 고객 수정 사항, 우선 순위가 높은 고객 개선 사항 및 제품 안정화를 위한 일반적인 버그 수정을 제공합니다. 여기에 또한 모든 Adobe Experience Manager 6.3 기능 팩, 핫픽스, 서비스 팩 릴리스도 포함됩니다.</p> <p>다음을 참조하십시오.</p> 
+   <td><p>Adobe Experience Manager 6.4는 Adobe Experience Manager 6.3 코드 베이스에 대한 업그레이드 릴리스입니다. 새롭고 향상된 기능, 주요 고객 수정 사항, 우선 순위가 높은 고객 개선 사항 및 제품 안정화를 위한 일반적인 버그 수정을 제공합니다. 여기에 또한 모든 Adobe Experience Manager 6.3 기능 팩, 핫픽스, 서비스 팩 릴리스도 포함됩니다.</p> <p>다음을 참조하십시오.</p> 
     <ul> 
      <li><a href="https://helpx.adobe.com/kr/support/experience-manager/6-4.html">AEM 6.4 설명서</a></li> 
      <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-64/release-notes/release-notes.html">릴리스 정보</a></li> 
@@ -571,7 +571,7 @@ ht-degree: 99%
 
 ## 이전 콘텐츠 {#legacy-content}
 
-2017년 10월 24일부터 이전 버전의 AEM 설명서를 다음 새 위치로 이동했습니다. [이전 버전의 Adobe Experience Manager, CQ 및 CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR).
+2017년 10월 24일부터 AEM 설명서의 레거시 버전이 [Adobe Experience Manager, CQ 및 CRX의 이전 버전](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)에서 새 위치로 이동되었습니다.
 
 다음 버전을 이동했습니다.
 
