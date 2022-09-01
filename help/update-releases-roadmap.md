@@ -2,10 +2,10 @@
 title: '"[!DNL Adobe Experience Manager] 릴리스 로드맵"'
 description: '"[!DNL Adobe Experience Manager] 릴리스 로드맵"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4f49de4eceec65b55cb6e313d707c3d9fc0585de
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+source-git-commit: e7a4a7baf9804714495629ebf7bf03664d7faedc
+workflow-type: tm+mt
+source-wordcount: '347'
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문서에서 제공하는 로드맵 업데이트는 정보 전용이며 언제든지 변경될 수 있습니다.
+>이 문서에서 제공하는 아래 날짜 및 로드맵 업데이트는 정보 전용이며 언제든지 변경될 수 있습니다.
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
