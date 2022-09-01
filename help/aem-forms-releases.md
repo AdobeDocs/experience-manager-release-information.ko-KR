@@ -3,7 +3,7 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: ef14a7e63a53dc8770ad5c07c826490d76abbb5e
+source-git-commit: d81fb23a3638a02d5843b179270b4de6b642e395
 workflow-type: tm+mt
 source-wordcount: '13150'
 ht-degree: 99%
@@ -40,7 +40,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
      <br><b>OSGi의 AEM Forms 패치 설치 관리자</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.770.zip">Linux용 AEM Forms 추가 기능 패키지</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.770.zip">Windows용 AEM Forms 추가 기능 패키지</a></li>
-      * <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.770.zip">Mac OS X용 AEM Forms 추가 기능 패키지 [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.770.zip">Mac OS X용 AEM Forms 추가 기능 패키지 [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.46.zip">AEM Forms 호환성 패키지</a></li>
       <br><b>JEE의 AEM Forms 패치 설치 관리자</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0052/jboss/Win/AEMForms-6.5.0-0052_jboss_win.zip">JBoss Windows</a></li>
@@ -67,7 +67,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
      <br><b>OSGi의 AEM Forms 패치 설치 관리자</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.718.zip">Linux용 AEM Forms 추가 기능 패키지</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.718.zip">Windows용 AEM Forms 추가 기능 패키지</a></li>
-      * <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.718.zip">Mac OS X용 AEM Forms 추가 기능 패키지 [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.718.zip">Mac OS X용 AEM Forms 추가 기능 패키지 [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.42.zip">AEM Forms 호환성 패키지</a></li>
       <br><b>JEE의 AEM Forms 패치 설치 관리자</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0044/JBoss/Win/AEMForms-6.5.0-0044_jboss_win.zip">JBoss Windows</a></li>
