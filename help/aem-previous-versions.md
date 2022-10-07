@@ -28,7 +28,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->[!DNL Experience Manager] 작성자에 대하여 이 콘텐츠에 액세스하려면 [!DNL Experience Manager] 인스턴스에 로그인해야 합니다. 이 콘텐츠는 기본적으로 AEM 게시(/ libs 아래에 있음)에서 액세스할 수 없습니다.
+>[!DNL Experience Manager] 작성자에 대하여 이 콘텐츠에 액세스하려면 [!DNL Experience Manager] 인스턴스에 로그인해야 합니다. 이 콘텐츠는 기본적으로 AEM 게시( / libs 아래에 있음)에서 액세스할 수 없습니다.
 
 ## 소프트웨어 배포 위치 {#software-distribution-locations}
 
