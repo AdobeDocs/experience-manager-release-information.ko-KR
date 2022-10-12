@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] 릴리스 로드맵"
 description: "[!DNL Adobe Experience Manager] 릴리스 로드맵"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 910c642b207c0dca1ed51286fd7f99981508e159
-workflow-type: ht
-source-wordcount: '329'
+source-git-commit: ba84fc0741908dd935f66887d2ef7219a5c5a64a
+workflow-type: tm+mt
+source-wordcount: '322'
 ht-degree: 100%
 
 ---
@@ -35,11 +35,10 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR)를 참조하십시오.
+[!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)를 참조하십시오.
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 서비스 팩 12 | 6.5.12.0 | 서비스 팩 | 2022년 2월 24일 |
 | [!DNL Experience Manager] 6.5 서비스 팩 13 | 6.5.13.0 | 서비스 팩 | 2022년 5월 26일 |
 | [!DNL Experience Manager] 6.5 서비스 팩 14 | 6.5.14.0 | 서비스 팩 | 2022년 8월 25일 |
 | [!DNL Experience Manager] 6.5 서비스 팩 15 | 6.5.15.0 | 서비스 팩 | 2022년 11월 24일 |

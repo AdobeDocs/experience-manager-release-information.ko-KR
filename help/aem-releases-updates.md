@@ -1,12 +1,12 @@
 ---
-title: '"[!DNL Adobe Experience Manager] 릴리스 업데이트"'
-description: '"[!DNL Adobe Experience Manager] 릴리스 업데이트"'
+title: "[!DNL Adobe Experience Manager] 릴리스 업데이트"
+description: "[!DNL Adobe Experience Manager] 릴리스 업데이트"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
-workflow-type: ht
-source-wordcount: '314'
-ht-degree: 100%
+source-git-commit: fddac7650badf6d04d9da72893196431e246250f
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 85%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] 는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다.
 
-현재/최신 버전에 대한 세부 정보는 [ [!DNL Experience Manager] as a [!DNL Cloud Service]의 현재 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=ko-KR)를 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
+현재/최신 버전에 대한 세부 정보는 [ [!DNL Experience Manager] as a [!DNL Cloud Service]의 현재 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)를 참조하십시오. 또한 이전 버전(시간순으로 정렬됨)의 세부 사항으로 이동할 수도 있습니다.
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
@@ -32,11 +32,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다.
 
-* [[!DNL Experience Manager] 6.5 서비스 팩 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ko-KR)
-
-* [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ko-KR)
-
-도입된 기능 목록을 보려면 [ [!DNL Experience Manager]  6.5 서비스 팩의 새로운 기능](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html?lang=ko-KR)을 참조하십시오.
+자세한 내용은 [[!DNL Experience Manager] 6.5 최신 기능 팩](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html) 최신/현재 버전에 대한 세부 정보. 또한 이전 버전(시간순으로 정렬됨)의 세부 사항으로 이동할 수도 있습니다.
 
 ### [!DNL Experience Manager] 6.4 {#aem-64}
 
@@ -47,20 +43,3 @@ ht-degree: 100%
 * [[!DNL Experience Manager] 6.4 서비스 팩 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ko-KR)
 
 * [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=ko-KR)
-
-### [!DNL Experience Manager] 6.3 {#aem-63}
-
-* [[!DNL Experience Manager] 6.3 서비스 팩 3 누적 수정 팩 8](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/release-notes-aem-6-3-cumulative-fix-pack.html?lang=ko-KR)
-
-* [[!DNL Experience Manager] 6.3 서비스 팩 3](https://helpx.adobe.com/kr/experience-manager/6-3/release-notes/sp3-release-notes.html)
-
-* [[!DNL Experience Manager] 6.3](https://helpx.adobe.com/kr/experience-manager/6-3/release-notes.html)
-
-### [!DNL Experience Manager] 6.2 {#aem-62}
-
-<!-- TBD: This content will soon be archived and new links can move to aem-previous-versions.md article. See status in UGP-1894.
--->
-
-* [Experience Manager 6.2 서비스 팩 1 누적 수정 팩 20](https://helpx.adobe.com/kr/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
-* [Experience Manager 6.2 서비스 팩 1](https://helpx.adobe.com/kr/experience-manager/6-2/release-notes/sp1.html)
-* [Experience Manager 6.2](https://helpx.adobe.com/kr/experience-manager/6-2/release-notes.html)
