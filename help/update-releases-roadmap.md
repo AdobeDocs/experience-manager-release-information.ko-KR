@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 릴리스 로드맵"
 description: "[!DNL Adobe Experience Manager] 릴리스 로드맵"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7f0b81fa1bcfdb9bddf443a640420e93a79694c1
+source-git-commit: 51fc4b266f80c4dd15a5f3241aa97ff178c07070
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,9 +23,13 @@ ht-degree: 100%
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 | 2022.8.0 | 기능 릴리스 | 2022년 9월 1일 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 기능 릴리스 | 2022년 11월 10일 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.12.0 | 2022.12.0 | 기능 릴리스 | 2022년 12월 15일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 기능 릴리스 | 2023년 1월 23일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 기능 릴리스 | 2023년 2월 23일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | 기능 릴리스 | 2023년 3월 30일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 기능 릴리스 | 2023년 4월 27일 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | 기능 릴리스 | 2023년 5월 25일 |
 
 기능 릴리스 외에도 중요한 버그 및 보안 수정이 유지 보수 릴리스 형식으로 [!DNL Experience Manager] as a [!DNL Cloud Service]에 제공되며, 해당 유지 보수 업데이트는 일반적으로 매주 수행됩니다.
 
@@ -39,10 +43,10 @@ ht-degree: 100%
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 서비스 팩 13 | 6.5.13.0 | 서비스 팩 | 2022년 5월 26일 |
 | [!DNL Experience Manager] 6.5 서비스 팩 14 | 6.5.14.0 | 서비스 팩 | 2022년 8월 25일 |
 | [!DNL Experience Manager] 6.5 서비스 팩 15 | 6.5.15.0 | 서비스 팩 | 2022년 11월 24일 |
-
+| [!DNL Experience Manager] 6.5 서비스 팩 16 | 6.5.16.0 | 서비스 팩 | 2023년 2월 23일 |
+| [!DNL Experience Manager] 6.5 서비스 팩 17 | 6.5.17.0 | 서비스 팩 | 2023년 5월 25일 |
 
 >[!NOTE]
 >
