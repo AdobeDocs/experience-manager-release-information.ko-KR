@@ -3,9 +3,9 @@ title: "[!DNL Adobe Experience Manager] 릴리스 로드맵"
 description: "[!DNL Adobe Experience Manager] 릴리스 로드맵"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9925f351b2a2c379ee0ba31c360d553e6902adcf
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '377'
+ht-degree: 100%
 
 ---
 
@@ -36,10 +36,10 @@ ht-degree: 0%
 >
 >**계획된 유지 관리 제외 기간**
 >
-> 다음 기간 동안 자정 (00:00) CET에서 시작하여 끝나는 자동 AEMaaCS 유지 관리가 실행되지 않습니다.
+> 다음 일정 동안에는 자동 AEMaaCS 유지 관리가 실행되지 않으며, 시작 및 종료 시간 기준은 자정(00:00, CET)입니다.
 >
->* 11월 21일 월요일~12월 12일 월요일
->* 12월 19일 월요일~1월 3일 화요일
+>* 11월 21일 월요일부터 12월 12일 월요일까지
+>* 12월 19일 월요일부터 1월 3일 화요일까지
 
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
@@ -68,7 +68,7 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [EOL 매트릭스](https://helpx.adobe.com/kr/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager]  릴리스 및 업데이트 ](https://helpx.adobe.com/kr/experience-manager/aem-releases-updates.html)
+>* [[!DNL Experience Manager] 릴리스 및 업데이트](https://helpx.adobe.com/kr/experience-manager/aem-releases-updates.html)
 >* [[!DNL Experience Manager] 학습 및 지원](https://helpx.adobe.com/kr/support/experience-manager.html)
 >* [[!DNL Experience Manager] 업데이트 릴리스 정의](/help/update-release-vehicle-definitions.md)
 
