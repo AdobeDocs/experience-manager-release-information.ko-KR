@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Adobe Experience Manager] 릴리스 로드맵"
-description: "[!DNL Adobe Experience Manager] 릴리스 로드맵"
+title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
+description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 297629d471c0c3ac6a13015d3eac1594732837d6
 workflow-type: tm+mt
