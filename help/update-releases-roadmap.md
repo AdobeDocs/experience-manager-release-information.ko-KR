@@ -3,9 +3,9 @@ title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: f0b0900828f9728871ab4acc28d778b845e0d559
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '345'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ko-KR)는 일반적으로 새로운 기능에 대한 월간 릴리스 케이던스를 대상으로 합니다. 다음에 대해 예정된 기능 활성화 [!DNL Experience Manager] 로서의 [!DNL Cloud Service] 는 다음과 같이 계획됩니다.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ko-KR)는 일반적으로 새로운 기능에 대한 월간 릴리스 케이던스를 대상으로 합니다. [!DNL Experience Manager] as a [!DNL Cloud Service]에 대해 예정된 기능 활성화는 다음과 같습니다.
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 기능 릴리스 외에도 중요한 버그 및 보안 수정이 유지 보수 릴리스 형식으로 [!DNL Experience Manager] as a [!DNL Cloud Service]에 제공되며, 해당 유지 보수 업데이트는 일반적으로 높은 빈도로 수행됩니다.
 
-## [!DNL Experience Manager] 온-프레미스 및 Managed Services {#aem-on-prem-managed-services}
+## [!DNL Experience Manager] On-premise 및 Managed Services {#aem-on-prem-managed-services}
 
 지원되는 [!DNL Experience Manager] On-Premise 및 Managed Services에 대한 새로운 기능, 개선 사항 및 버그 수정 사항 관련 제품 업데이트는 분기별 서비스 팩 및 CFP(누적 수정 팩)를 통해 제공됩니다. 릴리스를 자주 제공하여 제품 업데이트를 신속하게 적용할 수 있습니다. 예정된 제품 업데이트 릴리스의 일정은 다음과 같습니다.
 
