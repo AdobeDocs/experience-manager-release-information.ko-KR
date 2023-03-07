@@ -4,9 +4,9 @@ description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 7df5ca957b710be1ed37a90fd2b0dfefdc4e38d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '14217'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -519,7 +519,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tr>
   <tr>
    <td>2020년 12월 3일</td>
-   <td><a href="https://docs.adobe.com/content/help/ko/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 3용 AEM Forms 추가 패키지 (6.4.8.3)</a></td>
+   <td><a href="https://docs.adobe.com/content/help/ko/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 3용 AEM Forms 추가 기능 패키지 (6.4.8.3)</a></td>
    <td><a href="https://docs.adobe.com/content/help/ko/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.3</a></td>
    <td>
     <ul>
@@ -545,7 +545,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
   </tr>
   <tr>
    <td>2020년 9월 3일</td>
-   <td><a href="https://docs.adobe.com/content/help/ko/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 2용 AEM Forms 추가 패키지 (6.4.8.2)</a></td>
+   <td><a href="https://docs.adobe.com/content/help/ko/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4 서비스 팩 8 누적 수정 팩 2용 AEM Forms 추가 기능 패키지 (6.4.8.2)</a></td>
    <td><a href="https://docs.adobe.com/content/help/ko/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.2</a></td>
    <td>
     <ul>
