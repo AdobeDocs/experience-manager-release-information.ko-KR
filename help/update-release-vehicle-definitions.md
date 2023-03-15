@@ -3,14 +3,14 @@ title: 업데이트 릴리스 차량 정의
 description: 이 문서에서는 전체 릴리스, 기능 팩 및 서비스 팩 등 다양한 유형의  [!DNL Experience Manager]  릴리스에 대해 자세히 설명합니다.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
-# [!DNL Experience Manager] 업데이트 릴리스 차량 정의{#update-release-vehicle-definitions}
+# [!DNL Experience Manager] 업데이트 릴리스 차량 정의 {#update-release-vehicle-definitions}
 
 이 문서는 [!DNL Adobe]에서 고객에게 제공하는 전체 릴리스, 기능 팩 및 서비스 팩 등 다양한 유형의 [!DNL Adobe Experience Manager] 릴리스에 대한 세부 사항이 포함되어 있습니다.
 
@@ -77,4 +77,4 @@ ht-degree: 100%
 | 가용성 및 설치 | <ul> <li>서비스 팩을 통해 제공 </li> <li> 소프트웨어 배포에 있습니다. 고객은 소프트웨어 배포를 통해 [!DNL Adobe's] 이용 약관에 동의합니다. </li> </ul> |
 | 테스트 수준 | 일반 공급 기능 팩은 QA가 유효성을 확인합니다. |
 
-* 1: OAK 수정 사항은 개별 핫픽스로 제공되지 않습니다. 하지만 후속 누적 Oak 핫픽스에 포함됩니다. 필요한 경우, 최신 COFP 위에 진단 빌드를 제공할 수 있습니다. 전제 조건은 고객의 최신 COFP가 실행 중인 것입니다. 진단 빌드는 핫픽스와 동일한 수준의 품질 보증만 제공합니다. 따라서 누적 수정 팩, 서비스 팩 또는 제품 릴리스와 동일한 수준의 품질 보증을 제공하지 않습니다. 최종 수정 내용은 다음 CFP와 함께 제공됩니다.
+* 1: Oak 수정 사항은 개별 핫픽스로 제공되지 않습니다. 하지만 후속 누적 Oak 핫픽스에 포함됩니다. 필요한 경우, 최신 COFP 위에 진단 빌드를 제공할 수 있습니다. 전제 조건은 고객의 최신 COFP가 실행 중인 것입니다. 진단 빌드는 핫픽스와 동일한 수준의 품질 보증만 제공합니다. 따라서 누적 수정 팩, 서비스 팩 또는 제품 릴리스만큼 품질 보증을 제공하지 않습니다. 최종 수정 내용은 다음 CFP와 함께 제공됩니다.
