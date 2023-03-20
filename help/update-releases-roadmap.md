@@ -3,9 +3,9 @@ title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '344'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 89%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=ko-KR)는 일반적으로 새로운 기능에 대한 월간 릴리스 케이던스를 대상으로 합니다. [!DNL Experience Manager] as a [!DNL Cloud Service]에 대해 예정된 기능 활성화는 다음과 같습니다.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html)는 일반적으로 새로운 기능에 대한 월간 릴리스 케이던스를 대상으로 합니다. [!DNL Experience Manager] as a [!DNL Cloud Service]에 대해 예정된 기능 활성화는 다음과 같습니다.
 
 | 릴리스 | 버전 | 유형 | 일정 |
 |---|---|---|---|
@@ -33,7 +33,7 @@ ht-degree: 89%
 
 ## [!DNL Experience Manager] On-premise 및 Managed Services {#aem-on-prem-managed-services}
 
-지원되는 의 새로운 기능, 개선 사항 및 버그 수정 사항 측면에서 제품 업데이트 [!DNL Experience Manager] 온-프레미스 및 Managed Services은 분기별 서비스 팩 및 CFP(누적 수정 팩)를 통해 제공됩니다. 릴리스를 자주 제공하여 제품 업데이트를 신속하게 적용할 수 있습니다. 예정된 제품 업데이트 릴리스의 일정은 다음과 같습니다.
+지원되는 [!DNL Experience Manager] On-Premise 및 Managed Services에 대한 새로운 기능, 개선 사항 및 버그 수정 사항 관련 제품 업데이트는 분기별 서비스 팩 및 CFP(누적 수정 팩)를 통해 제공됩니다. 릴리스를 자주 제공하여 제품 업데이트를 신속하게 적용할 수 있습니다. 예정된 제품 업데이트 릴리스의 일정은 다음과 같습니다.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -48,7 +48,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->[!DNL Experience Manager] Forms는 예정된 [!DNL Experience Manager] 서비스 팩 릴리스 날짜로부터 1주일 후에 추가 기능 패키지를 출시합니다.
+>[!DNL Experience Manager] Forms는 예정된 [!DNL Experience Manager] 서비스 팩 릴리스 일자로부터 1주일 후에 추가 기능 패키지를 출시합니다.
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
@@ -57,7 +57,7 @@ ht-degree: 89%
 >[!MORELIKETHIS]
 >
 >* [EOL 매트릭스](https://helpx.adobe.com/kr/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] 릴리스 및 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=en)
+>* [[!DNL Experience Manager] 릴리스 및 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=ko)
 >* [[!DNL Experience Manager] 학습 및 지원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 >* [[!DNL Experience Manager] 업데이트 릴리스 정의](/help/update-release-vehicle-definitions.md)
 
