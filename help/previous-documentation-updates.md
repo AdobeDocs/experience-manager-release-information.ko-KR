@@ -4,9 +4,9 @@ description: 이 페이지에는  [!DNL Adobe Experience Manager]에 대한 이�
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3650'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 77%
   <tr>
    <td>2019년 12월 12일</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=en">AEM 6.5 Service Pack 3</a>을 사용할 수 있습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=ko">AEM 6.5 Service Pack 3</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 12월 5일</td> 
@@ -51,7 +51,7 @@ ht-degree: 77%
   <tr>
    <td>2019년 10월 18일<br /> </td> 
    <td>헤드리스 환경 관리<br /> </td> 
-   <td>단일 페이지 애플리케이션의 서버 측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=en#remote-content-renderer">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
+   <td>단일 페이지 애플리케이션의 서버 측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=ko#remote-content-renderer">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 10월 11일</td> 
@@ -61,7 +61,7 @@ ht-degree: 77%
   <tr>
    <td>2019년 10월 10일</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager 버전 2019.10.0은 2019년 10월 10일에 출시되었습니다.</p> <p><i>새로운 기능</i>을 강조 표시하고 배포 절차 및 메이븐 프로젝트 버전 처리에 대해 업데이트하는 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=en">2019.10.0 릴리스 정보</a>를 참조하십시오.<br /> </p> </td> 
+   <td><p>Cloud Manager 버전 2019.10.0은 2019년 10월 10일에 출시되었습니다.</p> <p><i>새로운 기능</i>을 강조 표시하고 배포 절차 및 메이븐 프로젝트 버전 처리에 대해 업데이트하는 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=ko">2019.10.0 릴리스 정보</a>를 참조하십시오.<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019년 10월 8일</td> 
@@ -101,7 +101,7 @@ ht-degree: 77%
   <tr>
    <td>2019년 9월 19일</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.2.html?lang=en">AEM 6.5 Service Pack 2(6.5.2.0)</a>를 사용할 수 있습니다.</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.2.html?lang=ko">AEM 6.5 Service Pack 2(6.5.2.0)</a>를 사용할 수 있습니다.</td>
   </tr>
   <tr>
    <td>2019년 9월 9일</td> 
@@ -156,32 +156,32 @@ ht-degree: 77%
   <tr>
    <td>2019년 7월 3일</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.1.html?lang=en">AEM 6.5 Service Pack 1(6.5.1.0)</a>을 사용할 수 있습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.1.html?lang=ko">AEM 6.5 Service Pack 1(6.5.1.0)</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 6월 25일</td> 
    <td>코어 구성 요소<br /> </td> 
-   <td>새로운 아코디언, 단추, 컨테이너 및 구성 요소 다운로드를 포함하는 코어 구성 요소 릴리스 2.5.0은 이제 와 함께 사용할 수 있습니다 <a href="https://github.com/adobe/aem-core-wcm-components">GitHub에서 사용 가능한 개발자 세부 사항 및 프로젝트 다운로드</a>.</td> 
+   <td>새로운 아코디언, 버튼, 컨테이너 및 구성 요소 다운로드를 포함하는 핵심 구성 요소 릴리스 2.5.0은 이제 <a href="https://github.com/adobe/aem-core-wcm-components">GitHub에서 사용 가능한 개발자 세부 사항 및 프로젝트 다운로드</a>와 함께 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 6월 17일<br /> </td> 
    <td>AEM Assets와 Creative Cloud 통합</td> 
-   <td>우수 사례는 비즈니스 요구 사항, Adobe 솔루션 제공 및 고객 사용 사례에 대한 명확한 매핑으로 업데이트됩니다. 시각적으로 어필할 수 있도록 인포그래픽이 추가되었습니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=en" target="_blank">AEM Creative Cloud 통합 우수 사례</a>를 참조하십시오.<br />을 따르지 않는 경우입니다 </td> 
+   <td>우수 사례는 비즈니스 요구 사항, Adobe 솔루션 제공 및 고객 사용 사례에 대한 명확한 매핑으로 업데이트됩니다. 시각적으로 어필할 수 있도록 인포그래픽이 추가되었습니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ko" target="_blank">AEM Creative Cloud 통합 우수 사례</a>를 참조하십시오.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 6월 3일</td> 
    <td>리치 텍스트 편집기 (RTE)<br /> </td> 
-   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">다중 필드 구성 요소</a>에 패키지를 추가했습니다.<br /> </p> <p>고객 피드백을 기반으로 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html?lang=en" target="_blank">문제 해결 FAQ</a>를 만들었습니다.</p> </td> 
+   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">다중 필드 구성 요소</a>에 패키지를 추가했습니다.<br /> </p> <p>고객 피드백을 기반으로 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html?lang=ko" target="_blank">문제 해결 FAQ</a>를 만들었습니다.</p> </td> 
   </tr>
   <tr>
    <td>2019년 5월 31일</td> 
    <td>AEM과 Magento 통합 </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento.html?lang=en">전자 상거래 통합 프레임워크</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento.html?lang=ko">전자 상거래 통합 프레임워크</a>.</td> 
   </tr>
   <tr>
    <td>2019년 5월 24일</td> 
    <td>AEM 6.5의 터치 UI 기능 상태<br /> </td> 
-   <td>AEM 6.5용 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=en">터치 UI 기능 상태</a> 페이지를 게시했습니다.<br /> </td> 
+   <td>AEM 6.5용 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=ko">터치 UI 기능 상태</a> 페이지를 게시했습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 5월 14일</td> 
@@ -225,7 +225,7 @@ ht-degree: 77%
   <tr>
    <td>2019년 4월 12일</td> 
    <td>AEM 6.5 Screens 사용 안내서</td> 
-   <td><p>자세한 내용은 <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html?lang=en">Windows 10 Player 구현</a>을 참조하십시오.</p> </td> 
+   <td><p>자세한 내용은 <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html?lang=ko">Windows 10 Player 구현</a>을 참조하십시오.</p> </td> 
   </tr>
   <tr>
    <td>2019년 4월 8일</td> 
@@ -272,42 +272,42 @@ ht-degree: 77%
   <tr>
    <td>2019년 9월 6일</td> 
    <td><strong>AEM 6.4 오픈 소스 문서</strong></td> 
-   <td><p>이제 AEM 6.4 설명서가 GitHub에서 게시되었습니다. 고객은 페이지 등급을 매기고 로그 문제를 기록하며 공동 작업을 수행하고 문서에 기여할 수 있습니다. 기고하려면 <a href="https://github.com/AdobeDocs/experience-manager-64.en" target="_blank">https://github.com/AdobeDocs/experience-manager-64.en</a>에서 행동 수칙 및 기고자 안내서를 읽도록 하십시오.</p> <p>승인 및 게시를 모니터링하도록 하는 AEM 문서 및 제품 팀에 대한 풀 요청을 통해 모든 업데이트를 사용할 수 있습니다.</p> </td> 
+   <td><p>이제 AEM 6.4 설명서가 GitHub에서 게시되었습니다. 고객은 페이지에 평점을 매기고, 문제를 기록하며, 문서에 함께 작업하고 기여할 수 있습니다. 기고하려면 <a href="https://github.com/AdobeDocs/experience-manager-64.en" target="_blank">https://github.com/AdobeDocs/experience-manager-64.en</a>에서 행동 수칙 및 기고자 안내서를 읽도록 하십시오.</p> <p>승인 및 게시를 모니터링하도록 하는 AEM 문서 및 제품 팀에 대한 풀 요청을 통해 모든 업데이트를 사용할 수 있습니다.</p> </td> 
   </tr>
   <tr>
    <td>2019년 8월 20일</td> 
    <td>AEM Assets 스마트 태그</td> 
-   <td>인증서가 만료된 후 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/config-smart-tagging.html?lang=en#certrenew" target="_blank">인증서를 업데이트하는 방법</a>을 알아봅니다.</td> 
+   <td>인증서가 만료된 후 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/config-smart-tagging.html?lang=ko#certrenew" target="_blank">인증서를 업데이트하는 방법</a>을 알아봅니다.</td> 
   </tr>
   <tr>
    <td>2019년 8월 2일<br /> </td> 
    <td>새로운 PDF 래스터라이저 패키지</td> 
-   <td>AEM Assets가 무거운 AI/PDF 파일을 처리하고 미리보기 및 썸네일을 생성하는 데 도움이 되는 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/aem-pdf-rasterizer.html?lang=en" target="_blank">새로운 패키지를 이용할 수 있습니다</a>.</td> 
+   <td>AEM Assets가 무거운 AI/PDF 파일을 처리하고 미리보기 및 썸네일을 생성하는 데 도움이 되는 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/aem-pdf-rasterizer.html?lang=ko" target="_blank">새로운 패키지를 이용할 수 있습니다</a>.</td> 
   </tr>
   <tr>
    <td>2019년 7월 3일</td> 
    <td>AEM 6.4 Service Pack 5</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=en#hotfixes-and-feature-packs-included-in-previous-service-packs">AEM 6.4 서비스 팩 5(6.4.5.0)</a>를 사용할 수 있습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ko#hotfixes-and-feature-packs-included-in-previous-service-packs">AEM 6.4 서비스 팩 5(6.4.5.0)</a>를 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 6월 17일</td> 
    <td>AEM Assets와 Creative Cloud 통합</td> 
-   <td>우수 사례는 비즈니스 요구 사항, Adobe 솔루션 제공 및 고객 사용 사례에 대한 명확한 매핑으로 업데이트됩니다. 시각적으로 어필할 수 있도록 인포그래픽이 추가되었습니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html?lang=en" target="_blank">AEM Creative Cloud 통합 우수 사례</a>를 참조하십시오.</td> 
+   <td>우수 사례는 비즈니스 요구 사항, Adobe 솔루션 제공 및 고객 사용 사례에 대한 명확한 매핑으로 업데이트됩니다. 시각적으로 어필할 수 있도록 인포그래픽이 추가되었습니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html?lang=ko" target="_blank">AEM Creative Cloud 통합 우수 사례</a>를 참조하십시오.</td> 
   </tr>
   <tr>
    <td>2019년 6월 3일</td> 
    <td>리치 텍스트 편집기 (RTE)<br /> </td> 
-   <td>사용 가능한 모든 플러그인이 포함된 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/operations/rich-text-editor.html?lang=en" target="_blank">구성 문서</a>에 패키지를 추가하여 샘플 구성으로 사용할 수 있도록 했습니다. 한 커뮤니티 회원이 <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">다중 필드 구성 요소를 만드는 방법</a>에 대한 튜토리얼을 제공했습니다.<br /> </td> 
+   <td>사용 가능한 모든 플러그인이 포함된 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/operations/rich-text-editor.html?lang=ko" target="_blank">구성 문서</a>에 패키지를 추가하여 샘플 구성으로 사용할 수 있도록 했습니다. 한 커뮤니티 회원이 <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">다중 필드 구성 요소를 만드는 방법</a>에 대한 튜토리얼을 제공했습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 4월 4일</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=en#hotfixes-and-feature-packs-included-in-previous-service-packs">AEM 6.4 서비스 팩 4(6.4.4.0)</a>를 사용할 수 있습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ko#hotfixes-and-feature-packs-included-in-previous-service-packs">AEM 6.4 서비스 팩 4(6.4.4.0)</a>를 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 2월 22일</td> 
    <td>헤드리스 환경 관리</td> 
-   <td><p>고도로 사용자 지정된 옴니채널 환경의 경우 AEM의 헤드리스 구현은 사용자 지정 프런트엔드 애플리케이션과 연결하기 위한 바람직한 대안이 될 수 있습니다.</p> <p>새로운 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en&amp;topic=/experience-manager/6-4/sites/developing/morehelp/headless.ug.js">헤드리스 환경 관리 안내서</a>는 콘텐츠 서비스, SPA, 콘텐츠 조각, 경험 조각 및 HTTP API를 포함한 모든 AEM 헤드리스 문서의 중심입니다.<br /> </p> </td> 
+   <td><p>고도로 사용자 지정된 옴니채널 환경의 경우 AEM의 헤드리스 구현은 사용자 지정 프런트엔드 애플리케이션과 연결하기 위한 바람직한 대안이 될 수 있습니다.</p> <p>새로운 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=ko&amp;topic=/experience-manager/6-4/sites/developing/morehelp/headless.ug.js">헤드리스 환경 관리 안내서</a>는 콘텐츠 서비스, SPA, 콘텐츠 조각, 경험 조각 및 HTTP API를 포함한 모든 AEM 헤드리스 문서의 중심입니다.<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019년 2월 11일</td> 
@@ -319,27 +319,27 @@ ht-degree: 77%
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html">HTL</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html">Cloud Manager</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/exc/using/overview.html?lang=ko-KR">Adobe Experience Cloud 라이브러리</a></li> 
-    </ul> <p>이 콘텐츠는 프레젠테이션의 일부 개선 사항과 내용이 동일합니다. 더 흥미로운 점은 모든 페이지의 <strong>이 페이지 편집</strong> 및 <strong>문제 로그</strong> 링크를 통한 GitHub에 대한 요청 또는 문제 가져오기를 통해 문서 제안을 제공하는 새로운 기능입니다. Adobe이 여러분의 의견을 환영합니다.</p> </td> 
+    </ul> <p>이 콘텐츠는 프레젠테이션의 일부 개선 사항과 내용이 동일합니다. 더 흥미로운 점은 모든 페이지의 <strong>이 페이지 편집</strong> 및 <strong>문제 로그</strong> 링크를 통한 GitHub에 대한 요청 또는 문제 가져오기를 통해 문서 제안을 제공하는 새로운 기능입니다. Adobe는 귀하의 의견을 기다리고 있습니다.</p> </td> 
   </tr>
   <tr>
    <td>2019년 2월 11일</td> 
    <td>코어 구성 요소</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/separator.html?lang=en">구분 기호 구성 요소</a>의 릴리스 2.3.0은 구성 요소를 더 쉽게 실험할 수 있게 하는 <a href="https://www.aemcomponents.dev">구성 요소 라이브러리</a>에 대한 개선 사항입니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/separator.html?lang=ko">구분 기호 구성 요소</a>의 릴리스 2.3.0은 구성 요소를 더 쉽게 실험할 수 있게 하는 <a href="https://www.aemcomponents.dev">구성 요소 라이브러리</a>에 대한 개선 사항입니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 1월 10일</td> 
    <td>경험 조각</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/experience-fragments-target.html?lang=en#deleting-an-experience-fragment-already-exported-to-target">이미 Target에 내보낸 경험 조각 삭제</a>에 관한 설명서.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/experience-fragments-target.html?lang=ko#deleting-an-experience-fragment-already-exported-to-target">이미 Target에 내보낸 경험 조각 삭제</a>에 관한 설명서.</td> 
   </tr>
   <tr>
    <td>2019년 1월 9일</td> 
    <td>통합 문제 해결</td> 
-   <td>새로운 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/troubleshooting-integration-issues.html?lang=en">통합 문제 해결</a> 페이지가 추가되었습니다.</td> 
+   <td>새로운 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/troubleshooting-integration-issues.html?lang=ko">통합 문제 해결</a> 페이지가 추가되었습니다.</td> 
   </tr>
   <tr>
    <td>2018년 12월 20일</td> 
    <td>AEM 6.4 서비스 팩 3</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=en#hotfixes-and-feature-packs-included-in-previous-service-packs">AEM 6.4 서비스 팩 3(6.4.3.0)</a>을 사용할 수 있습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ko#hotfixes-and-feature-packs-included-in-previous-service-packs">AEM 6.4 서비스 팩 3(6.4.3.0)</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2018년 12월 17일</td> 
@@ -348,13 +348,13 @@ ht-degree: 77%
   </tr>
   <tr>
    <td>2018년 12월 11일</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/templates/templates.html?lang=en#template-availability">템플릿 가용성</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/templates/templates.html?lang=ko#template-availability">템플릿 가용성</a></td> 
    <td>템플릿 가용성을 정의할 때의 권장 사항이 업데이트되었습니다.</td> 
   </tr>
   <tr>
    <td>2018년 12월 11일</td> 
    <td>SPA(Single Page Applications)<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-getting-started-angular.html?lang=en">시작 안내서</a>는 이제 각 프레임워크에 제공됩니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-getting-started-angular.html?lang=ko">시작 안내서</a>는 이제 각 프레임워크에 제공됩니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 12월 7일</td> 
@@ -364,32 +364,32 @@ ht-degree: 77%
   <tr>
    <td>2018년 11월 28일</td> 
    <td>SPA(Single Page Applications)</td> 
-   <td>AEM의 SPA에 대한 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-architecture.html?lang=en#spa-development-principles-for-aem">개발 원칙</a>과 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-architecture.html?lang=en#spa-design-models">디자인 모델</a>.<br /> </td>
+   <td>AEM의 SPA에 대한 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-architecture.html?lang=ko#spa-development-principles-for-aem">개발 원칙</a>과 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-architecture.html?lang=ko#spa-design-models">디자인 모델</a>.<br /> </td>
   </tr>
   <tr>
    <td>2018년 11월 28일</td> 
    <td>SPA(Single Page Applications)</td> 
-   <td>이제 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-ssr.html?lang=ko-KR">SPA의 서버 측 렌더링 기능</a>의 기술 미리 보기에 대한 설명서가 제공됩니다.<br /> </td> 
+   <td>이제 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-ssr.html?lang=ko">SPA의 서버 측 렌더링 기능</a>의 기술 미리 보기에 대한 설명서가 제공됩니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 11월 28일</td> 
    <td>코어 구성 요소<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/versions.html?lang=en">코어 구성 요소 설명서</a>가 이에 따라 업데이트되었습니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/versions.html?lang=ko">코어 구성 요소 설명서</a>가 이에 따라 업데이트되었습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 11월 19일</td> 
    <td>경험 조각</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/we-retail/we-retail-experience-fragments.html?lang=en">We.Retail에서 경험 조각</a>을 사용하는 방법을 주로 표시하는 개발자용 빠른 시작 페이지입니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/we-retail/we-retail-experience-fragments.html?lang=ko">We.Retail에서 경험 조각</a>을 사용하는 방법을 주로 표시하는 개발자용 빠른 시작 페이지입니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 11월 2일</td> 
    <td>AEM Screens</td> 
-   <td>AEM Screens 설명서를 Sites 분기에서 Screens 독점 분기로 이동했습니다. 전체 통합 설명서는 <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/aem-screens-introduction.html?lang=en">AEM Screens 사용 안내서</a>를 참조하십시오.</td> 
+   <td>AEM Screens 설명서를 Sites 분기에서 Screens 독점 분기로 이동했습니다. 전체 통합 설명서는 <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/aem-screens-introduction.html?lang=ko">AEM Screens 사용 안내서</a>를 참조하십시오.</td> 
   </tr>
   <tr>
    <td>2018년 11월 1일</td> 
    <td>Cloud Manager</td> 
-   <td>Cloud Manager 2018.9.0 릴리스에서는 이벤트를 포함한 Adobe I/O 기반 API와 Cloud Manager의 CI/CD 파이프라인과 다른 시스템의 통합을 지원합니다. 또한 반응으로 UI 레이어의 재작성을 시작합니다. 자세한 내용은 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2018/2018-9-0.html?lang=en">2018.9.0용 릴리스 정보</a>를 참조하십시오.</td> 
+   <td>Cloud Manager 2018.9.0 릴리스에서는 이벤트를 포함한 Adobe I/O 기반 API와 Cloud Manager의 CI/CD 파이프라인과 다른 시스템의 통합을 지원합니다. 또한 반응으로 UI 레이어의 재작성을 시작합니다. 자세한 내용은 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2018/2018-9-0.html?lang=ko">2018.9.0용 릴리스 정보</a>를 참조하십시오.</td> 
   </tr>
   <tr>
    <td>2018년 10월 25일</td> 
@@ -399,57 +399,57 @@ ht-degree: 77%
   <tr>
    <td>2018년 10월 16일</td> 
    <td>코어 구성 요소<br /> </td> 
-   <td>이미지, 제목, 페이지 구성 요소에 대한 개선 사항과 다양한 버그 수정이 포함된 <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/tabs.html?lang=en">탭</a>과 <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/carousel.html?lang=en">회전 메뉴</a> 구성 요소의 릴리스 2.2.0입니다.</td> 
+   <td>이미지, 제목, 페이지 구성 요소에 대한 개선 사항과 다양한 버그 수정이 포함된 <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/tabs.html?lang=ko">탭</a>과 <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/carousel.html?lang=ko">회전 메뉴</a> 구성 요소의 릴리스 2.2.0입니다.</td> 
   </tr>
   <tr>
    <td>2018년 10월 10일<br /> </td> 
    <td>SPA(Single Page Applications)</td> 
-   <td>AEM SPA Editor SDK 프레임워크는 AEM 6.4.2.0으로 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en&amp;topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">업데이트된 설명서</a>와 함께 제공됩니다.<br /> </td> 
+   <td>AEM SPA Editor SDK 프레임워크는 AEM 6.4.2.0으로 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=ko&amp;topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">업데이트된 설명서</a>와 함께 제공됩니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 10월 3일</td> 
    <td>정적 템플릿<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/templates/page-templates-static.html?lang=en">정적 템플릿에 디자인을 적용하는 방법</a>이 자세히 설명되어 있습니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/templates/page-templates-static.html?lang=ko">정적 템플릿에 디자인을 적용하는 방법</a>이 자세히 설명되어 있습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 10월 3일</td> 
    <td>AEM 6.4 서비스 팩 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=en#hotfixes-and-feature-packs-included-in-previous-service-packs" target="_blank">AEM 6.4 서비스 팩 2</a>(6.4.2.0)를 사용할 수 있습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ko#hotfixes-and-feature-packs-included-in-previous-service-packs" target="_blank">AEM 6.4 서비스 팩 2</a>(6.4.2.0)를 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2018년 9월 18일</td> 
    <td>AEM Screens</td> 
-   <td>동적 임베디드 시퀀스를 사용하려면 채널 역할별로 채널을 지정합니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/authoring/product-features/dynamic-embedded-sequences.html?lang=en">Dynamic Embedded Sequence를 사용</a>하여 한 개 채널에 대한 변경/업데이트가 관련된 다른 채널에 전파된 계층 구조를 따를 수 있습니다. 이 시퀀스는 상위-하위 계층 구조를 따르며 이미지나 비디오와 같은 에셋도 포함합니다.</td> 
+   <td>동적 임베디드 시퀀스를 사용하려면 채널 역할별로 채널을 지정합니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/authoring/product-features/dynamic-embedded-sequences.html?lang=ko">Dynamic Embedded Sequence를 사용</a>하여 한 개 채널에 대한 변경/업데이트가 관련된 다른 채널에 전파된 계층 구조를 따를 수 있습니다. 이 시퀀스는 상위-하위 계층 구조를 따르며 이미지나 비디오와 같은 에셋도 포함합니다.</td> 
   </tr>
   <tr>
    <td>2018년 9월 12일</td> 
    <td>Cloud Manager</td> 
-   <td>로드, 볼륨, 액세스 및 기타 정의된 모니터링 지표가 급격히 증가하는 경우를 지원하기 위해서 프로덕션 환경의 Dispatcher/Publish 세그먼트를 수평 확장하여 자동 크기 조절을 활성화합니다. 자세한 내용은 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2018/2018-7-0.html?lang=en">2018.7.0용 릴리스 정보</a>를 참조하십시오.</td> 
+   <td>로드, 볼륨, 액세스 및 기타 정의된 모니터링 지표가 급격히 증가하는 경우를 지원하기 위해서 프로덕션 환경의 Dispatcher/Publish 세그먼트를 수평 확장하여 자동 크기 조절을 활성화합니다. 자세한 내용은 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2018/2018-7-0.html?lang=ko">2018.7.0용 릴리스 정보</a>를 참조하십시오.</td> 
   </tr>
   <tr>
    <td>2018년 8월 29일<br /> </td> 
    <td>AEM Assets</td> 
-   <td>oAuth 통합을 구성하려면 Adobe Developer 콘솔 게이트웨이 서비스를 다음 위치에서 사용할 수 있습니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/deprecated-removed-features.html?lang=en" target="_blank">AEM Assets 통합 구성</a> 및 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=ko-KR" target="_blank">Brand Portal과 자산 통합 구성</a> 기사.</td> 
+   <td>oAuth 통합을 구성하기 위해서 Adobe Developer Console 게이트웨이 서비스가 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/deprecated-removed-features.html?lang=ko" target="_blank">AEM Assets 통합 구성</a> 및 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=ko" target="_blank">Brand Portal로 Assets 통합 구성</a> 문서에 제공됩니다.</td> 
   </tr>
   <tr>
    <td>2018년 8월 24일</td> 
    <td>리치 텍스트 편집기<br /> </td> 
-   <td>구성을 개선하고 누락된 정보를 추가하며 워크플로 일러스트레이션을 추가하고 긴 양식 문서를 분할하도록 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/operations/rich-text-editor.html?lang=en" target="_blank">RTE 구성 문서</a>를 보완했습니다.</td> 
+   <td>구성을 개선하고 누락된 정보를 추가하며 워크플로 일러스트레이션을 추가하고 긴 양식 문서를 분할하도록 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/operations/rich-text-editor.html?lang=ko" target="_blank">RTE 구성 문서</a>를 보완했습니다.</td> 
   </tr>
   <tr>
    <td>2018년 8월 24일</td> 
    <td>SPA(Single Page Applications)<br /> </td> 
-   <td>개발을 위한 설명서 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en&amp;topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">단일 페이지 애플리케이션(SPA)</a> AEM SPA 편집기용 기능이 업데이트되어 확장되었습니다.<br /> </td> 
+   <td>AEM SPA 편집기의 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=ko&amp;topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">SPA(단일 페이지 애플리케이션)</a> 개발을 위한 설명서가 업데이트되어 확장되었습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 8월 16일</td> 
    <td>Livefyre 통합</td> 
-   <td>업데이트됨 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/livefyre-feature-pack-206.html?lang=en">2.0.6 기능 팩 릴리스</a>, 및 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=en">기능 팩</a> 페이지. </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/livefyre-feature-pack-206.html?lang=ko">2.0.6 기능 팩 릴리스</a> 및 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=ko">기능 팩</a> 페이지가 업데이트되었습니다. </td> 
   </tr>
   <tr>
    <td>2018년 7월 19일</td> 
    <td>코어 구성 요소 릴리스 2.1.0</td> 
-   <td>릴리스 2.1.0의 <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/image.html?lang=en">이미지</a> 구성 요소 개선 사항, 새 <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/teaser.html?lang=en">티저</a> 구성 요소, 다수의 버그 수정.</td> 
+   <td>릴리스 2.1.0의 <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/image.html?lang=ko">이미지</a> 구성 요소 개선 사항, 새 <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/teaser.html?lang=ko">티저</a> 구성 요소, 다수의 버그 수정.</td> 
   </tr>
   <tr>
    <td>2018년 7월 19일</td> 
@@ -474,67 +474,67 @@ ht-degree: 77%
   <tr>
    <td>2018년 7월 5일</td> 
    <td>MC-CC 통합<br /> </td> 
-   <td>버그 수정 및 편집 개선 사항 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/deprecated-removed-features.html?lang=en">Experience Cloud 및 Creative Cloud과 AEM Assets 통합 구성 문서</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/deprecated-removed-features.html?lang=ko">Experience Cloud 및 Creative Cloud로 AEM Assets 통합 구성 문서</a>에 대한 버그 수정 및 에디토리얼 개선 사항이 적용되었습니다.</td> 
   </tr>
   <tr>
    <td>2018년 7월 5일</td> 
    <td>에셋 스마트 태그<br /> </td> 
-   <td>구성을 개선하고 버그를 수정하며 관련 문서를 상호 연결하기 위해 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/config-smart-tagging.html?lang=en">스마트 태그 구성 문서</a>가 추가로 개선되었습니다.</td> 
+   <td>구성을 개선하고 버그를 수정하며 관련 문서를 상호 연결하기 위해 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/config-smart-tagging.html?lang=ko">스마트 태그 구성 문서</a>가 추가로 개선되었습니다.</td> 
   </tr>
   <tr>
    <td>2018년 7월 5일</td> 
    <td>Adobe Analytics와 통합<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics.html?lang=en">Adobe Analytics와 통합</a> 페이지에 대한 여러 업데이트가 있습니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics.html?lang=ko">Adobe Analytics와 통합</a> 페이지에 대한 여러 업데이트가 있습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 6월 29일</td> 
    <td>AEM 6.4.1.0</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ko-KR" target="_blank">AEM 6.4.1.0</a>이 제공됩니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ko" target="_blank">AEM 6.4.1.0</a>이 제공됩니다.</td> 
   </tr>
   <tr>
    <td>2018년 6월 25일</td> 
    <td>Touch UI</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=en">Touch UI 기능 상태</a> 페이지가 6.4용으로 업데이트되었습니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=ko">Touch UI 기능 상태</a> 페이지가 6.4용으로 업데이트되었습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 6월 22일</td> 
    <td>SPA(Single Page Applications)<br /> </td> 
-   <td><p>이제 추가 SPA 콘텐츠를 사용할 수 있습니다. AEM SPA 편집기 내에서 SPA이 작동하는 방법, AEM에서 SPA의 아키텍처 및 AEM SPA과 작동하는 자체 구성 요소 채택 예제를 제공합니다.</p> 
+   <td><p>이제 추가 SPA 콘텐츠를 사용할 수 있습니다. AEM SPA 편집기에서 SPA가 작동하는 방법에 대한 단계별 안내, AEM의 SPA에 대한 아키텍처 및 AEM SPA와 작동하도록 자체 구성 요소를 조정하는 예제를 제공합니다.</p> 
     <ul> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-walkthrough.html?lang=en">SPA 연습</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-architecture.html?lang=en">SPA 아키텍처</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-implementing-react-component.html?lang=en">SPA에 대한 React 구성 요소 구현</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-walkthrough.html?lang=ko">SPA 단계별 안내</a></li> 
+     <li><a href=" https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-architecture.html?lang=ko">SPA 아키텍처</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-implementing-react-component.html?lang=ko">SPA에 대한 React 구성 요소 구현</a></li> 
     </ul> </td> 
   </tr>
   <tr>
    <td>2018년 6월 14일</td> 
    <td>향상된 스마트 태그</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/config-smart-tagging.html?lang=en" target="_blank">스마트 콘텐츠 서비스를 사용하여 에셋 태그 지정을 구성</a>하는 방법에 대한 설명서가 개선되었습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/config-smart-tagging.html?lang=ko" target="_blank">스마트 콘텐츠 서비스를 사용하여 에셋 태그 지정을 구성</a>하는 방법에 대한 설명서가 개선되었습니다.</td> 
   </tr>
   <tr>
    <td>2018년 6월 4일</td> 
    <td>Cloud Manager</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en">Cloud Manager와 AEM 6.4</a>의 사용 방법에 대한 설명서가 제공됩니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=ko">Cloud Manager와 AEM 6.4</a>의 사용 방법에 대한 설명서가 제공됩니다.</td> 
   </tr>
   <tr>
    <td>2018년 5월 30일<br /> </td> 
    <td>패키지 유효성 검사</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=ko-KR">패키지 작업 방법</a> 문서가 ACL 유효성 검사 기능을 포함한 새 패키지 유효성 검사 기능에 대한 세부 사항으로 업데이트되었습니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=ko">패키지 작업 방법</a> 문서가 ACL 유효성 검사 기능을 포함한 새 패키지 유효성 검사 기능에 대한 세부 사항으로 업데이트되었습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 5월 30일</td> 
    <td>Activity Map</td> 
-   <td>페이지 편집기의 일부로 게시된 페이지의 Activity Map 기능입니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-64/authoring/page-performance/pa-using.html?lang=en">사용</a> 방법.</td> 
+   <td>페이지 편집기의 일부로 게시된 페이지의 Activity Map 기능입니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-64/authoring/page-performance/pa-using.html?lang=ko">사용</a> 방법.</td> 
   </tr>
   <tr>
    <td>2018년 5월 25일<br /> </td> 
    <td>GDPR 준비 완료</td> 
-   <td>AEM과 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/bestpractices/gdpr-compliance-sites.html?lang=en">GDPR 준비</a>가 완료되었습니다.<br /> </td> 
+   <td>AEM과 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/bestpractices/gdpr-compliance-sites.html?lang=ko">GDPR 준비</a>가 완료되었습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2018년 5월 4일</td> 
    <td>AEM 6.4 참조 자료<br /> </td> 
-   <td><p>다음 내용을 포함한 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/reference-materials.html?lang=en">참조 자료</a>를 사용할 수 있습니다.</p> 
+   <td><p>다음 내용을 포함한 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/reference-materials.html?lang=ko">참조 자료</a>를 사용할 수 있습니다.</p> 
     <ul> 
      <li>Adobe AEM 6.4.0 API</li> 
      <li>API 차이</li> 
@@ -550,20 +550,20 @@ ht-degree: 77%
   <tr>
    <td>2018년 4월 25일</td> 
    <td>Dynamic Media: 회전 뷰어</td> 
-   <td>새 기능인 <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html?lang=ko-KR" target="_blank">Dynamic Media의 회전식 뷰어</a>에서 클릭할 수 있는 핫스팟이나 영역이 있는 확장 불가능한 배너 이미지의 회전식 표시가 나타납니다. 이 뷰어의 목적은 "쇼퍼블 회전 메뉴" 경험을 구현하는 것입니다. 사용자는 배너 이미지에서 핫스팟이나 영역을 선택하고 고객 웹 사이트의 제품 세부 사항 페이지나 Quickview로 리디렉션할 수 있습니다. 데스크탑 및 모바일 장치에서 작동하도록 디자인되었습니다.</td> 
+   <td>새 기능인 <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html?lang=ko-KR" target="_blank">Dynamic Media의 캐러셀 뷰어</a>에서 클릭할 수 있는 핫스팟이나 영역이 있는 확장 불가능한 배너 이미지의 캐러셀 표시가 나타납니다. 이 뷰어의 목적은 “구매 가능한 캐러셀” 경험을 구현하는 것입니다. 사용자는 배너 이미지 위에서 핫스팟이나 영역을 선택하면 고객 웹 사이트의 빠른 보기 또는 제품 세부 정보 페이지로 리디렉션될 수 있습니다. 데스크탑 및 모바일 디바이스에서 작동하도록 디자인되었습니다.</td> 
   </tr>
   <tr>
    <td>2018년 4월 24일<br /> </td> 
    <td>SPA(Single Page Applications)<br /> </td> 
-   <td><p>SPA(단일 페이지 애플리케이션)는 웹 사이트 사용자에게 훌륭한 경험을 제공할 수 있습니다. 개발자는 SPA 프레임워크를 사용하여 사이트를 작성하려고 하며 작성자는 SPA로 빌드된 사이트의 AEM 내에서 콘텐츠를 원활하게 편집하려고 합니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-walkthrough.html?lang=en">SPA 작성 기능</a>(현재 기술 미리 보기)에서는 AEM에서 SPA를 지원하는 복합 솔루션을 제공합니다.</p> </td> 
+   <td><p>SPA(단일 페이지 애플리케이션)는 웹 사이트 사용자에게 훌륭한 경험을 제공할 수 있습니다. 개발자는 SPA 프레임워크를 사용하여 사이트를 작성하려고 하며 작성자는 SPA로 빌드된 사이트의 AEM 내에서 콘텐츠를 원활하게 편집하려고 합니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-walkthrough.html?lang=ko">SPA 작성 기능</a>(현재 기술 미리 보기)에서는 AEM에서 SPA를 지원하는 복합 솔루션을 제공합니다.</p> </td> 
   </tr>
   <tr>
    <td>2018년 4월 4일</td> 
    <td>AEM 6.4 릴리스</td> 
    <td><p>Adobe Experience Manager 6.4는 Adobe Experience Manager 6.3 코드 베이스에 대한 업그레이드 릴리스입니다. 새롭고 향상된 기능, 주요 고객 수정 사항, 우선 순위가 높은 고객 개선 사항 및 제품 안정화를 위한 일반적인 버그 수정을 제공합니다. 여기에 또한 모든 Adobe Experience Manager 6.3 기능 팩, 핫픽스, 서비스 팩 릴리스도 포함됩니다.</p> <p>다음을 참조하십시오.</p> 
     <ul> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ko-KR">AEM 6.4 설명서</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=en">릴리스 정보</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64.html">AEM 6.4 설명서</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=ko">릴리스 정보</a></li> 
     </ul> </td> 
   </tr>
  </tbody>
