@@ -4,9 +4,9 @@ description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 9430cbf7e1f9142093ff705300b3d903e1f1c5d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '14268'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -61,7 +61,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_Spanish_Cumulative_QF.msp">스페인어 언어 설치 관리자</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0062<br/><p>AEM Forms OSGi 설치 프로그램: 6.0.914<br/> <p>AEM Forms 추가 기능 패키지: 6.0.912</p></td>
+    <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0062<br/><p>AEM Forms OSGi 설치 관리자: 6.0.914<br/> <p>AEM Forms 추가 기능 패키지: 6.0.912</p></td>
    </tr>
    <tr>
     <td>2022년 12월 1일</td>
@@ -418,8 +418,8 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
    </tr>
    <tr>
     <td>2019년 7월 3일</td>
-    <td><a href=" https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.1.html?lang=ko#forms">AEM 6.5.1.0용 AEM Forms 서비스 팩 1 Forms 추가 기능 패키지</a></td>
-    <td><a href=" https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.1.html?lang=ko">AEM 6.5.1.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.1.html?lang=ko#forms">AEM 6.5.1.0용 AEM Forms 서비스 팩 1 Forms 추가 기능 패키지</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.1.html?lang=ko">AEM 6.5.1.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-LX" target="_blank">Linux용 AEM Forms 추가 기능 패키지</a></li>
