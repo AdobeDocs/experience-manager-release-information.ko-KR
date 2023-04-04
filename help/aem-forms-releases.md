@@ -3,10 +3,10 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: db0847781308dbde8097a0cd8ed169b0004165ce
+source-git-commit: 14055b4a8d04f3a3e66d83579b310f7a6eac52f1
 workflow-type: tm+mt
 source-wordcount: '14264'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
 >
 >AEM Forms는 예약된 AEM 서비스 팩 및 누적 수정 팩 릴리스 일자 1주일 후에 추가 기능 패키지를 출시합니다.
 
-다음 목록에는 오늘까지 릴리스된 모든 AEM [!DNL Forms] 추가 기능 패키지, 해당 AEM 버전(전제 조건), 패키지 다운로드 링크 및 기타 유용한 정보가 포함되어 있습니다.
+다음 목록에는 모든 AEM이 포함되어 있습니다 [!DNL Forms] 오늘까지 릴리스된 추가 기능 패키지, 해당 AEM 버전(전제 조건), 패키지 다운로드 링크 및 기타 유용한 정보.
 
 ## AEM 6.5 [!DNL Forms] 릴리스 {#aem-65-forms-releases}
 
