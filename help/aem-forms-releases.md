@@ -3,9 +3,9 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 9430cbf7e1f9142093ff705300b3d903e1f1c5d8
-workflow-type: ht
-source-wordcount: '14268'
+source-git-commit: db0847781308dbde8097a0cd8ed169b0004165ce
+workflow-type: tm+mt
+source-wordcount: '14264'
 ht-degree: 100%
 
 ---
@@ -61,7 +61,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_Spanish_Cumulative_QF.msp">스페인어 언어 설치 관리자</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0062<br/><p>AEM Forms OSGi 설치 관리자: 6.0.914<br/> <p>AEM Forms 추가 기능 패키지: 6.0.912</p></td>
+    <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0062<br/><p>AEM Forms 추가 기능 패키지: 6.0.914</p></td>
    </tr>
    <tr>
     <td>2022년 12월 1일</td>
