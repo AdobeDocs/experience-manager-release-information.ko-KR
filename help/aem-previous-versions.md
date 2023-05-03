@@ -2,10 +2,10 @@
 title: 이전 버전의 AEM, CQ 및 CRX 설명서 다운로드
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지를 다운로드합니다.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
-source-wordcount: '818'
-ht-degree: 100%
+source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 100%
 
 패키지를 다운로드하기 전에 콘텐츠를 사용할 사용자를 결정하십시오. 이 결정에 따라 배포 방법이 결정됩니다.
 
-* 개발자는 빠른 참조를 위해 로컬에서 설치할 수 있습니다.
-* 보다 광범위한 조직의 문서화 요구를 위해서는 패키지가 내부적으로 액세스할 수 있는 비프로덕션 AEM 작성자 인스턴스에 배포되는 것이 좋습니다.
+* 개발자는 빠른 참조를 위해 로컬로 설치할 수 있습니다.
+* 보다 광범위한 조직 문서 요구 사항을 위해 패키지가 내부적으로 액세스할 수 있는 비프로덕션 AEM 작성자 인스턴스에 배포되는 것이 좋습니다.
 
 >[!NOTE]
 >
@@ -41,6 +41,7 @@ Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내
 
 | [!DNL Experience Manager] 버전 | 소프트웨어 배포 링크 |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4 설명서](https://experienceleague.adobe.com/docs/experience-manager-64.html) |
 | [!DNL Experience Manager] 6.3 | [소프트웨어 배포에서 AEM-DOCS-6.3 다운로드](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [소프트웨어 배포에서 AEM-DOCS-6.2 다운로드](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [소프트웨어 배포에서 AEM-DOCS-6.1 다운로드](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
@@ -79,7 +80,7 @@ Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내
 
 1. [!DNL Experience Manager] 사용자 인터페이스를 엽니다. 웹 브라우저에서 다음을 입력합니다. `http://localhost:4502/` 관리자로 로그인합니다.
 
-1. **[!UICONTROL 도구]** > **[!UICONTROL 배포]** > **[!UICONTROL 패키지]**&#x200B;를 선택합니다.
+1. 선택 **[!UICONTROL 도구]** > **[!UICONTROL 배포]** > **[!UICONTROL 패키지]**.
 
 1. 패키지 관리자 UI에서 **[!UICONTROL 패키지 업로드]**&#x200B;를 선택합니다.
 
