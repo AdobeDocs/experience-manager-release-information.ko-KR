@@ -4,8 +4,8 @@ description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '828'
+ht-degree: 95%
 
 ---
 

@@ -3,9 +3,9 @@ title: "[!DNL Adobe Experience Manager] 릴리스 업데이트"
 description: "[!DNL Adobe Experience Manager] 릴리스 업데이트"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
-source-wordcount: '254'
+source-git-commit: 3d078becd3165d77bb027c4d8aec040e1cf01932
+workflow-type: tm+mt
+source-wordcount: '207'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] as a [!DNL Cloud Service] 는 월간 릴리스 케이던스를 따릅니다. 따라서 매달 [!DNL Experience Manager]에 대한 지속적인 업데이트로 새로운 기능이 제공됩니다.
+[!DNL Experience Manager] as a[!DNL Cloud Service]는 일반적으로 새로운 기능에 대한 월간 릴리스 케이던스를 대상으로 합니다.
 
 현재/최신 버전에 대한 세부 정보는 [ [!DNL Experience Manager] as a [!DNL Cloud Service]의 현재 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)를 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
 
@@ -32,14 +32,4 @@ Managed Services 및 On-premise 오퍼링의 경우, 이 문서에는 최신 누
 
 [!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다.
 
-현재/최신 버전에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 최신 기능 팩](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ko-KR)을 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
-
-### [!DNL Experience Manager] 6.4 {#aem-64}
-
-[!DNL Experience Manager] 6.4 제품 업데이트는 분기별 CFP를 통해 제공됩니다. 여기에는 버그 수정이 포함됩니다.
-
-* [[!DNL Experience Manager] 6.4 서비스 팩 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ko-KR)
-
-* [[!DNL Experience Manager] 6.4 서비스 팩 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=ko-KR)
-
-* [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=ko-KR)
+현재/최신 버전에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 최신 기능 팩](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)을 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
