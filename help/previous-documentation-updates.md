@@ -4,9 +4,9 @@ description: 이 페이지에는  [!DNL Adobe Experience Manager]에 대한 이�
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 892e95b3e6aadd854900dfca8b5974e86120a765
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1467'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -41,17 +41,17 @@ ht-degree: 84%
   <tr>
    <td>2019년 11월 20일</td> 
    <td>AEM Project Archetype<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">AEM 프로젝트 Archetype</a>은 AEM 프로젝트에 대한 프런트엔드 개발을 수월하게 하는 유용하고 유연한 도구입니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">AEM 프로젝트 Archetype</a>은 AEM 프로젝트에 대한 프론트엔드 개발을 수월하게 하는 유용하고 유연한 도구입니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 10월 18일<br /> </td> 
    <td>AEM Project Archetype<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">AEM 프로젝트 원형</a> 는 고유한 AEM 프로젝트의 시작점으로 우수 사례 기반 Adobe Experience Manager 프로젝트를 만듭니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">AEM 프로젝트 전형</a>은 사용자 자신의 AEM 프로젝트의 시작점으로 모범 사례 기반의 Adobe Experience Manager 프로젝트를 생성합니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 10월 18일<br /> </td> 
    <td>헤드리스 환경 관리<br /> </td> 
-   <td>단일 페이지 애플리케이션의 서버 측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=ko#remote-content-renderer">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
+   <td>단일 페이지 애플리케이션의 서버측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=ko#remote-content-renderer">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 10월 11일</td> 
@@ -61,7 +61,7 @@ ht-degree: 84%
   <tr>
    <td>2019년 10월 10일</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager 버전 2019.10.0은 2019년 10월 10일에 릴리스되었습니다.</p> <p><i>새로운 기능</i>을 강조 표시하고 배포 절차 및 메이븐 프로젝트 버전 처리에 대해 업데이트하는 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=ko">2019.10.0 릴리스 정보</a>를 참조하십시오.<br /> </p> </td> 
+   <td><p>Cloud Manager 버전 2019.10.0은 2019년 10월 10일에 출시되었습니다.</p> <p><i>새로운 기능</i>을 강조 표시하고 배포 절차 및 메이븐 프로젝트 버전 처리에 대해 업데이트하는 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=ko">2019.10.0 릴리스 정보</a>를 참조하십시오.<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019년 10월 8일</td> 
@@ -96,7 +96,7 @@ ht-degree: 84%
   <tr>
    <td>2019년 9월 25일</td> 
    <td>Adobe Analytics 및 Adobe Launch와 Dynamic Media Viewer 통합</td> 
-   <td><p>Dynamic Media Viewers 5.13 릴리스와 함께 Adobe Launch용 Dynamic Media Viewer 확장 프로그램을 사용하면 Dynamic Media, Adobe Analytics 및 Adobe Launch 고객은 Adobe Launch 구성에서 Dynamic Media Viewer에 대한 특정 이벤트 및 데이터를 사용할 수 있습니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=ko-KR" target="_blank">Adobe Analytics 및 Adobe Launch와 Dynamic Media Viewer 통합</a>을 참조하십시오. </p> </td> 
+   <td><p>Dynamic Media Viewers 5.13 릴리스와 함께 Adobe Launch용 Dynamic Media Viewers 확장을 사용하면 Dynamic Media, Adobe Analytics 및 Adobe Launch 고객은 Adobe Launch 구성에서 Dynamic Media Viewer에 고유한 이벤트 및 데이터를 사용할 수 있습니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=ko-KR" target="_blank">Adobe Analytics 및 Adobe Launch와 Dynamic Media Viewer 통합</a>을 참조하십시오. </p> </td> 
   </tr>
   <tr>
    <td>2019년 9월 19일</td> 
@@ -151,7 +151,7 @@ ht-degree: 84%
   <tr>
    <td>2019년 7월 3일</td> 
    <td>경험 조각</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/experience-fragments.html#the-experience-fragment-link-rewriter-provider-html">경험 조각 링크 재작성기 공급자 - HTML</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/experience-fragments.html#the-experience-fragment-link-rewriter-provider-html">경험 조각 링크 재작성자 공급자 - HTML</a>.</td> 
   </tr>
   <tr>
    <td>2019년 7월 3일</td> 
@@ -165,8 +165,8 @@ ht-degree: 84%
   </tr>
   <tr>
    <td>2019년 6월 17일<br /> </td> 
-   <td>AEM Assets 및 Creative Cloud 통합</td> 
-   <td>Best Practice는 비즈니스 요구 사항, Adobe 솔루션 제공 및 고객 활용 사례를 명확하게 매핑하여 업데이트됩니다. 시각적으로 어필할 수 있도록 인포그래픽이 추가되었습니다. 자세한 내용은 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ko" target="_blank">AEM Creative Cloud 통합 우수 사례</a>.<br /> </td> 
+   <td>AEM Assets와 Creative Cloud 통합</td> 
+   <td>우수 사례는 비즈니스 요구 사항, Adobe 솔루션 제공 및 고객 사용 사례에 대한 명확한 매핑으로 업데이트됩니다. 시각적으로 어필할 수 있도록 인포그래픽이 추가되었습니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ko" target="_blank">AEM Creative Cloud 통합 모범 사례</a>를 참조하십시오.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 6월 3일</td> 
@@ -180,7 +180,7 @@ ht-degree: 84%
   </tr>
   <tr>
    <td>2019년 5월 24일</td> 
-   <td>AEM 6.5의 Touch UI 기능 상태<br /> </td> 
+   <td>AEM 6.5의 터치 UI 기능 상태<br /> </td> 
    <td>AEM 6.5용 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=ko">터치 UI 기능 상태</a> 페이지를 게시했습니다.<br /> </td> 
   </tr>
   <tr>
@@ -237,7 +237,7 @@ ht-degree: 84%
 
 ## 이전 콘텐츠 {#legacy-content}
 
-2023년 5월 1일부터 이전 버전의 AEM 설명서를 다음 새 위치로 이동했습니다. [이전 버전의 Adobe Experience Manager, CQ 및 CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+2023년 5월 1일부터 AEM 설명서의 레거시 버전이 [Adobe Experience Manager, CQ 및 CRX의 이전 버전](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)에서 새 위치로 이동되었습니다.
 
 다음 버전을 이동했습니다.
 
