@@ -3,9 +3,9 @@ title: AEM 6.2 누적 수정 팩
 description: AEM 6.2 누적 수정 팩 릴리스 정보
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 source-git-commit: 44bb03aeb23c2c44fa037b020c3b9c8eadfa0fb7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '19928'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 
 ### 누적 수정 팩 {#cumulative-fix-pack}
 
-Adobe는 수정 사항을 릴리스하기 위해 단일 제공 모델을 도입했습니다. Adobe는 이제 개별 문제에 대한 핫픽스를 릴리스하지 않고 매달 CFP(누적 수정 팩)를 릴리스합니다(품질 검사 통과 여부에 따름). CFP는 여러 수정 사항을 집계한 콘텐츠 패키지로, 주로 버그 수정 사항이 포함되지만, 기능 팩이 포함될 수도 있습니다. 개별 핫픽스 릴리스와 비교해 다음과 같은 이점이 있습니다.
+Adobe는 수정 사항을 릴리스하기 위해 단일 제공 모델을 도입했습니다. Adobe는 이제 개별 문제에 대한 핫픽스를 릴리스하지 않고 매달 CFP(누적 수정 팩)를 릴리스합니다(품질 검사 통과 여부에 따름). CFP는 여러 수정 사항을 집계한 콘텐츠 패키지로, CFP에는 주로 버그 수정 사항이 포함되지만 기능 팩이 포함될 수 있습니다. 개별 핫픽스 릴리스에 비해 다음과 같은 이점이 있습니다.
 
-* 기본적으로 누적(예: CFP에 이전 CFP를 통해 게재된 수정 사항이 포함됨)
-* 개선된 품질 보증
-* 간단한 설치(사용자가 최신 서비스 팩을 제외하고, 종속성이 없는 단일 패키지로 CFP를 설치함)
+* 사실상 누적형(예: CFP에는 이전 CFP를 통해 게재된 수정 사항이 포함되어 있음)
+* 향상된 품질 보증
+* 간소화된 설치(사용자가 최신 서비스 팩을 제외하고 종속성이 없는 단일 패키지로 CFP를 설치)
 
 CFP 및 기타 릴리스 유형에 대한 자세한 내용은 [유지 관리 릴리스 수단](https://docs.adobe.com/content/docs/ko-KR/aem/6-2/deploy/maintenance-release-vehicle-definitions.html)을 참조하십시오.
 
@@ -60,7 +60,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP20은 AEM 6.2의 마지막 누적 수정 팩이
 ### 통합 {#integration}
 
 * 여러 캠페인 타기팅 개인화 개선 사항을 지원합니다. NPR-29163: CQ-4264126용 핫픽스
-* com.day.cq.personalization.impl.TeaserResourceEventHandler가 무한 루프로 이동하고 게시 인스턴스의 노드에 대한 업데이트가 발생합니다. NPR-28561: CQ-4263096용 핫픽스
+* com.day.cq.personalization.impl.TeaserResourceEventHandler가 무한 루프로 이동하여 게시 인스턴스의 노드에 업데이트가 발생합니다. NPR-28561: CQ-4263096용 핫픽스
 
 ### DAM - 일반 {#dam-general}
 
@@ -150,7 +150,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP19는 [AEM 6.2 SP1](https://helpx.adobe.com/kr/
 
 ### 지속성 {#sustenance}
 
-* 패키지 관리자 활동 로그는 별도의 로그 파일에 추출해야 합니다. NPR-27323: Granite-14866용 핫픽스
+* 패키지 관리자 작업 로그는 별도의 로그 파일로 추출해야 합니다. NPR-27323: Granite-14866용 핫픽스
 * 설치가 완료될 때 표시되는 error.log의 표준화된 구문/문구/로그 라인입니다. NPR-27835
 * Granite 패키지 플러그인은 낮은 버전의 org.apache.sling.i18n에 대한 종속성을 선택합니다. CQ-4263245용 핫픽스
 * com.adobe.cq.com.adobe.cq.ui.commons 번들은 6.2SP1-CFP15 이후 최신 CFP를 설치할 때 삭제됩니다. CQ-4258808용 핫픽스
@@ -209,7 +209,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP18은 [AEM 6.2 SP1](https://helpx.adobe.com/kr/
 
 ### 통합 {#integration-2}
 
-* com.day.cq.personalization.impl.BrandsRetriever가 사용 가능한 브랜드를 수집하도록 전체 트리를 안내합니다. NPR-27060: CQ-4255790용 핫픽스
+* com.day.cq.personalization.impl.BrandsRetriever는 전체 트리를 돌아다니며 사용 가능한 브랜드를 수집합니다. NPR-27060: CQ-4255790용 핫픽스
 
 ### WCM - Foundation 구성 요소 {#wcm-foundation-components}
 
@@ -510,7 +510,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP15는 [AEM 6.2 SP1](https://helpx.adobe.com/kr/
 ### 사용자 인터페이스 {#user-interface-1}
 
 * Omnisearch를 하이픈 쿼리와 함께 사용하면 서버 오류가 반환됩니다. NPR-22999: Granite-19674용 핫픽스
-* DatePicker가 숨김 필드에 의해 수동으로 설정된 외부 유형 힌트를 지원하지 않습니다. 이 유형 힌트를 변경하면 변환 오류가 발생합니다. NPR-23333: Granite-21194용 핫픽스
+* DatePicker는 숨겨진 필드에 의해 설정된 외부 유형 힌트를 수동으로 설정할 수 없습니다. 유형 힌트를 변경하면 전환 오류가 발생합니다. NPR-23333: Granite-21194용 핫픽스
 
 ### WCM - Foundation 구성 요소 {#wcm-foundation-components-2}
 
@@ -519,7 +519,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP15는 [AEM 6.2 SP1](https://helpx.adobe.com/kr/
 
 ### 취약성 {#vulnerability-2}
 
-* 관리자 UI 프로젝트의 XSS(교차 사이트 스크립팅)가 연결됩니다. NPR-23272: CQ-4241795용 핫픽스
+* 관리 UI 프로젝트 링크의 XSS(크로스 사이트 스크립팅). NPR-23272: CQ-4241795용 핫픽스
 
 ## Forms {#forms-5}
 
@@ -622,8 +622,8 @@ AEM 누적 수정 팩 6.2 SP1-CFP14는 AEM 6.2 SP1의 일반 공급 이후 릴�
 ### 통합 {#integration-6}
 
 * 오퍼 선택기 라이브러리에서 오퍼를 정렬하려고 하면 잘못된 동작이 발생합니다. NPR-22208: CQ-4235439용 핫픽스
-* 쿼리를 장기 실행하는 동안 TargetContentImpl이 AEM을 느리게 만듭니다. NPR-22361: CQ-4236907용 핫픽스
-* Target 엔진(mbox.js, at.js)이 mangled URL을 사용하지 않고, 콜론이 포함된 URL을 사용하므로 특정 배포에서 실패할 수 있습니다. NPR-22366: CQ-4237854용 핫픽스
+* TargetContentImpl은 오래 실행되는 쿼리 중에 AEM을 느리게 만듭니다. NPR-22361: CQ-4236907용 핫픽스
+* Target 엔진(mbox.js, at.js)은 훼손된 URL을 사용하지 않고, 특정 배포에서 실패할 수 있는 콜론이 포함된 URL을 사용합니다. NPR-22366: CQ-4237854용 핫픽스
 * 페이지 개인화를 사용하려면 브랜드 노드에서 바로 게시가 필요합니다. NPR-22370: CQ-4236895용 핫픽스
 
 ### Foundation {#foundation}
@@ -932,7 +932,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP11은 AEM 6.2 SP1의 일반 공급 이후 릴�
 
 AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키지 및 기타 패치 설치 관리자를 통해 게재됩니다. 자세한 내용은 AEM Forms 릴리스를 참조하십시오.
 
-AEM Forms의 주요 사항은 다음과 같습니다.
+AEM Forms의 주요 기능은 다음과 같습니다.
 
 * Workbench 사용자에 대해 인증서 인증을 사용하도록 설정했습니다.
 * 서신 관리, HTML5 양식 및 AEM Forms 작업 공간에 대한 유용성 수정 사항.
@@ -1092,7 +1092,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP9는 AEM 6.2 SP1의 일반 공급 이후 릴리
 
 ### 통합 {#integration-11}
 
-* 익명 사용자로 액세스할 때 사용자 지정 at.js 파일이 게시되지 않습니다. NPR-19542: CQ-4219592용 핫픽스
+* 익명 사용자로 액세스하면 사용자 지정 at.js 파일이 게시되지 않습니다. NPR-19542: CQ-4219592용 핫픽스
 * Analytics 기존 인증서를 WSSE 인증으로 마이그레이션하는 중입니다. NPR-19962
 
 ### Brand Portal {#brand-portal}
@@ -1152,7 +1152,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP8은 AEM 6.2 SP1의 일반 공급 이후 릴리
 ### 에셋 {#assets-11}
 
 * Safari 브라우저에서 스마트 컬렉션에 Omnisearch 필터를 적용하는 문제. NPR-19511
-* PDF 에셋과 연관된 키워드가 여러 개 있는 경우 PDF 키워드 메타데이터가 제대로 추출되지 않고 잘못 수정됩니다. 이 문제를 해결하기 위해 PDF 에셋에 대한 제목 필드 메타데이터 속성이 제거되었습니다. 그러나 메타데이터 스키마를 편집하여 제목 필드에 대한 여러 값 텍스트 필드를 추가할 수 있습니다. NPR-19126
+* PDF 에셋과 연관된 키워드가 여러 개 있는 경우 PDF 키워드 메타데이터가 제대로 추출되지 않고 잘못 수정됩니다. 이 문제를 해결하기 위해 PDF 에셋에 대한 제목 필드 메타데이터 속성이 제거되었습니다. 하지만 메타데이터 스키마를 편집하여 제목 필드에 대한 다중 값 텍스트 필드를 추가할 수 있습니다. NPR-19126
 * 워크플로 알림 서비스는 사용자가 클릭한 후 로드할 수 없는 이메일의 링크를 인코딩하지 않습니다. NPR-19490: CQ-4218055용 핫픽스
 * Chrome을 사용하여 열 보기에 전체 페이지/에셋 목록을 로드할 수 없습니다. NPR-19458: CQ-4214248용 핫픽스
 * 활성화 요청 워크플로를 활성화하면 AEM 받은 편지함에 잘못된 해제 시간 아이콘이 표시됩니다. NPR-19365: CQ-4216174
@@ -1257,7 +1257,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP7은 AEM 6.2 SP1의 일반 공급 이후 릴리
 * dc: 제목과 dc: 설명이 crx/de의 복수 필드 값으로 변경되지 않습니다. NPR-18474, CQ-4209086용 핫픽스
 * 에셋 이동 작업으로 인해 성능이 저하됩니다. NPR-18346
 * 기본 모두 표시 옵션이 설정된 상태로 타임라인에서 항목을 열면 해당 항목이 표시되지 않습니다. NPR-18302, CQ-4211957용 핫픽스
-* ASCII/UTF-8로 인코딩된 텍스트 파일이 AEM Assets에 업로드되고 썸네일 생성이 실패하는 경우 오류가 발생합니다. NPR-18006: CQ-4209345용 CFP
+* ASCII/UTF-8 인코딩된 텍스트 파일이 AEM Assets에 업로드되고 썸네일 생성이 실패하면 오류가 발생합니다. NPR-18006: CQ-4209345용 CFP
 * 사용자에게 복제 액세스 권한이 없더라도 게시 작업 버튼이 표시됩니다. NPR-17353, CQ-4209269용 핫픽스
 * min:gcc;obfuskate=true를 사용하여 축소를 활성화하는 경우 Siteadmin 및 Miscadmin 모두 작동하지 않습니다. NPR-18593, CQ-4209220용 핫픽스
 * 매번 화면을 새로 고치지 않으면 사용자 지정 메뉴 항목이 표시되지 않습니다. NPR-18500, CQ-4213581용 핫픽스
@@ -1429,7 +1429,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 * 데이터 사전을 편지 렌더링 중에 반복적으로 읽습니다. NPR-18482, CQ-4210805용 핫픽스
 * com.adobe.livecycle.content 클래스에 대한 JavaDocs가 추가되었습니다. NPR-18467
 * 편지를 작성할 때 편지에 대한 설명이 저장되지 않습니다. NPR-18039
-* 텍스트 모듈이 저장되고 텍스트 모듈의 표현식에 열기 또는 닫기 표현식 태그가 없으면 오류 메시지가 표시되지 않습니다. 텍스트 모듈에 오류 메시지가 표시되고 편지에서 렌더링되지 않습니다. NPR-17798
+* 텍스트 모듈이 저장되고 텍스트 모듈의 표현식에 열기 또는 닫기 표현식 태그가 포함되어 있지 않으면 오류 메시지가 표시되지 않습니다. 텍스트 모듈에 오류 메시지가 표시되고 편지에서 렌더링되지 않습니다. NPR-17798
 * 추가 기능 패키지 설치 시 로그에 예기치 않은 오류가 표시됩니다. NPR-18295
 
 **Forms Manager**
@@ -1546,7 +1546,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 **프로세스 관리**
 
-* TaskContext 변수가 AEM Forms 프로세스에 대해 채워지지 않습니다. CQ-4211857
+* AEM Forms 프로세스에 대해 TaskContext 변수가 채워지지 않습니다. CQ-4211857
 
 #### AEM Forms JEE 번들 패키지 {#aem-forms-jee-bundles-package}
 
@@ -2208,8 +2208,8 @@ AEM 6.2 SP2-CFP1의 주요 특징:
 * 누적 수정 팩 다운로드는 AEM 인스턴스에서 직접 액세스할 수 있는 [소프트웨어 배포](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html)에서 제공합니다.
 * RDBMK 또는 MongoDB를 사용한 클러스터 배포를 위해 패키지 관리자를 사용하는 작성자 인스턴스에 CFP 패키지를 설치할 수 있습니다.
 
-* 누적 수정 팩을 설치하기 전에 스냅샷을 작성하거나 AEM 인스턴스를 백업하십시오.
-* CFP는 제거할 수 없습니다.
+* 누적 수정 팩을 설치하기 전에 스냅샷을 생성하거나 AEM 인스턴스를 백업해야 합니다.
+* CFP 제거는 지원되지 않습니다.
 
 ### 소프트웨어 배포를 통한 CFP 설치 {#install-the-cfp-via-package-share}
 
@@ -2245,7 +2245,7 @@ CFP는 다음과 같은 방법으로 실행 중인 인스턴스에 자동으로 
 
 >[!NOTE]
 >
->AEM Forms를 사용하지 않는 경우 이 섹션을 건너뜁니다.
+>AEM Forms을 사용하지 않는 경우 이 섹션을 건너뜁니다.
 
 #### AEM Forms 추가 기능 설치 {#install-aem-forms-add-on}
 
@@ -2259,13 +2259,13 @@ CFP는 다음과 같은 방법으로 실행 중인 인스턴스에 자동으로 
 
 #### AEM Forms JEE 번들 패키지 설치 {#install-aem-forms-jee-bundles-package}
 
-별도의 설치 관리자를 통해 AEM Forms JEE의 수정 사항이 전달됩니다. JEE의 AEM Forms에 CFP를 설치하는 방법에 대한 자세한 내용은 [AEM Forms JEE에 CFP 설치](install-cfp-aem-forms-jee.md)를 참조하십시오.
+별도의 설치 관리자를 통해 AEM Forms JEE의 수정 사항이 전달됩니다. JEE의 AEM Forms에 CFP를 설치하는 방법에 대한 자세한 내용은 다음을 참조하십시오. [AEM Forms JEE에 CFP 설치](install-cfp-aem-forms-jee.md).
 
 #### Forms 디자이너 설치 관리자 {#designer-installer}
 
 1. 업데이트를 설치하려면 Designer 6.2.0_&lt;Language>_Cumulative_QF.msp 파일을 실행합니다.
-1. 시작 화면에서 **업데이트**&#x200B;를 클릭합니다. 설치가 시작됩니다.
-1. 설치가 완료되면 **완료**&#x200B;를 클릭합니다.
+1. 시작 화면에서 **업데이트**. 설치가 시작됩니다.
+1. 설치가 완료되면 **마침**.
 
 ## DTM, Analytics, Target, Search &amp; Promote 연결에 대한 사용자 구성 가능한 시간 초과 매개변수 {#user-configurable-timeout-parameters-for-dtm-analytics-target-search-promote-connections}
 
