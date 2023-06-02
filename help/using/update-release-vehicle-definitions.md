@@ -4,7 +4,7 @@ description: 이 문서에서는 전체 릴리스, 기능 팩 및 서비스 팩 
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '730'
 ht-degree: 100%
 
