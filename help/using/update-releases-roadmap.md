@@ -3,7 +3,7 @@ title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 8431dac82cec9454c6a4683dc566f34c3978fae6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '336'
 ht-degree: 100%
 
@@ -54,7 +54,7 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [EOL 매트릭스](https://helpx.adobe.com/support/programs/eol-matrix.html)
+>* [EOL 매트릭스](https://helpx.adobe.com/kr/support/programs/eol-matrix.html)
 >* [[!DNL Experience Manager] 릴리스 및 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=ko)
 >* [[!DNL Experience Manager] 학습 및 지원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 >* [[!DNL Experience Manager] 업데이트 릴리스 정의](/help/using/update-release-vehicle-definitions.md)
