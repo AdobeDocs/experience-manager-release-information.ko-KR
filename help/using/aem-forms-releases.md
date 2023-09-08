@@ -3,9 +3,9 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 898d2db30a9c5f9cf23032d8900a0f2062bcc2b9
+source-git-commit: d52f0dbb53889f86cc02c201532b4a3723177ae3
 workflow-type: tm+mt
-source-wordcount: '8103'
+source-wordcount: '8127'
 ht-degree: 94%
 
 ---
@@ -69,6 +69,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp18/Designer6.5.0_German_Cumulative_QF.msp">독일어 언어 설치 관리자</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp18/Designer6.5.0_Japanese_Cumulative_QF.msp">일본어 언어 설치 관리자</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp18/Designer6.5.0_Spanish_Cumulative_QF.msp">스페인어 언어 설치 관리자</a> </li>
+      <br><b>핫픽스</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/hotfix/Hotfix-on-SP18.zip">Hotfix-FORMS-10578</a> </li>
       </ul> 
       </td>
     <td><p>AEM Forms JEE 전체 설치 프로그램: 20230830-1-12345<br/><p>AEM Forms JEE 패치 설치 관리자: aemforms-6-5-0-0069<br/><p>AEM Forms 추가 기능 패키지: 6.5.18.0</p></td>
