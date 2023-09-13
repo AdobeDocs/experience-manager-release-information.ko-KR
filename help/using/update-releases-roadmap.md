@@ -2,10 +2,10 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 3c1188eba0a6a7efb252d4d0fe5152778afa4a77
+source-git-commit: d49db9de4e6fd520d7c6e502c1c4573e4c49a45e
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 76%
+source-wordcount: '487'
+ht-degree: 75%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 76%
 
 | 릴리스 | Event | 일정 | 상태 |
 |---|---|---|---|
-| 기능 릴리스 2023.6.0 | 기능 활성화 | 2023년 6월 29일 | 활성화됨 |
-| 기능 릴리스 2023.7.0 | 기능 활성화 | 2023년 7월 27일 | 활성화됨 |
-| 유지 관리 릴리스 | 자동 업데이트 | 2023년 8월 7~10일 | 업데이트됨 |
-| 유지 관리 릴리스 | 자동 업데이트 | 2023년 8월 21~24일 | 업데이트됨 |
-| 기능 릴리스 2023.8.0 | 기능 활성화 | 2023년 8월 31일 | 활성화됨 |
-| 유지 관리 릴리스 | 자동 업데이트 | 2023년 9월 4~7일 | 대상 |
-| 유지 관리 릴리스 | 자동 업데이트 | 2023년 9월 18~21일 | 대상 |
+| 기능 릴리스 [2023.6.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-6-0.html) | 기능 활성화 | 2023년 6월 29일 | 활성화됨 |
+| 기능 릴리스 [2023.7.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-7-0.html) | 기능 활성화 | 2023년 7월 27일 | 활성화됨 |
+| 유지 관리 릴리스 [12874](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-12874) | 자동 업데이트 | 2023년 8월 2일 | 업데이트됨 |
+| 유지 관리 릴리스 [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | 자동 업데이트 | 2023년 8월 21일 | 업데이트됨 |
+| 기능 릴리스 [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | 기능 활성화 | 2023년 8월 31일 | 활성화됨 |
+| 유지 관리 릴리스 [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | 자동 업데이트 | 2023년 9월 1일 | 업데이트됨 |
+| 유지 관리 릴리스 [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | 자동 업데이트 | 2023년 9월 12일 | 업데이트됨 |
 | 기능 릴리스 2023.9.0 | 기능 활성화 | 2023년 9월 28일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2023년 10월 2~5일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2023년 10월 16~19일 | 대상 |
@@ -60,9 +60,9 @@ ht-degree: 76%
 
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 서비스 팩 16 | 6.5.16.0 | 서비스 팩 | 2023년 2월 23일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 서비스 팩 17 | 6.5.17.0 | 서비스 팩 | 2023년 5월 25일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 서비스 팩 18 | 6.5.18.0 | 서비스 팩 | 2023년 8월 24일 | 활성화됨 |
+| [!DNL Experience Manager][ 6.5 서비스 팩 16](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.16.html) | 6.5.16.0 | 서비스 팩 | 2023년 2월 23일 | 활성화됨 |
+| [!DNL Experience Manager][ 6.5 서비스 팩 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.17.html) | 6.5.17.0 | 서비스 팩 | 2023년 5월 25일 | 활성화됨 |
+| [!DNL Experience Manager][ 6.5 서비스 팩 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html) | 6.5.18.0 | 서비스 팩 | 2023년 8월 24일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 서비스 팩 19 | 6.5.19.0 | 서비스 팩 | 2023년 11월 23일 | 대상 |
 
 >[!NOTE]
