@@ -2,9 +2,9 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: cbc5229bba25a24958dc09b31a89d178556eeae1
-workflow-type: ht
-source-wordcount: '491'
+source-git-commit: 31629787a26aaad4dd6ac405d32abd308a0e82c1
+workflow-type: tm+mt
+source-wordcount: '500'
 ht-degree: 100%
 
 ---
@@ -28,10 +28,10 @@ ht-degree: 100%
 | 기능 릴리스 [2023.7.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-7-0.html) | 기능 활성화 | 2023년 7월 27일 | 활성화됨 |
 | 유지 관리 릴리스 [12874](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-12874) | 자동 업데이트 | 2023년 8월 2일 | 업데이트됨 |
 | 유지 관리 릴리스 [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | 자동 업데이트 | 2023년 8월 21일 | 업데이트됨 |
-| 기능 릴리스 [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | 기능 활성화 | 2023년 8월 31일 | 활성화됨 |
+| 기능 릴리스 [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-8-0.html) | 기능 활성화 | 2023년 8월 31일 | 활성화됨 |
 | 유지 관리 릴리스 [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | 자동 업데이트 | 2023년 9월 1일 | 업데이트됨 |
 | 유지 관리 릴리스 [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | 자동 업데이트 | 2023년 9월 18~20일 | 업데이트됨 |
-| 기능 릴리스 2023.9.0 | 기능 활성화 | 2023년 9월 28일 | 대상 |
+| 기능 릴리스 [2023.9.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | 기능 활성화 | 2023년 9월 28일 | 활성화됨 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2023년 10월 2~5일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2023년 10월 16~19일 | 대상 |
 | 기능 릴리스 2023.10.0 | 기능 활성화 | 2023년 10월 26일 | 대상 |
