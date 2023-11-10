@@ -3,9 +3,9 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 1c30659ecbc0b7f9fc845bec4996a1e3367b5011
+source-git-commit: b5065a6d171c0ed51a5cb8e8bca592fa4f00e380
 workflow-type: tm+mt
-source-wordcount: '8164'
+source-wordcount: '8167'
 ht-degree: 99%
 
 ---
@@ -16,7 +16,7 @@ Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입�
 
 >[!NOTE]
 >
->AEM 6.5 빠른 시작에서 사용할 수 있는 적응형 Forms 기능은 탐색 및 평가 목적으로만 설계되었습니다. 프로덕션 사용을 위해서는 적응형 Forms 기능에 적절한 라이선스가 필요하므로 AEM Forms에 대한 유효한 라이선스를 얻는 것이 필수적입니다.
+>적응형 Forms과 같은 AEM Forms 기능은에서 사용할 수 있습니다. [AEM 6.5 QuickStart](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html)는 탐색 및 평가 목적으로만 사용됩니다. 프로덕션 사용을 위해서는 AEM Forms에 대한 유효한 라이선스를 얻는 것이 필수적입니다.
 
 <!--
 >[!NOTE]
