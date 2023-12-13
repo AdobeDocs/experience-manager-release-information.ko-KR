@@ -3,8 +3,8 @@ title: 이전 버전의 AEM, CQ 및 CRX 설명서 다운로드
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지를 다운로드합니다.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
-source-wordcount: '828'
+workflow-type: ht
+source-wordcount: '570'
 ht-degree: 100%
 
 ---

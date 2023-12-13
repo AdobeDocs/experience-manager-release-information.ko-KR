@@ -4,8 +4,8 @@ description: 이 페이지에는  [!DNL Adobe Experience Manager]에 대한 이�
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
-source-wordcount: '1467'
+workflow-type: ht
+source-wordcount: '1236'
 ht-degree: 100%
 
 ---
