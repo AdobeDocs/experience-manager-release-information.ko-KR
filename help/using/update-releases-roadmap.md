@@ -3,9 +3,9 @@ title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 969cfa155a54fbd7a133e893e19932fe8eeac169
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '525'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -72,10 +72,10 @@ ht-degree: 97%
 
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 [서비스 팩 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.17.html?lang=ko-KR) | 6.5.17.0 | 서비스 팩 | 2023년 5월 25일 | 활성화됨 |
+| [!DNL Experience Manager] 6.5 [서비스 팩 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.17.html) | 6.5.17.0 | 서비스 팩 | 2023년 5월 25일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.18.html) | 6.5.18.0 | 서비스 팩 | 2023년 8월 24일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 19](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ko-KR) | 6.5.19.0 | 서비스 팩 | 2023년 11월 30일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 서비스 팩 20 | 6.5.20.0 | 서비스 팩 | 2024년 22월 2일 | 대상 |
+| [!DNL Experience Manager] 6.5 서비스 팩 20 | 6.5.20.0 | 서비스 팩 | 2024년 2월 22일 | 대상 |
 | [!DNL Experience Manager] 6.5 서비스 팩 21 | 6.5.21.0 | 서비스 팩 | 2024년 5월 23일 | 대상 |
 | [!DNL Experience Manager] 6.5 서비스 팩 22 | 6.5.22.0 | 서비스 팩 | 2024년 8월 22일 | 대상 |
 | [!DNL Experience Manager] 6.5 서비스 팩 23 | 6.5.23.0 | 서비스 팩 | 2024년 11월 21일 | 대상 |
@@ -87,6 +87,6 @@ ht-degree: 97%
 >[!MORELIKETHIS]
 >
 >* [EOL 매트릭스](https://helpx.adobe.com/kr/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] 릴리스 및 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=ko-KR?lang=ko)
+>* [[!DNL Experience Manager] 릴리스 및 업데이트](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=ko-KR)
 >* [[!DNL Experience Manager] 학습 및 지원](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko-KR)
 >* [[!DNL Experience Manager] 업데이트 릴리스 정의](/help/using/update-release-vehicle-definitions.md)
