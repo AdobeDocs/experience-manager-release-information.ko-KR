@@ -2,9 +2,9 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f0d7dff2ff21befed5f0c2fde36b5442267d61ad
+source-git-commit: 4e209f166c0401279f73632e19bf8f05ee0e9dec
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '467'
 ht-degree: 100%
 
 ---
@@ -50,15 +50,6 @@ ht-degree: 100%
 | 기능 릴리스 2024.5.0 | 기능 활성화 | 2024년 5월 30일 | 대상 |
 | 기능 릴리스 2024.6.0 | 기능 활성화 | 2024년 6월 27일 | 대상 |
 | 기능 릴리스 2024.7.0 | 기능 활성화 | 2024년 7월 25일 | 대상 |
-
->[!CAUTION]
->
->**계획된 유지 관리 제외 기간**
->
-> 다음 일정 동안에는 자동 AEMaaCS 유지 관리가 실행되지 않으며, 시작 및 종료 시간 기준은 자정(00:00)(CET)입니다.
->
->* 2023년 11월 16일 목요일부터 2023년 11월 28일 화요일까지
->* 2023년 12월 15일 금요일부터 2024년 1월 2일 화요일까지
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
