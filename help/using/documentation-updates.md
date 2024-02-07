@@ -3,7 +3,7 @@ title: "[!DNL Experience Manager] 최근 설명서 업데이트"
 description: ' [!DNL Experience Manager] 설명서의 새로운 기능, 업데이트 또는 변경 사항'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 5e8fbbc0cc3ab5cc96de9e363fbc44bcca37f1ea
+source-git-commit: d719a7bdfd6bc9a8a2daab4b3452db6047027764
 workflow-type: tm+mt
 source-wordcount: '1940'
 ht-degree: 97%
@@ -66,24 +66,24 @@ ht-degree: 97%
 
 | 날짜 | 주제 | 변경 사항 |
 | --- | --- | --- |
-| 2021년 11월 25일 | [!DNL Experience Manager] 6.5 서비스 팩 11 | [[!DNL Experience Manager] 6.5 서비스 팩 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-11.html)을 사용할 수 있습니다. |
+| 2021년 11월 25일 | [!DNL Experience Manager] 6.5 서비스 팩 11 | [[!DNL Experience Manager] 6.5 서비스 팩 11](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-11.html)을 사용할 수 있습니다. |
 | 2021년 11월 3일 | 스마트 자르기 비디오 뷰어 API | 이제 Dynamic Media 뷰어 참조 안내서에서 새로운 [스마트 자르기 비디오 뷰어 API 설명서](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html)를 이용할 수 있습니다. |
-| 2021년 8월 26일 | [!DNL Experience Manager] 6.5 서비스 팩 10 | [[!DNL Experience Manager] 6.5 서비스 팩 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-10.html)을 사용할 수 있습니다. |
-| 2021년 5월 27일 | [!DNL Experience Manager] 6.5 서비스 팩 9 | [[!DNL Experience Manager] 6.5 서비스 팩 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-9.html)를 사용할 수 있습니다. |
-| 2021년 3월 11일 | [!DNL Experience Manager] 6.5 서비스 팩 8 | [[!DNL Experience Manager] 6.5 서비스 팩 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-8.html)을 사용할 수 있습니다. |
+| 2021년 8월 26일 | [!DNL Experience Manager] 6.5 서비스 팩 10 | [[!DNL Experience Manager] 6.5 서비스 팩 10](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-10.html)을 사용할 수 있습니다. |
+| 2021년 5월 27일 | [!DNL Experience Manager] 6.5 서비스 팩 9 | [[!DNL Experience Manager] 6.5 서비스 팩 9](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-9.html)를 사용할 수 있습니다. |
+| 2021년 3월 11일 | [!DNL Experience Manager] 6.5 서비스 팩 8 | [[!DNL Experience Manager] 6.5 서비스 팩 8](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-8.html)을 사용할 수 있습니다. |
 | 2020년 11월 25일 | Dynamic Media의 액세스 가능성 | Dynamic Media 및 Dynamic Media 뷰어는 작성 사용자 인터페이스에서 키보드 제어와 JAWS 및 NVDA 화면 판독기와 같은 보조 기술을 지원합니다. ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic)Dynamic Media의 액세스 가능성[을 참조하십시오. |
-| 2020년 11월 26일 | Experience Manager 6.5 서비스 팩 7 | [Experience Manager 6.5 서비스 팩 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-7.html)을 사용할 수 있습니다. |
+| 2020년 11월 26일 | Experience Manager 6.5 서비스 팩 7 | [Experience Manager 6.5 서비스 팩 7](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-7.html)을 사용할 수 있습니다. |
 | 2020년 9월 3일 | Dynamic Media의 CDN 무효화 | CDN 캐시가 몇 분 내에 만료될 수 있도록 Dynamic Media 내에서 요청을 보낼 수 있습니다. 이 기능은 Assets에 대한 업데이트를 만들 때 해당 변경을 즉시 웹 사이트에 적용하려는 경우 유용합니다.<br>[Dynamic Media의 방식으로 CDN 캐시 무효화](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)를 참조하십시오. |
 | 2020년 9월 3일 | Dynamic Media의 선택적 게시 작업 | 폴더 수준에서 Experience Manager 또는 Dynamic Media로/에서 에셋을 게시 또는 게시 취소하도록 선택할 수 있습니다. Dynamic Media 인스턴스의 모든 폴더에 전역 설정을 적용하는 **Dynamic Media 구성**&#x200B;에 전적으로 의존하는 대신 **[!UICONTROL 게시 관리]** 또는 **[!UICONTROL 빠른 게시]**&#x200B;를 사용하여 해당 작업을 수행할 수 있습니다.<br>[Dynamic Media의 선택적 게시 작업](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/selective-publishing.html)을 참조하십시오. |
-| 2020년 9월 3일 | Experience Manager 6.5 서비스 팩 6 | [Experience Manager 6.5 서비스 팩 6](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-6.html)을 사용할 수 있습니다. |
+| 2020년 9월 3일 | Experience Manager 6.5 서비스 팩 6 | [Experience Manager 6.5 서비스 팩 6](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-6.html)을 사용할 수 있습니다. |
 | 2020년 7월 29일 | 다중 사이트 관리자 | [동기화 작업 만들기](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action) 및 [롤아웃 구성 만들기](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration) 절차에 업데이트가 있습니다. |
 | 2020년 7월 15일 | 슬링 치트시트 | [슬링 치트시트](https://experienceleague.adobe.com/docs/experience-manager-65/developing/platform/sling-cheatsheet.html)가 [HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html)을 참조하도록 업데이트되었습니다. |
 | 2020년 6월 19일 | Adobe Experience Manager | Adobe에서는 당사의 규약과 설명서, 경험 전반에 걸쳐 일관되고 동일한 용어를 사용하고자 합니다.<br>이에 따라 이러한 공정성을 반영하는 이 설명서 세트에 대한 업데이트가 이루어졌습니다. |
 | 2020년 6월 4일 | Brand Portal로 Experience Manager Assets 구성 | Adobe I/O가 새 브랜드, 사용자 인터페이스 및 워크플로를 사용하여 Adobe Developer Console로 업그레이드되었습니다. 이 설명서는 최신 Adobe Developer Console 워크플로를 기반으로 Brand Portal로 Experience Manager Assets를 구성하도록 업데이트되었습니다. <br>- [Brand Portal로 Experience Manager Assets 구성](https://experienceleague.adobe.com/docs/experience-manager-65/assets/brandportal/configure-aem-assets-with-brand-portal.html)<br>- [Adobe Developer Console에 대한 기존 구성 업그레이드](https://experienceleague.adobe.com/docs/experience-manager-65/assets/brandportal/configure-aem-assets-with-brand-portal.html#upgrade-integration-65) |
-| 2020년 6월 4일 | Experience Manager 6.5 서비스 팩 5 | [Experience Manager 6.5 서비스 팩 5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-5.html)를 사용할 수 있습니다. |
+| 2020년 6월 4일 | Experience Manager 6.5 서비스 팩 5 | [Experience Manager 6.5 서비스 팩 5](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-5.html)를 사용할 수 있습니다. |
 | 2020년 5월 25일 | 액세스 가능성 및 WCAG 2.1 지침 | WCAG 2.1 지침 관련 업데이트:<br>- [Adobe Experience Manager as a Cloud Service 및 웹 접근성 지침](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/compliance/accessibility/web-accessibility.html)<br>- [WCAG 2.1에 대한 빠른 안내서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/compliance/accessibility/quick-guide-wcag.html)<br>- [액세스 가능한 콘텐츠 만들기(WCAG 2.1 호환)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/accessible-content.html) |
 | 2020년 4월 13일 | 에셋 버전 관리 | [Experience Manager 에셋의 버전](https://experienceleague.adobe.com/docs/experience-manager-65/assets/managing/manage-assets.html#asset-versioning)으로 되돌리거나 생성하거나 미리 보는 방법에 대한 콘텐츠 및 비디오가 업데이트되었습니다. |
 | 2020년 4월 13일 | 에셋 처리 | 에셋 처리에 워크플로를 사용하는 방법에 관하여 새 개요가 추가되었습니다. 또한 새 주제에서 [에셋을 처리하는 워크플로 자동 트리거](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/assets-workflow.html) 방법을 설명합니다. |
 | 2020년 3월 30일 | Dynamic Media - 스마트 이미징 | 전체 스마트 이미징 도움말 주제가 업데이트되어 추가된 스마트 이미징 최적화를 설명하는 이미지 에셋 예제 등의 새 정보가 포함되었습니다.<br>[스마트 이미징](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html)을 참조하십시오. |
-| 2020년 3월 5일 | Experience Manager 6.5 서비스 팩 4 | [Experience Manager 6.5 서비스 팩 4](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-4.html)를 사용할 수 있습니다. |
+| 2020년 3월 5일 | Experience Manager 6.5 서비스 팩 4 | [Experience Manager 6.5 서비스 팩 4](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-4.html)를 사용할 수 있습니다. |
 | 2020년 3월 4일 | Dynamic Media 구성 - Scene7 모드 | 이제 도구 > 클라우드 서비스의 Dynamic Media 구성 페이지에서 새로운 “모든 콘텐츠 동기화” 옵션을 사용할 수 있습니다.<br>[Dynamic Media 구성 만들기](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html#configuring-dynamic-media-cloud-services)를 참조하십시오. |
