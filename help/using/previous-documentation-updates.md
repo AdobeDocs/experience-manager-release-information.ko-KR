@@ -3,10 +3,10 @@ title: 이전 설명서 업데이트
 description: 이 페이지에는  [!DNL Adobe Experience Manager]에 대한 이전 중요 설명서 변경 사항 및 업데이트가 나열됩니다.
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 042bc34d6a43f3dcbac5d34588fa417cb4e6b5c0
+workflow-type: tm+mt
 source-wordcount: '1236'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -26,12 +26,12 @@ ht-degree: 100%
    <tr>
    <td>2019년 12월 12일</td> 
    <td>3D 에셋 미리 보기<br /> </td> 
-   <td><p>AEM은 작성 프로세스의 일부로 3D 에셋의 업로드, 전달 및 대화형 미리 보기를 지원합니다. 대화형 3D 뷰어는 AEM의 에셋 세부 사항 페이지에서 사용할 수 있습니다. 이 뷰어에는 3D 에셋을 궤도를 따라 이동하고, 확대/축소하고, 패닝할 수 있는 대화형 카메라 컨트롤 컬렉션이 포함되어 있습니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=ko-KR" target="_blank">3D 에셋 미리 보기</a>를 참조하십시오.</p> </td> 
+   <td><p>AEM은 작성 프로세스의 일부로 3D 에셋의 업로드, 전달 및 대화형 미리 보기를 지원합니다. 대화형 3D 뷰어는 AEM의 에셋 세부 사항 페이지에서 사용할 수 있습니다. 이 뷰어에는 3D 에셋을 궤도를 따라 이동하고, 확대/축소하고, 패닝할 수 있는 대화형 카메라 컨트롤 컬렉션이 포함되어 있습니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html" target="_blank">3D 에셋 미리 보기</a>를 참조하십시오.</p> </td> 
   </tr>
   <tr>
    <td>2019년 12월 12일</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=ko">AEM 6.5 Service Pack 3</a>을 사용할 수 있습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-3.html">AEM 6.5 Service Pack 3</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 12월 5일</td> 
@@ -51,17 +51,17 @@ ht-degree: 100%
   <tr>
    <td>2019년 10월 18일<br /> </td> 
    <td>헤드리스 환경 관리<br /> </td> 
-   <td>단일 페이지 애플리케이션의 서버측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=ko#remote-content-renderer">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
+   <td>단일 페이지 애플리케이션의 서버측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html#remote-content-renderer">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 10월 11일</td> 
    <td>Activity Map</td> 
-   <td><p>Adobe Analytics API의 보안 변경 사항으로 인해, AEM 내에 포함된 Activity Map 버전을 더는 사용할 수 없습니다. 이제 <a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html?lang=ko-KR" target="_blank">Adobe Analytics에서 제공한 ActivityMap 플러그인</a>을 사용해야 합니다. </p> </td> 
+   <td><p>Adobe Analytics API의 보안 변경 사항으로 인해, AEM 내에 포함된 Activity Map 버전을 더는 사용할 수 없습니다. 이제 <a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">Adobe Analytics에서 제공한 ActivityMap 플러그인</a>을 사용해야 합니다. </p> </td> 
   </tr>
   <tr>
    <td>2019년 10월 10일</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager 버전 2019.10.0은 2019년 10월 10일에 출시되었습니다.</p> <p><i>새로운 기능</i>을 강조 표시하고 배포 절차 및 메이븐 프로젝트 버전 처리에 대해 업데이트하는 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=ko">2019.10.0 릴리스 정보</a>를 참조하십시오.<br /> </p> </td> 
+   <td><p>Cloud Manager 버전 2019.10.0은 2019년 10월 10일에 출시되었습니다.</p> <p><i>새로운 기능</i>을 강조 표시하고 배포 절차 및 메이븐 프로젝트 버전 처리에 대해 업데이트하는 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html">2019.10.0 릴리스 정보</a>를 참조하십시오.<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019년 10월 8일</td> 
@@ -86,22 +86,22 @@ ht-degree: 100%
   <tr>
    <td>2019년 9월 25일</td> 
    <td>AEM Assets 검색<br /> </td> 
-   <td>에셋 검색 및 발견에 대한 최신 콘텐츠에서는 사용, 구성, 문제 해결, 제한 사항 및 팁에 대한 정보를 모두 찾을 수 있습니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html?lang=ko-KR" target="_blank">에셋 검색</a>을 확인하십시오.</td> 
+   <td>에셋 검색 및 발견에 대한 최신 콘텐츠에서는 사용, 구성, 문제 해결, 제한 사항 및 팁에 대한 정보를 모두 찾을 수 있습니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html" target="_blank">에셋 검색</a>을 확인하십시오.</td> 
   </tr>
   <tr>
    <td>2019년 9월 25일</td> 
    <td>Scene7: 에셋 재처리 워크플로<br /> </td> 
-   <td><p>이제 나중에 변경한 기존 처리 프로필이 이미 있는 폴더에서 에셋을 재처리할 수 있습니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=ko-KR#reprocessing-assets" target="_blank">폴더에서 에셋 재처리</a>를 참조하십시오.<br /> </p> </td> 
+   <td><p>이제 나중에 변경한 기존 처리 프로필이 이미 있는 폴더에서 에셋을 재처리할 수 있습니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html#reprocessing-assets" target="_blank">폴더에서 에셋 재처리</a>를 참조하십시오.<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019년 9월 25일</td> 
    <td>Adobe Analytics 및 Adobe Launch와 Dynamic Media Viewer 통합</td> 
-   <td><p>Dynamic Media Viewers 5.13 릴리스와 함께 Adobe Launch용 Dynamic Media Viewers 확장을 사용하면 Dynamic Media, Adobe Analytics 및 Adobe Launch 고객은 Adobe Launch 구성에서 Dynamic Media Viewer에 고유한 이벤트 및 데이터를 사용할 수 있습니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=ko-KR" target="_blank">Adobe Analytics 및 Adobe Launch와 Dynamic Media Viewer 통합</a>을 참조하십시오. </p> </td> 
+   <td><p>Dynamic Media Viewers 5.13 릴리스와 함께 Adobe Launch용 Dynamic Media Viewers 확장을 사용하면 Dynamic Media, Adobe Analytics 및 Adobe Launch 고객은 Adobe Launch 구성에서 Dynamic Media Viewer에 고유한 이벤트 및 데이터를 사용할 수 있습니다.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html" target="_blank">Adobe Analytics 및 Adobe Launch와 Dynamic Media Viewer 통합</a>을 참조하십시오. </p> </td> 
   </tr>
   <tr>
    <td>2019년 9월 19일</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.2.html?lang=ko">AEM 6.5 Service Pack 2(6.5.2.0)</a>를 사용할 수 있습니다.</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-2.html">AEM 6.5 Service Pack 2(6.5.2.0)</a>를 사용할 수 있습니다.</td>
   </tr>
   <tr>
    <td>2019년 9월 9일</td> 
@@ -136,17 +136,17 @@ ht-degree: 100%
   <tr>
    <td>2019년 7월 25일</td> 
    <td>서로 다른 라이선스에 따른 AEM Assets 기능</td> 
-   <td>독립형 DAM 라이선스와 AEM MediaLibrary 라이선스에서 사용 가능한 AEM Assets의 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=ko-KR" target="_blank">기능 목록</a>이 AEM 6.5 릴리스용으로 업데이트되었습니다.<br /> </td> 
+   <td>독립형 DAM 라이선스와 AEM MediaLibrary 라이선스에서 사용 가능한 AEM Assets의 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html" target="_blank">기능 목록</a>이 AEM 6.5 릴리스용으로 업데이트되었습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 7월 12일</td> 
    <td>Dynamic Media Classic에서 파일 업로드</td> 
-   <td>Dynamic Media Classic의 <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/upload-publish/uploading-files.html?lang=ko-KR#upload-options">업로드 작업 옵션 대화 상자</a> 항목이 다시 작성되고 업데이트되었습니다.</td> 
+   <td>Dynamic Media Classic의 <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/upload-publish/uploading-files.html#upload-options">업로드 작업 옵션 대화 상자</a> 항목이 다시 작성되고 업데이트되었습니다.</td> 
   </tr>
   <tr>
    <td>2019년 7월 8일</td> 
    <td>터치 지원 UI로 마이그레이션</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html?lang=ko-KR#introduction">터치 지원 UI로 마이그레이션</a>하기 위한 정보 및 리소스를 표시하는 랜딩 페이지</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html#introduction">터치 지원 UI로 마이그레이션</a>하기 위한 정보 및 리소스를 표시하는 랜딩 페이지</td> 
   </tr>
   <tr>
    <td>2019년 7월 3일</td> 
@@ -156,7 +156,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 7월 3일</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.1.html?lang=ko">AEM 6.5 Service Pack 1(6.5.1.0)</a>을 사용할 수 있습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-1.html">AEM 6.5 Service Pack 1(6.5.1.0)</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 6월 25일</td> 
@@ -166,37 +166,37 @@ ht-degree: 100%
   <tr>
    <td>2019년 6월 17일<br /> </td> 
    <td>AEM Assets와 Creative Cloud 통합</td> 
-   <td>우수 사례는 비즈니스 요구 사항, Adobe 솔루션 제공 및 고객 사용 사례에 대한 명확한 매핑으로 업데이트됩니다. 시각적으로 어필할 수 있도록 인포그래픽이 추가되었습니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ko" target="_blank">AEM Creative Cloud 통합 모범 사례</a>를 참조하십시오.<br /> </td> 
+   <td>우수 사례는 비즈니스 요구 사항, Adobe 솔루션 제공 및 고객 사용 사례에 대한 명확한 매핑으로 업데이트됩니다. 시각적으로 어필할 수 있도록 인포그래픽이 추가되었습니다. <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html" target="_blank">AEM Creative Cloud 통합 모범 사례</a>를 참조하십시오.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 6월 3일</td> 
    <td>리치 텍스트 편집기 (RTE)<br /> </td> 
-   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">다중 필드 구성 요소</a>에 패키지를 추가했습니다.<br /> </p> <p>고객 피드백을 기반으로 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html?lang=ko" target="_blank">문제 해결 FAQ</a>를 만들었습니다.</p> </td> 
+   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">다중 필드 구성 요소</a>에 패키지를 추가했습니다.<br /> </p> <p>고객 피드백을 기반으로 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">문제 해결 FAQ</a>를 만들었습니다.</p> </td> 
   </tr>
   <tr>
    <td>2019년 5월 31일</td> 
    <td>AEM과 Magento 통합 </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento.html?lang=ko">전자 상거래 통합 프레임워크</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento.html">전자 상거래 통합 프레임워크</a>.</td> 
   </tr>
   <tr>
    <td>2019년 5월 24일</td> 
    <td>AEM 6.5의 터치 UI 기능 상태<br /> </td> 
-   <td>AEM 6.5용 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=ko">터치 UI 기능 상태</a> 페이지를 게시했습니다.<br /> </td> 
+   <td>AEM 6.5용 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html">터치 UI 기능 상태</a> 페이지를 게시했습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 5월 14일</td> 
    <td>뷰어 참조 안내서</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html?lang=ko-KR">비디오</a>, <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html?lang=ko-KR">비디오 360</a> 뷰어의 비디오 플레이어에 대한 수정자 사전 로드가 이제 문서화되었습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html">비디오</a>, <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html">비디오 360</a> 뷰어의 비디오 플레이어에 대한 수정자 사전 로드가 이제 문서화되었습니다.</td> 
   </tr>
   <tr>
    <td>2019년 5월 14일</td> 
    <td>Dynamic Media Classic</td> 
-   <td>Adobe Scene7 사용 설명서의 브랜드가 이제 <i>Adobe Dynamic Media Classic</i>으로 지정되었습니다. <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ko-KR">Dynamic Media Classic 설명서</a>를 참조하십시오.<br /> </td> 
+   <td>Adobe Scene7 사용 설명서의 브랜드가 이제 <i>Adobe Dynamic Media Classic</i>으로 지정되었습니다. <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html">Dynamic Media Classic 설명서</a>를 참조하십시오.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 5월 13일</td> 
    <td>IS/IR API</td> 
-   <td>새 BFC(브라우저 형식 변환) 값을 <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html?lang=ko-KR">이미지 카탈로그 속성 참조 섹션</a>에 추가했습니다.</td> 
+   <td>새 BFC(브라우저 형식 변환) 값을 <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html">이미지 카탈로그 속성 참조 섹션</a>에 추가했습니다.</td> 
   </tr>
   <tr>
    <td>2019년 5월 8일</td> 
@@ -206,7 +206,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 5월 1일</td> 
    <td>뷰어 참조 안내서</td> 
-   <td><p>새 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html?lang=ko-KR">360/VR 비디오 설명서</a>.</p> </td> 
+   <td><p>새 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html">360/VR 비디오 설명서</a>.</p> </td> 
   </tr>
   <tr>
    <td>2019년 4월 18일</td> 
@@ -225,7 +225,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 4월 12일</td> 
    <td>AEM 6.5 Screens 사용 안내서</td> 
-   <td><p>자세한 내용은 <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html?lang=ko">Windows 10 Player 구현</a>을 참조하십시오.</p> </td> 
+   <td><p>자세한 내용은 <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Windows 10 Player 구현</a>을 참조하십시오.</p> </td> 
   </tr>
   <tr>
    <td>2019년 4월 8일</td> 
