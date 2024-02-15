@@ -4,9 +4,9 @@ description: 이 페이지에는  [!DNL Adobe Experience Manager]에 대한 이�
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: afc24b365d5ab6cbc6c0b9817e35521cf15ec94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1236'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -30,8 +30,8 @@ ht-degree: 98%
   </tr>
   <tr>
    <td>2019년 12월 12일</td> 
-   <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html">AEM 6.5 Service Pack 3</a>을 사용할 수 있습니다.</td> 
+   <td>AEM 6.5 서비스 팩 3<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html">AEM 6.5 서비스 팩 3</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 12월 5일</td> 
@@ -71,7 +71,7 @@ ht-degree: 98%
   <tr>
    <td>2019년 10월 1일</td> 
    <td>JEE 설치에 대한 AEM Forms </td> 
-   <td><p>Oracle 18c 데이터베이스 드라이버에 대한 AEM Forms 지원이 추가되었습니다. </p> <p>플랫폼 매트릭스: <a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/kr/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Oracle 18c 데이터베이스 드라이버에 대한 AEM Forms 지원이 추가되었습니다. </p> <p>플랫폼 매트릭스: <a href="https://helpx.adobe.com/kr/content/dam/help/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/kr/content/dam/help/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/kr/content/dam/help/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/kr/content/dam/help/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/kr/content/dam/help/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/kr/content/dam/help/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>2019년 10월 1일 </td> 
@@ -100,8 +100,8 @@ ht-degree: 98%
   </tr>
   <tr>
    <td>2019년 9월 19일</td> 
-   <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html">AEM 6.5 Service Pack 2(6.5.2.0)</a>를 사용할 수 있습니다.</td>
+   <td>AEM 6.5 서비스 팩 2</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html">AEM 6.5 서비스 팩 2(6.5.2.0)</a>를 사용할 수 있습니다.</td>
   </tr>
   <tr>
    <td>2019년 9월 9일</td> 
@@ -155,8 +155,8 @@ ht-degree: 98%
   </tr>
   <tr>
    <td>2019년 7월 3일</td> 
-   <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html">AEM 6.5 Service Pack 1(6.5.1.0)</a>을 사용할 수 있습니다.</td> 
+   <td>AEM 6.5 서비스 팩 1</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html">AEM 6.5 서비스 팩 1(6.5.1.0)</a>을 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 6월 25일</td> 
