@@ -3,9 +3,9 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 source-git-commit: 7283247283484e54f1018441def51454f0e28b23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2886'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
