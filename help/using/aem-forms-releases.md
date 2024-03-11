@@ -3,7 +3,7 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지의 목록을 포함합니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: a2cfc6f0db79e0adb1f278627aeb771074e33897
+source-git-commit: 215fdcb616fae9720fdc31115176af26517b96ce
 workflow-type: tm+mt
 source-wordcount: '2888'
 ht-degree: 99%
@@ -40,15 +40,15 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
   </tr>
   <tr>
-    <td>2024년 2월 29일</td>
+    <td>2024년 3월 8일</td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6520">AEM 6.5.20.0용 AEM Forms 서비스 팩 20 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html">AEM 6.5.20.0</a></td>
     <td>
      <ul>
      <br><b>OSGi의 AEM Forms 패치 설치 관리자</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Adobe-AEMFD-LINUX-PKG-6.0.1180.zip">Linux용 AEM Forms 추가 기능 패키지</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Adobe-AEMFD-WIN-PKG-6.0.1180.zip">Windows용 AEM Forms 추가 기능 패키지</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Adobe-AEMFD-OSX-PKG-6.0.1180.zip">Mac OS X용 AEM Forms 추가 기능 패키지 [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-LINUX-PKG-6.0.1192.zip">Linux용 AEM Forms 추가 기능 패키지</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-WIN-PKG-6.0.1192.zip">Windows용 AEM Forms 추가 기능 패키지</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-OSX-PKG-6.0.1192.zip">Mac OS X용 AEM Forms 추가 기능 패키지 [2]</a></li>
       <br><b>JEE의 AEM Forms 패치 설치 관리자</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/jboss/win/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-WINDOWS-JBOSS.zip">JBoss® Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/jboss/linux/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-LINUX-JBOSS.tar.gz">JBoss®Linux</a></li>
@@ -72,7 +72,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">스페인어 언어 설치 관리자</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 패치 설치 관리자: 6-5-0-0083 <br/><p>AEM Forms 추가 기능 패키지: 6.0.1180 </p></td>
+    <td><p>AEM Forms JEE 패치 설치 관리자: 6-5-0-0083 <br/><p>AEM Forms 추가 기능 패키지: 6.0.1192 </p></td>
    </tr>
   <tr>
     <td>2023년 12월 15일</td>
