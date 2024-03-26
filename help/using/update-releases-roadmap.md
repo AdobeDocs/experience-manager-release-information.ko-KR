@@ -2,7 +2,7 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: dfad170db445a5bcbb9e1abc65f297a1cd4f928e
+source-git-commit: 7fe057f759a0ae328957efd6d425c6a2d37ef1d1
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 94%
@@ -65,7 +65,7 @@ ht-degree: 94%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html?lang=ko-KR)를 참조하십시오.
+[!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)를 참조하십시오.
 
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|
