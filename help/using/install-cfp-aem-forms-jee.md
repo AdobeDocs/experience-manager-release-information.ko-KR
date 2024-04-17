@@ -1,12 +1,12 @@
 ---
 title: AEM Forms JEE에 누적 수정 팩 설치
-description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 단계 요약
+description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치하고 구성하는 단계에 대한 요약입니다.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '921'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '909'
+ht-degree: 93%
 
 ---
 
@@ -36,7 +36,7 @@ AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용하
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
-1. 수정된 파일을 다시 가져온 다음 동기화를 다시 실행합니다.
+1. 수정된 파일을 다시 가져온 다음 동기화를 다시 실행하십시오.
 
 ## AEM 6.2 [!DNL  Forms JEE]에 CFP 설치 {#install-cfp-on-aem-62-forms-jee}
 
@@ -100,8 +100,8 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
    설치 관리자를 복사한 하드 디스크의 설치 미디어 또는 폴더로 이동합니다.
 
-   * (Windows 32비트): Disk1\InstData\Windows\VM
-   * (Windows 64비트): Disk1\InstData\Windows_64bit\VM
+   * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
+   * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
 
    그리고 다음 파일을 더블 클릭합니다.
 
@@ -126,7 +126,7 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
    설치 마법사가 시작되어 설치 과정을 안내합니다.
 
 1. 소개 패널에서 **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
-1. 설치 폴더 선택 화면에서 표시되는 기본 위치가 기존 설치에 맞는지 확인하거나 **[!UICONTROL 찾아보기]**&#x200B;를 클릭하여 AEM [!DNL Forms]가 설치된 대체 폴더를 선택하고 **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. 설치 폴더 선택 화면에서 표시되는 기본 위치가 기존 설치에 맞는지 확인합니다. 또는 **[!UICONTROL 찾아보기]** AEM이 있는 대체 폴더를 선택하려면 [!DNL Forms] 이(가) 설치되어 있는 경우 **[!UICONTROL 다음]**.
 1. 빠른 수정 패치 요약 정보를 읽고 **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 1. 사전 설치 요약 정보를 읽고 **[!UICONTROL 설치]**&#x200B;를 클릭합니다.
 1. 설치가 완료되면 **[!UICONTROL 다음]**&#x200B;을 클릭하여 설치된 파일에 빠른 수정 업데이트를 적용합니다.

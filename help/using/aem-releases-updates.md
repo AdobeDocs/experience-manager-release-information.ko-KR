@@ -3,10 +3,10 @@ title: "[!DNL Adobe Experience Manager] 릴리스 업데이트"
 description: "[!DNL Adobe Experience Manager] 릴리스 업데이트"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] as a[!DNL Cloud Service]는 일반적으로 새로운 기능에 대한 월간 릴리스 케이던스를 대상으로 합니다.
 
-현재/최신 버전에 대한 세부 정보는 [ [!DNL Experience Manager] as a [!DNL Cloud Service]의 현재 릴리스 정보](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)를 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
+현재/최신 버전에 대한 세부 정보는 [ [!DNL Experience Manager] as a [!DNL Cloud Service]의 현재 릴리스 정보](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)를 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
@@ -32,4 +32,4 @@ Managed Services 및 On-premise 오퍼링의 경우, 이 문서에는 최신 누
 
 [!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다.
 
-현재/최신 버전에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 최신 기능 팩](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)을 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
+현재/최신 버전에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 최신 기능 팩](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)을 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.

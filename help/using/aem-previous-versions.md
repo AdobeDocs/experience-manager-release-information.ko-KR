@@ -2,10 +2,10 @@
 title: 이전 버전의 AEM, CQ 및 CRX 설명서 다운로드
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지를 다운로드합니다.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
 source-wordcount: '570'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ## 이전 버전의 [!DNL Experience Manager] 설명서 {#older-version-aem-documentation}
 
-이 페이지에 나열된 [!DNL Adobe Experience Manager], CQ 및 CRX 버전은 단종되어 더 이상 Adobe에서 공식적으로 판매하지 않습니다. 이러한 이전 버전에 대한 Adobe의 공식적인 설명서의 최신 버전은 자가 도움말 요구 시 사용할 수 있습니다. Adobe는 최신 버전인 [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)로 업그레이드할 것을 권장합니다.
+이 페이지에 나열된 [!DNL Adobe Experience Manager], CQ 및 CRX 버전은 단종되어 더 이상 Adobe에서 공식적으로 판매하지 않습니다. 이러한 이전 버전에 대한 Adobe의 공식적인 설명서의 최신 버전은 자가 도움말 요구 시 사용할 수 있습니다. Adobe는 최신 버전인 [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service)로 업그레이드할 것을 권장합니다.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내
 
 | [!DNL Experience Manager] 버전 | 소프트웨어 배포 링크 |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4 설명서](https://experienceleague.adobe.com/docs/experience-manager-64.html) |
+| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4 설명서](https://experienceleague.adobe.com/en/docs/experience-manager-64) |
 | [!DNL Experience Manager] 6.3 | [소프트웨어 배포에서 AEM-DOCS-6.3 다운로드](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [소프트웨어 배포에서 AEM-DOCS-6.2 다운로드](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [소프트웨어 배포에서 AEM-DOCS-6.1 다운로드](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
