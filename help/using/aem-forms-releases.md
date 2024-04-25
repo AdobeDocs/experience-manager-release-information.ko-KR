@@ -4,15 +4,15 @@ description: 모든 AEM Forms 릴리스 및 해당 패키지에 대해 알아봅
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2914'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
 # AEM [!DNL Forms] 릴리스 {#aem-forms-releases}
 
-Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입니다. 매력적인 웹 및 모바일 경험을 엔터프라이즈 양식 및 문서로 확장하여 기업의 복잡한 디지털 상호 작용을 완료하면서도 사용자 경험을 개선하며 비즈니스 범위를 확장할 수 있습니다. AEM [!DNL Forms]기본적으로 AEM 빠른 시작에 포함되어 있지만 제한된 기능 세트를 사용할 수 있습니다. AEM [!DNL Forms] 추가 기능 패키지는 의 통합과 같은 고급 기능을 제공합니다. [!DNL Adobe Analytics], [!DNL Adobe Sign], 문서 서비스, 워크플로우 엔진 등.
+Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입니다. 매력적인 웹 및 모바일 경험을 엔터프라이즈 양식 및 문서로 확장하여 기업의 복잡한 디지털 상호 작용을 완료하면서도 사용자 경험을 개선하며 비즈니스 범위를 확장할 수 있습니다. AEM 빠른 시작에 즉시 사용 가능한 AEM [!DNL Forms]가 포함되어 있지만 기능 세트에 제한이 있습니다. AEM [!DNL Forms] 추가 기능 패키지는 [!DNL Adobe Analytics], [!DNL Adobe Sign], 문서 서비스, 워크플로 엔진 등의 여러 기능과 통합하는 등 고급 기능을 제공합니다.
 
 >[!NOTE]
 >
@@ -594,7 +594,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-LX" target="_blank">Linux®용 AEM Forms 추가 기능 패키지</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-WIN">Windows용 AEM Forms 추가 기능 패키지</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-OSX">macOS X용 AEM Forms 추가 기능 패키지</a><sup> [2] </sup></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-OSX">macOS X용 AEM Forms 추가 기능 패키지</a><sup> [2]</sup></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.1.0-COMPAT.zip">AEM Forms 호환성 패키지</a></li>
       <li><a href="https://licensing.adobe.com/">AEM Designer 설치 관리자</a> <sup>[1]</sup></li>
       <li>AEM Forms JEE 설치 관리자<sup> [1]</sup><br /> </li>
@@ -625,19 +625,19 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
 
 `[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support)에 문의하십시오.
 
-`[2]` AEM [!DNL Forms] macOS X의 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에서는 PDF Generator 기능을 사용할 수 없습니다.
+`[2]` macOS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에서는 PDF Generator 기능을 사용할 수 없습니다.
 
 `[3]` 6.5.4.0용 AEM [!DNL Forms] 호환성 패키지는 6.5.3.0 릴리스와 동일하게 유지됩니다.
 
 ## 기억해야 할 사항 {#things-to-remember}
 
-* 위에 나열된 AEM Forms 패키지는 두 AEM 모두에 적용할 수 있습니다 [!DNL Forms] OSGi 및 AEM에서 [!DNL Forms] JEE에.
-* 모든 AEM [!DNL Forms] 패키지 및 빠른 수정 사항은 누적됩니다. 즉, 해당 버전의 구성 요소에 대한 이전 모든 추가 기능 및 빠른 수정 사항이 포함된 패키지 및 빠른 수정 사항입니다. 예를 들어 빠른 수정 2.4.50을 설치하는 경우 이미 AEM이 포함되어 있습니다 [!DNL Forms] 추가 기능 패키지 2.4.26.
+* 위에 나열된 AEM Forms 추가 기능 패키지는 OSGi의 AEM [!DNL Forms] 및 JEE의 AEM [!DNL Forms]에 모두 적용할 수 있습니다.
+* 모든 AEM [!DNL Forms] 패키지 및 빠른 수정 사항은 누적됩니다. 즉, 패키지 및 빠른 수정에는 해당 버전의 구성 요소에 대한 이전 모든 추가 기능과 빠른 수정 사항이 포함되어 있습니다. 예를 들어 빠른 수정 2.4.50을 설치하는 경우 이미 AEM [!DNL Forms] 추가 기능 패키지 2.4.26이 포함되어 있습니다.
 
   >[!NOTE]
   >
-  >누적 추가 기능 패키지 및 빠른 수정 사항은 버전의 처음 두 숫자가 동일함을 의미합니다.
+  >누적 추가 기능 패키지와 빠른 수정 사항은 처음 두 개 숫자 버전이 동일함을 의미합니다.
 
 * 항상 사용 가능한 최신 서비스 팩/기능 팩 추가 기능을 설치하십시오. 기본 버전의 일반 공급 이후에 릴리스된 보안, 성능, 안정성 및 주요 고객 수정 사항 및 개선 사항이 포함되므로 적극 권장합니다.
-* 서비스 팩을 설치하거나 이전 버전의 AEM에서 최신 버전으로 업그레이드할 때마다 항상 해당 AEM을 설치하십시오 [!DNL Forms] 추가 기능 패키지. 예를 들어 AEM 6.1에서 업그레이드하는 경우 [!DNL Forms] AEM 6.1 서비스 팩 1에 대한 추가 기능 패키지 버전 2.2.4, AEM 6.1 서비스 팩 1을 설치한 후 AEM 설치 [!DNL Forms] 추가 기능 패키지 버전 2.4.50.
-* AEM 제거 [!DNL Forms] 추가 기능 패키지는 지원되지 않습니다.
+* 서비스 팩을 설치하거나 이전 버전의 AEM에서 최신 버전으로 업그레이드할 때마다 항상 해당 AEM [!DNL Forms] 추가 기능 패키지를 설치하십시오. 예를 들어 AEM 6.1 [!DNL Forms] 추가 기능 패키지 버전 2.2.4에서 AEM 6.1 서비스 팩 1로 업그레이드하는 경우 AEM 6.1 서비스 팩 1을 설치한 후 AEM [!DNL Forms] 추가 기능 패키지 버전 2.4.50을 설치하십시오.
+* AEM [!DNL Forms] 추가 기능 패키지의 제거가 지원되지 않습니다.

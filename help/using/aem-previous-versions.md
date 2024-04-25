@@ -3,9 +3,9 @@ title: 이전 버전의 AEM, CQ 및 CRX 설명서 다운로드
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지를 다운로드합니다.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '570'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 99%
 
 유효한 Adobe ID가 필요합니다.
 
-* Adobe ID가 없는 경우, https://www.adobe.com/ 에서 만들 수 있습니다.
+* Adobe ID가 없는 경우, https://www.adobe.com/kr/ 에서 만들 수 있습니다.
 Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내서를 참조하십시오](https://helpx.adobe.com/kr/manage-account.html).
 
 | [!DNL Experience Manager] 버전 | 소프트웨어 배포 링크 |

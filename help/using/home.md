@@ -1,17 +1,17 @@
 ---
 title: Adobe Experience Manager 릴리스 업데이트 및 로드맵
-description: Adobe Experience Manager 릴리스 업데이트 및 로드맵.
+description: Adobe Experience Manager 릴리스 업데이트 및 로드맵입니다.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # Adobe Experience Manager 릴리스 업데이트 및 로드맵
 
-이 안내서에서는 다음에 대한 정보를 다룹니다. [!DNL Adobe Experience Manager] 릴리스 로드맵, 이전 릴리스 업데이트 및 설명서 업데이트.
+이 안내서에서는 [!DNL Adobe Experience Manager] 릴리스 로드맵, 이전 릴리스 업데이트 및 설명서 업데이트에 대한 정보를 다룹니다.
 
 * [[!DNL Experience Manager] 릴리스 업데이트](aem-releases-updates.md)
 * [[!DNL Experience Manager] 릴리스 로드맵](update-releases-roadmap.md)

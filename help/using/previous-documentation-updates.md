@@ -1,12 +1,12 @@
 ---
 title: 이전 설명서 업데이트
-description: 에 대한 이전 중요 설명서 변경 사항 및 업데이트에 대해 자세히 알아보세요. [!DNL Adobe Experience Manager].
+description: ' [!DNL Adobe Experience Manager]에 대한 이전 중요 설명서 변경 사항 및 업데이트에 대해 자세히 알아봅니다.'
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1228'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 82%
   </tr>
    <tr>
    <td>2019년 12월 12일</td> 
-   <td>3D 에셋 미리 보기<br /> </td> 
-   <td><p>AEM은 작성 프로세스의 일부로 3D 에셋의 업로드, 전달 및 대화형 미리 보기를 지원합니다. 대화형 3D 뷰어는 AEM의 에셋 세부 사항 페이지에서 사용할 수 있습니다. 이 뷰어에는 3D 에셋을 궤도를 따라 이동하고, 확대/축소하고, 패닝할 수 있는 대화형 카메라 컨트롤 컬렉션이 포함되어 있습니다.</p> <p><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/previewing-3d-assets" target="_blank">3D 에셋 미리 보기</a>를 참조하십시오.</p> </td> 
+   <td>3D 자산 미리보기<br /> </td> 
+   <td><p>AEM은 작성 프로세스의 일부로 3D 자산의 업로드, 게재 및 대화형 미리보기를 지원합니다. 대화형 3D 뷰어는 AEM의 자산 세부 사항 페이지에서 사용할 수 있습니다. 이 뷰어에는 3D 자산을 궤도를 따라 이동하고, 확대/축소하고, 패닝할 수 있는 대화형 카메라 컨트롤 컬렉션이 포함되어 있습니다.</p> <p><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/previewing-3d-assets" target="_blank">3D 자산 미리보기</a>를 참조하십시오.</p> </td> 
   </tr>
   <tr>
    <td>2019년 12월 12일</td> 
@@ -46,12 +46,12 @@ ht-degree: 82%
   <tr>
    <td>2019년 10월 18일<br /> </td> 
    <td>AEM Project Archetype<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/developing/archetype/overview">AEM Project Archetype</a> 는 고유한 AEM 프로젝트의 시작점으로 Adobe Experience Manager 프로젝트를 만듭니다.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/developing/archetype/overview">AEM 프로젝트 전형</a>은 사용자 자신의 AEM 프로젝트의 시작점으로 Adobe Experience Manager 프로젝트를 생성합니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 10월 18일<br /> </td> 
    <td>헤드리스 환경 관리<br /> </td> 
-   <td>의 기능 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">원격 콘텐츠 렌더러</a>단일 페이지 애플리케이션의 서버측 렌더링에 사용되는 이 문서화되었습니다.<br /> </td> 
+   <td>단일 페이지 애플리케이션의 서버측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 10월 11일</td> 
@@ -76,7 +76,7 @@ ht-degree: 82%
   <tr>
    <td>2019년 10월 1일 </td> 
    <td>AEM Screens 프로젝트에 대한 모범 사례 안내서</td> 
-   <td><p>이 새로운 안내서는 디지털 사이니지 구현에 의도적인 고객 경험을 계획하고 디자인하고 가져올 수 있는 포괄적인 통찰력과 실용적인 조언을 제공합니다. 또한 AEM Screens에서 디지털 사이니지 프로젝트를 배포하는 동안 수행되는 몇 가지 모범 사례를 사용하여 비즈니스에 긍정적인 영향을 주는 방법을 안내합니다.</p> <p>자세한 내용은 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens 프로젝트 우수 사례 안내서</a>를 참조하십시오.</p> </td> 
+   <td><p>이 새로운 안내서는 디지털 사이니지 구현에 의도적인 고객 경험을 상상하고, 설계하고, 도입하기 위한 포괄적인 인사이트와 실용적인 조언을 제공합니다. 또한 AEM Screens에서 디지털 사이니지 프로젝트를 배포할 때 따르게 되는 몇 가지 모범 사례를 사용하여 비즈니스에 긍정적인 영향을 미치는 방법을 안내합니다.</p> <p>자세한 내용은 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens 프로젝트 우수 사례 안내서</a>를 참조하십시오.</p> </td> 
   </tr>
   <tr>
    <td>2019년 9월 25일</td> 
@@ -86,17 +86,17 @@ ht-degree: 82%
   <tr>
    <td>2019년 9월 25일</td> 
    <td>AEM Assets 검색<br /> </td> 
-   <td>에셋 검색 및 발견에 대한 최신 콘텐츠에서는 사용, 구성, 문제 해결, 제한 사항 및 팁에 대한 정보를 모두 찾을 수 있습니다. <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/search-assets" target="_blank">에셋 검색</a>을 확인하십시오.</td> 
+   <td>자산 검색 및 발견에 대한 최신 콘텐츠에서는 사용, 구성, 문제 해결, 제한 사항 및 팁에 대한 정보를 모두 찾을 수 있습니다. <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/search-assets" target="_blank">자산 검색</a>을 확인하십시오.</td> 
   </tr>
   <tr>
    <td>2019년 9월 25일</td> 
-   <td>Scene7: 에셋 재처리 워크플로<br /> </td> 
-   <td><p>이제 나중에 변경한 기존 처리 프로필이 이미 있는 폴더에서 에셋을 재처리할 수 있습니다.</p> <p><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/processing-profiles" target="_blank">폴더에서 에셋 재처리</a>를 참조하십시오.<br /> </p> </td> 
+   <td>Scene7: 자산 재처리 워크플로<br /> </td> 
+   <td><p>이제 나중에 변경한 기존 처리 프로필이 이미 있는 폴더에서 자산을 재처리할 수 있습니다.</p> <p><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/processing-profiles" target="_blank">폴더에서 자산 재처리</a>를 참조하십시오.<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019년 9월 25일</td> 
    <td>Adobe Analytics 및 Adobe Launch와 Dynamic Media Viewer 통합</td> 
-   <td><p>Adobe Launch용 Dynamic Media Viewer 확장 기능(Dynamic Media Viewers 5.13 포함)을 사용하면 Dynamic Media, Adobe Analytics 및 Adobe Launch 고객이 Adobe Launch 구성에서 Dynamic Media Viewer에 특정한 이벤트 및 데이터를 사용할 수 있습니다.</p> <p><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">Adobe Analytics 및 Adobe Launch와 Dynamic Media Viewer 통합</a>을 참조하십시오. </p> </td> 
+   <td><p>Dynamic Media Viewers 5.13과 함께 Adobe Launch용 Dynamic Media Viewers 확장 기능을 사용하면 Dynamic Media, Adobe Analytics 및 Adobe Launch 고객은 Adobe Launch 구성에서 Dynamic Media Viewer에 고유한 이벤트 및 데이터를 사용할 수 있습니다.</p> <p><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">Adobe Analytics 및 Adobe Launch와 Dynamic Media Viewer 통합</a>을 참조하십시오. </p> </td> 
   </tr>
   <tr>
    <td>2019년 9월 19일</td> 
@@ -131,11 +131,11 @@ ht-degree: 82%
   <tr>
    <td>2019년 8월 2일</td> 
    <td>새로운 PDF 래스터라이저 패키지<br /> </td> 
-   <td>AEM Assets가 무거운 AI/PDF 파일을 처리하고 미리 보기 및 썸네일을 생성하는 데 도움이 되는 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-pdf-rasterizer" target="_blank">새로운 패키지를 이용할 수 있습니다</a>.<br /> </td> 
+   <td>AEM Assets가 무거운 AI/PDF 파일을 처리하고 미리보기 및 썸네일을 생성하는 데 도움이 되는 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-pdf-rasterizer" target="_blank">새로운 패키지를 이용할 수 있습니다</a>.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 7월 25일</td> 
-   <td>다양한 라이선스에 따른 AEM Assets 기능</td> 
+   <td>서로 다른 라이선스에 따른 AEM Assets 기능</td> 
    <td>독립형 DAM 라이선스와 AEM MediaLibrary 라이선스에서 사용 가능한 AEM Assets의 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">기능 목록</a>이 AEM 6.5 릴리스용으로 업데이트되었습니다.<br /> </td> 
   </tr>
   <tr>
@@ -166,7 +166,7 @@ ht-degree: 82%
   <tr>
    <td>2019년 6월 17일<br /> </td> 
    <td>AEM Assets와 Creative Cloud 통합</td> 
-   <td>비즈니스 요구 사항, Adobe 솔루션 제공 및 고객 사용 사례를 정확하게 매핑하여 Best Practice 를 업데이트합니다. 시각적으로 어필할 수 있도록 인포그래픽이 추가되었습니다. <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-cc-integration-best-practices" target="_blank">AEM Creative Cloud 통합 모범 사례</a>를 참조하십시오.<br /> </td> 
+   <td>모범 사례는 비즈니스 요구 사항, Adobe 솔루션 제공 및 고객 사용 사례에 대한 명확한 매핑으로 업데이트됩니다. 시각적으로 어필할 수 있도록 인포그래픽이 추가되었습니다. <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-cc-integration-best-practices" target="_blank">AEM Creative Cloud 통합 모범 사례</a>를 참조하십시오.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 6월 3일</td> 
@@ -186,7 +186,7 @@ ht-degree: 82%
   <tr>
    <td>2019년 5월 14일</td> 
    <td>뷰어 참조 안내서</td> 
-   <td>에서 비디오 플레이어에 대한 수정자 사전 로드 <a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload">비디오</a> 및 <a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload"><code>Video360</code></a> 이제 뷰어가 문서화되었습니다.</td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload">비디오</a> 및 <a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload"><code>Video360</code></a> 뷰어의 비디오 플레이어에 대한 수정자 사전 로드가 이제 문서화되었습니다.</td> 
   </tr>
   <tr>
    <td>2019년 5월 14일</td> 
