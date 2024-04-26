@@ -2,10 +2,10 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 40be99e9ba97274e3a601b7df20d7a671eb4c88b
+source-git-commit: f2d1c4df7e8313c622b8ffde1dab9a2b8c117ff6
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 94%
+source-wordcount: '484'
+ht-degree: 93%
 
 ---
 
@@ -27,12 +27,6 @@ ht-degree: 94%
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 보수 릴리스 [13323](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0#release-13323) | 자동 업데이트 | 2023년 9월 1일 | 업데이트됨 |
-| 유지 보수 릴리스 [13420](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0#release-13420) | 자동 업데이트 | 2023년 9월 18~20일 | 업데이트됨 |
-| 기능 릴리스 [2023.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-9-0) | 기능 활성화 | 2023년 9월 28일 | 활성화됨 |
-| 유지 보수 릴리스 [13665](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0#release-13665) | 자동 업데이트 | 2023년 10월 2~5일 | 업데이트됨 |
-| 유지 보수 릴리스 [13804](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0#release-13804) | 자동 업데이트 | 2023년 10월 16~19일 | 업데이트됨 |
-| 기능 릴리스 [2023.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0) | 기능 활성화 | 2023년 10월 26일 | 활성화됨 |
 | 유지 보수 릴리스 [14029](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | 자동 업데이트 | 2023년 10월 30일 ~ 11월 2일 | 업데이트됨 |
 | 유지 보수 릴리스 [14227](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | 자동 업데이트 | 2023년 11월 13~16일 | 업데이트됨 |
 | 기능 릴리스 [2023.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) | 기능 활성화 | 2023년 11월 30일 | 활성화됨 |
@@ -41,15 +35,15 @@ ht-degree: 94%
 | 기능 릴리스 [2024.1.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) | 기능 활성화 | 2024년 1월 25일 | 활성화됨 |
 | 유지 보수 릴리스 [15262](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | 자동 업데이트 | 2024년 3월 11~13일 | 업데이트됨 |
 | 유지 보수 릴리스 [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | 자동 업데이트 | 2024년 3월 19~21일 | 업데이트됨 |
-| 기능 릴리스 [2024.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2024년 4월 11일 | 활성화됨 |
+| 기능 릴리스 [2024.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | 기능 활성화 | 2024년 4월 11일 | 활성화됨 |
 | 유지 보수 릴리스 [15860](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | 자동 업데이트 | 2024년 4월 8~15일 | 업데이트됨 |
+| 유지 보수 릴리스 [15977](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2024년 4월 20~24일 | 업데이트됨 |
+| 기능 릴리스 [2024.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2024년 4월 25일 | 활성화됨 |
 
 ### 예정된 릴리스 {#upcoming}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 보수 릴리스 [15977](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2024년 4월 20~24일 | 대상 |
-| 기능 릴리스 2024.4.0 | 기능 활성화 | 2024년 4월 25일 | 대상 |
 | 유지 보수 릴리스 | 자동 업데이트 | 2024년 5월 6~8일 | 대상 |
 | 유지 보수 릴리스 | 자동 업데이트 | 2024년 5월 20~22일 | 대상 |
 | 기능 릴리스 2024.5.0 | 기능 활성화 | 2024년 5월 30일 | 대상 |
