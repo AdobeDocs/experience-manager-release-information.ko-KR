@@ -2,7 +2,7 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5bbd2b76be333b2db3fa2ad59967700305150b45
+source-git-commit: d7ac4ea6cc3e823eeb7e0cc3a582d115a74cf60b
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 99%
@@ -67,7 +67,7 @@ ht-degree: 99%
 | [!DNL Experience Manager] 6.5 [서비스 팩 18](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-18) | 6.5.18.0 | 서비스 팩 | 2023년 8월 24일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 19](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-19) | 6.5.19.0 | 서비스 팩 | 2023년 11월 30일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 20](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.20.0 | 서비스 팩 | 2024년 2월 22일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 서비스 팩 21 | 6.5.21.0 | 서비스 팩 | 2024년 5월 23일 | 대상 |
+| [!DNL Experience Manager] 6.5 서비스 팩 21 | 6.5.21.0 | 서비스 팩 | 2024년 6월 6일 금요일 | 대상 |
 | [!DNL Experience Manager] 6.5 서비스 팩 22 | 6.5.22.0 | 서비스 팩 | 2024년 8월 22일 | 대상 |
 | [!DNL Experience Manager] 6.5 서비스 팩 23 | 6.5.23.0 | 서비스 팩 | 2024년 11월 21일 | 대상 |
 
