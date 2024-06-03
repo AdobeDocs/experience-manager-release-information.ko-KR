@@ -67,7 +67,7 @@ ht-degree: 99%
 | [!DNL Experience Manager] 6.5 [서비스 팩 18](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-18) | 6.5.18.0 | 서비스 팩 | 2023년 8월 24일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 19](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-19) | 6.5.19.0 | 서비스 팩 | 2023년 11월 30일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 20](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.20.0 | 서비스 팩 | 2024년 2월 22일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 서비스 팩 21 | 6.5.21.0 | 서비스 팩 | 2024년 6월 6일 금요일 | 대상 |
+| [!DNL Experience Manager] 6.5 서비스 팩 21 | 6.5.21.0 | 서비스 팩 | 2024년 6월 6일 | 대상 |
 | [!DNL Experience Manager] 6.5 서비스 팩 22 | 6.5.22.0 | 서비스 팩 | 2024년 8월 22일 | 대상 |
 | [!DNL Experience Manager] 6.5 서비스 팩 23 | 6.5.23.0 | 서비스 팩 | 2024년 11월 21일 | 대상 |
 
