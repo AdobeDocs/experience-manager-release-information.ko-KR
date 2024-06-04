@@ -2,10 +2,10 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f2d43c2fa0ac3ba3b66bbb3bac69b4c54200b037
+source-git-commit: b8d32035318004de0646e47ec4289529616db564
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 99%
+source-wordcount: '468'
+ht-degree: 94%
 
 ---
 
@@ -27,14 +27,6 @@ ht-degree: 99%
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 보수 릴리스 [14029](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | 자동 업데이트 | 2023년 10월 30일 ~ 11월 2일 | 업데이트됨 |
-| 유지 보수 릴리스 [14227](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | 자동 업데이트 | 2023년 11월 13~16일 | 업데이트됨 |
-| 기능 릴리스 [2023.11.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) | 기능 활성화 | 2023년 11월 30일 | 활성화됨 |
-| 유지 보수 릴리스 [14697](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0#release-14697) | 자동 업데이트 | 2023년 12월 11~14일 | 업데이트됨 |
-| 기능 릴리스 [2023.12.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0) | 기능 활성화 | 2023년 12월 14일 | 활성화됨 |
-| 기능 릴리스 [2024.1.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) | 기능 활성화 | 2024년 1월 25일 | 활성화됨 |
-| 유지 보수 릴리스 [15262](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | 자동 업데이트 | 2024년 3월 11~13일 | 업데이트됨 |
-| 유지 보수 릴리스 [15575](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | 자동 업데이트 | 2024년 3월 19~21일 | 업데이트됨 |
 | 기능 릴리스 [2024.3.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | 기능 활성화 | 2024년 4월 11일 | 활성화됨 |
 | 유지 보수 릴리스 [15860](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | 자동 업데이트 | 2024년 4월 8~15일 | 업데이트됨 |
 | 유지 보수 릴리스 [15977](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977) | 자동 업데이트 | 2024년 4월 20~24일 | 업데이트됨 |
@@ -51,7 +43,14 @@ ht-degree: 99%
 | 유지 보수 릴리스 | 자동 업데이트 | 2024년 6월 24~26일 | 대상 |
 | 기능 릴리스 2024.6.0 | 기능 활성화 | 2024년 6월 27일 | 대상 |
 | 유지 보수 릴리스 | 자동 업데이트 | 2024년 7월 8~10일 | 대상 |
+| 유지 보수 릴리스 | 자동 업데이트 | 2024년 7월 22~24일 | 대상 |
 | 기능 릴리스 2024.7.0 | 기능 활성화 | 2024년 7월 25일 | 대상 |
+| 유지 보수 릴리스 | 자동 업데이트 | 2024년 8월 5~7일 | 대상 |
+| 유지 보수 릴리스 | 자동 업데이트 | 2024년 8월 19~21일 | 대상 |
+| 기능 릴리스 2024.8.0 | 기능 활성화 | 2024년 8월 29일 금요일 | 대상 |
+| 유지 보수 릴리스 | 자동 업데이트 | 2024년 9월 2~4일 | 대상 |
+| 유지 보수 릴리스 | 자동 업데이트 | 2024년 9월 16~18일 | 대상 |
+| 기능 릴리스 2024.9.0 | 기능 활성화 | 2024년 9월 26일 금요일 | 대상 |
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
