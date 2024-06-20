@@ -4,9 +4,9 @@ description: 모든 AEM Forms 릴리스 및 해당 패키지에 대해 알아봅
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 59688701f3ec75fa204bf26a0ad2239b4d58a179
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3030'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -66,7 +66,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp21_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">스페인어 언어 설치 관리자</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 패치 설치 프로그램: 6.5.0-0087 <br/><p>AEM Forms 추가 기능 패키지: 6.0.1244 </p></td>
+    <td><p>AEM Forms JEE 패치 설치 관리자: 6.5.0-0087 <br/><p>AEM Forms 추가 기능 패키지: 6.0.1244 </p></td>
    </tr>
   <tr>
     <td>2024년 3월 8일</td>
