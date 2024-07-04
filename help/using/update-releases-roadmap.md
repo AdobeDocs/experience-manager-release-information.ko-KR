@@ -33,7 +33,7 @@ ht-degree: 99%
 | 기능 릴리스 [2024.4.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-4-0) | 기능 활성화 | 2024년 4월 25일 | 활성화됨 |
 | 유지 보수 릴리스 [16145](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16145) | 자동 업데이트 | 2024년 5월 6~8일 | 업데이트됨 |
 | 유지 보수 릴리스 [16461](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16461) | 자동 업데이트 | 2024년 5월 27일 ~ 6월 3일 | 업데이트됨 |
-| 기능 릴리스 [2024.5.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-5-0) | 기능 활성화 | 2024년 5월 30일 | 활성화됨 |
+| 기능 릴리스 [2024.5.0](https://experienceleague.adobe.com/kr/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-5-0) | 기능 활성화 | 2024년 5월 30일 | 활성화됨 |
 | 유지 보수 릴리스 [16544](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16544) | 자동 업데이트 | 2024년 6월 10~12일 | 업데이트됨 |
 | 유지 보수 릴리스 [16799](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16799) | 자동 업데이트 | 2024년 6월 24~26일 | 업데이트됨 |
 | 기능 릴리스 [2024.6.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2024년 6월 27일 | 활성화됨 |
