@@ -4,9 +4,9 @@ type: Documentation
 git-repo: https://github.com/AdobeDocs/experience-manager-release-information.ko-KR
 index: true
 recommendations: noDisplay
-source-git-commit: 193e6ce46e042cb01e0d7ff43e6364019ab1663f
-workflow-type: tm+mt
-source-wordcount: '109'
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: ht
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -23,5 +23,5 @@ metadata.md 파일에는 보고서에서 사용 안내서 TOC.md 파일로 전�
 | solution-icon | 솔루션 제목 옆에 솔루션 아이콘을 표시합니다. 아직 구현되지 않음 |
 | getting-started-url | helpx 시작 페이지에 대한 링크 |
 | tutorials-url | 비디오 튜토리얼 링크—helpx 튜토리얼 또는 KT 튜토리얼 |
-| mini-toc-levels | 오른쪽 레일에 나타나는 제목 수준 수를 결정합니다. 기본값은 2입니다. |
-| git-repo | 내부 사용을 위한 마스터 보고서의 위치를 지정합니다. |
+| mini-toc-levels | 오른쪽 레일에 표시되는 제목 수준 수를 결정합니다. 기본값은 2입니다. |
+| git-repo | 내부 사용을 위한 기본 저장소의 위치를 지정합니다. |
