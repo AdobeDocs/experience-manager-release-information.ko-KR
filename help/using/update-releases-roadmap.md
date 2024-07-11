@@ -2,17 +2,17 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0ccece7cd8146c9871c6143dc5f265128ec8220a
-workflow-type: ht
-source-wordcount: '476'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 93%
 
 ---
 
 
 # [!DNL Experience Manager] 릴리스 로드맵 {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager]는 [!DNL Cloud Service], Managed Services 및 제품의 On-Premise 오퍼링을 사용하는 사용자에게 새 기능, 기존 기능의 개선 사항, 버그 수정 사항을 지속적으로 제공합니다. 이 문서에서는 [!DNL Experience Manager]에 예정된 릴리스가 나열되어 있습니다.
+[!DNL Adobe Experience Manager] 는 기존 기능에 대한 새로운 기능과 개선 사항을 일관되게 제공합니다. 의 사용자에게 버그 수정 사항을 제공합니다. [!DNL Cloud Service], Managed Services 및 온-프레미스 버전. 이 문서에서는 [!DNL Experience Manager]에 예정된 릴리스가 나열되어 있습니다.
 
 >[!NOTE]
 >

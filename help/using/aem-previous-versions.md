@@ -2,10 +2,10 @@
 title: 이전 버전의 AEM, CQ 및 CRX 설명서 다운로드
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지를 다운로드합니다.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '570'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '571'
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 패키지를 다운로드하기 전에 콘텐츠를 사용할 사용자를 결정하십시오. 이 결정에 따라 배포 방법이 결정됩니다.
 
 * 개발자는 빠른 참조를 위해 로컬에서 설치할 수 있습니다.
-* 보다 광범위한 조직의 문서화 요구를 위해서는 패키지가 내부적으로 액세스할 수 있는 비프로덕션 AEM 작성자 인스턴스에 배포되는 것이 좋습니다.
+* 광범위한 조직 설명서 요구 사항의 경우 Adobe은 내부적으로 액세스할 수 있는 비프로덕션 AEM 작성자 인스턴스에 패키지를 배포할 것을 권장합니다.
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내
 
 1. 패키지가 업로드되면 설치합니다.
 
-1. 패키지 관리자 UI에서 패키지를 찾아 **[!UICONTROL 설치]**&#x200B;를 선택합니다.
+1. 패키지 관리자 UI에서 패키지를 찾아 을 선택합니다 **[!UICONTROL 설치]**.
 
 1. 확인 대화 상자에서 **[!UICONTROL 설치]**&#x200B;를 다시 선택합니다. 설치하는 데 몇 분 정도 소요됩니다.
 

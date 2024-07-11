@@ -3,10 +3,10 @@ title: "[!DNL Adobe Experience Manager] 릴리스 업데이트"
 description: "[!DNL Adobe Experience Manager] 릴리스 업데이트"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
-Managed Services 및 On-premise 오퍼링의 경우, 이 문서에는 최신 누적 수정 팩 릴리스와 최신 서비스 팩 릴리스, 기본 릴리스가 나열되어 있으며 해당 릴리스 버전에 대한 설명서가 안내되어 있습니다. [!DNL Adobe]에서는 배포를 안정적이고 안전하게 최신 상태로 유지하려면 [!DNL Experience Manager] 버전의 최신 누적 수정 팩의 후속 최신 서비스 팩을 검토하고 적용할 것을 권장합니다.
+Managed Services 및 온-프레미스 오퍼링의 경우, 이 문서에 최신 누적 수정 팩 릴리스와 최신 서비스 팩 릴리스, 기본 릴리스를 나열하며 이러한 릴리스 버전의 설명서에 연결합니다. [!DNL Adobe]에서는 배포를 안정적이고 안전하게 최신 상태로 유지하려면 [!DNL Experience Manager] 버전의 최신 누적 수정 팩의 후속 최신 서비스 팩을 검토하고 적용할 것을 권장합니다.
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 

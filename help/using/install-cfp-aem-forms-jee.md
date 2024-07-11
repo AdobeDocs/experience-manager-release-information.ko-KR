@@ -1,12 +1,12 @@
 ---
 title: AEM Forms JEE에 누적 수정 팩 설치
-description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 단계의 요약입니다.
+description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 단계에 대한 요약입니다.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '909'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '905'
+ht-degree: 91%
 
 ---
 
@@ -27,12 +27,12 @@ AEM [!DNL  Forms JEE] 패키지(aemfd-jee-bundles-package-6.3CFP1, 버전 1.0.2)
 
 ### CQ-4208044에 대한 추가 지침 {#additional-instructions-for-cq}
 
-AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용하는 경우, 구성 관리자를 실행한 후 CFP1을 배포하고 다음 설정을 구성합니다. 이 설정은 엔터프라이즈 도메인 동기화가 실행될 때 사용자, 그룹 및 그룹 멤버를 동기화하는 데 필요합니다.
+AEM 6.3을 사용하는 경우 [!DNL Forms JEE] oracle 데이터베이스가 있는 서버에서 CFP1을 배포한 후, 즉 구성 관리자를 실행한 후 다음 설정을 구성합니다. 이 설정은 엔터프라이즈 도메인 동기화가 실행될 때 사용자, 그룹 및 그룹 멤버를 동기화하는 데 필요합니다.
 
 1. **관리** UI에 로그인합니다.
 1. **[!UICONTROL 설정]** > **[!UICONTROL 사용자 관리]** > **[!UICONTROL 구성]** > **[!UICONTROL 구성 파일 가져오기 및 내보내기]**&#x200B;로 이동합니다.
 1. config.xml 파일을 내보냅니다.
-1. *config.xml*&#x200B;의 도메인 구성 아래에 있는 &quot;`groupMemberDBQueryBatchSize`&quot;의 항목을 수정합니다. 샘플 항목:
+1. 다음에 대한 항목 수정: &quot;`groupMemberDBQueryBatchSize`의 도메인 구성 아래에 있는 &quot; *config.xml*. 샘플 항목:
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -75,19 +75,19 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
 1. 모든 서비스 작업의 시간 제한을 600초로 설정하려면 다음 작업을 수행합니다.
 
-   `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600` 설정
+   설정`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
 
 1. `DesigntimeService` 작업 값 시간 제한을 500초로 설정하려면 다음 옵션을 사용합니다.
 
-   `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500` 설정
+   설정`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. `DesigntimeService's previewLCA` 작업 값 시간 제한을 700초로 설정하려면 다음 옵션을 사용합니다.
 
-   `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700` 설정
+   설정`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
 
 1. 로드 및 설치와 같은 `DSC operations`를 600초로 설정하려면 다음 옵션을 사용합니다.
 
-   “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`” 설정
+   설정`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## AEM [!DNL Forms JEE] 설치 및 구성 {#install-and-configure-aem-forms-jee}
 
@@ -98,7 +98,7 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
    **Windows**
 
-   설치 관리자를 복사한 하드 디스크의 설치 미디어 또는 폴더로 이동합니다.
+   설치 미디어 또는 설치 관리자를 복사한 폴더로 이동합니다.
 
    * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
@@ -113,8 +113,8 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
    적절한 디렉터리로 이동합니다.
 
-   * (Linux®): Disk1/InstData/Linux/ NoVM
-   * (Solaris™): Disk1/InstData/Solaris/ NoVM
+   * (Linux®): Disk1/InstData/Linux/NoVM
+   * (Solaris™): Disk1/InstData/Solaris/NoVM
    * (AIX®): Disk1/InstData/AIX/VM
 
    명령 프롬프트에서 다음을 입력합니다.
