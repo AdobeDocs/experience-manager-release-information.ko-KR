@@ -3,7 +3,7 @@ title: AEM 6.3 누적 수정 팩
 description: AEM 6.3 누적 수정 팩 릴리스 정보
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 source-git-commit: e8c9b5343208458febe55d8c1a0b541b112d3911
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '17123'
 ht-degree: 100%
 
@@ -28,13 +28,13 @@ Adobe는 수정 사항을 릴리스하기 위해 단일 게재 모델을 도입�
 * 개선된 품질 보증
 * 간단한 설치(사용자가 최신 서비스 팩을 제외하고, 종속성이 없는 단일 패키지로 CFP를 설치함)
 
-CFP 및 기타 릴리스 유형에 대한 자세한 내용은 [유지 관리 릴리스 차량 정의](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)를 참조하십시오.
+CFP 및 기타 릴리스 유형에 대한 자세한 내용은 [유지 관리 릴리스 차량 정의](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)를 참조하십시오.
 
 ## 릴리스 정보 {#about-the-release}
 
 AEM 누적 수정 팩 6.3.3.8은 2018년 9월, AEM 6.3 서비스 팩 3(6.3.3.0)의 일반 출시 이후 다수의 내부 및 고객 수정 사항을 포함한 중요한 업데이트입니다.
 
-AEM 누적 수정 팩 6.3.3.8은 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
+AEM 누적 수정 팩 6.3.3.8은 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
 
 **AEM 누적 수정 팩**&#x200B;의 주요 사항은 다음과 같습니다.
 
@@ -104,7 +104,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 AEM 누적 수정 팩 6.3.3.7은 2018년 9월, AEM 6.3 서비스 팩 3(6.3.3.0)의 일반 출시 이후 다수의 내부 및 고객 수정 사항을 포함한 중요한 업데이트입니다.
 
-AEM 누적 수정 팩 6.3.3.7은 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
+AEM 누적 수정 팩 6.3.3.7은 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
 
 ### 자산 {#assets-1}
 
@@ -172,7 +172,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 AEM 누적 수정 팩 6.3.3.6은 2018년 9월, AEM 6.3 서비스 팩 3(6.3.3.0)의 일반 출시 이후 다수의 내부 및 고객 수정 사항을 포함한 중요한 업데이트입니다.
 
-AEM 누적 수정 팩 6.3.3.6은 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
+AEM 누적 수정 팩 6.3.3.6은 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
 
 ### 자산 {#assets-2}
 
@@ -226,7 +226,7 @@ AEM Forms 수정 사항은 릴리스와 함께 제공되는 추가 기능 패키
 
 AEM 누적 수정 팩 6.3.3.5은 2018년 9월, AEM 6.3 서비스 팩 3(6.3.3.0)의 일반 출시 이후 다수의 내부 및 고객 수정 사항을 포함한 중요한 업데이트입니다.
 
-AEM 누적 수정 팩 6.3.3.5는 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
+AEM 누적 수정 팩 6.3.3.5는 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
 
 **AEM 누적 수정 팩**&#x200B;의 주요 사항은 다음과 같습니다.
 
@@ -295,7 +295,7 @@ AEM 6.3.3.5에 포함된 콘텐츠 패키지 목록
 
 AEM 누적 수정 팩 6.3.3.4은 2018년 9월, AEM 6.3 서비스 팩 3(6.3.3.0)의 일반 출시 이후 다수의 내부 및 고객 수정 사항을 포함한 중요한 업데이트입니다.
 
-AEM 누적 수정 팩 6.3.3.4는 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
+AEM 누적 수정 팩 6.3.3.4는 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
 
 **AEM 누적 수정 팩**&#x200B;의 주요 사항은 다음과 같습니다.
 
@@ -403,7 +403,7 @@ AEM 6.3.3.4에 포함된 콘텐츠 패키지 목록
 
 AEM 누적 수정 팩 6.3.3.3은 2018년 9월, AEM 6.3 서비스 팩 3(6.3.3.0)의 일반 출시 이후 다수의 내부 및 고객 수정 사항을 포함한 중요한 업데이트입니다.
 
-AEM 누적 수정 팩 6.3.3.3은 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
+AEM 누적 수정 팩 6.3.3.3은 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
 
 **AEM 누적 수정 팩**&#x200B;의 주요 사항은 다음과 같습니다.
 
@@ -631,7 +631,7 @@ AEM 6.3.3.2에 포함된 콘텐츠 패키지 목록
 
 AEM 누적 수정 팩 6.3.3.1은 2018년 9월, AEM 6.3 서비스 팩 3(6.3.3.0)의 일반 출시 이후 다수의 내부 및 고객 수정 사항을 포함한 중요한 업데이트입니다.
 
-AEM 누적 수정 팩 6.3.3.1은 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
+AEM 누적 수정 팩 6.3.3.1은 AEM 6.3 서비스 팩 3에 종속됩니다. 따라서 AEM 6.3 서비스 팩 3을 설치한 후 AEM 누적 수정 팩 6.3.3.x 패키지를 설치해야 합니다. 설치 지침은 [AEM 6.3 서비스 팩 3](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 릴리스 정보를 참조하십시오.
 
 **AEM 누적 수정 팩**&#x200B;의 주요 사항은 다음과 같습니다.
 
@@ -1805,7 +1805,7 @@ CFP는 다음과 같은 방법으로 실행 중인 인스턴스에 자동으로 
 
 1. AEM 6.3.3.x CFP 패키지를 설치했는지 확인합니다.
 1. 운영 체제에 대한 [AEM Forms 릴리스](aem-forms-releases.md)에 나열된 해당 양식 추가 기능 패키지를 다운로드합니다.
-1. [AEM Forms 추가 기능 패키지 설치](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)에 설명된 대로 Forms 추가 기능 패키지를 설치합니다.
+1. [AEM Forms 추가 기능 패키지 설치](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)에 설명된 대로 Forms 추가 기능 패키지를 설치합니다.
 
 #### AEM Forms JEE 번들 패키지 설치 {#install-aem-forms-jee-bundles-package}
 
@@ -1955,7 +1955,7 @@ Maven 프로젝트에서 Uber Jar를 사용하려면 문서 [Uber jar 사용 �
 
 | 영역 | 기능 | 대체 | 버전 |
 |----|-----|-----|-----|
-| Assets과 Adobe Creative Cloud 통합 | [AEM과 Creative Cloud 폴더 공유](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)는 Creative 사용자에게 AEM의 자산에 대한 액세스 권한을 제공하는 방법으로 AEM 6.2에 도입되었습니다. Creative Cloud 애플리케이션에서 새롭게 출시된 기능인 Adobe Asset Link는 Photoshop, InDesign 및 Illustrator에서 직접 AEM 자산에 액세스할 수 있는 강력한 권한과 함께 우수한 사용자 경험을 제공합니다.</br></br> Adobe는 폴더 공유 기능에 대한 추가 개선을 하지 않습니다. 고객은 AEM에 해당 기능이 포함된 동안 교체를 사용해 보시기 바랍니다. | Adobe Asset Link 또는 데스크탑 앱. 자세한 내용은 [AEM Creative Cloud 통합](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 문서를 참조하십시오. | AEM 6.3.3.x |
+| Assets과 Adobe Creative Cloud 통합 | [AEM과 Creative Cloud 폴더 공유](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)는 Creative 사용자에게 AEM의 자산에 대한 액세스 권한을 제공하는 방법으로 AEM 6.2에 도입되었습니다. Creative Cloud 애플리케이션에서 새롭게 출시된 기능인 Adobe Asset Link는 Photoshop, InDesign 및 Illustrator에서 직접 AEM 자산에 액세스할 수 있는 강력한 권한과 함께 우수한 사용자 경험을 제공합니다.</br></br> Adobe는 폴더 공유 기능에 대한 추가 개선을 하지 않습니다. 고객은 AEM에 해당 기능이 포함된 동안 교체를 사용해 보시기 바랍니다. | Adobe Asset Link 또는 데스크탑 앱. 자세한 내용은 [AEM Creative Cloud 통합](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 문서를 참조하십시오. | AEM 6.3.3.x |
 
 ## OSGi 번들 및 콘텐츠 패키지가 설치됨 {#osgi-bundles-and-content-packages-included-1}
 

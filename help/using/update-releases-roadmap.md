@@ -12,7 +12,7 @@ ht-degree: 93%
 
 # [!DNL Experience Manager] 릴리스 로드맵 {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] 는 기존 기능에 대한 새로운 기능과 개선 사항을 일관되게 제공합니다. 의 사용자에게 버그 수정 사항을 제공합니다. [!DNL Cloud Service], Managed Services 및 온-프레미스 버전. 이 문서에서는 [!DNL Experience Manager]에 예정된 릴리스가 나열되어 있습니다.
+[!DNL Adobe Experience Manager]은(는) 기존 기능에 대한 새로운 기능과 향상된 기능을 일관되게 제공합니다. [!DNL Cloud Service], Managed Services 및 온-프레미스 버전에서 사용자에 대한 버그 수정 기능을 제공합니다. 이 문서에서는 [!DNL Experience Manager]에 예정된 릴리스가 나열되어 있습니다.
 
 >[!NOTE]
 >

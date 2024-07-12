@@ -56,7 +56,7 @@ ht-degree: 80%
   <tr>
    <td>2019년 10월 11일</td> 
    <td>Activity Map</td> 
-   <td><p>Adobe Analytics API의 보안 변경 사항으로 인해, AEM 내에 포함된 Activity Map 버전을 더는 사용할 수 없습니다. 다음을 참조하십시오 <a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Adobe Analytics에서 제공하는 Activity Map 플러그인</a> 이제 를 사용해야 합니다. </p> </td> 
+   <td><p>Adobe Analytics API의 보안 변경 사항으로 인해, AEM 내에 포함된 Activity Map 버전을 더는 사용할 수 없습니다. 이제 <a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Adobe Analytics에서 제공한 Activity Map 플러그인</a>을(를) 사용해야 합니다. </p> </td> 
   </tr>
   <tr>
    <td>2019년 10월 10일</td> 
@@ -76,7 +76,7 @@ ht-degree: 80%
   <tr>
    <td>2019년 10월 1일 </td> 
    <td>AEM Screens 프로젝트에 대한 모범 사례 안내서</td> 
-   <td><p>이 새로운 안내서는 디지털 사이니지 구현에 의도적인 고객 경험을 상상하고, 설계하고, 도입하기 위한 포괄적인 인사이트와 실용적인 조언을 제공합니다. 또한 AEM Screens에서 디지털 사이니지 프로젝트를 배포할 때 따르게 되는 몇 가지 모범 사례를 사용하여 비즈니스에 긍정적인 영향을 미치는 방법을 안내합니다.</p> <p>다음을 참조하십시오. <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens 프로젝트에 대한 모범 사례 안내서</a> 을 참조하십시오.</p> </td> 
+   <td><p>이 새로운 안내서는 디지털 사이니지 구현에 의도적인 고객 경험을 상상하고, 설계하고, 도입하기 위한 포괄적인 인사이트와 실용적인 조언을 제공합니다. 또한 AEM Screens에서 디지털 사이니지 프로젝트를 배포할 때 따르게 되는 몇 가지 모범 사례를 사용하여 비즈니스에 긍정적인 영향을 미치는 방법을 안내합니다.</p> <p>자세한 내용은 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens 프로젝트에 대한 모범 사례 가이드</a>를 참조하세요.</p> </td> 
   </tr>
   <tr>
    <td>2019년 9월 25일</td> 
@@ -121,12 +121,12 @@ ht-degree: 80%
   <tr>
    <td>2019년 8월 21일</td> 
    <td>AEM 6.5 Screens 사용 안내서</td> 
-   <td>이제 네트워크 배포 기본 사항에 대한 새로운 섹션이 생겼습니다. 다음을 참조하십시오. <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/user-guide/aem-screens-introduction">사용 안내서</a> 을 참조하십시오.</td> 
+   <td>이제 네트워크 배포 기본 사항에 대한 새로운 섹션이 생겼습니다. 자세한 내용은 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/user-guide/aem-screens-introduction">사용 안내서</a>를 참조하세요.</td> 
   </tr>
   <tr>
    <td>2019년 8월 20일</td> 
    <td>AEM Assets 스마트 태그<br /> </td> 
-   <td>방법 알아보기 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">인증서 업데이트</a> 만료되면.</td> 
+   <td>인증서가 만료된 후 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">인증서를 업데이트</a>하는 방법을 알아봅니다.</td> 
   </tr>
   <tr>
    <td>2019년 8월 2일</td> 
@@ -136,7 +136,7 @@ ht-degree: 80%
   <tr>
    <td>2019년 7월 25일</td> 
    <td>서로 다른 라이선스에 따른 AEM Assets 기능</td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">기능 목록</a> 독립 실행형 DAM 라이선스와 AEM MediaLibrary 라이선스에서 사용 가능한 AEM Assets의 버전이 AEM 6.5 릴리스용으로 업데이트되었습니다.<br /> </td> 
+   <td>독립형 DAM 라이선스와 AEM MediaLibrary 라이선스에서 사용 가능한 AEM Assets의 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">기능 목록</a>이 AEM 6.5 릴리스용으로 업데이트되었습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 7월 12일</td> 
@@ -237,7 +237,7 @@ ht-degree: 80%
 
 ## 이전 콘텐츠 {#legacy-content}
 
-2023년 5월 1일부터 AEM 설명서의 레거시 버전이 의 새 위치로 이동되었습니다. [이전 버전의 Adobe Experience Manager, CQ 및 CRX](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+2023년 5월 1일부터 AEM 설명서의 레거시 버전이 [Adobe Experience Manager, CQ 및 CRX의 이전 버전](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)의 새 위치로 이동되었습니다.
 
 다음 버전을 이동했습니다.
 

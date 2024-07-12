@@ -202,7 +202,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP18은 [AEM 6.2 SP1](https://experienceleague.ad
 * 코어 페이지 구성 요소에 리디렉션 지원을 추가합니다. NPR-26576: CQ-110529용 핫픽스
 * 컨텍스트 허브를 `jQuery` 3으로 마이그레이션합니다. NPR-26956: CQ-4255472용 핫픽스
 * 앵커 입력 필드는 최대화하기 전까지 대화 상자의 브라우저 표시 섹션 외부에 표시됩니다. NPR-26852: CQ-4255019용 핫픽스
-* 원하지 않는 텍스트를 삽입하는 텍스트를 복사하여 붙여넣기 &lt;br> 콘텐츠 조각 내. NPR-26660: CRTE-151용 핫픽스
+* 콘텐츠 조각에 원하지 않는 &lt;br>을 삽입하는 텍스트를 복사하여 붙여넣습니다. NPR-26660: CRTE-151용 핫픽스
 * 클래식 사이트 관리자는 일부 페이지의 오른쪽 창에 있는 목록을 렌더링하지 않습니다. NPR-27247: CQ-4251621용 핫픽스
 * (클래식 UI) 페이지 이동/이름 변경을 시도하면 “페이지 이동 중 오류가 발생합니다.”라는 오류가 발생합니다. NPR-27179: CQ-4235907용 핫픽스
 
@@ -616,7 +616,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP14는 AEM 6.2 SP1의 일반 공급 이후 릴�
 * LiveCopyIndex 동기화를 수행하면 긴 색인을 업데이트하는 동안 스레드가 정체됩니다. NPR-22214: CQ-90667용 핫픽스
 * Live Copy의 다른 필드를 편집할 때 `cq:cugEnabled` 속성이 비활성화되므로 페이지가 보호되지 않습니다. NPR-22246: CQ-4236050용 핫픽스
 * 페이지가 일시 중단되면 페이지 롤아웃 작업에서 하위 페이지가 업데이트되지 않습니다. NPR-22483: CQ-4236956용 핫픽스
-* 기본 리드인 구조에서 이동된 구조를 롤아웃하면 오류가 발생합니다. `cq:moveTarget`. NPR-22373: CQ-4232536용 핫픽스
+* 기본 리드에서 이동된 구조를 롤아웃하면 잘못된 `cq:moveTarget`이(가) 발생합니다. NPR-22373: CQ-4232536용 핫픽스
 
 ### 통합 {#integration-6}
 
@@ -895,7 +895,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP11은 AEM 6.2 SP1의 일반 공급 이후 릴�
 ### 플랫폼 {#platform-6}
 
 * ResourceResolverImpl.map()은 ResourceDecorator를 호출하지 않습니다. NPR-20788: GRANITE-19718용 핫픽스
-* `org.apache.sling.i18n.DefaultLocaleResolver` 은 org.apache.sling.engine.SlingRequestProcessor를 통해 요청을 처리할 수 없습니다. NPR-20706: CQ-94880용 핫픽스
+* `org.apache.sling.i18n.DefaultLocaleResolver`에서 org.apache.sling.engine.SlingRequestProcessor를 통해 요청을 처리할 수 없습니다. NPR-20706: CQ-94880용 핫픽스
 * 특정 패키지에서 ACL 권한/권한이 변경되었는지 확인하기 위해 패키지 관리자에 유효성 검사 옵션을 추가하도록 요청합니다. CQ-4229196용 핫픽스
 
 ### 워크플로 {#workflow-1}
@@ -946,7 +946,7 @@ AEM Forms의 주요 사항은 다음과 같습니다.
 
 #### 어셈블러 서비스 {#assembler-service-1}
 
-* docConvertor가 요소에 대한 접두사 &quot;stEvt&quot;라는 오류와 함께 PDF/A를 생성하지 못합니다 `stEvt:action` 바인딩되지 않았습니다.&quot; NPR-21032: CQ-4222540용 핫픽스
+* `stEvt:action` 요소의 접두사 &quot;stEvt&quot;가 바인딩되지 않았습니다.&quot;라는 오류와 함께 docConvertor에서 PDF/A를 생성하지 못했습니다. NPR-21032: CQ-4222540용 핫픽스
 * 서비스 OMPFSubmission/PDFA/PDFtoPDFA를 호출하는 동안 `java.lang.IllegalArgumentException message:No enum constant com.adobe.internal.pdfm.docbuilder.signature.PathValidationFailureReason.SIGNED_IN_FUTURE`라는 예외가 발생합니다. 이 예외는 서버를 다시 시작할 때까지 단기 서명 확인 프로세스를 완료할 수 없습니다. NPR-20792
 
 #### Workbench {#workbench}
@@ -1073,7 +1073,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP9는 AEM 6.2 SP1의 일반 공급 이후 릴리
 
 ### 사이트 {#sites-10}
 
-* 사용자가 게시하려고 할 때 AEM에 예기치 않은 동작이 표시됩니다 `/unpublish/create` 다른 사용자가 잠근 페이지의 버전입니다. NPR-19249, CQ-4215298 및 CQ-4203856용 핫픽스
+* 사용자가 다른 사용자가 잠근 페이지의 `/unpublish/create` 버전을 게시하려고 하면 AEM에 예기치 않은 동작이 표시됩니다. NPR-19249, CQ-4215298 및 CQ-4203856용 핫픽스
 * 중첩된 시작을 수동으로 승격하는 동안 하위 페이지가 삭제됩니다. NPR-19704
 * ContextHub 저장 시 지속성 문제가 초기화 중에 기본 지속성 레이어를 덮어씁니다. NPR-19979: CQ-4218399용 핫픽스
 * 콘텐츠 조각이 다른 버튼과 겹칩니다. NPR-19980: CQ-4221519용 핫픽스
@@ -1469,7 +1469,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP5는 AEM 6.2 SP1의 일반 공급 이후 릴리
 
 ### 사이트 {#sites-14}
 
-* 클래식 UI나 Touch UI를 사용하여 페이지를 이동하는 동안 이동 대화 상자에 150개를 넘는 참조가 표시되지 않아서 사용자가 이러한 참조를 업데이트하고 페이지를 다시 게시할 수 없습니다. 이 문제는 사이트 관리 노드에 구성할 수 있는 클래식 UI: &#39;maxRefNo&#39;의 속성을 도입하여 해결되었습니다. `'/libs/wcm/core/content/siteadmin'`. 이 속성은 대량 이동 작업 전에 표시되는 최대 참조 수(기본값 150)를 지정합니다. 페이지에 여러 참조가 있는 경우 movePage 대화 상자에 표시되지 않습니다. 이 구성은 노드에 구성을 적용하여 dam 관리자 및 기타 관리자에게도 작동합니다. `'/libs/wcm/core/content/damadmin'` 및 `'/libs/wcm/core/content/miscadmin'` 각각. NPR-17222, CQ-85878용 핫픽스
+* 클래식 UI나 Touch UI를 사용하여 페이지를 이동하는 동안 이동 대화 상자에 150개를 넘는 참조가 표시되지 않아서 사용자가 이러한 참조를 업데이트하고 페이지를 다시 게시할 수 없습니다. 이 문제는 사이트 관리 노드 `'/libs/wcm/core/content/siteadmin'`에서 구성할 수 있는 클래식 UI: &#39;maxRefNo&#39;의 속성을 도입하여 해결되었습니다. 이 속성은 대량 이동 작업 전에 표시되는 최대 참조 수(기본값 150)를 지정합니다. 페이지에 여러 참조가 있는 경우 movePage 대화 상자에 표시되지 않습니다. 이 구성은 노드에 구성을 적용하여 dam 관리자 및 기타 관리자에 대해서도 작동합니다. 각각 `'/libs/wcm/core/content/damadmin'` 및 `'/libs/wcm/core/content/miscadmin'`. NPR-17222, CQ-85878용 핫픽스
 
 * WCM 구성 요소로 작업하는 동안 공백이 포함된 하이퍼링크는 Touch UI 리치 텍스트 편집기에서 제거됩니다. NPR-17698, NPR-17570, CQ-4206768용 핫픽스
 * 페이지 속성에서 게시 취소 요청 워크플로를 트리거하면 복제 권한이 없는 사용자에 대해 JavaScript 오류가 표시됩니다. NPR-17294, CQ-102064용 핫픽스
@@ -1588,7 +1588,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP4는 AEM 6.2 SP1의 일반 공급 이후 릴리
 
 ### 플랫폼 {#platform-12}
 
-* 에 열 추가 또는 사용자 지정 **Assets OmniSearch** 오버레이에 의한 결과 `/apps` 작동하지 않습니다. NPR-16737: CQ-4206785용 핫픽스
+* `/apps`에 오버레이하여 **Assets OmniSearch** 결과에 열을 추가하거나 사용자 지정할 수 없습니다. NPR-16737: CQ-4206785용 핫픽스
 * AEM 6.1 SP2에서 AEM 6.2 SP1로 업그레이드한 후 **진단 도구** 페이지가 작동하지 않습니다. NPR-17121, CQ-4196786용 핫픽스
 * HTL: 포럼을 선택하는 동안 주제와 게시물을 만들면 `Sightly SightlyCompiledScript`에서 잘못된 `addSelectors` 속성을 `RequestDispatcherOption`에 추가합니다. NPR-17008: GRANITE-16384용 핫픽스
 
@@ -1619,7 +1619,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP4는 AEM 6.2 SP1의 일반 공급 이후 릴리
 * WCM 실행에서는 Touch UI의 페이지 속성 내에서 작업이 시작되면 실행과 연결된 페이지의 게시를 취소할 수 없습니다. NPR-16560: CQ-4204681용 핫픽스
 * 링크 재작성자는 콜론 &quot;:&quot;이 JCR 네임스페이스를 정의한다고 가정하여 콜론을 포함하는 href 값을 올바르지 않게 다시 기록합니다. NPR-16753: CQ-4203762용 핫픽스
 * WCM-Design Importer에서 테스트 Importer 페이지를 열고 zip 파일을 업로드하려고 하면 이전에 업로드 및 삭제된 경우 문제가 발생합니다. NPR-16486: CQ-90962용 핫픽스
-* 다음으로 이동 **[!UICONTROL 전역 탐색]** firefox 또는 Google Chrome 브라우저를 사용하는 창은 다른 사용자 경험을 제공합니다. Firefox 브라우저에는 **[!UICONTROL 도구]** 메뉴 아래의 제품에서 사용할 수 있습니다. Google Chrome 브라우저에는 **[!UICONTROL 탐색]** 메뉴 아래의 제품에서 사용할 수 있습니다. NPR-16770, CQ-4200456용 핫픽스
+* Firefox 또는 Google Chrome 브라우저를 사용하여 **[!UICONTROL 전역 탐색]** 창으로 이동하면 다른 사용자 경험이 제공됩니다. Firefox 브라우저에 **[!UICONTROL 도구]** 메뉴가 표시됩니다. Google Chrome 브라우저에 **[!UICONTROL 탐색]** 메뉴가 표시됩니다. NPR-16770, CQ-4200456용 핫픽스
 
 ### 캠페인 {#campaign}
 
@@ -1647,14 +1647,14 @@ AEM 누적 수정 팩 6.2 SP1-CFP4는 AEM 6.2 SP1의 일반 공급 이후 릴리
 **적응형 양식**
 
 * 적응형 Forms 편집기에서 head.jsp의 Target 설정 주석을 새 context hub 문으로 바꿔야 합니다. NPR-17173
-* 적응형 Forms 규칙 편집기에서 **[!UICONTROL 항목 선택]** 이벤트를 &#39;null&#39;로 표시합니다. NPR-17139
+* 적응형 Forms 규칙 편집기에서 **[!UICONTROL 항목 선택]**&#x200B;은 이벤트를 &#39;null&#39;로 표시합니다. NPR-17139
 * 제출된 양식은 앞으로 화살표(>)를 사용하여 앞으로 이동하여 다시 제출됩니다. NPR-17080
 * AJAX을 통해 적응형 양식을 제출하는 동안 오류가 있으면 &#39;error&#39; 콜백 함수가 호출되지 않습니다. NPR-17034
 * 런타임에 규칙 편집기에서 **[!UICONTROL 양식 저장]** 버튼을 클릭해도 양식이 저장되지 않습니다. NPR-16905
 * 정적 텍스트는 적응형 양식의 탭 순서에서 제외해야 합니다. NPR-16749
 * 십진수 필드의 계산된 값이 잘못 표시됩니다. NPR-16596
 * 도움말 콘텐츠를 표시하는 아이콘은 적응형 양식의 탭 순서에 포함되어야 합니다. NPR-16484
-* 유형의 정규 표현식 지원 `dataRef=C:/Users/`다음에서 **[!UICONTROL 기본 미리 채우기 서비스 구성]**. 이 유형은 적응형 Forms을 위한 데이터 미리 채우기용입니다. NPR-16425
+* **[!UICONTROL 기본 미리 채우기 서비스 구성]**&#x200B;에서 `dataRef=C:/Users/` 형식의 정규식을 지원합니다. 이 유형은 적응형 Forms을 위한 데이터 미리 채우기용입니다. NPR-16425
 
 * 중첩된 지연 로드 시나리오가 있는 경우 모든 패널에 대한 유효성 검사가 올바르게 트리거되지 않습니다. NPR-15821
 
@@ -1667,7 +1667,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP4는 AEM 6.2 SP1의 일반 공급 이후 릴리
 * 텍스트를 미리 볼 때 균등 배치된 텍스트가 다른 글꼴로 렌더링됩니다. NPR-16976
 * 검색된 텍스트에 여러 항목이 있는 경우 검색 기능이 제대로 작동하지 않습니다. NPR-16920
 * 텍스트 편집기 도구 모음이 간헐적으로 브라우저에 표시됩니다. NPR-16919
-* 구문 **[!UICONTROL 양식 저장]** 규칙 편집기에서 작동하지 않습니다. NPR-16905
+* 규칙 편집기에서 **[!UICONTROL 양식 저장]** 구성이 작동하지 않습니다. NPR-16905
 * Internet Explorer를 사용하여 데이터 사전을 기반으로 텍스트 모듈을 만들 때 글꼴 드롭다운에서 글꼴 모음을 채우지 않습니다. NPR-16944
 * 텍스트 조각을 만든 후 편지 글꼴이 편지 미리보기 시 변경됩니다. NPR-16830
 * 문서 조각의 표현식 시작 또는 사이에 탭 공백이 있는 문자는 렌더링하거나 미리 볼 수 없습니다. NPR-16769
@@ -1680,7 +1680,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP4는 AEM 6.2 SP1의 일반 공급 이후 릴리
 
 * 제출된 양식에 대해 **[!UICONTROL 다운로드]** 링크를 클릭하면 PDF 양식 대신 HTML 페이지가 열립니다. NPR-17082
 
-* `Upload Comments` CRX 저장소에 저장된 XML에 파일의 첨부 파일이 있어도 제출되는 인스턴스의 UI에 해당 첨부 파일이 표시되지 않습니다. NPR-17075
+* 첨부 파일이 CRX 저장소에 저장된 XML에 있어도 제출된 인스턴스의 UI에 해당 첨부 파일의 `Upload Comments`이(가) 표시되지 않습니다. NPR-17075
 
 **Reader 확장 서비스**
 
@@ -1704,7 +1704,7 @@ NPR-16352
 
 **출력 서비스**
 
-* 출력 서비스에서 &quot;milli-sec&quot; 필드를 추가하도록 수정된 PDF을 처리하지 못합니다. `date-time format` 메타데이터. NPR-16838
+* 출력 서비스에서 `date-time format` 메타데이터에 추가 &#39;milli-sec&#39; 필드를 포함하도록 수정된 PDF을 처리하지 못합니다. NPR-16838
 
 #### Forms Designer {#forms-designer}
 
@@ -1735,13 +1735,13 @@ CFP3의 주요 특징:
 ### 플랫폼 {#platform-13}
 
 * **ModelAdapterFactory**&#x200B;의 경쟁 조건이며 두 스레드에서 동일한 필드를 주입하려고 하면 모델을 구성하지 못할 수 있습니다. NPR-16443, SLING-6584용 핫픽스
-* 중첩된 파일(JSP 또는 JavaScript 파일) 간의 충돌을 감지하는 패키지 관리자의 유효성 검사 옵션 `/apps` 아래에 핫픽스에 포함된 `/libs`. 그런 다음 영향을 받는 오버레이를 다시 기반으로 하여 아래 파일의 변경 사항을 포함할 수 있습니다. `/libs`. NPR-16216: CQ-81729용 핫픽스
+* `/apps`의 오버레이된 파일(JSP 또는 JavaScript 파일)과 `/libs`의 핫픽스에 포함된 파일 간의 충돌을 감지하는 패키지 관리자의 유효성 검사 옵션입니다. 그런 다음 영향을 받는 오버레이는 `/libs` 아래 파일의 변경 사항을 포함하도록 다시 사용할 수 있습니다. NPR-16216: CQ-81729용 핫픽스
 * error.log에 로그인하면 가끔 게시자를 시작한 후 몇 초 후에 중지되며 다시 실행하려면 지워야 합니다. 로깅 프레임워크를 업데이트하고 Sling 로깅을 제공하도록 요청합니다. NPR-15913: Granite-15452용 핫픽스
 * HTL JavaScript 사용 API 구현의 실패를 방지하기 위해 JavaScript &quot; `use"` API를 업데이트하도록 요청합니다. NPR-16461: SLING-6780용 핫픽스
 
 ### 사이트 {#sites-16}
 
-* AEM 6.0에서 AEM 6.2로 업그레이드한 후 많은 쿼리로 인해 태그를 검색하는 동안 클래식 UI의 성능이 저하됩니다. 이 문제를 해결하려면 아래 단계를 참조하십시오. [태깅 콘솔에서 복제 상태 비활성화(클래식 UI)](#disable-replication-status-in-tagging-console-classic-ui-npr) 팔로우할 수 있습니다. NPR-15842: CQ-4201748용 핫픽스.
+* AEM 6.0에서 AEM 6.2로 업그레이드한 후 많은 쿼리로 인해 태그를 검색하는 동안 클래식 UI의 성능이 저하됩니다. 이 문제를 해결하려면 [태깅 콘솔에서 복제 상태 비활성화(클래식 UI)](#disable-replication-status-in-tagging-console-classic-ui-npr)에 설명된 단계를 따를 수 있습니다. NPR-15842: CQ-4201748용 핫픽스.
 
 * Touch UI에서 페이지를 만드는 동안 &#39;이름&#39; 필드에 대한 입력 확인은 특수 문자 &#39;아포스트로피&#39;(클래식 UI에서와 동일)를 확인하지 않습니다. 따라서 페이지를 이동할 수 없습니다. NPR-16404: CQ-4205321용 핫픽스.
 * 리치 텍스트 편집기에서 두 행에 다른 스타일을 적용한 다음 병합하면 두 번째 행에 적용된 스타일이 제거됩니다. NPR-16389: CQ-4203835용 핫픽스.
@@ -1777,7 +1777,7 @@ CFP3의 주요 특징:
 
 **적응형 양식**
 
-* 첨부 파일과 함께 적응형 양식을 저장하는 동안 첨부 파일의 전체 경로가 `fileAttachment` 태그는 첨부 파일의 이름 대신 생성된 XML의 태그로 지정됩니다. NPR-16529
+* 첨부 파일과 함께 적응형 양식을 저장하는 동안 첨부 파일의 전체 경로가 첨부 파일의 이름 대신 생성된 XML의 `fileAttachment` 태그에 추가됩니다. NPR-16529
 * XDP 기반 적응형 양식에서는 사전 작성된 XML에 `afData/afBoundData` 래퍼가 없어도 `afData/afBoundData` 래퍼가 제출된 XML에 있습니다. NPR-16118
 
 * 숫자 필드의 지수 표기법: 적응형 양식을 사용하는 동안 총계에서 10자를 초과하는 소수 자릿수를 입력하면 이 숫자가 제출된 XML에서 지수 표기법으로 바뀝니다. NPR-16106
@@ -1789,7 +1789,7 @@ CFP3의 주요 특징:
 NPR: 16611
 
 * 여러 첨부 파일을 허용하는 파일 첨부 위젯의 경우 이미 이전 첨부 파일이 있는 위젯에서 첨부 파일이 있는 새 양식 인스턴스를 제출하면 오류 코드가 표시됩니다. 이 오류는 실제 콘텐츠 대신 추가된 첨부 파일을 열 때 발생합니다. NPR-16258
-* `file://`, `http://` 및 `ftp://` 등의 프로토콜을 통해 권한 없는 액세스로부터 양식 미리 채우기 서비스를 보호합니다. 다음을 참조하십시오 [구성 관리자를 사용하여 미리 채우기 서비스 구성](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15414
+* `file://`, `http://` 및 `ftp://` 등의 프로토콜을 통해 권한 없는 액세스로부터 양식 미리 채우기 서비스를 보호합니다. [구성 관리자를 사용하여 미리 채우기 서비스 구성](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)을 참조하십시오. NPR-15414
 
 * 확인 단계에서 HTML 대신 PDF 형식으로 적응형 양식을 렌더링하도록 요청하고 모든 첨부 파일을 PDF에 추가하므로 인쇄물에 전체 양식이 표시됩니다. NPR-9011
 
@@ -1821,7 +1821,7 @@ NPR: 16611
 
 **프로세스 관리 - HTML 작업 공간**
 
-* file://, &quot;http://&quot; 및 ftp:// 등의 프로토콜을 통해 권한 없는 액세스로부터 양식 미리 채우기 서비스를 보호합니다. 자세한 내용은 [구성 관리자를 사용하여 미리 채우기 서비스 구성](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15434
+* file://, &quot;http://&quot; 및 ftp:// 등의 프로토콜을 통해 권한 없는 액세스로부터 양식 미리 채우기 서비스를 보호합니다. 자세한 내용은 [구성 관리자를 사용하여 미리 채우기 서비스 구성](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)을 참조하십시오. NPR-15434
 
 **사용자 관리 **
 
@@ -1860,7 +1860,7 @@ AEM 6.2 SP1과 CFP3 간에 업데이트된 OSGi 번들 목록
 
 * Sling 프레임워크를 직접 참조하는 페이지가 편집되면 `SlingPostProcessor`가 트리거됩니다. NPR-15754: CQ-104153용 핫픽스
 
-* 가 있는 태그의 값 `tagBasePath` 페이지 구성 요소로 이동하는 동안 속성은 클래식 UI 대화 상자에서 가져오지 않습니다. NPR-15543: CQ-4199950용 핫픽스
+* 페이지 구성 요소로 이동하는 동안 `tagBasePath` 속성이 있는 태그의 값을 클래식 UI 대화 상자에서 가져오지 않습니다. NPR-15543: CQ-4199950용 핫픽스
 
 * Sling 작업을 수행하는 동안 &#39;chunk_n_n-1&#39; 이라는 청크가 있으면 `SlingFileUpload handler.getLastChunk`에서 빈 청크가 있는 무한 루프가 발생합니다. NPR-15455: SLING-5701용 핫픽스
 
@@ -1895,12 +1895,12 @@ AEM 6.2 SP1과 CFP3 간에 업데이트된 OSGi 번들 목록
 * Sites 구성 요소의 페이지 속성 썸네일 탭에 지우기 단추가 없습니다. NPR-15143, CQ-4196997용 핫픽스
 * 라이브 카피를 사용하는 사이트의 경우 사이트 Admin Console의 열 창에서 &#39;라이브 카피&#39; 확인란을 선택하면 라이브 카피 상태가 올바로 표시되지 않고 HTML 마크업만 표시됩니다. NPR-15108: CQ-97086용 핫픽스
 * 콘텐츠 조각을 편집할 때 게시물의 응답을 가져오기 전에 편집을 위해 완료(&#39;√&#39;)를 클릭하면 편집된 콘텐츠가 제대로 저장되지 않습니다. NPR-15014: CQ-4194095용 핫픽스
-* 타임워프 모드 중에 편집 페이지를 닫고 사이트 관리자로부터 다시 열려고 하면 상태에 오류가 발생합니다 `500`. NPR-14965: CQ-109647용 핫픽스:
+* 타임워프 모드 중에 편집 페이지를 닫고 사이트 관리자에서 다시 열려고 하면 `500` 상태에 오류가 발생합니다. NPR-14965: CQ-109647용 핫픽스:
 * DAM(Digital Asset Manager) UI에서 사용자 선택기의 승인 가능 대상 찾기 검색을 수행하면 &#39;메모리 부족&#39; 예외가 발생합니다. NPR: 15307: CQ-98542용 핫픽스
 
 ### 자산 {#assets-17}
 
-* Omnisearch에서 에셋을 검색한 후, 에셋을 선택하고 을 클릭하여 속성을 편집하십시오. **속성 보기**, 그런 다음 **저장** 버튼은 사용자를 빈 페이지로 리디렉션합니다. NPR-15900: CQ-4202372용 핫픽스
+* Omnisearch에서 자산을 검색하고 자산을 선택하고 **속성 보기**&#x200B;를 클릭하여 속성을 편집한 후 **저장** 단추를 사용하면 사용자가 빈 페이지로 리디렉션됩니다. NPR-15900: CQ-4202372용 핫픽스
 * Assets 사용자 인터페이스가 이벤트에 응답하지 않습니다. 자산을 선택하고 &#39;게시&#39; 또는 &#39;렌디션&#39;을 클릭해도 어떤 작업도 수행되지 않습니다. NPR-15828: CQ-4202247용 핫픽스
 * 카드 보기에서 자산을 게시할 때 게시된 상태를 반영하도록 카드가 업데이트되지 않습니다. 대신 페이지가 새로 고쳐집니다. NPR-15826: CQ-102732용 핫픽스
 * Assets 핫픽스를 포함하는 누적 핫픽스. NPR-15225
@@ -1924,11 +1924,11 @@ AEM 6.2 SP1과 CFP3 간에 업데이트된 OSGi 번들 목록
 
 ### 사용자 인터페이스 {#user-interface-5}
 
-* 위치 **[!UICONTROL Touch UI]**, Internet Chrome 브라우저 버전 56.0.2924.87을 사용하는 동안 이제 type=&#39;datetime&#39;인 날짜 필드에 저장된 날짜가 표시됩니다. NPR-15383: GRANITE-16481용 핫픽스
+* **[!UICONTROL Touch UI]**&#x200B;에서 Internet Chrome 브라우저 버전 56.0.2924.87을 사용하는 동안 이제 type=&#39;datetime&#39;인 날짜 필드에 저장된 날짜가 표시됩니다. NPR-15383: GRANITE-16481용 핫픽스
 * **[!UICONTROL Touch UI]**&#x200B;의 리치 텍스트 편집기는 렌더링하는 동안 HTML 테이블에서 스레드 및 캡션 요소를 제거합니다. NPR-15267: CRTE-41용 핫픽스
 * autostart가 true이거나 `uploadFile()`을 수동으로 호출한 경우 `FileUpload Validator`에서 사례를 처리하지 않으며 이러한 사례에 대해 잘못된 유효성 검사 보고서를 생성합니다. NPR-15295: GRANITE-13499용 핫픽스
 
-* Omnisearch는 고객이 `/apps` 위치 구성이 아래에 나열되어 있다고 가정하므로 열 데이터 소스를 추가하려면 */libs/granite/omnisearch/content/metadata/*. NPR-13188: GRANITE-16479용 핫픽스
+* 위치 구성이 */libs/granite/omnisearch/content/metadata/* 아래에 나열되어 있다고 간주하므로 Omnisearch는 `/apps`을(를) 사용하는 고객이 열 데이터 원본을 추가할 수 없도록 합니다. NPR-13188: GRANITE-16479용 핫픽스
 * **[!UICONTROL Touch UI]**&#x200B;를 사용할 때 제품 변형이 제품과 동일한 수준에서 만들어지지 않습니다. 변형 작성 프로세스의 상태에 대해 사용자에게 알려 주지 않습니다. NPR-15345: CQ-4198948용 핫픽스
 
 **Scene7**
@@ -1947,7 +1947,7 @@ AEM 6.2 SP1과 CFP3 간에 업데이트된 OSGi 번들 목록
 
 ### 캠페인 {#campaign-1}
 
-* Campaign 사용 중 - 타겟팅 및 `MAC` - 테스트 및 Target 통합 구성 요소이며, 활동 게시를 취소하면 기본 UI에서 활동 상태가 업데이트되지 않습니다. NPR-15401: CQ-4199839용 핫픽스
+* Campaign - 타깃팅 및 `MAC` - 테스트 및 Target 통합 구성 요소를 사용하는 동안 활동 게시를 취소하면 기본 UI에서 활동 상태가 업데이트되지 않습니다. NPR-15401: CQ-4199839용 핫픽스
 * AEM Commerce에서 제품을 이동하는 동안, 제품 이동 마법사에서 제품 이름, 제목, 참조된 페이지, 작성자 만들기 및 만든 날짜에 대해 미리 채워진 값을 누락합니다. NPR-15228: CQ-98617용 핫픽스
 
 ### 보안 {#security-4}
@@ -1961,7 +1961,7 @@ AEM 6.2 SP1과 CFP3 간에 업데이트된 OSGi 번들 목록
 `**Adaptive Forms**`
 
 * 입력 XML로 적응형 양식을 미리 채울 때 xml의 빈 값에 의해 기본값이 재정의됩니다. NPR-15721
-* 다음 `afData/afBoundData` 사전 작성된 XML에 이 없더라도 래퍼가 제출된 XML에 있습니다. `afData/afBoundData` xml 스키마 기반 적응형 양식의 래퍼. NPR-15541
+* XML 스키마 기반 적응형 양식에 `afData/afBoundData` 래퍼가 포함되어 있지 않더라도 `afData/afBoundData` 래퍼가 제출된 XML에 있습니다. NPR-15541
 
 * 아코디언 막대의 제목은 &#39;a&#39; 태그 대신 HTML &#39;h2&#39; 제목을 편집할 수 있어야 합니다. NPR-15475
 * 화면 읽기 프로그램 사용자는 양식 패널의 아코디언 레이아웃에 액세스할 수 없습니다. JAWS 또는 NVDA와 같은 화면 읽기 프로그램 소프트웨어를 사용하여 키보드만으로 아코디언 탭으로 이동할 수 없습니다. NPR-15474
@@ -2031,7 +2031,7 @@ AEM 6.2 SP2-CFP1의 주요 특징:
 * AEM 6.1 SP1로 마이그레이션한 후 다중 롤아웃 구성 요소 문제와 라이브 카피 문제. NPR-15256
 * 페이지 롤아웃 작업은 여러 개의 롤아웃 구성에서도 첫 번째 수준 이상의 하위 항목을 만들지 못합니다. NPR-15055
 * 편집기에서 PageProperties 대화 상자를 제출하면 LiveCopy 탭의 변경되지 않은 데이터가 다시 작성됩니다. NPR-14693
-* 편집기에서 PageProperties 대화 상자를 제출하면 MSM Post 프로세서가 `msm:writeLiveCopyConfig` 매개 변수. NPR-14434
+* 편집기에서 PageProperties 대화 상자를 제출하면 MSM Post 프로세서가 `msm:writeLiveCopyConfig` 매개 변수 대신 요청에서 일부 매개 변수를 기록합니다. NPR-14434
 * 롤아웃 구성 요소, 라이브 카피 및 MSM의 기타 측면과 관련된 여러 문제입니다. NPR-12235
 
 ### 자산 {#assets-18}
@@ -2065,7 +2065,7 @@ AEM 6.2 SP2-CFP1의 주요 특징:
 * MissingMetadataNotificationJob을 비활성화하도록 요청하면 배지 알림 UI가 런타임 예외 &quot;입력 내용을 스캔할 수 없습니다.&quot;로 페이지가 중단됩니다. NPR-12500: CQ-93573용 핫픽스
 * 태그 필드에 대한 &#39;편집 비활성화&#39; 옵션이 TouchUI의 자산 속성 페이지에서 작동하지 않습니다. NPR-12429: CQ-88835용 핫픽스
 * Companion App SMB 구현을 위한 AEM Assets 6.2의 API 수정 사항. NPR-11099
-* 다음 이후 `Jquery` 업데이트하면 콘텐츠 조각의 콘텐츠 연결 패널에서 에셋 컬렉션을 선택하고 선택을 확인할 수 없습니다. NPR-14847: CQ-4194209 지원
+* `Jquery` 업데이트 이후 사용자는 콘텐츠 조각의 콘텐츠 연결 패널에서 에셋 컬렉션을 선택하고 선택을 확인할 수 없습니다. NPR-14847: CQ-4194209 지원
 * 클라이언트측에서 무한 정렬이 호출되더라도 현재 UI에 표시된 문서/배너/컬렉션만 정렬됩니다. NPR-14493: CQ-109926용 핫픽스
 * AEM MOBILE-on-demand 서비스를 위한 omnisearch 기능 구현을 요청합니다. 모든 문서, 컬렉션 또는 배너에 대한 키워드 검색에서 일치하는 항목을 반환하지 않습니다. NPR-14093: CQ-101394용 핫픽스
 * 대화 상자에서 Coral-select 구성 요소(*granite/ui/components/coral/foundation/form/select*)를 사용하는 경우, 선택한 값에 단일 항목이 포함되어 있으면 Internet Explorer(IE11 또는 Edge 브라우저)에서 값 초기화가 제대로 작동하지 않습니다. NPR-13395: CQ-101013용 핫픽스
@@ -2083,7 +2083,7 @@ AEM 6.2 SP2-CFP1의 주요 특징:
 * AEM 기본 워크플로를 사용하는 경우 CQ 발송은 단일 멤버의 이메일 주소를 누락한 그룹에 이메일 알림을 보내지 못합니다. NPR-14804: CQ-91499용 핫픽스 요청
 * Touch UI의 받은 편지함 및 알림 배지에 대한 성능이 개선되었습니다. NPR-14145: CQ-101125용 핫픽스
 * 워크플로우를 시작하는 동안 워크플로우 받은 편지함 콘솔에서 페이로드를 미리 볼 수 없습니다. NPR-13226: CQ-100275용 핫픽스
-* SAML 인증 핸들러를 사용하여 구성된 &#39;saml_request_path&#39; 쿠키는 추가 항목으로 설정된 쿠키를 표시합니다 `?` 문자. 또한 SAML 응답이 AEM에 다시 게시되면 AEM &#39;saml_request_path&#39; 쿠키에서 이미 인코딩된 문자로 인해 잘못된 값을 반환합니다. NPR-13517: GRANITE-11722 및 GRANITE-14414에 대한 사전 예방 핫픽스
+* SAML 인증 핸들러를 사용하여 구성된 &#39;saml_request_path&#39; 쿠키는 추가 `?` 문자로 설정된 쿠키를 표시합니다. 또한 SAML 응답이 AEM에 다시 게시되면 AEM &#39;saml_request_path&#39; 쿠키에서 이미 인코딩된 문자로 인해 잘못된 값을 반환합니다. NPR-13517: GRANITE-11722 및 GRANITE-14414에 대한 사전 예방 핫픽스
 
 ### Dynamic Media {#dynamic-media}
 
@@ -2122,7 +2122,7 @@ NPR-13062: CQ-99577용 핫픽스 요청
 
 `**Forms Manager**`
 
-* 탐색하는 동안 *양식 및 문서* 디렉터리에서 사용자가 에셋을 복사한 후 다른 폴더로 이동하면 붙여넣기 단추가 표시되지 않습니다. CQ-111327
+* *FormtandDocuments* 디렉터리를 탐색하는 동안 사용자가 에셋을 복사한 다음 다른 폴더로 이동하면 붙여넣기 단추가 표시되지 않습니다. CQ-111327
 
 #### Forms JEE 설치 관리자 {#forms-jee-installer-19}
 
@@ -2270,7 +2270,7 @@ AEM 누적 수정 팩 6.2 SP1-CFP7 이상 릴리스를 사용하면 아래 세�
 
 CFP3 이상을 사용하는 경우, 다음 지침에 따라 클래식 UI의 태깅 콘솔에서 복제 상태를 비활성화합니다.
 
-* 오버레이 *&quot;/libs/cq/tagging/widgets/source/widgets/admin/TagAdmin.js&quot;* 위치: *`/apps`*
+* *`/apps`*&#x200B;의 오버레이 *&quot;/libs/cq/tagging/widgets/source/widgets/admin/TagAdmin.js&quot;*
 
 * #416 행 다음에 `replicationStateRequired`: &quot;false&quot;를 추가합니다.
 
@@ -2310,7 +2310,7 @@ name="com.adobe.livecycle">
 </module>
 ```
 
-1. 의 백업 만들기 `jsafeFIPS.jar`, `jsafeJCEFIPS.jar`, 및 `certjFIPS.jar` 파일 위치: [AEM_Forms_Installation_directory]`/jboss/modules/system/layers/base/com/adobe/livecycle/main/` 이전에 언급된 디렉토리에서 파일을 삭제합니다.
+1. [AEM_Forms_Installation_directory]`/jboss/modules/system/layers/base/com/adobe/livecycle/main/`에서 `jsafeFIPS.jar`, `jsafeJCEFIPS.jar` 및 `certjFIPS.jar` 파일의 백업을 만들고 이전에 언급된 디렉터리에서 파일을 삭제합니다.
 
 새 JAR 파일을 가져오기 위해 [Adobe 지원](https://experienceleague.adobe.com/?support-solution=General#support)에 문의하십시오. [Adobe 지원](https://experienceleague.adobe.com/?support-solution=General#support)([AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/)에서 가져온 JAR 파일을 배치합니다.
 
@@ -2346,7 +2346,7 @@ name="com.adobe.livecycle">
 
 1. 관리자 UI -> 서비스 -> 작업 공간 -> 전역 관리로 이동합니다.
 1. 전역 설정을 내보냅니다.
-1. 다운로드한 XML 파일에 태그를 추가합니다 `<client_tasksPollingInterval>10</client_tasksPollingInterval>`. 10은 예제 값(초)입니다. 그에 따라 수정할 수 있습니다.
+1. 다운로드한 XML 파일에 태그 `<client_tasksPollingInterval>10</client_tasksPollingInterval>`을(를) 추가합니다. 10은 예제 값(초)입니다. 그에 따라 수정할 수 있습니다.
 1. 파일을 저장합니다.
 1. 관리자 UI -> 서비스 -> 작업 공간 -> 전역 관리로 돌아갑니다.
 1. 전역 설정 가져오기 섹션에서 xml 파일을 가져옵니다.
@@ -2372,7 +2372,7 @@ AEM 6.2 SP1-CFPx를 설치할 때 다음과 같은 일시적인 오류가 발생
 그러나 업그레이드 후 AEM 인스턴스를 다시 시작하면 해결됩니다.
 
 * 웹 콘솔 구성 요소 세부 사항 페이지를 열면 HTTP 500 내부 서버 오류가 표시됩니다.
-* 다음과 같은 오류 **구성 요소 인스턴스 만들기** 및 **서비스 팩토리에서 null을 반환했습니다.** 저장소 다시 시작으로 인해 발생합니다.
+* 저장소 다시 시작으로 인해 **구성 요소 인스턴스 만들기** 및 **서비스 팩토리에서 null 반환**&#x200B;과 같은 오류가 발생합니다.
 
 * com.day.cq.cq-personalization [com.day.cq.personalization.impl.DefaultProfileProvider(938)] 참조 profileManager에 연결하지 못해서 구성 요소 인스턴스를 만들 수 없음
 * org.apache.sling.commons.scheduler FrameworkEvent ERROR (org.osgi.framework.ServiceException: 서비스 팩토리에서 null을 반환함. (Component: com.day.cq.tagging.impl.TagGarbageCollector (1687)))
