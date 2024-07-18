@@ -2,17 +2,17 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+source-git-commit: d65b79e8a568a0e2356930d25ec205b3548569a0
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 93%
+source-wordcount: '477'
+ht-degree: 99%
 
 ---
 
 
 # [!DNL Experience Manager] 릴리스 로드맵 {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager]은(는) 기존 기능에 대한 새로운 기능과 향상된 기능을 일관되게 제공합니다. [!DNL Cloud Service], Managed Services 및 온-프레미스 버전에서 사용자에 대한 버그 수정 기능을 제공합니다. 이 문서에서는 [!DNL Experience Manager]에 예정된 릴리스가 나열되어 있습니다.
+[!DNL Adobe Experience Manager]는 지속적으로 새로운 기능을 제공하고 기존 기능을 개선하고 있습니다. [!DNL Cloud Service], 관리형 서비스 및 온프레미스 버전의 사용자를 위해 버그 수정을 제공합니다. 이 문서에서는 [!DNL Experience Manager]에 예정된 릴리스가 나열되어 있습니다.
 
 >[!NOTE]
 >
@@ -37,13 +37,13 @@ ht-degree: 93%
 | 유지 보수 릴리스 [16544](https://experienceleague.adobe.com/kr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16544) | 자동 업데이트 | 2024년 6월 10~12일 | 업데이트됨 |
 | 유지 보수 릴리스 [16799](https://experienceleague.adobe.com/kr/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16799) | 자동 업데이트 | 2024년 6월 24~26일 | 업데이트됨 |
 | 기능 릴리스 [2024.6.0](https://experienceleague.adobe.com/kr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2024년 6월 27일 | 활성화됨 |
+| 유지 보수 릴리스 [16971](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | 자동 업데이트 | 2024년 7월 8~10일 | 업데이트됨 |
 
 ### 예정된 릴리스 {#upcoming}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 보수 릴리스 [16971](https://experienceleague.adobe.com/kr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2024년 7월 8~10일 | 대상 |
-| 유지 보수 릴리스 | 자동 업데이트 | 2024년 7월 22~24일 | 대상 |
+| 유지 보수 릴리스 [17098](https://experienceleague.adobe.com/kr/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2024년 7월 22~24일 | 대상 |
 | 기능 릴리스 2024.7.0 | 기능 활성화 | 2024년 7월 25일 | 대상 |
 | 유지 보수 릴리스 | 자동 업데이트 | 2024년 8월 5~7일 | 대상 |
 | 유지 보수 릴리스 | 자동 업데이트 | 2024년 8월 19~21일 | 대상 |
