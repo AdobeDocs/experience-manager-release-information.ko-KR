@@ -4,9 +4,9 @@ description: 이 문서에서는 전체 릴리스, 기능 팩 및 서비스 팩 
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '740'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 85%
 
 | 항목 | 설명 |
 |-----|-----|
-| 정의 | <ul> <li> 예약된 릴리스 </li> <li> 현재 롤백할 수 없습니다. </li> </ul> |
+| 정의 | <ul> <li> 예약된 릴리스 </li> <li> 현재 롤백할 수 없음 </li> </ul> |
 | 이름 지정 | <ul> <li> 패치 릴리스 번호는 한 자리 숫자입니다. </li> <li> 설치 후 X.Y.Z.SPx 공식을 기준으로 설치된 릴리스 번호 패치 숫자가 증가합니다 </li> </ul> 여기서 X는 기본 버전 번호이고 Y는 보조 버전 번호이며 Z는 패치 번호입니다. x는 서비스 팩 번호입니다. |
 | 포함 | <ul> <li> 새로운 기능</li> <li>  개선 사항 </li> <li> 버그 수정 </li> <li> 일반 관심 기능 팩(제공된 경우) </li> </ul> |
 | 설명서 | <ul> <li> 릴리스 정보는 설명서 포털에 있습니다. </li> <li> 설명서 포털의 기능, 개선 사항, 버그 수정 사항 설명서 </li> </ul> |
@@ -69,7 +69,7 @@ ht-degree: 85%
 
 | 항목 | 세부 사항 |
 |--------|-----|
-| 정의 | <ul> <li>기능 팩은 추가 기능이며 서비스 팩을 통해 제공됩니다. [!DNL Experience Manager] 버전에서 마지막 서비스 팩을 릴리스한 경우 Adobe은 향후 해당 기능에 대한 기능 팩을 제공하지 않습니다. </li> <li> 기능 팩에는 후속 제품 릴리스로 예정되어 있지만 [!DNL Adobe's] 제품 관리의 결정에 따라 일찍 제공된 제품 개선 사항이 포함됩니다.</li> <li>  기능은 항상 다음 주요 릴리스와 병합됩니다. 그런 다음 고객이 필요로 하는 [!DNL Experience Manager] 버전으로 포팅됩니다. </li> <li>  일반 관심 및 GA 기능 팩은 다음 서비스 팩에 병합됩니다.  </li> </ul> |
+| 정의 | <ul> <li>기능 팩은 추가 기능이며 서비스 팩을 통해 제공됩니다. [!DNL Experience Manager] 버전에서 마지막 서비스 팩을 릴리스한 경우 Adobe는 향후 해당 기능에 대한 기능 팩을 제공하지 않습니다. </li> <li> 기능 팩에는 후속 제품 릴리스로 예정되어 있지만 [!DNL Adobe's] 제품 관리의 결정에 따라 일찍 제공된 제품 개선 사항이 포함됩니다.</li> <li>  기능은 항상 다음 주요 릴리스와 병합됩니다. 그 후 고객 필요로 하는 [!DNL Experience Manager] 버전으로 포팅됩니다. </li> <li>  일반 관심 및 GA 기능 팩은 다음 서비스 팩에 병합됩니다.  </li> </ul> |
 | 이름 지정 | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | 포함 | <ul> <li> 새로운 기능 </li> <li> 개선 사항 </li> <li> 버그 수정(증분 제품 업데이트) </li> </ul> |
 | 설명서 | 설명서는 adobe.com에서 제공됩니다. |

@@ -3,9 +3,9 @@ title: Adobe Experience Manager 릴리스 업데이트 및 로드맵
 description: Adobe Experience Manager 릴리스 업데이트 및 로드맵에 대해 자세히 알아보십시오.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 

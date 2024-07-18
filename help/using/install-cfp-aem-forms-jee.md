@@ -1,12 +1,12 @@
 ---
 title: AEM Forms JEE에 누적 수정 팩 설치
-description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 단계에 대한 요약입니다.
+description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 단계의 요약입니다.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '905'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ AEM [!DNL  Forms JEE] 패키지(aemfd-jee-bundles-package-6.3CFP1, 버전 1.0.2)
 
 ### CQ-4208044에 대한 추가 지침 {#additional-instructions-for-cq}
 
-oracle 데이터베이스와 함께 AEM 6.3 [!DNL Forms JEE] 서버를 사용하는 경우, 구성 관리자를 실행한 후 CFP1을 배포하고 다음 설정을 구성합니다. 이 설정은 엔터프라이즈 도메인 동기화가 실행될 때 사용자, 그룹 및 그룹 멤버를 동기화하는 데 필요합니다.
+AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용할 경우, 구성 관리자를 실행한 후 CFP1을 배포하고 다음 설정을 구성합니다. 이 설정은 엔터프라이즈 도메인 동기화가 실행될 때 사용자, 그룹 및 그룹 멤버를 동기화하는 데 필요합니다.
 
 1. **관리** UI에 로그인합니다.
 1. **[!UICONTROL 설정]** > **[!UICONTROL 사용자 관리]** > **[!UICONTROL 구성]** > **[!UICONTROL 구성 파일 가져오기 및 내보내기]**&#x200B;로 이동합니다.
@@ -98,7 +98,7 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
    **Windows**
 
-   설치 미디어 또는 설치 관리자를 복사한 폴더로 이동합니다.
+   설치 관리자를 복사한 설치 미디어 또는 폴더로 이동합니다.
 
    * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`

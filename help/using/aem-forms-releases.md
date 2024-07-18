@@ -4,15 +4,15 @@ description: 모든 AEM Forms 릴리스 및 해당 패키지에 대해 알아봅
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3030'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 # AEM [!DNL Forms] 릴리스 {#aem-forms-releases}
 
-Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입니다. 엔터프라이즈 양식 및 문서를 위한 웹 및 모바일 경험을 향상시킵니다. 이 기능을 통해 조직은 복잡한 디지털 상호 작용을 완료하고 사용자 경험을 개선하며 비즈니스 범위를 확장할 수 있습니다. AEM 빠른 시작에 즉시 사용 가능한 AEM [!DNL Forms]가 포함되어 있지만 기능 세트에 제한이 있습니다. AEM [!DNL Forms] 추가 기능 패키지는 [!DNL Adobe Analytics], [!DNL Adobe Sign], 문서 서비스, 워크플로 엔진 등의 여러 기능과 통합하는 등 고급 기능을 제공합니다.
+Adobe Experience Manager [!DNL Forms]는 AEM에 배포된 애플리케이션입니다. 이는 엔터프라이즈 양식 및 문서의 웹 및 모바일 경험을 개선해 줍니다. 이 기능을 통해 조직에서는 복잡한 디지털 상호 작용을 수행하고 사용자 경험을 개선하며 비즈니스 범위를 확장할 수 있습니다. AEM 빠른 시작에 즉시 사용 가능한 AEM [!DNL Forms]가 포함되어 있지만 기능 세트에 제한이 있습니다. AEM [!DNL Forms] 추가 기능 패키지는 [!DNL Adobe Analytics], [!DNL Adobe Sign], 문서 서비스, 워크플로 엔진 등의 여러 기능과 통합하는 등 고급 기능을 제공합니다.
 
 >[!NOTE]
 >
@@ -654,7 +654,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
 
 `[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support)에 문의하십시오.
 
-`[2]` macOS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에는 PDF Generator 기능을 사용할 수 없습니다.
+`[2]` macOS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에서는 PDF Generator 기능을 사용할 수 없습니다.
 
 `[3]` 6.5.4.0용 AEM [!DNL Forms] 호환성 패키지는 6.5.3.0 릴리스와 동일하게 유지됩니다.
 
