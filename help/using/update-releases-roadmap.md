@@ -2,10 +2,10 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 8283fce635bbd46a877047ed4fd89bab5c18a180
-workflow-type: ht
-source-wordcount: '423'
-ht-degree: 100%
+source-git-commit: 554160056b91f09616c923fbd3d8244e3ea1b190
+workflow-type: tm+mt
+source-wordcount: '456'
+ht-degree: 90%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 제품 업데이트는 분기별 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)를 참조하십시오.
+[!DNL Experience Manager] 6.5 제품 업데이트는 서비스 팩을 통해 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)를 참조하십시오.
 
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|
@@ -63,6 +63,10 @@ ht-degree: 100%
 | [!DNL Experience Manager] 6.5 [서비스 팩 20](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | 서비스 팩 | 2024년 2월 22일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 21](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.21.0 | 서비스 팩 | 2024년 6월 6일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 서비스 팩 22 | 6.5.22.0 | 서비스 팩 | 2024년 11월 21일 | 대상 |
+
+>[!NOTE]
+>
+> 이제 AEM 6.5 서비스 팩의 릴리스 날짜는 이전과 같이 고정된 분기별 주기가 아니라 개별적으로 계획됩니다. 이 페이지에서 예정된 서비스 팩 릴리스에 대한 정보를 계속 받아 보십시오.
 
 >[!NOTE]
 >
