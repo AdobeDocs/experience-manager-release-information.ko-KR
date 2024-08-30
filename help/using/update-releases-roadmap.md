@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 90%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 제품 업데이트는 서비스 팩을 통해 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)를 참조하십시오.
+[!DNL Experience Manager] 6.5 제품 업데이트는 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)를 참조하십시오.
 
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
-> 이제 AEM 6.5 서비스 팩의 릴리스 날짜는 이전과 같이 고정된 분기별 주기가 아니라 개별적으로 계획됩니다. 이 페이지에서 예정된 서비스 팩 릴리스에 대한 정보를 계속 받아 보십시오.
+> AEM 6.5 서비스 팩의 출시 일자는 이제 이전과 같이 고정된 분기별 주기가 아니라 개별적으로 계획됩니다. 이 페이지에서 곧 출시될 서비스 팩에 대한 정보를 확인하십시오.
 
 >[!NOTE]
 >
