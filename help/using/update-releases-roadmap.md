@@ -2,10 +2,10 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
-workflow-type: ht
-source-wordcount: '458'
-ht-degree: 100%
+source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
+workflow-type: tm+mt
+source-wordcount: '459'
+ht-degree: 92%
 
 ---
 
@@ -66,7 +66,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
-> AEM 6.5 서비스 팩의 출시 일자는 이제 이전과 같이 고정된 분기별 주기가 아니라 개별적으로 계획됩니다. 이 페이지에서 곧 출시될 서비스 팩에 대한 정보를 확인하십시오.
+> AEM 6.5 서비스 팩의 릴리스 날짜는 이제 이전과 같이 고정된 분기별 주기가 아니라 개별적으로 계획되어 있습니다. 이 페이지에서 예정된 서비스 팩 릴리스에 대한 정보를 계속 받아 보십시오.
 
 >[!NOTE]
 >
