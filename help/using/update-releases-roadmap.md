@@ -2,10 +2,10 @@
 title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 139cdaab2d3d0a7d47809538501a92d13ba4dfdb
+source-git-commit: 449a49c2a13c7657d606aa7c0745f995cc09beb2
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 98%
+source-wordcount: '493'
+ht-degree: 94%
 
 ---
 
@@ -27,9 +27,6 @@ ht-degree: 98%
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 보수 릴리스 [16971](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | 자동 업데이트 | 2024년 7월 8~10일 | 업데이트됨 |
-| 유지 보수 릴리스 [17098](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-17098) | 자동 업데이트 | 2024년 7월 22~24일 | 업데이트됨 |
-| 기능 릴리스 [2024.7.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-7-0) | 기능 활성화 | 2024년 7월 25일 | 활성화됨 |
 | 유지 보수 릴리스 [17258](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17258) | 자동 업데이트 | 2024년 8월 5~7일 | 업데이트됨 |
 | 유지 보수 릴리스 [17465](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | 자동 업데이트 | 2024년 8월 19~21일 | 업데이트됨 |
 | 기능 릴리스 [2024.8.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-8-0) | 기능 활성화 | 2024년 8월 29일 | 활성화됨 |
@@ -47,7 +44,14 @@ ht-degree: 98%
 | 기능 릴리스 2024.10.0 | 기능 활성화 | 2024년 10월 31일 | 대상 |
 | 유지 보수 릴리스 | 자동 업데이트 | 2024년 11월 11~13일 | 대상 |
 | 기능 릴리스 2024.11.0 | 기능 활성화 | 2024년 11월 21일 | 대상 |
+| 유지 보수 릴리스 | 자동 업데이트 | 2024년 12월 9~11일 | 대상 |
 | 기능 릴리스 2024.12.0 | 기능 활성화 | 2024년 12월 12일 | 대상 |
+| 유지 보수 릴리스 | 자동 업데이트 | 2025년 1월 20~22일 | 대상 |
+| 기능 릴리스 2025.1.0 | 기능 활성화 | 2025년 1월 30일 금요일 | 대상 |
+| 유지 보수 릴리스 | 자동 업데이트 | 2025년 2월 3~5일 | 대상 |
+| 유지 보수 릴리스 | 자동 업데이트 | 2025년 2월 17~19일 | 대상 |
+| 기능 릴리스 2025.2.0 | 기능 활성화 | 2025년 2월 27일 금요일 | 대상 |
+| 유지 보수 릴리스 | 자동 업데이트 | 2025년 3월 3~5일 | 대상 |
 
 >[!CAUTION]
 >
