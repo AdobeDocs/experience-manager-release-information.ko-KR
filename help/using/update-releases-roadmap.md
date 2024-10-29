@@ -3,9 +3,9 @@ title: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 description: “[!DNL Adobe Experience Manager] 릴리스 로드맵”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 449a49c2a13c7657d606aa7c0745f995cc09beb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '493'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 95%
 [!DNL Experience Manager] as a [!DNL Cloud Service] 새로운 기능은 [월별 기능 활성화](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)를 통해 제공되는 반면, 개선 사항 및 버그 수정은 [유지 관리 릴리스](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)를 통해 매월 두 차례 제공됩니다.
 [!DNL Experience Manager] as a [!DNL Cloud Service]에 대해 예정된 릴리스는 다음과 같습니다.
 
-### 지난 [!DNL Cloud Service]개 릴리스 {#past}
+### 이전 [!DNL Cloud Service] 릴리스 {#past}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
@@ -47,10 +47,10 @@ ht-degree: 95%
 | 유지 관리 릴리스 | 자동 업데이트 | 2024년 12월 9~11일 | 대상 |
 | 기능 릴리스 2024.12.0 | 기능 활성화 | 2024년 12월 12일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 1월 20~22일 | 대상 |
-| 기능 릴리스 2025.1.0 | 기능 활성화 | 2025년 1월 30일 금요일 | 대상 |
+| 기능 릴리스 2025.1.0 | 기능 활성화 | 2025년 1월 30일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 2월 3~5일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 2월 17~19일 | 대상 |
-| 기능 릴리스 2025.2.0 | 기능 활성화 | 2025년 2월 27일 금요일 | 대상 |
+| 기능 릴리스 2025.2.0 | 기능 활성화 | 2025년 2월 27일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 3월 3~5일 | 대상 |
 
 >[!CAUTION]
