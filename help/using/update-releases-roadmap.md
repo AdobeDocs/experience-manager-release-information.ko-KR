@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: db8324576d462426bddec6a90cb67d03805ac478
+source-git-commit: 9bc7d082c4f68bd076dcbcb9c9ab9352e871a24a
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '451'
 ht-degree: 94%
 
 ---
@@ -27,9 +27,6 @@ ht-degree: 94%
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 관리 릴리스 [17569](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | 자동 업데이트 | 2024년 9월 2~4일 | 업데이트됨 |
-| 유지 관리 릴리스 [17689](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | 자동 업데이트 | 2024년 9월 16~18일 | 업데이트됨 |
-| 기능 릴리스 [2024.9.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-9-0) | 기능 활성화 | 2024년 9월 26일 | 활성화됨 |
 | 유지 관리 릴리스 [17964](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-17964) | 자동 업데이트 | 2024년 9월 30일 ~ 10월 2일 | 업데이트됨 |
 | 유지 관리 릴리스 [18175](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | 자동 업데이트 | 2024년 10월 14~16일 | 업데이트됨 |
 | 유지 관리 릴리스 [18311](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | 자동 업데이트 | 2024년 10월 28~30일 | 업데이트됨 |
@@ -49,7 +46,7 @@ ht-degree: 94%
 | 기능 릴리스 2025.2.0 | 기능 활성화 | 2025년 2월 27일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 3월 10~12일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 3월 24~26일 | 대상 |
-| 기능 릴리스 2025.3.0 | 기능 활성화 | 2025년 3월 27일 금요일 | 대상 |
+| 기능 릴리스 2025.3.0 | 기능 활성화 | 2025년 3월 27일 | 대상 |
 
 >[!CAUTION]
 >
@@ -73,8 +70,8 @@ ht-degree: 94%
 | [!DNL Experience Manager] 6.5 [서비스 팩 20](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | 서비스 팩 | 2024년 2월 22일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 21](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | 서비스 팩 | 2024년 6월 6일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 22](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | 서비스 팩 | 2024년 11월 21일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 서비스 팩 23 | 6.5.23.0 | 서비스 팩 | 2025년 5월 22일 금요일 | 대상 |
-| [!DNL Experience Manager] 6.5 서비스 팩 24 | 6.5.24.0 | 서비스 팩 | 2025년 11월 20일 금요일 | 대상 |
+| [!DNL Experience Manager] 6.5 서비스 팩 23 | 6.5.23.0 | 서비스 팩 | 2025년 5월 22일 | 대상 |
+| [!DNL Experience Manager] 6.5 서비스 팩 24 | 6.5.24.0 | 서비스 팩 | 2025년 11월 20일 | 대상 |
 
 >[!NOTE]
 >
