@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9bc7d082c4f68bd076dcbcb9c9ab9352e871a24a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '451'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 94%
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
-지원되는 [!DNL Experience Manager] 온-프레미스 및 Managed Services에 대한 새로운 기능, 개선 사항 및 버그 수정 사항 관련 제품 업데이트는 서비스 팩 및 CFP(누적 수정 팩)를 통해 제공됩니다. 릴리스를 자주 제공하여 제품 업데이트를 신속하게 적용할 수 있습니다. 예정된 제품 업데이트 릴리스의 일정은 다음과 같습니다.
+지원되는 [!DNL Experience Manager] On-Premise 및 Managed Services에 대한 새로운 기능, 개선 사항 및 버그 수정 사항 관련 제품 업데이트는 서비스 팩 및 CFP(누적 수정 팩)를 통해 제공됩니다. 릴리스를 자주 제공하여 제품 업데이트를 신속하게 적용할 수 있습니다. 예정된 제품 업데이트 릴리스의 일정은 다음과 같습니다.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
