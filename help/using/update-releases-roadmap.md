@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9bc7d082c4f68bd076dcbcb9c9ab9352e871a24a
-workflow-type: ht
-source-wordcount: '451'
-ht-degree: 100%
+source-git-commit: d333addbba29fa670297a433ee12f8c0464b66c0
+workflow-type: tm+mt
+source-wordcount: '453'
+ht-degree: 99%
 
 ---
 
@@ -31,14 +31,14 @@ ht-degree: 100%
 | 유지 관리 릴리스 [18175](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | 자동 업데이트 | 2024년 10월 14~16일 | 업데이트됨 |
 | 유지 관리 릴리스 [18311](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | 자동 업데이트 | 2024년 10월 28~30일 | 업데이트됨 |
 | 기능 릴리스 [2024.10.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) | 기능 활성화 | 2024년 10월 31일 | 활성화됨 |
-| 유지 관리 릴리스 [18598](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2024년 11월 11~13일 | 업데이트됨 |
+| 유지 관리 릴리스 [18598](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | 자동 업데이트 | 2024년 11월 11~13일 | 업데이트됨 |
 | 기능 릴리스 [2024.11.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2024년 11월 21일 | 활성화됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 관리 릴리스 | 자동 업데이트 | 2025년 1월 13~15일 | 대상 |
+| 유지 관리 릴리스 [18751](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2025년 1월 13~15일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 1월 27~29일 | 대상 |
 | 기능 릴리스 2025.1.0 | 기능 활성화 | 2025년 1월 30일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 2월 10~12일 | 대상 |
