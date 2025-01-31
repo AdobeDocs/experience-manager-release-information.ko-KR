@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: b946d05dc1d72f00f65ebf3033aca8679444da66
-workflow-type: ht
-source-wordcount: '445'
-ht-degree: 100%
+source-git-commit: 9a6a6d0cc435bfa28557af1d2e0b225b998f5c14
+workflow-type: tm+mt
+source-wordcount: '446'
+ht-degree: 99%
 
 ---
 
@@ -31,15 +31,15 @@ ht-degree: 100%
 | 유지 관리 릴리스 [18311](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | 자동 업데이트 | 2024년 10월 28~30일 | 업데이트됨 |
 | 기능 릴리스 [2024.10.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) | 기능 활성화 | 2024년 10월 31일 | 활성화됨 |
 | 유지 관리 릴리스 [18598](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | 자동 업데이트 | 2024년 11월 11~13일 | 업데이트됨 |
-| 기능 릴리스 [2024.11.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2024년 11월 21일 | 활성화됨 |
+| 기능 릴리스 [2024.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-11-0) | 기능 활성화 | 2024년 11월 21일 | 활성화됨 |
 | 유지 관리 릴리스 [18751](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0) | 자동 업데이트 | 2025년 1월 13~15일 | 활성화됨 |
+| 유지 관리 릴리스 [19149](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2025년 1월 27~29일 | 업데이트됨 |
+| 기능 릴리스 [2025.1.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2025년 1월 30일 | 활성화됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 관리 릴리스 [19149](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2025년 1월 27~29일 | 대상 |
-| 기능 릴리스 2025.1.0 | 기능 활성화 | 2025년 1월 30일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 2월 10~12일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 2월 24~26일 | 대상 |
 | 기능 릴리스 2025.2.0 | 기능 활성화 | 2025년 2월 27일 | 대상 |
