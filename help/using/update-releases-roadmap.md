@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c7dfe54cbb913afbf09ea38b9dcdeb9345362b8e
+source-git-commit: 11ecba7047019b1d4508bfb0926f7d0f7c526dcc
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 99%
+source-wordcount: '442'
+ht-degree: 96%
 
 ---
 
@@ -44,17 +44,12 @@ ht-degree: 99%
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 2월 24~26일 | 대상 |
 | 기능 릴리스 2025.2.0 | 기능 활성화 | 2025년 2월 27일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 3월 10~12일 | 대상 |
-| 유지 관리 릴리스 | 자동 업데이트 | 2025년 3월 24~26일 | 대상 |
 | 기능 릴리스 2025.3.0 | 기능 활성화 | 2025년 3월 27일 | 대상 |
-
->[!CAUTION]
->
->**계획된 유지 관리 제외 기간**
->
-> 다음 일정 동안에는 자동 AEMaaCS 유지 관리가 실행되지 않으며, 시작 및 종료 시간 기준은 자정(00:00)(CET)입니다.
->
->* 2024년 11월 25일 월요일부터 2024년 12월 3일 화요일까지.
->* 2024년 12월 16일 월요일부터 2025년 1월 3일 금요일까지.
+| 유지 관리 릴리스 | 자동 업데이트 | 2025년 3월 31일 - 4월 2일 | 대상 |
+| 유지 관리 릴리스 | 자동 업데이트 | 2025년 4월 14~16일 | 대상 |
+| 기능 릴리스 2025.4.0 | 기능 활성화 | 2025년 4월 24일 금요일 | 대상 |
+| 유지 관리 릴리스 | 자동 업데이트 | 2025년 4월 28~30일 | 대상 |
+| 유지 관리 릴리스 | 자동 업데이트 | 2025년 5월 12~14일 | 대상 |
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
