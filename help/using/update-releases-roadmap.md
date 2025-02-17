@@ -32,8 +32,8 @@ ht-degree: 96%
 | 기능 릴리스 [2024.10.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) | 기능 활성화 | 2024년 10월 31일 | 활성화됨 |
 | 유지 관리 릴리스 [18598](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | 자동 업데이트 | 2024년 11월 11~13일 | 업데이트됨 |
 | 기능 릴리스 [2024.11.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-11-0) | 기능 활성화 | 2024년 11월 21일 | 활성화됨 |
-| 유지 관리 릴리스 [18751](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | 자동 업데이트 | 2025년 1월 13~15일 | 활성화됨 |
-| 유지 관리 릴리스 [19149](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | 자동 업데이트 | 2025년 1월 27~29일 | 업데이트됨 |
+| 유지 관리 릴리스 [18751](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | 자동 업데이트 | 2025년 1월 13~15일 | 활성화됨 |
+| 유지 관리 릴리스 [19149](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | 자동 업데이트 | 2025년 1월 27~29일 | 업데이트됨 |
 | 기능 릴리스 [2025.1.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2025년 1월 30일 | 활성화됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
