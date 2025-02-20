@@ -1,11 +1,12 @@
 ---
 title: 이전 버전의 AEM, CQ 및 CRX 설명서 다운로드
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지를 다운로드합니다.
+recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: b599547324e6c750050801ee64b9602d5068e4ef
-workflow-type: ht
-source-wordcount: '571'
-ht-degree: 100%
+source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -62,7 +63,7 @@ Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내
 
 ### 설명서 패키지 다운로드 {#download-documentation-package}
 
-1. 위의 표에서 다운로드할 [!DNL Experience Manager] 문서 버전에 대한 링크를 선택하십시오. 예: AEM 5.6.1.
+1. 위의 테이블에서 다운로드할 [!DNL Experience Manager] 문서 버전에 대한 링크를 선택하십시오. 예: AEM 5.6.1.
 
 1. Adobe ID를 사용하여 로그인합니다. ID가 없는 경우 ID를 만드십시오.
 
