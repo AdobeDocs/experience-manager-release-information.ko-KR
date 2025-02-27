@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 753ed2e44a1af21917f28c0ef33c478346e9d1f4
 workflow-type: tm+mt
 source-wordcount: '439'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 99%
 | 유지 관리 릴리스 [18751](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | 자동 업데이트 | 2025년 1월 13~15일 | 활성화됨 |
 | 유지 관리 릴리스 [19149](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | 자동 업데이트 | 2025년 1월 27~29일 | 업데이트됨 |
 | 기능 릴리스 [2025.1.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2025년 1월 30일 | 활성화됨 |
-| 유지 관리 릴리스 [19352](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | 자동 업데이트 | 2025년 2월 10~12일 | 업데이트됨 |
+| 유지 관리 릴리스 [19352](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | 자동 업데이트 | 2025년 2월 10~12일 | 업데이트됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
 
