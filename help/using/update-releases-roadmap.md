@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 2ec3c4f14009d804a6a935ae310705be6a547f59
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -45,11 +45,11 @@ ht-degree: 96%
 | 기능 릴리스 2025.4.0 | 기능 활성화 | 2025년 4월 24일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 5월 5~7일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 5월 19~21일 | 대상 |
-| 기능 릴리스 2025.5.0 | 기능 활성화 | 2025년 5월 29일 금요일 | 대상 |
+| 기능 릴리스 2025.5.0 | 기능 활성화 | 2025년 5월 29일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 6월 2~4일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 6월 16~18일 | 대상 |
-| 기능 릴리스 2025.6.0 | 기능 활성화 | 2025년 6월 26일 금요일 | 대상 |
-| 유지 관리 릴리스 | 자동 업데이트 | 2025년 6월 30일 - 7월 2일 | 대상 |
+| 기능 릴리스 2025.6.0 | 기능 활성화 | 2025년 6월 26일 | 대상 |
+| 유지 관리 릴리스 | 자동 업데이트 | 2025년 6월 30일 ~ 7월 2일 | 대상 |
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
