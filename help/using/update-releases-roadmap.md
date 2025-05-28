@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 15c9a8197e64ecc50fcaed8a699a94d8871a34bd
 workflow-type: tm+mt
 source-wordcount: '478'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 94%
 
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS 서비스 팩 1 | 6.5.LTS.SP1 | 서비스 팩 | 2025년 8월 21일 금요일 | 대상 |
+| [!DNL Experience Manager] 6.5 LTS 서비스 팩 1 | 6.5.LTS.SP1 | 서비스 팩 | 2025년 8월 21일 | 대상 |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
