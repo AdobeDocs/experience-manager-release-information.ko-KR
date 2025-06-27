@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 74d7cfd5a5a79ac972af6fad5072008c528ffc1e
+source-git-commit: 369ad7b4ce43da450e61b9c5042a724ec228b28b
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '494'
 ht-degree: 99%
 
 ---
@@ -32,14 +32,14 @@ ht-degree: 99%
 | 기능 릴리스 [2025.4.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-4-0) | 기능 활성화 | 2025년 4월 24일 | 활성화됨 |
 | 유지 관리 릴리스 [20626](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | 자동 업데이트 | 2025년 5월 5~7일 | 업데이트됨 |
 | 유지 관리 릴리스 [21005](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#21005) | 자동 업데이트 | 2025년 6월 2~4일 | 업데이트됨 |
-| 기능 릴리스 [2025.5.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2025년 6월 5일 | 활성화됨 |
+| 기능 릴리스 [2025.5.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-5-0) | 기능 활성화 | 2025년 6월 5일 | 활성화됨 |
 | 유지 관리 릴리스 [21193](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | 자동 업데이트 | 2025년 6월 16~18일 | 업데이트됨 |
+| 기능 릴리스 [2025.6.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2025년 6월 26일 | 활성화됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 기능 릴리스 2025.6.0 | 기능 활성화 | 2025년 6월 26일 | 대상 |
 | 유지 관리 릴리스 [21331](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2025년 6월 30일 ~ 7월 2일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 7월 14~16일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 7월 28~30일 | 대상 |
