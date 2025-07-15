@@ -4,8 +4,8 @@ description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: a152ca4fb490c626edeb18ec2a69b5e48c703216
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
