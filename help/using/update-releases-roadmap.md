@@ -35,7 +35,7 @@ ht-degree: 99%
 | 유지 관리 릴리스 [21193](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | 자동 업데이트 | 2025년 6월 16~18일 | 업데이트됨 |
 | 기능 릴리스 [2025.6.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2025년 6월 26일 | 활성화됨 |
 | 유지 관리 릴리스 [21331](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | 자동 업데이트 | 2025년 6월 30일 ~ 7월 2일 | 업데이트됨 |
-| 유지 관리 릴리스 [21484](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21484) | 자동 업데이트 | 2025년 7월 10일 금요일 | 업데이트됨 |
+| 유지 관리 릴리스 [21484](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21484) | 자동 업데이트 | 2025년 7월 10일 금요일 | 업데이트됨 |
 | 유지 관리 릴리스 [21570](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2025년 7월 15일 수요일 | 업데이트됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
@@ -43,7 +43,7 @@ ht-degree: 99%
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 7월 28~30일 | 대상 |
-| 기능 릴리스 2025.7.0 | 기능 활성화 | 2025년 8월 7일 금요일 | 대상 |
+| 기능 릴리스 2025.7.0 | 기능 활성화 | 2025년 8월 7일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 8월 11~13일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2025년 8월 25~27일 | 대상 |
 | 기능 릴리스 2025.8.0 | 기능 활성화 | 2025년 8월 28일 | 대상 |
