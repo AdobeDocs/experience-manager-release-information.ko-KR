@@ -3,10 +3,10 @@ title: AEM Forms JEE에 누적 수정 팩 설치
 description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 단계의 요약입니다.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '905'
-ht-degree: 100%
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+workflow-type: tm+mt
+source-wordcount: '904'
+ht-degree: 97%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 AEM 6.3 [!DNL Forms JEE]에 누적 수정 팩을 설치하려면 다음 일련의 단계를 수행하십시오.
 
-1. CFP에 대한 AEM 6.3 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&amp;support-tab=home#support)에 문의하십시오.
+1. CFP에 대한 AEM 6.3 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
 1. [AEM 설치 및 구성 [!DNL Forms JEE]](#install-and-configure-aem-forms-jee)의 설명에 따라 CFP 설치 관리자를 실행하고 AEM [!DNL Forms JEE]를 구성하십시오.
 1. 최신 AEM CFP 6.3.3.x 설치
 1. AEM CFP [6.3.3.x](aem-forms-releases.md)용 [!DNL Forms] 추가 기능 패키지 설치
@@ -42,7 +42,7 @@ AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용할
 
 AEM 6.2 [!DNL Forms JEE]에 누적 수정 팩을 설치하려면 다음 일련의 단계를 수행하십시오.
 
-1. CFP에 대한 AEM 6.2 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&amp;support-tab=home#support)에 문의하십시오.
+1. CFP에 대한 AEM 6.2 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
 1. [AEM 설치 및 구성 [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee)의 설명에 따라 CFP 설치 관리자를 실행하고 AEM [!DNL Forms JEE]를 구성하십시오.
 1. AEM 핫픽스 12785 버전 7.0을 설치합니다.
 1. AEM 6.2 서비스 팩 1을 설치합니다.
@@ -59,7 +59,7 @@ AEM Forms JEE 패키지(aemfd-jee-bundles-package-6.2CFP5, 버전 1.0.2)에서�
 >
 >AEM 6.2 CFP4 이후 버전에서 업그레이드 프로세스 중 시간 초과로 인해 문제가 발생하는 경우에는 다음 지침에 따라 DSC 작업에 대한 시간 제한을 구성할 수 있습니다.
 
-DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니다. 설치, 로드, 시작, 중지 등의 DSC 작업에 대한 시간 제한을 변경하려면 -D 옵션과 함께 JVM 인수를 사용하여 `adobe.component.registry.timeout`을 설정해야 합니다.
+DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니다. 설치, 로드, 시작, 중지 등 DSC 작업의 시간 제한을 변경하려면 `adobe.component.registry.timeout` 옵션과 함께 JVM 인수를 사용하여 `-D`을(를) 설정해야 합니다.
 
 키 값을 초 단위로 지정합니다. 예를 들어`-Dadobe.component.registry.timeout=300`
 

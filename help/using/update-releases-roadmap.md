@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: a72bc8ba4664a662e2cf3f6e791b8faba7dca103
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 99%
+source-wordcount: '494'
+ht-degree: 95%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 99%
 | 유지 관리 릴리스 [21193](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | 자동 업데이트 | 2025년 6월 16~18일 | 업데이트됨 |
 | 기능 릴리스 [2025.6.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2025년 6월 26일 | 활성화됨 |
 | 유지 관리 릴리스 [21331](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | 자동 업데이트 | 2025년 6월 30일 ~ 7월 2일 | 업데이트됨 |
-| 유지 관리 릴리스 [21484](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21484) | 자동 업데이트 | 2025년 7월 10일 금요일 | 업데이트됨 |
+| 유지 관리 릴리스 [21484](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21484) | 자동 업데이트 | 2025년 7월 10일 금요일 | 업데이트됨 |
 | 유지 관리 릴리스 [21570](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2025년 7월 15일 수요일 | 업데이트됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
@@ -58,7 +58,7 @@ ht-degree: 99%
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
-[!DNL Experience Manager] 6.5 LTS 제품 업데이트는 서비스 팩을 통해 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 LTS 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes)를 참조하십시오.
+[!DNL Experience Manager] 6.5 LTS 제품 업데이트는 서비스 팩을 통해 제공됩니다. 이러한 서비스 팩에는 새로운 기능, 개선 사항 및 버그 수정 사항이 포함되어 있습니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 LTS 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes)를 참조하십시오.
 
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ ht-degree: 99%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 제품 업데이트는 서비스 팩으로 제공됩니다. 여기에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)를 참조하십시오.
+[!DNL Experience Manager] 6.5 제품 업데이트는 서비스 팩으로 제공됩니다. 이러한 서비스 팩에는 새로운 기능, 개선 사항 및 버그 수정 사항이 포함되어 있습니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)를 참조하십시오.
 
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|

@@ -3,10 +3,10 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지에 대해 알아봅니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: f513fedfecacd16322791ed90cc056cdf23b0eb9
-workflow-type: ht
-source-wordcount: '3377'
-ht-degree: 100%
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+workflow-type: tm+mt
+source-wordcount: '3323'
+ht-degree: 99%
 
 ---
 
@@ -40,7 +40,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   </tr>
     <tr>
-    <td> 2025년 6월 6일</td>
+    <td>2025년 6월 6일 토요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.23.0용 AEM 6.5 Forms 서비스 팩 23 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.23.0</a></td>
     <td>
@@ -76,7 +76,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 전체 설치 관리자: 6-5-0-20250606-1-12345 <br/><p>AEM Forms JEE 패치 설치 관리자: 6-5-0-0100 <br/><p>AEM Forms 패키지 추가 기능: 6.0.1360 <br/></p></td>
    </tr>
    <tr>
-    <td>2025년 3월 7일</td>
+    <td>2025년 3월 7일 토요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
     <td>
@@ -84,14 +84,14 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
      <br><b>OSGi 전체 설치 관리자의 AEM Forms 6.5 LTS</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-linux-pkg-6.1.152.zip">Linux®용 AEM Forms 6.5 LTS 추가 기능</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-win-pkg-6.1.152.zip">Windows용 AEM Forms 6.5 LTS 추가 기능</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">mac OSX용 AEM Forms 6.5 LTS 추가 기능</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">macOS X용 AEM Forms 6.5 LTS 추가 기능</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">AEM Forms 6.5 LTS 호환성 패키지</a></li>
       </ul> 
       </td>
     <td><p>AEM Forms 6.5 LTS 패키지 추가 기능: 6.1.152 <br/></p><p>AEM Forms 6.5 LTS 호환성 패키지: 2.1.2 </td>
    </tr>
   <tr>
-    <td>2024년 11월 29일</td>
+    <td>2024년 11월 29일 토요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.22.0용 AEM 6.5 Forms 서비스 팩 22 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.22.0</a></td>
     <td>
@@ -121,7 +121,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 패치 설치 관리자: 6.5.0-0093 <br/><p>AEM Forms 패키지 추가 기능: 6.0.1328 <br/></p><p>AEM Forms 호환성 패키지: 2.0.50 </td>
    </tr>
   <tr>
-    <td>2024년 6월 13일</td>
+    <td>2024년 6월 13일 금요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.21.0용 AEM 6.5 Forms 서비스 팩 21 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.21.0</a></td>
     <td>
@@ -150,7 +150,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 패치 설치 관리자: 6.5.0-0087 <br/><p>AEM Forms 패키지 추가 기능: 6.0.1244 </p></td>
    </tr>
   <tr>
-    <td>2024년 3월 8일</td>
+    <td>2024년 3월 8일 토요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.20.0용 AEM 6.5 Forms 서비스 팩 20 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.20.0</a></td>
     <td>
@@ -187,7 +187,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 패치 설치 관리자: 6-5-0-0083 <br/><p>AEM Forms 패키지 추가 기능: 6.0.1192 </p></td>
    </tr>
   <tr>
-    <td>2023년 12월 15일</td>
+    <td>2023년 12월 15일 토요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes#forms-6519"> (JEE의 AEM Forms만 해당) AEM 6.5 Forms 서비스 팩 19.1 (6.5.19.1)</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.19.0</a></td>
     <td>
@@ -203,7 +203,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 패치 설치 관리자: aemforms-6-5-0-0079 <br/></td>
    </tr>
   <tr>
-    <td>2023년 12월 8일</td>
+    <td>2023년 12월 8일 토요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes#forms-6519">AEM 6.5.19.0용 AEM 6.5 Forms 서비스 팩 19 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.19.0</a></td>
     <td>
@@ -280,7 +280,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     6-5-0-20230913-1-12345 <br/><p>AEM Forms JEE 패치 설치 관리자: aemforms-6-5-0-0069<br/><p>AEM Forms 패키지 추가 기능: 6.5.18.0 </p></td>
    </tr>
    <tr>
-    <td>2023년 6월 1일</td>
+    <td>2023년 6월 1일 금요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes#forms-6517">AEM 6.5.17.0용 AEM 6.5 Forms 서비스 팩 17 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.17.0</a></td>
     <td>
@@ -344,7 +344,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0062<br/><p>AEM Forms 패키지 추가 기능: 6.0.914</p></td>
    </tr>
    <tr>
-    <td>2022년 12월 1일</td>
+    <td>2022년 12월 1일 금요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-15#forms-6515">AEM 6.5.15.0용 AEM 6.5 Forms 서비스 팩 15 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-15">AEM 6.5.15.0</a></td>
     <td>
@@ -376,7 +376,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0057<br /> <p>AEM Forms 패키지 추가 기능: 6.0.856</p></td>
    </tr>
    <tr>
-    <td>2022년 9월 5일</td>
+    <td>2022년 9월 5일 화요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-14#forms-6514">AEM 6.5.14.0용 AEM 6.5 Forms 서비스 팩 14 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-14">AEM 6.5.14.0</a></td>
     <td>
@@ -468,7 +468,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0040<br /> <p>AEM Forms 패키지 추가 기능: 6.0.640</p></td>
    </tr>
    <tr>
-    <td>2021년 12월 20일</td>
+    <td>2021년 12월 20일 화요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">AEM 6.5.11.1용 AEM 6.5 Forms 서비스 팩 11 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-11">AEM 6.5.11.0</a></td>
     <td>
@@ -489,7 +489,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0038<br /> <p>AEM Forms 패키지 추가 기능: 6.0.566-NPR-37836-B0001</p></td>
    </tr>
    <tr>
-    <td>2021년 12월 3일</td>
+    <td>2021년 12월 3일 토요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-11#forms-65110">AEM 6.5.11.0용 AEM 6.5 Forms 서비스 팩 11 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-11">AEM 6.5.11.0</a></td>
     <td>
@@ -515,7 +515,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
    <tr>
-    <td>2021년 9월 2일</td>
+    <td>2021년 9월 2일 금요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-10#forms-65100">AEM 6.5.10.0용 AEM 6.5 Forms 서비스 팩 10 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-10">AEM 6.5.10.0</a></td>
     <td>
@@ -542,7 +542,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0032<br /> </p> AEM Forms 패키지 추가 기능: 6.0.490</p> <p>클라이언트 SDK: 6.0.490<br /> </p><p>AEM Forms 호환성 패키지: 2.0.40</p><p>AEM Forms Designer 패치: 650.017</p><p>JEE의 AEM Forms 임베드 패키지: 5.0.18</p></td>
    </tr>
    <tr>
-    <td>2021년 6월 3일</td>
+    <td>2021년 6월 3일 금요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-9#forms-6590">AEM 6.5.9.0용 AEM 6.5 Forms 서비스 팩 9 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-9">AEM 6.5.9.0</a></td>
     <td>
@@ -568,7 +568,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0028<br /> </p> AEM Forms 패키지 추가 기능: 6.0.434</p> <p>클라이언트 SDK: 6.0.434<br /> </p><p>AEM Forms Workbench: 6.5.0.20210524.1.938669</p><p>JEE의 AEM Forms 임베드 패키지: 5.0.14</p></td>
    </tr>
    <tr>
-    <td>2021년 3월 18일</td>
+    <td>2021년 3월 18일 금요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-8#forms-6580">AEM 6.5.8.0용 AEM 6.5 Forms 서비스 팩 8 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-8">AEM 6.5.8.0</a></td>
     <td>
@@ -595,7 +595,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
    <tr>
    <tr>
-    <td>2020년 12월 3일</td>
+    <td>2020년 12월 3일 금요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-7#forms-6570">AEM 6.5.7.0용 AEM 6.5 Forms 서비스 팩 7 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-7">AEM 6.5.7.0</a></td>
     <td>
@@ -621,7 +621,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 설치 관리자: AEMForms-6.5.0-0020<br /> </p> AEM Forms 패키지 추가 기능: 6.0.234</p> <p>AEM Forms 호환성 패키지: 2.0.32</p><p>클라이언트 SDK: 6.0.234<br /> </p></td>
    </tr>
    <tr>
-    <td>2020년 9월 3일</td>
+    <td>2020년 9월 3일 금요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-6#forms-6560">AEM 6.5.6.0용 AEM 6.5 Forms 서비스 팩 6 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-6">AEM 6.5.6.0</a></td>
     <td>
@@ -635,7 +635,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 설치 관리자: 6.5.0-0018<br /> </p> AEM Forms 패키지 추가 기능: 6.0.192</p> <p>클라이언트 SDK: 6.0.192<br /> </p> <p>AEM Forms Designer 패치: 650.012<br /> </p> </td>
    </tr>
    <tr>
-    <td>2020년 6월 4일</td>
+    <td>2020년 6월 4일 금요일</td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-5#forms-6550">AEM 6.5.5.0용 AEM 6.5 Forms 서비스 팩 5 Forms 추가 기능 패키지</a></td>
     <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-5">AEM 6.5.5.0</a></td>
     <td>
@@ -733,7 +733,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&support-tab=home#support)에 문의하십시오.
+`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
 
 `[2]` macOS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에서는 PDF Generator 기능을 사용할 수 없습니다.
 

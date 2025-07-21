@@ -3,10 +3,10 @@ title: 이전 설명서 업데이트
 description: ' [!DNL Adobe Experience Manager]에 대한 이전 중요 설명서 변경 사항 및 업데이트에 대해 자세히 알아봅니다.'
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
-workflow-type: ht
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 10월 18일<br /> </td> 
    <td>헤드리스 환경 관리<br /> </td> 
-   <td>단일 페이지 애플리케이션의 서버측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
+   <td>단일 페이지 애플리케이션의 서버측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 10월 11일</td> 
@@ -81,7 +81,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 9월 25일</td> 
    <td>코어 구성 요소</td> 
-   <td>임베드 구성 요소를 도입하는 코어 구성 요소 릴리스 2.7.0은 이제 <a href="https://github.com/adobe/aem-core-wcm-components">GitHub에서 사용 가능한 개발자 세부 사항 및 프로젝트 다운로드</a>와 함께 사용할 수 있습니다.</td> 
+   <td>'임베디드 구성 요소'를 도입하는 코어 구성 요소 릴리스 2.7.0은 이제 GitHub에서 사용 가능한 <a href="https://github.com/adobe/aem-core-wcm-components">개발자 세부 사항 및 프로젝트 다운로드</a>와 함께 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 9월 25일</td> 
@@ -171,7 +171,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 6월 3일</td> 
    <td>리치 텍스트 편집기 (RTE)<br /> </td> 
-   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">다중 필드 구성 요소</a>에 패키지를 추가했습니다.<br /> </p> <p>고객 피드백을 기반으로 <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">문제 해결 FAQ</a>를 만들었습니다.</p> </td> 
+   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">만든 다중 필드 구성 요소</a>에 패키지를 추가했습니다.<br /> </p> <p>고객 피드백을 기반으로 <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">문제 해결 FAQ</a>를 만들었습니다.</p> </td> 
   </tr>
   <tr>
    <td>2019년 5월 31일</td> 
