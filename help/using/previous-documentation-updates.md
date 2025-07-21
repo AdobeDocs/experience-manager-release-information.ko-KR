@@ -51,7 +51,7 @@ ht-degree: 97%
   <tr>
    <td>2019년 10월 18일<br /> </td> 
    <td>헤드리스 환경 관리<br /> </td> 
-   <td>단일 페이지 애플리케이션의 서버측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
+   <td>단일 페이지 애플리케이션의 서버측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 10월 11일</td> 
