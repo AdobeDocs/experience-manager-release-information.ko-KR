@@ -10,7 +10,7 @@ ht-degree: 97%
 
 ---
 
-# AEM[!DNL  Forms] JEE에 누적 수정 팩 설치{#installing-cumulative-fix-packs-on-aem-forms-jee}
+# AEM[!DNL &#x200B; Forms] JEE에 누적 수정 팩 설치{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## AEM 6.3 [!DNL Forms JEE]에 CFP 설치 {#install-cfp-forms-6-3}
 
@@ -23,7 +23,7 @@ AEM 6.3 [!DNL Forms JEE]에 누적 수정 팩을 설치하려면 다음 일련�
 
 ### AEM [!DNL Forms JEE] 번들 패키지 설치 {#install-aem-forms-jee-bundles-package}
 
-AEM [!DNL  Forms JEE] 패키지(aemfd-jee-bundles-package-6.3CFP1, 버전 1.0.2)에서는 AEM [!DNL Forms JEE]의 [!DNL Forms] 사용자에게 AEM [!DNL Forms OSGi]의 사용자와 동일한 권한 및 기능을 제공합니다. 패키지 관리자에서 설치된 패키지를 확인하고 아직 설치하지 않은 경우 패키지를 설치합니다.
+AEM [!DNL &#x200B; Forms JEE] 패키지(aemfd-jee-bundles-package-6.3CFP1, 버전 1.0.2)에서는 AEM [!DNL Forms JEE]의 [!DNL Forms] 사용자에게 AEM [!DNL Forms OSGi]의 사용자와 동일한 권한 및 기능을 제공합니다. 패키지 관리자에서 설치된 패키지를 확인하고 아직 설치하지 않은 경우 패키지를 설치합니다.
 
 ### CQ-4208044에 대한 추가 지침 {#additional-instructions-for-cq}
 
@@ -38,7 +38,7 @@ AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용할
 
 1. 수정된 파일을 다시 가져온 다음 동기화를 다시 실행합니다.
 
-## AEM 6.2 [!DNL  Forms JEE]에 CFP 설치 {#install-cfp-on-aem-62-forms-jee}
+## AEM 6.2 [!DNL &#x200B; Forms JEE]에 CFP 설치 {#install-cfp-on-aem-62-forms-jee}
 
 AEM 6.2 [!DNL Forms JEE]에 누적 수정 팩을 설치하려면 다음 일련의 단계를 수행하십시오.
 
