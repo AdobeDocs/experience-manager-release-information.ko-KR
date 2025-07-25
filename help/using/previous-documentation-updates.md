@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Experience Manager]에 대한 이전 중요 설명서
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1172'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -50,13 +50,13 @@ ht-degree: 97%
   </tr>
   <tr>
    <td>2019년 10월 18일<br /> </td> 
-   <td>헤드리스 환경 관리<br /> </td> 
+   <td>Headless 경험 관리<br /> </td> 
    <td>단일 페이지 애플리케이션의 서버측 렌더링에 사용되는 <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">원격 콘텐츠 렌더러</a>의 기능이 문서로 만들어졌습니다.<br /> </td> 
   </tr>
   <tr>
    <td>2019년 10월 11일</td> 
    <td>Activity Map</td> 
-   <td><p>Adobe Analytics API의 보안 변경 사항으로 인해, AEM 내에 포함된 Activity Map 버전을 더는 사용할 수 없습니다. 이제 <a href="https://experienceleague.adobe.com/ko/docs/analytics/analyze/activity-map/overlay/launch" target="_blank">Adobe Analytics에서 제공한 Activity Map 플러그인</a>을 사용해야 합니다. </p> </td> 
+   <td><p>Adobe Analytics API의 보안 변경 사항으로 인해 AEM 내에 포함된 Activity Map 버전을 더는 사용할 수 없습니다. 이제 <a href="https://experienceleague.adobe.com/ko/docs/analytics/analyze/activity-map/overlay/launch" target="_blank">Adobe Analytics에서 제공한 Activity Map 플러그인</a>을 사용해야 합니다. </p> </td> 
   </tr>
   <tr>
    <td>2019년 10월 10일</td> 
@@ -76,12 +76,12 @@ ht-degree: 97%
   <tr>
    <td>2019년 10월 1일 </td> 
    <td>AEM Screens 프로젝트에 대한 모범 사례 안내서</td> 
-   <td><p>이 새로운 안내서는 디지털 사이니지 구현에 의도적인 고객 경험을 상상하고, 설계하고, 도입하기 위한 포괄적인 인사이트와 실용적인 조언을 제공합니다. 또한 AEM Screens에서 디지털 사이니지 프로젝트를 배포할 때 따르게 되는 몇 가지 모범 사례를 사용하여 비즈니스에 긍정적인 영향을 미치는 방법을 안내합니다.</p> <p>자세한 내용은 <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-screens/using/about-guide">AEM Screens 프로젝트 우수 사례 안내서</a>를 확인하십시오.</p> </td> 
+   <td><p>이 새로운 안내서는 디지털 사이니지 구현에 의도적인 고객 경험을 상상하고, 설계하고, 도입하기 위한 포괄적인 인사이트와 실용적인 조언을 제공합니다. 또한 AEM Screens에서 디지털 사이니지 프로젝트를 배포할 때 따르게 되는 몇 가지 모범 사례를 사용하여 비즈니스에 긍정적인 영향을 미치는 방법을 안내합니다.</p> <p>자세한 내용은 <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-screens/using/about-guide">AEM Screens 프로젝트 모범 사례 안내서</a>를 확인하십시오.</p> </td> 
   </tr>
   <tr>
    <td>2019년 9월 25일</td> 
    <td>코어 구성 요소</td> 
-   <td>'임베디드 구성 요소'를 도입하는 코어 구성 요소 릴리스 2.7.0은 이제 GitHub에서 사용 가능한 <a href="https://github.com/adobe/aem-core-wcm-components">개발자 세부 사항 및 프로젝트 다운로드</a>와 함께 사용할 수 있습니다.</td> 
+   <td>`임베드 구성 요소`를 도입하는 코어 구성 요소 릴리스 2.7.0은 이제 <a href="https://github.com/adobe/aem-core-wcm-components">GitHub에서 사용 가능한 개발자 세부 사항 및 프로젝트 다운로드</a>와 함께 사용할 수 있습니다.</td> 
   </tr>
   <tr>
    <td>2019년 9월 25일</td> 
@@ -171,7 +171,7 @@ ht-degree: 97%
   <tr>
    <td>2019년 6월 3일</td> 
    <td>리치 텍스트 편집기 (RTE)<br /> </td> 
-   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">만든 다중 필드 구성 요소</a>에 패키지를 추가했습니다.<br /> </p> <p>고객 피드백을 기반으로 <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">문제 해결 FAQ</a>를 만들었습니다.</p> </td> 
+   <td><p><a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">생성된 다중 필드 구성 요소</a>에 패키지를 추가했습니다.<br /> </p> <p>고객 피드백을 기반으로 <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">문제 해결 FAQ</a>를 만들었습니다.</p> </td> 
   </tr>
   <tr>
    <td>2019년 5월 31일</td> 
@@ -230,7 +230,7 @@ ht-degree: 97%
   <tr>
    <td>2019년 4월 8일</td> 
    <td>AEM Assets</td> 
-   <td>폴더 공유 기능은 더는 사용되지 않습니다. <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes" target="_blank">폴더 공유 우수 사례</a>를 참조하십시오.</td> 
+   <td>폴더 공유 기능은 더는 사용되지 않습니다. <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes" target="_blank">폴더 공유 모범 사례</a>를 참조하십시오.</td> 
    </tr>
  </tbody>
 </table>
