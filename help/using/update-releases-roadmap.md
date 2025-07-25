@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: bd2e18ba7a515d7ff31f4e157e4db947222ca160
 workflow-type: tm+mt
 source-wordcount: '492'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 95%
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
-[!DNL Experience Manager] 6.5 LTS 제품 업데이트는 서비스 팩을 통해 제공됩니다. 이러한 서비스 팩에는 새로운 기능, 개선 사항 및 버그 수정 사항이 포함되어 있습니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 LTS 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes)를 참조하십시오.
+[!DNL Experience Manager] 6.5 LTS 제품 업데이트는 서비스 팩을 통해 제공됩니다. 이러한 서비스 팩에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 LTS 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes)를 참조하십시오.
 
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ ht-degree: 95%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 제품 업데이트는 서비스 팩으로 제공됩니다. 이러한 서비스 팩에는 새로운 기능, 개선 사항 및 버그 수정 사항이 포함되어 있습니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)를 참조하십시오.
+[!DNL Experience Manager] 6.5 제품 업데이트는 서비스 팩으로 제공됩니다. 이러한 서비스 팩에는 새로운 기능, 개선 사항, 버그 수정 사항이 포함됩니다. 최근 릴리스된 서비스 팩에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 서비스 팩 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)를 참조하십시오.
 
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [서비스 팩 20](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | 서비스 팩 | 2024년 2월 22일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 21](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | 서비스 팩 | 2024년 6월 6일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 [서비스 팩 22](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | 서비스 팩 | 2024년 11월 21일 | 활성화됨 |
+| [!DNL Experience Manager] 6.5 [서비스 팩 22](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | 서비스 팩 | 2024년 11월 21일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 23](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.23.0 | 서비스 팩 | 2025년 5월 22일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 서비스 팩 24 | 6.5.24.0 | 서비스 팩 | 2025년 11월 20일 | 대상 |
 
