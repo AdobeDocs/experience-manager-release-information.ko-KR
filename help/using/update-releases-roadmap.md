@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b1d6332f485665eb693f6f8277168d477f231209
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '515'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -55,8 +55,8 @@ ht-degree: 92%
 >
 > 다음 일정 동안에는 자동 AEMaaCS 유지 관리가 실행되지 않으며, 시작 및 종료 시간 기준은 자정(00:00)(CET)입니다.
 >
->* 2025년 11월 24일 월요일부터 2025년 12월 2일 화요일까지
->* 2025년 12월 8일 월요일부터 2026년 1월 2일 금요일까지
+>* 2025년 11월 24일 월요일부터 2025년 12월 2일 화요일까지.
+>* 2025년 12월 8일 월요일부터 2026년 1월 2일 금요일까지.
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
