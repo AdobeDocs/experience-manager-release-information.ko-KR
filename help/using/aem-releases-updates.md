@@ -21,7 +21,7 @@ ht-degree: 0%
 
 [!DNL Experience Manager] as a[!DNL Cloud Service]는 일반적으로 새로운 기능에 대한 월간 릴리스 케이던스를 대상으로 합니다.
 
-현재/최신 버전에 대한 세부 정보는 [ [!DNL Experience Manager] as a [!DNL Cloud Service]의 현재 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)를 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
+현재/최신 버전에 대한 세부 정보는 [&#x200B; [!DNL Experience Manager] as a [!DNL Cloud Service]의 현재 릴리스 정보](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)를 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
