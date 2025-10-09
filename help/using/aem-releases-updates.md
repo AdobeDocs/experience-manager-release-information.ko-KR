@@ -1,12 +1,11 @@
 ---
 title: '[!DNL Adobe Experience Manager] 릴리스 업데이트'
 description: '[!DNL Adobe Experience Manager] 릴리스 업데이트'
-contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 6a1200fcc366ec68118c1016a7321d8d16f354f7
-workflow-type: ht
-source-wordcount: '231'
-ht-degree: 100%
+source-git-commit: 9e7e72d7c0a7126828028b04319f20b64d72e517
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,13 +29,13 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-[!DNL Experience Manager] 6.5 제품 업데이트는 반기 서비스 팩을 통해 제공되며 새로운 기능, 개선 사항 및 버그 수정이 포함됩니다.
+[!DNL Experience Manager] 6.5 제품 업데이트는 서비스 팩을 통해 제공되며 새로운 기능, 개선 사항 및 버그 수정 사항이 포함되어 있습니다.
 
 현재/최신 버전에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 최신 기능 팩](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes)을 참조하십시오. 여기에서 이전 버전(연대순으로 정렬됨)의 세부 정보를 찾아볼 수도 있습니다.
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem-65-lts}
 
-[!DNL Experience Manager] 6.5 LTS 제품 업데이트는 분기 서비스 팩을 통해 제공되며 새로운 기능, 개선 사항 및 버그 수정이 포함됩니다.
+[!DNL Experience Manager] 6.5 LTS 제품 업데이트는 서비스 팩을 통해 제공되며 새로운 기능, 개선 사항 및 버그 수정 사항이 포함되어 있습니다.
 
-현재/최신 버전에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 LTS 최신 기능 팩](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=en)을 참조하십시오.
+현재/최신 버전에 대한 자세한 내용은 [[!DNL Experience Manager] 6.5 LTS 최신 기능 팩](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes)을 참조하십시오.
 
