@@ -99,4 +99,4 @@ Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내
 
 ## [!DNL Experience Manager] 커뮤니티에서 도움 받기 {#get-help-from-aem-community}
 
-Experience Manager 사용에 대한 질문이 있는 경우 Adobe는 [&#x200B; [!DNL Experience Manager] 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)에서 경험이 풍부한 커뮤니티 전문가에게 문의해 보실 것을 권장합니다.
+Experience Manager 사용에 대한 질문이 있는 경우 Adobe는 [&#x200B; [!DNL Experience Manager] 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ko)에서 경험이 풍부한 커뮤니티 전문가에게 문의해 보실 것을 권장합니다.
