@@ -176,7 +176,7 @@ ht-degree: 99%
   <tr>
    <td>2019년 5월 31일</td> 
    <td>AEM과 Adobe Commerce 통합 </td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">전자 상거래 통합 프레임워크</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">전자 상거래 통합 프레임워크</a>.</td> 
   </tr>
   <tr>
    <td>2019년 5월 24일</td> 
