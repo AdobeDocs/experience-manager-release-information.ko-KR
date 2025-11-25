@@ -3,10 +3,10 @@ title: 이전 설명서 업데이트
 description: ' [!DNL Adobe Experience Manager]에 대한 이전 중요 설명서 변경 사항 및 업데이트에 대해 자세히 알아봅니다.'
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 4789d586a9222d7f94283c56b7b71680f68726fe
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -176,7 +176,7 @@ ht-degree: 100%
   <tr>
    <td>2019년 5월 31일</td> 
    <td>AEM과 Adobe Commerce 통합 </td> 
-   <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">전자 상거래 통합 프레임워크</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">전자 상거래 통합 프레임워크</a>.</td> 
   </tr>
   <tr>
    <td>2019년 5월 24일</td> 
