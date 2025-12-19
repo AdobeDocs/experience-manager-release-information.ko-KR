@@ -3,10 +3,10 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지에 대해 알아봅니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 60117a4234d22edec98343f279032b460530ba2b
+source-git-commit: 7ad37f4ff62a3c3774f04205f25144102095a988
 workflow-type: tm+mt
-source-wordcount: '3527'
-ht-degree: 99%
+source-wordcount: '3577'
+ht-degree: 97%
 
 ---
 
@@ -44,6 +44,29 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>사용 가능한 패키지</strong></td>
       <td><strong>빌드 버전</strong></td>
     </tr>
+     <tr>
+      <td>2025년 12월 19일 토요일</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms 
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms 
+        </a>
+      </td>
+      <td>
+        JEE 설치 관리자의 <b style="display:block; margin:10px 0;">AEM Forms 6.5 LTS</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[...]-2-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">JBoss EAP 및 Linux용 Experience Manager 6.5.1.LTS Forms 설치 관리자</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[...]1218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">JBoss EAP 및 Microsoft Windows용 Experience Manager 6.5.1.LTS Forms 설치 관리자
+</a></li>
+        </ul>
+      </td>
+      <td>
+      </td>
+     </tr>
     <tr>
       <td>2025년 9월 5일</td>
       <td>
@@ -125,7 +148,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1448.zip">Linux®용 AEM Forms 추가 기능 패키지</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1448.zip">Windows용 AEM Forms 추가 기능 패키지</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1448.zip">macOS X용 AEM Forms 추가 기능 패키지 [2]</a></li>
+          <li><a href=" https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1448.zip">macOS X용 AEM Forms 추가 기능 패키지 [2]</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.52.zip">AEM Forms 호환성 패키지</a></li>
         </ul>
         <b style="display:block; margin:10px 0;">JEE의 AEM Forms 패치 설치 관리자</b>
@@ -135,7 +158,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-win-weblogic.zip">WebLogic Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-weblogic.gz">WebLogic Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/softwhttps://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-windows-websphere.zip">WebSphere® Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-websphere.gz">WebSphere® Linux®</a>      </li>
+          <li><a href=" https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-websphere.gz">WebSphere® Linux®</a>      </li>
         </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
@@ -978,7 +1001,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&support-tab=home#support)에 문의하십시오.
+`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
 
 `[2]` macOS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에서는 PDF Generator 기능을 사용할 수 없습니다.
 
