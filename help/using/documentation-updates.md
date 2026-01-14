@@ -3,10 +3,10 @@ title: Experience Manager 최신 설명서 업데이트
 description: Experience Manager 설명서의 새로운 내용, 업데이트된 내용 또는 변경된 내용에 대해 알아봅니다.
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 19c14469de7ac389ca49bd321550ecafce5ef618
+workflow-type: tm+mt
 source-wordcount: '1934'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -33,9 +33,9 @@ ht-degree: 100%
 | 날짜 | 주제 | 변경 사항 |
 | --- | --- | --- |
 | 2021년 11월 25일 | Dynamic Media 포함 AEM 구성 | 이제 Dynamic Media 데스크탑 애플리케이션을 사용하지 않고도 AEM의 Dynamic Media 내에서 바로 일반 설정과 게시 설정을 구성할 수 있습니다.<br>[이미지 서버에 대한 Dynamic Media 일반 설정 구성](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/assets/dynamic/dm-general-settings) 및 [Dynamic Media 게시 설정 구성](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/assets/dynamic/dm-publish-settings)을 참조하십시오.<br>또한 [Dynamic Media 구성 - Scene7 모드](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/assets/dynamic/config-dms7)를 참조하십시오. |
-| 2021년 11월 4일 | Dynamic Media 포함 AEM - 스마트 자르기 | 최신 Adobe Sensei 서비스를 사용하여 이미지 자산의 스마트 자르기 및 스마트 색상 견본 기능을 개선했습니다. 다음 사항을 포함하도록 설명서가 업데이트되었습니다.<br>• 이미지 프로필의 자르기 옵션 대화 상자에 새로운 **[!UICONTROL 대상 해상도 전체에서 자르기 콘텐츠 유지]** 옵션이 도입되었습니다.<br>• 이는 엔터프라이즈 양식 및 문서의 웹 및 모바일 경험을 개선해 줍니다. 이 기능을 통해 조직에서는 복잡한 디지털 상호 작용을 수행하고 사용자 경험을 개선하며 비즈니스 범위를 확장할 수 있습니다. 단, 이미지 프로필의 **[!UICONTROL 반응형 이미지 자르기]** 영역에서 폭, 높이 또는 두 가지 모두를 편집하면 해당 자산이 재처리됩니다.<br>• 스마트 자르기 및 색상 견본에 대해 지원되는 이미지 파일 형식의 테이블이 새로 도입되었습니다.<br>이러한 업데이트에 대해 [이미지 프로필](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles)을 참조하십시오. |
+| 2021년 11월 4일 | Dynamic Media 포함 AEM - 스마트 자르기 | 최신 Adobe AI 서비스를 사용하여 이미지 에셋의 스마트 자르기 및 스마트 색상 견본을 개선했습니다. 다음 사항을 포함하도록 설명서가 업데이트되었습니다.<br>• 이미지 프로필의 자르기 옵션 대화 상자에 새로운 **[!UICONTROL 대상 해상도 전체에서 자르기 콘텐츠 유지]** 옵션이 도입되었습니다.<br>• 이는 엔터프라이즈 양식 및 문서의 웹 및 모바일 경험을 개선해 줍니다. 이 기능을 통해 조직에서는 복잡한 디지털 상호 작용을 수행하고 사용자 경험을 개선하며 비즈니스 범위를 확장할 수 있습니다. 단, 이미지 프로필의 **[!UICONTROL 반응형 이미지 자르기]** 영역에서 폭, 높이 또는 두 가지 모두를 편집하면 해당 자산이 재처리됩니다.<br>• 스마트 자르기 및 색상 견본에 대해 지원되는 이미지 파일 형식의 테이블이 새로 도입되었습니다.<br>이러한 업데이트에 대해 [이미지 프로필](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles)을 참조하십시오. |
 | 2021년 11월 3일 | 스마트 자르기 비디오 뷰어 API | 이제 Dynamic Media 뷰어 참조 안내서에서 새로운 [스마트 자르기 비디오 뷰어 API 설명서](https://experienceleague.adobe.com/ko/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference)를 이용할 수 있습니다. |
-| 2020년 12월 2일 | `Batch Set Presets` | Dynamic Media에서 일괄처리 집합 사전 설정을 사용하여 이미지 세트 및 스핀 세트 생성을 자동화하는 방법을 알아봅니다. [일괄처리 집합 사전 설정](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/batch-set-presets-dm)을 참조하십시오. |
+| 2020년 12월 2일 | `Batch Set Presets` | Dynamic Media에서 배치 세트 사전 설정을 사용하여 이미지 세트 및 스핀 세트 생성을 자동화하는 방법을 알아봅니다. [배치 세트 사전 설정](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/batch-set-presets-dm)을 참조하십시오. |
 | 2020년 12월 2일 | Dynamic Media의 액세스 가능성 | Dynamic Media 및 Dynamic Media 뷰어는 작성 사용자 인터페이스에서 키보드 제어와 JAWS 및 NVDA 화면 판독기와 같은 보조 기술을 지원합니다. ](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/accessibility-dm)Dynamic Media의 액세스 가능성[을 참조하십시오. |
 | 2020년 10월 29일 | 코어 구성 요소 | 코어 구성 요소 릴리스 2.12.0에서는 새로운 POST 양식 핸들러, 컨텍스트 인식 구성을 통해 사용자 정의 CSS, JavaScript 및 메타데이터 태그를 포함하는 기능 및 **DataLayerBuilderutility**&#x200B;로 사용자 정의 구성 요소의 데이터 레이어 통합을 단순화는 기능이 도입되었습니다. 이 릴리스는 [작성 설명서](https://experienceleague.adobe.com/ko/docs/experience-manager-core-components/using/introduction)와 [GitHub에 제공된 개발자 세부 사항 및 프로젝트 다운로드](https://github.com/adobe/aem-core-wcm-components)와 함께 제공됩니다. |
 | 2020년 9월 24일 | 새 Dynamic Media 구성 이후 받은 편지함 알림 | 새 Dynamic Media 구성의 설정을 마치면 Experience Manager의 받은 편지함 내에 상태 알림을 받게 됩니다. 이 알림은 구성이 성공했는지 여부를 알려 줍니다. 구성이 실패하면 알림에 오류 코드가 표시됩니다. Adobe 지원 센터에 문의할 때 이 오류 코드를 사용하십시오.<br>[새 Dynamic Media 구성 문제 해결을 참조하십시오.](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) |
