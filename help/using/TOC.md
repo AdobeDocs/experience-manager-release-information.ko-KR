@@ -10,10 +10,10 @@ feature-set: Experience Manager
 feature: Release Information
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
+source-git-commit: 1ecab683c9f72e1077b1ca2ace9c0bcd54d5bdcc
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 94%
+source-wordcount: '63'
+ht-degree: 93%
 
 ---
 
@@ -29,6 +29,3 @@ ht-degree: 94%
 + AEM Forms 릴리스 업데이트 {#forms-updates}
    + [AEM Forms 릴리스](aem-forms-releases.md)
    + [AEM Forms JEE에 누적 수정 팩 설치](install-cfp-aem-forms-jee.md)
-+ 설명서 업데이트 {#doc-updates}
-   + [최근 설명서 업데이트](documentation-updates.md)
-   + [이전 설명서 업데이트](previous-documentation-updates.md)
