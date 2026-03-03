@@ -3,10 +3,10 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지에 대해 알아봅니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 41b9970bbde35a85f6de1e558eb9531f7f1b4816
+source-git-commit: b377e40acf38c2b056e4e2061a498f5950d9655b
 workflow-type: tm+mt
-source-wordcount: '3577'
-ht-degree: 97%
+source-wordcount: '15125'
+ht-degree: 96%
 
 ---
 
@@ -111,6 +111,10 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">macOS X용 AEM Forms 6.5 LTS 추가 기능</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">AEM Forms 6.5 LTS 호환성 패키지</a></li>
         </ul>
+                  <b style="display:block; margin:10px 0;">SDK</b>
+         <ul>
+           <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.1.152/">AEM Forms 클라이언트 SDK</a>    </li>
+         </ul>
       </td>
       <td>
         <p>AEM Forms 6.5 LTS 패키지 추가 기능: 6.1.152</p>
@@ -132,7 +136,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>빌드 버전</strong></td>
     </tr>
     <tr>
-      <td>2026년 1월 28일 목요일</td>
+      <td>2026년 1월 28일</td>
       <td>
         <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">
           AEM 6.5.24.0용 AEM 6.5 Forms 서비스 팩 24 Forms 추가 기능 패키지
@@ -174,7 +178,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         </ul>
       </td>
       <td>
-        <p>AEM Forms OSGI 패치 설치 관리자: 6.0.1452<br/><p>AEM Forms JEE 패치 설치 관리자: 6-5-0-0115 <br/><p>AEM Forms 호환성 패키지: 6.0.1448 <br/></p></td>
+        <p>AEM Forms OSGI 패치 설치 관리자: 6.0.1452<br/><p>AEM Forms JEE 패치 설치 프로그램: 6-5-0-0115 <br/><p>AEM Forms 호환성 패키지: 6.0.1448 <br/></p></td>
     </tr>
     <tr>
       <td>2025년 6월 6일</td>
@@ -1001,7 +1005,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&support-tab=home#support)에 문의하십시오.
+`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
 
 `[2]` macOS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에서는 PDF Generator 기능을 사용할 수 없습니다.
 
