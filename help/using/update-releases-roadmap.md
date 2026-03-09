@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 185229c3b6283f50dc2def40b8e07459c2c78d82
+source-git-commit: 700fb02069627c34a359530170e272b92291c4bc
 workflow-type: tm+mt
-source-wordcount: '989'
-ht-degree: 67%
+source-wordcount: '1025'
+ht-degree: 65%
 
 ---
 
@@ -27,16 +27,16 @@ ht-degree: 67%
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 관리 릴리스 [22758](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | 자동 업데이트 | 2025년 10월 6~8일 | 업데이트됨 |
-| 유지 관리 릴리스 [22943](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | 자동 업데이트 | 2025년 10월 20~22일 | 업데이트됨 |
-| 기능 릴리스 [2025.10.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) | 기능 활성화 | 2025년 10월 30일 | 활성화됨 |
-| 유지 관리 릴리스 [23385](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-11-0#23385) | 자동 업데이트 | 2025년 11월 17~19일 | 업데이트됨 |
-| 기능 릴리스 [2025.11.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-11-0) | 기능 활성화 | 2025년 11월 20일 | 활성화됨 |
-| 유지 관리 릴리스 [23482](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | 자동 업데이트 | 2025년 12월 8~10일 | 업데이트됨 |
-| 기능 릴리스 [2025.12.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-12-0) | 기능 활성화 | 2025년 12월 11일 | 활성화됨 |
-| 유지 관리 릴리스 [23963](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-1-0#23963) | 자동 업데이트 | 2026년 1월 26~28일 | 업데이트됨 |
-| 기능 릴리스 [2026.1.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-1-0) | 기능 활성화 | 2026년 1월 29일 | 활성화됨 |
-| 유지 관리 릴리스 [24288](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-2-0#24288) | 자동 업데이트 | 2026년 2월 9~11일 | 업데이트됨 |
+| 유지 관리 릴리스 [22758](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | 자동 업데이트 | 2025년 10월 6~8일 | 업데이트됨 |
+| 유지 관리 릴리스 [22943](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | 자동 업데이트 | 2025년 10월 20~22일 | 업데이트됨 |
+| 기능 릴리스 [2025.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) | 기능 활성화 | 2025년 10월 30일 | 활성화됨 |
+| 유지 관리 릴리스 [23385](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-11-0#23385) | 자동 업데이트 | 2025년 11월 17~19일 | 업데이트됨 |
+| 기능 릴리스 [2025.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-11-0) | 기능 활성화 | 2025년 11월 20일 | 활성화됨 |
+| 유지 관리 릴리스 [23482](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | 자동 업데이트 | 2025년 12월 8~10일 | 업데이트됨 |
+| 기능 릴리스 [2025.12.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-12-0) | 기능 활성화 | 2025년 12월 11일 | 활성화됨 |
+| 유지 관리 릴리스 [23963](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-1-0#23963) | 자동 업데이트 | 2026년 1월 26~28일 | 업데이트됨 |
+| 기능 릴리스 [2026.1.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-1-0) | 기능 활성화 | 2026년 1월 29일 | 활성화됨 |
+| 유지 관리 릴리스 [24288](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-2-0#24288) | 자동 업데이트 | 2026년 2월 9~11일 | 업데이트됨 |
 | 유지 관리 릴리스 [24464](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 2월 23~25일 | 업데이트됨 |
 | 기능 릴리스 [2026.2.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 3월 3일 | 활성화됨 |
 
@@ -79,15 +79,19 @@ ht-degree: 67%
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [서비스 팩 21](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | 서비스 팩 | 2024년 6월 6일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 22](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | 서비스 팩 | 2024년 11월 21일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 [서비스 팩 23](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | 서비스 팩 | 2025년 5월 22일 | 활성화됨 |
+| [!DNL Experience Manager] 6.5 [서비스 팩 23](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | 서비스 팩 | 2025년 5월 22일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 24](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.24.0 | 서비스 팩 | 2025년 11월 26일 목요일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 서비스 팩 25 | 6.5.25.0 | 서비스 팩 | 2026년 5월 21일 | 대상 |
 | [!DNL Experience Manager] 6.5 서비스 팩 26 | 6.5.26.0 | 서비스 팩 | 2026년 11월 19일 | 대상 |
 
 >[!NOTE]
 >
-> * 6.5.26.0은(는) AEM 6.5에 대해 마지막으로 지원되는 서비스 팩 릴리스입니다.
-> * Adobe Managed Service 고객에 대한 AEM 6.5 지원은 2026년 8월 31일까지 종료됩니다.
+>AEM 6.5의 경우:
+>
+>* 6.5.26.0은(는) AEM 6.5에 대해 마지막으로 지원되는 서비스 팩 릴리스입니다.
+>  각 서비스 팩은 릴리스 후 최대 18개월(2027년 2월 28일 까지) 동안 지원됩니다.
+>* **Adobe Managed Service** 고객에 대한 AEM 6.5 지원은 2026년 8월 31일까지 종료됩니다.
+>* **On Prem** 고객에 대한 AEM 6.5 핵심 지원은 현재 2027년 2월까지 종료될 예정입니다.
 
 >[!NOTE]
 >
