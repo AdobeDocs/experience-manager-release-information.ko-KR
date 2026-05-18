@@ -4,9 +4,9 @@ description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: tm+mt
-source-wordcount: '579'
-ht-degree: 96%
+workflow-type: ht
+source-wordcount: '964'
+ht-degree: 100%
 
 ---
 
@@ -37,8 +37,8 @@ ht-degree: 96%
 
 유효한 Adobe ID가 필요합니다.
 
-* Adobe ID가 없는 경우, https://www.adobe.com/kr/ 에서 만들 수 있습니다.
-Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내서를 참조하십시오](https://helpx.adobe.com/kr/manage-account.html).
+* Adobe ID가 없는 경우, https://www.adobe.com/kr/에서 만들 수 있습니다.
+Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내서](https://helpx.adobe.com/kr/manage-account.html)를 참조하십시오.
 
 | [!DNL Experience Manager] 버전 | 소프트웨어 배포 링크 |
 |:-----------:|:--------------------------------------------------:|
@@ -95,8 +95,8 @@ Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내
 
 1. 확인 대화 상자에서 **[!UICONTROL 설치]**&#x200B;를 다시 선택합니다. 설치하는 데 몇 분 정도 소요됩니다.
 
-1. 웹 브라우저에서 문서 페이지를 실행하십시오. AEM 5.6.1 예를 사용하면 URL은 http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html이 됩니다.
+1. 웹 브라우저에서 문서 페이지를 실행하십시오. AEM 5.6.1 사용 예, http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## [!DNL Experience Manager] 커뮤니티에서 도움 받기 {#get-help-from-aem-community}
 
-Experience Manager 사용에 대한 질문이 있는 경우 Adobe는 [&#x200B; [!DNL Experience Manager] 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ko)에서 경험이 풍부한 커뮤니티 전문가에게 문의해 보실 것을 권장합니다.
+Experience Manager 사용에 대한 질문이 있는 경우 Adobe는 [ [!DNL Experience Manager] 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ko)에서 경험이 풍부한 커뮤니티 전문가에게 문의해 보실 것을 권장합니다.
