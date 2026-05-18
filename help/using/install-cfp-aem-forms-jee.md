@@ -16,7 +16,7 @@ ht-degree: 100%
 
 AEM 6.3 [!DNL Forms JEE]에 누적 수정 팩을 설치하려면 다음 일련의 단계를 수행하십시오.
 
-1. CFP에 대한 AEM 6.3 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
+1. CFP에 대한 AEM 6.3 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&support-tab=home#support)에 문의하십시오.
 1. [AEM 설치 및 구성 [!DNL Forms JEE]](#install-and-configure-aem-forms-jee)의 설명에 따라 CFP 설치 관리자를 실행하고 AEM [!DNL Forms JEE]를 구성하십시오.
 1. 최신 AEM CFP 6.3.3.x 설치
 1. AEM CFP [6.3.3.x](aem-forms-releases.md)용 [!DNL Forms] 추가 기능 패키지 설치
@@ -42,7 +42,7 @@ AEM 6.3 [!DNL Forms JEE] 서버를 Oracle 데이터베이스와 함께 사용할
 
 AEM 6.2 [!DNL Forms JEE]에 누적 수정 팩을 설치하려면 다음 일련의 단계를 수행하십시오.
 
-1. CFP에 대한 AEM 6.2 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
+1. CFP에 대한 AEM 6.2 [!DNL Forms JEE] 설치 관리자를 얻으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&support-tab=home#support)에 문의하십시오.
 1. [AEM 설치 및 구성 [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee)의 설명에 따라 CFP 설치 관리자를 실행하고 AEM [!DNL Forms JEE]를 구성하십시오.
 1. AEM 핫픽스 12785 버전 7.0을 설치합니다.
 1. AEM 6.2 서비스 팩 1을 설치합니다.
