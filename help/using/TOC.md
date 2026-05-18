@@ -2,8 +2,7 @@
 cloud: Experience Cloud
 product: experience manager
 solution: Experience Manager
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 audience: end-user
 user-guide-title: Adobe Experience Manager 릴리스 업데이트 및 로드맵
 breadcrumb-title: AEM 릴리스 정보
@@ -15,7 +14,7 @@ level: Beginner, Intermediate, Experienced
 source-git-commit: e4acffb44dc17f6651139d6561c5aec39e4a576f
 workflow-type: tm+mt
 source-wordcount: 63
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
