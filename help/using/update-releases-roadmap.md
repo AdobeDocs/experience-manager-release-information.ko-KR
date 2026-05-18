@@ -47,9 +47,9 @@ ht-degree: 94%
 | 유지 관리 릴리스 [24464](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 2월 23일~25일 | 업데이트됨 |
 | 기능 릴리스 [2026.2.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-2-0) | 기능 활성화 | 2026년 3월 3일 | 활성화됨 |
 | 유지 관리 릴리스 [24678](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678) | 자동 업데이트 | 2026년 3월 9일~11일 | 업데이트됨 |
-| 기능 릴리스 [2026.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-3-0) | 기능 활성화 | 2026년 3월 26일 | 활성화됨 |
+| 기능 릴리스 [2026.3.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-3-0) | 기능 활성화 | 2026년 3월 26일 | 활성화됨 |
 | 유지 관리 릴리스 [25194](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194) | 자동 업데이트 | 2026년 4월 6일~8일 | 업데이트됨 |
-| 유지 관리 릴리스 [25520](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | 자동 업데이트 | 2026년 4월 27일~29일 | 업데이트됨 |
+| 유지 관리 릴리스 [25520](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | 자동 업데이트 | 2026년 4월 27일~29일 | 업데이트됨 |
 | 기능 릴리스 [2026.4.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 4월 30일 | 활성화됨 |
 | 유지 관리 릴리스 [25892](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 5월 11일~13일 | 업데이트됨 |
 
@@ -98,7 +98,7 @@ ht-degree: 94%
 >  각 서비스 팩은 릴리스 후 최대 18개월(2027년 2월 28일 까지) 동안 지원됩니다.
 >* **Adobe Managed Service** 고객에 대한 AEM 6.5 지원은 2026년 8월 31일에 종료됩니다.
 >* **On Prem** 고객에 대한 AEM 6.5 핵심 지원은 현재 2027년 2월에 종료될 예정입니다.
->* AEM 6.5에 대한 지원은 AEM 6.5 LTS를 통해 계속됩니다. [AEM 6.5 LTS FAQ](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq)를 살펴보십시오.
+>* AEM 6.5에 대한 지원은 AEM 6.5 LTS를 통해 계속됩니다. [AEM 6.5 LTS FAQ](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/faq)를 살펴보십시오.
 
 >[!NOTE]
 >
