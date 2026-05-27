@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 084ff8eac94282c39315b2fa0da89b55898384e7
+source-git-commit: ab32fce30997b2d6730e3983728432edd267d5e2
 workflow-type: tm+mt
 source-wordcount: '1216'
 ht-degree: 91%
@@ -55,7 +55,7 @@ ht-degree: 91%
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 관리 릴리스 [26125](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 5월 25일~27일 | 대상 |
+| 유지 관리 릴리스 [26309](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 5월 25일~27일 | 대상 |
 | 기능 릴리스 2026.5.0 | 기능 활성화 | 2026년 5월 28일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2026년 6월 8일~10일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2026년 6월 22일~24일 | 대상 |
