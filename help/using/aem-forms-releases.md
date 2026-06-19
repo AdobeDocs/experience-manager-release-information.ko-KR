@@ -3,10 +3,10 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지에 대해 알아봅니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 43454d87fad7b5e709aec50cc0ac2275f4ed5923
+source-git-commit: abfe88b2d9d499ca10e26a198d99c52f8724ccd1
 workflow-type: tm+mt
-source-wordcount: '15948'
-ht-degree: 96%
+source-wordcount: '16071'
+ht-degree: 94%
 
 ---
 
@@ -88,15 +88,15 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>
         <b style="display:block; margin:10px 0;">JEE 설치 관리자의 AEM Forms 6.5 LTS SP2</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]0327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">JBoss EAP 및 Microsoft Windows용 Experience Manager 6.5 LTS SP2 Forms 설치 관리자</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">JBoss EAP 및 Linux용 Experience Manager 6.5 LTS SP2 Forms 설치 관리자
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">JBoss EAP 및 Microsoft Windows용 Experience Manager 6.5 LTS SP2 Forms 설치 관리자</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">JBoss EAP 및 Linux용 Experience Manager 6.5 LTS SP2 Forms 설치 관리자
 </a></li>
-<li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]ges/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.206.zip">Linux®용 AEM Forms 6.5 LTS SP2 추가 기능</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]kages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.206.zip">Windows용 AEM Forms 6.5 LTS SP2 추가 기능</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]kages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.206.zip">macOS X용 AEM Forms 6.5 LTS SP2 추가 기능</a></li>
+<li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.206.zip">Linux®용 AEM Forms 6.5 LTS SP2 추가 기능</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.206.zip">Windows용 AEM Forms 6.5 LTS SP2 추가 기능</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.206.zip">macOS X용 AEM Forms 6.5 LTS SP2 추가 기능</a></li>
         </ul>
       </td>
-      <td>
+      <td>AEM Forms 6.5 LTS SP2 추가 기능 패키지: 6.1.206
       </td>
      </tr>
      <tr>
@@ -114,12 +114,12 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>
         <b style="display:block; margin:10px 0;">JEE 설치 관리자의 AEM Forms 6.5 LTS</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]-2-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">JBoss EAP 및 Linux용 Experience Manager 6.5.1 LTS Forms 설치 관리자</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]1218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">JBoss EAP 및 Microsoft Windows용 Experience Manager 6.5.1 LTS Forms 설치 관리자
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20251218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">JBoss EAP 및 Linux용 Experience Manager 6.5.1 LTS Forms 설치 관리자</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20251218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">JBoss EAP 및 Microsoft Windows용 Experience Manager 6.5.1 LTS Forms 설치 관리자
 </a></li>
         </ul>
       </td>
-      <td>
+      <td>6-6-0-20251218-2-12345
       </td>
      </tr>
     <tr>
