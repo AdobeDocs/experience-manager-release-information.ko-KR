@@ -39,15 +39,15 @@ ht-degree: 69%
 | 유지 관리 릴리스 [24464](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 2월 23일~25일 | 업데이트됨 |
 | 기능 릴리스 [2026.2.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-2-0) | 기능 활성화 | 2026년 3월 3일 | 활성화됨 |
 | 유지 관리 릴리스 [24678](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678) | 자동 업데이트 | 2026년 3월 9일~11일 | 업데이트됨 |
-| 기능 릴리스 [2026.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-3-0) | 기능 활성화 | 2026년 3월 26일 | 활성화됨 |
+| 기능 릴리스 [2026.3.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-3-0) | 기능 활성화 | 2026년 3월 26일 | 활성화됨 |
 | 유지 관리 릴리스 [25194](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194) | 자동 업데이트 | 2026년 4월 6일~8일 | 업데이트됨 |
-| 유지 관리 릴리스 [25520](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | 자동 업데이트 | 2026년 4월 27일~29일 | 업데이트됨 |
-| 기능 릴리스 [2026.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-4-0) | 기능 활성화 | 2026년 4월 30일 | 활성화됨 |
-| 유지 관리 릴리스 [25892](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | 자동 업데이트 | 2026년 5월 11일~13일 | 업데이트됨 |
-| 유지 관리 릴리스 [26309](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) | 자동 업데이트 | 2026년 5월 25일~27일 | 업데이트됨 |
-| 기능 릴리스 [2026.5.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-5-0) | 기능 활성화 | 2026년 5월 28일 | 활성화됨 |
-| 유지 관리 릴리스 [26353](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | 자동 업데이트 | 2026년 6월 8일~10일 | 업데이트됨 |
-| 유지 관리 릴리스 [26773](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | 자동 업데이트 | 2026년 6월 22일~24일 | 업데이트됨 |
+| 유지 관리 릴리스 [25520](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | 자동 업데이트 | 2026년 4월 27일~29일 | 업데이트됨 |
+| 기능 릴리스 [2026.4.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-4-0) | 기능 활성화 | 2026년 4월 30일 | 활성화됨 |
+| 유지 관리 릴리스 [25892](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | 자동 업데이트 | 2026년 5월 11일~13일 | 업데이트됨 |
+| 유지 관리 릴리스 [26309](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) | 자동 업데이트 | 2026년 5월 25일~27일 | 업데이트됨 |
+| 기능 릴리스 [2026.5.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-5-0) | 기능 활성화 | 2026년 5월 28일 | 활성화됨 |
+| 유지 관리 릴리스 [26353](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | 자동 업데이트 | 2026년 6월 8일~10일 | 업데이트됨 |
+| 유지 관리 릴리스 [26773](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | 자동 업데이트 | 2026년 6월 22일~24일 | 업데이트됨 |
 | 기능 릴리스 [2026.6.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 6월 25일 | 활성화됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
@@ -79,9 +79,9 @@ ht-degree: 69%
 | 릴리스 | 버전 | 유형 | 일정 | 상태 |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [서비스 팩 21](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | 서비스 팩 | 2024년 6월 6일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 [서비스 팩 22](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | 서비스 팩 | 2024년 11월 21일 | 활성화됨 |
+| [!DNL Experience Manager] 6.5 [서비스 팩 22](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | 서비스 팩 | 2024년 11월 21일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 23](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | 서비스 팩 | 2025년 5월 22일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 [서비스 팩 24](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) | 6.5.24.0 | 서비스 팩 | 2025년 11월 26일 | 활성화됨 |
+| [!DNL Experience Manager] 6.5 [서비스 팩 24](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) | 6.5.24.0 | 서비스 팩 | 2025년 11월 26일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 25](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | 서비스 팩 | 2026년 5월 21일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 서비스 팩 26 | 6.5.26.0 | 서비스 팩 | 2026년 11월 19일 | 대상 |
 
@@ -92,7 +92,7 @@ ht-degree: 69%
 >* 6.5.26.0은 AEM 6.5에 대해 마지막으로 지원되는 서비스 팩 릴리스입니다.각 서비스 팩은 릴리스 후 최대 18개월(2027년 2월 28일 까지) 동안 지원됩니다.
 >* **Adobe Managed Service** 고객에 대한 AEM 6.5 지원은 2026년 8월 31일에 종료됩니다.
 >* **On Prem** 고객에 대한 AEM 6.5 핵심 지원은 현재 2027년 2월에 종료될 예정입니다.
->* AEM 6.5에 대한 지원은 AEM 6.5 LTS를 통해 계속됩니다. [AEM 6.5 LTS FAQ](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq)를 참조하세요.
+>* AEM 6.5에 대한 지원은 AEM 6.5 LTS를 통해 계속됩니다. [AEM 6.5 LTS FAQ](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/faq)를 참조하세요.
 
 >[!NOTE]
 >
