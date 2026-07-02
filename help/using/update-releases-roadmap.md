@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 60391b5638d0a29c185ee30bb1c31bdc39d49bb5
+source-git-commit: 89520017766392e9e72e7bf3053f213ba26ba98b
 workflow-type: tm+mt
-source-wordcount: '1163'
-ht-degree: 66%
+source-wordcount: '1215'
+ht-degree: 69%
 
 ---
 
@@ -19,8 +19,7 @@ ht-degree: 66%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager]&#x200B;(새 기능 [!DNL Cloud Service])은(는) [월별 기능 활성화](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)를 통해 전달되며, 개선 사항 및 버그 수정 사항은 [유지 관리 릴리스](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)를 통해 한 달에 두 번 전달됩니다.
-[!DNL Cloud Service]&#x200B;(으)로 [!DNL Experience Manager]에 예정된 릴리스는 다음과 같습니다.
+[!DNL Experience Manager] as a [!DNL Cloud Service] 새로운 기능은 [월별 기능 활성화](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)를 통해 제공되는 반면, 개선 사항 및 버그 수정은 [유지 관리 릴리스](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)를 통해 매월 두 차례 제공됩니다.[!DNL Experience Manager]의 [!DNL Cloud Service]로서의 릴리스 예정은 다음과 같습니다.
 
 >[!IMPORTANT]
 >
@@ -48,14 +47,14 @@ ht-degree: 66%
 | 유지 관리 릴리스 [26309](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) | 자동 업데이트 | 2026년 5월 25일~27일 | 업데이트됨 |
 | 기능 릴리스 [2026.5.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-5-0) | 기능 활성화 | 2026년 5월 28일 | 활성화됨 |
 | 유지 관리 릴리스 [26353](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | 자동 업데이트 | 2026년 6월 8일~10일 | 업데이트됨 |
-| 유지 관리 릴리스 [26773](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 6월 22일~24일 | 업데이트됨 |
+| 유지 관리 릴리스 [26773](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | 자동 업데이트 | 2026년 6월 22일~24일 | 업데이트됨 |
 | 기능 릴리스 [2026.6.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 6월 25일 | 활성화됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 관리 릴리스 | 자동 업데이트 | 2026년 7월 6~8일 | 대상 |
+| 유지 관리 릴리스 [26908](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 7월 6~8일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2026년 7월 20~22일 | Target |
 | 기능 릴리스 2026.7.0 | 기능 활성화 | 2026년 7월 30일 | 대상 |
 
@@ -90,8 +89,7 @@ ht-degree: 66%
 >
 >AEM 6.5:
 >
->* 6.5.26.0은(는) AEM 6.5에 대해 마지막으로 지원되는 서비스 팩 릴리스입니다.
->  각 서비스 팩은 릴리스 후 최대 18개월 동안(2027년 2월 28일까지) 지원됩니다.
+>* 6.5.26.0은 AEM 6.5에 대해 마지막으로 지원되는 서비스 팩 릴리스입니다.각 서비스 팩은 릴리스 후 최대 18개월(2027년 2월 28일 까지) 동안 지원됩니다.
 >* **Adobe Managed Service** 고객에 대한 AEM 6.5 지원은 2026년 8월 31일에 종료됩니다.
 >* **On Prem** 고객에 대한 AEM 6.5 핵심 지원은 현재 2027년 2월에 종료될 예정입니다.
 >* AEM 6.5에 대한 지원은 AEM 6.5 LTS를 통해 계속됩니다. [AEM 6.5 LTS FAQ](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/faq)를 참조하세요.
