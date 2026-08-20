@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5aaa2a857065a1ec24c8f8996a2a474184bcd436
+source-git-commit: 1039b2dd92f3219f9cd2d45f6ec09f458bee2c96
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1112'
 ht-degree: 54%
 
 ---
@@ -26,9 +26,9 @@ ht-degree: 54%
 >
 >오래된 버전을 사용하는 고객의 경우: AEM 환경 및 관련 인스턴스의 보안 및 안정성을 보장하려면 프로그램을 [!DNL Cloud Service] 릴리스로 최신 [!DNL Experience Manager]&#x200B;(으)로 업데이트해야 합니다.
 >
->환경을 현재 버전으로 가져오기 위한 계획을 조정하려면 Adobe 기술 담당자(CSME, TAM)에게 문의하십시오. 현재 릴리스보다 **6개월 이상** 늦은 버전에는 Adobe 지원을 통해 단계별 업데이트를 수행해야 합니다.
+>환경을 현재 버전으로 업데이트하는 계획을 조정하려면 Adobe 기술 담당자(CSME, TAM)에게 문의하십시오. 현재 릴리스보다 **6개월 이상** 오래된 버전에는 Adobe 지원을 통해 예정된 업데이트가 필요합니다.
 >
->**2026년 4월 30일**&#x200B;까지 아무 작업도 수행되지 않으면 배포 파이프라인이 비활성화되고 다른 AEMaaCS 기능에 영향을 줄 수 있습니다. 지원되지 않는 버전에서 작업을 계속 수행하면 애플리케이션 안정성과 가동 시간에 부정적인 영향을 미치고 보안 노출이 늘어날 수 있습니다.
+>**2026년 4월 30일**&#x200B;까지 아무런 조치도 취하지 않으면 Adobe이 배포 파이프라인을 비활성화하여 다른 AEMaaCS 기능에 영향을 줄 수 있습니다. 지원되지 않는 버전에서 작업을 계속 수행하면 애플리케이션 안정성과 가동 시간에 부정적인 영향을 미치고 보안 노출이 늘어날 수 있습니다.
 
 ### 이전 [!DNL Cloud Service] 릴리스 {#past}
 
@@ -68,7 +68,7 @@ ht-degree: 54%
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 LTS [서비스 팩 1](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | 서비스 팩 | 2025년 8월 28일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 LTS [서비스 팩 2](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | 서비스 팩 | 2026년 2월 19일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 LTS 서비스 팩 3 | 6.5.LTS.SP3 | 서비스 팩 | 2026년 8월 20일 | 대상 |
+| [!DNL Experience Manager] 6.5 LTS [서비스 팩 3](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP3 | 서비스 팩 | 2026년 8월 20일 | 활성화됨 |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -90,7 +90,7 @@ ht-degree: 54%
 > * **Adobe Managed Services** 고객: 2026년 8월 31일까지 종료됩니다.
 > * **Prem** 고객: 핵심 지원은 현재 2027년 2월까지 종료될 예정입니다.
 > 
->두 경로 모두 AEM 6.5 LTS에서 다룹니다. 자세한 내용은 [AEM 6.5 LTS FAQ](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/faq)를 참조하십시오.
+>AEM 6.5 LTS는 두 경로를 다룹니다. 자세한 내용은 [AEM 6.5 LTS FAQ](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/faq)를 참조하십시오.
 
 >[!NOTE]
 >
