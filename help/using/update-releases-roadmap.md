@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 description: '[!DNL Adobe Experience Manager] 릴리스 로드맵'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: adc787eafca8ca86d51d93c519c6bc9d737f2a22
+source-git-commit: fd0dd21e6ee33a54eac0c028521f38cab458e198
 workflow-type: tm+mt
-source-wordcount: '1131'
-ht-degree: 53%
+source-wordcount: '1148'
+ht-degree: 52%
 
 ---
 
@@ -42,15 +42,15 @@ ht-degree: 53%
 | 기능 릴리스 [2026.6.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-6-0) | 기능 활성화 | 2026년 6월 25일 | 활성화됨 |
 | 유지 관리 릴리스 [26908](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908) | 자동 업데이트 | 2026년 7월 6~8일 | 업데이트됨 |
 | 유지 관리 릴리스 [27083](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) | 자동 업데이트 | 2026년 7월 20~22일 | 업데이트됨 |
-| 기능 릴리스 [2026.7.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 7월 30일 | 활성화됨 |
+| 기능 릴리스 [2026.7.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-7-0) | 기능 활성화 | 2026년 7월 30일 | 활성화됨 |
 | 유지 관리 릴리스 [27293](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293) | 자동 업데이트 | 2026년 8월 3~5일 | 업데이트됨 |
 | 유지 관리 릴리스 [27673](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | 자동 업데이트 | 2026년 8월 17~19일 | 업데이트됨 |
+| 기능 릴리스 [2026.8.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 8월 27일 | 활성화됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 기능 릴리스 2026.8.0 | 기능 활성화 | 2026년 8월 27일 | 대상 |
 | 유지 관리 릴리스 [27830](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 8월 31일~9월 2일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2026년 9월 14~16일 | 대상 |
 | 기능 릴리스 2026.9.0 | 기능 활성화 | 2026년 9월 24일 | 대상 |
