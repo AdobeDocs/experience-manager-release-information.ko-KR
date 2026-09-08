@@ -4,9 +4,9 @@ description: 모든 AEM Forms 릴리스 및 해당 패키지에 대해 알아봅
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: abfe88b2d9d499ca10e26a198d99c52f8724ccd1
-workflow-type: tm+mt
-source-wordcount: '16071'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '16241'
+ht-degree: 100%
 
 ---
 
@@ -66,7 +66,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
-              WLP(IBM WebSphere Liberty Profile) AEM Forms 6.5 Linux용 LTS 서비스 팩 2 설치 관리자
+              Linux용 WLP(IBM WebSphere Liberty Profile) AEM Forms 6.5 LTS 서비스 팩 2 설치 관리자
             </a>
           </li>
         </ul>
@@ -96,7 +96,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.206.zip">macOS X용 AEM Forms 6.5 LTS SP2 추가 기능</a></li>
         </ul>
       </td>
-      <td>AEM Forms 6.5 LTS SP2 추가 기능 패키지: 6.1.206
+      <td>AEM Forms 6.5 LTS  SP2 추가 기능 패키지: 6.1.206
       </td>
      </tr>
      <tr>
@@ -233,7 +233,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         </ul>
       </td>
       <td>
-        <p>AEM Forms OSGI 패치 설치 관리자: 6.0.1482<br/><p>AEM Forms JEE 패치 설치 프로그램: 6-5-0-127 <br/></p></td>
+        <p>AEM Forms OSGI 패치 설치 관리자: 6.0.1482<br/><p>AEM Forms JEE 패치 설치 관리자: 6-5-0-127 <br/></p></td>
     </tr>
     <tr>
       <td>2026년 1월 28일</td>
@@ -284,7 +284,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>2025년 6월 6일</td>
       <td>
         <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5.23.0용 AEM Forms 서비스 팩 23 Forms 추가 기능 패키지
+          AEM 6.5.23.0용 AEM 6.5 Forms 서비스 팩 23 Forms 추가 기능 패키지
         </a>
       </td>
       <td>

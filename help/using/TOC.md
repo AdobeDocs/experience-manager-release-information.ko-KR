@@ -14,7 +14,7 @@ feature: Release Information
 role: Leader, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: f64130f85d9a259c30ed679d067f43944c07c790
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 63
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 + [AEM 릴리스 로드맵](update-releases-roadmap.md)
 + [AEM 업데이트 릴리스 차량 정의](update-release-vehicle-definitions.md)
 + 이전 릴리스 업데이트 {#previous-updates}
-   + [AEM, CQ 및 CRX 이전 버전](aem-previous-versions.md)
+  + [AEM, CQ 및 CRX 이전 버전](aem-previous-versions.md)
 + AEM Forms 릴리스 업데이트 {#forms-updates}
-   + [AEM Forms 릴리스](aem-forms-releases.md)
-   + [AEM Forms JEE에 누적 수정 팩 설치](install-cfp-aem-forms-jee.md)
+  + [AEM Forms 릴리스](aem-forms-releases.md)
+  + [AEM Forms JEE에 누적 수정 팩 설치](install-cfp-aem-forms-jee.md)

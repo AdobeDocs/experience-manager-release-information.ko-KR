@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: e9efc525560e748137d4884ad4ec6b6e288bc732
 workflow-type: tm+mt
 source-wordcount: '1143'
-ht-degree: 53%
+ht-degree: 94%
 
 ---
 
@@ -24,26 +24,26 @@ ht-degree: 53%
 
 >[!IMPORTANT]
 >
->오래된 버전을 사용하는 고객의 경우: AEM 환경 및 관련 인스턴스의 보안 및 안정성을 보장하려면 프로그램을 [!DNL Cloud Service] 릴리스로 최신 [!DNL Experience Manager]&#x200B;(으)로 업데이트해야 합니다.
+>오래된 버전을 사용하는 고객의 경우: AEM 환경 및 관련 인스턴스의 보안 및 안정성을 보장하기 위해 프로그램이 최신 [!DNL Experience Manager] as a [!DNL Cloud Service] 릴리스로 업데이트되어 있어야 합니다.
 >
->환경을 현재 버전으로 업데이트하는 계획을 조정하려면 Adobe 기술 담당자(CSME, TAM)에게 문의하십시오. 현재 릴리스보다 **6개월 이상** 오래된 버전에는 Adobe 지원을 통해 예정된 업데이트가 필요합니다.
+>이용 중이신 환경을 현재 버전으로 업데이트하기 위한 플랜을 조정하려면 Adobe 기술 담당자(CSME, TAM)에게 문의하십시오. 현재 릴리스보다 **6개월 이상** 오래된 버전인 경우, Adobe 지원을 통해 예약된 업데이트를 수행해야 합니다.
 >
->**2026년 4월 30일**&#x200B;까지 아무런 조치도 취하지 않으면 Adobe이 배포 파이프라인을 비활성화하여 다른 AEMaaCS 기능에 영향을 줄 수 있습니다. 지원되지 않는 버전에서 작업을 계속 수행하면 애플리케이션 안정성과 가동 시간에 부정적인 영향을 미치고 보안 노출이 늘어날 수 있습니다.
+>**2026년 4월 30일**&#x200B;까지 아무런 조치도 취하지 않는 경우 Adobe에서 배포 파이프라인을 비활성화할 수 있으며 이는 다른 AEMaaCS 기능에 영향을 줄 수 있습니다. 지원되지 않는 버전에서 작업을 계속 수행하면 애플리케이션 안정성과 가동 시간에 부정적인 영향을 미치며, 보안 노출이 증가할 수 있습니다.
 
 ### 이전 [!DNL Cloud Service] 릴리스 {#past}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 관리 릴리스 [26353](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | 자동 업데이트 | 2026년 6월 8일~10일 | 업데이트됨 |
-| 유지 관리 릴리스 [26773](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | 자동 업데이트 | 2026년 6월 22~24일 | 업데이트됨 |
+| 유지 보수 릴리스 [26353](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | 자동 업데이트 | 2026년 6월 8일~10일 | 업데이트됨 |
+| 유지 보수 릴리스 [26773](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | 자동 업데이트 | 2026년 6월 22~24일 | 업데이트됨 |
 | 기능 릴리스 [2026.6.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-6-0) | 기능 활성화 | 2026년 6월 25일 | 활성화됨 |
-| 유지 관리 릴리스 [26908](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908) | 자동 업데이트 | 2026년 7월 6~8일 | 업데이트됨 |
-| 유지 관리 릴리스 [27083](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) | 자동 업데이트 | 2026년 7월 20~22일 | 업데이트됨 |
+| 유지 보수 릴리스 [26908](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908) | 자동 업데이트 | 2026년 7월 6~8일 | 업데이트됨 |
+| 유지 보수 릴리스 [27083](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) | 자동 업데이트 | 2026년 7월 20~22일 | 업데이트됨 |
 | 기능 릴리스 [2026.7.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-7-0) | 기능 활성화 | 2026년 7월 30일 | 활성화됨 |
-| 유지 관리 릴리스 [27293](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293) | 자동 업데이트 | 2026년 8월 3~5일 | 업데이트됨 |
-| 유지 관리 릴리스 [27673](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | 자동 업데이트 | 2026년 8월 17~19일 | 업데이트됨 |
+| 유지 보수 릴리스 [27293](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293) | 자동 업데이트 | 2026년 8월 3~5일 | 업데이트됨 |
+| 유지 보수 릴리스 [27673](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | 자동 업데이트 | 2026년 8월 17~19일 | 업데이트됨 |
 | 기능 릴리스 [2026.8.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 8월 27일 | 활성화됨 |
-| 유지 관리 릴리스 [27830](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 8월 31일~9월 2일 | 업데이트됨 |
+| 유지 보수 릴리스 [27830](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 8월 31일~9월 2일 | 업데이트됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
 
@@ -68,7 +68,7 @@ ht-degree: 53%
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
-지원되는 [!DNL Experience Manager] On-Premise 및 Managed Services에 대한 새로운 기능, 개선 사항 및 버그 수정 사항 관련 제품 업데이트는 서비스 팩 및 CFP(누적 수정 팩)를 통해 제공됩니다. 이 접근 방식을 사용하면 빈번한 릴리스를 통해 제품 업데이트를 보다 신속하게 적용할 수 있습니다. 예정된 제품 업데이트 릴리스의 일정은 다음과 같습니다.
+지원되는 [!DNL Experience Manager] On-Premise 및 Managed Services에 대한 새로운 기능, 개선 사항 및 버그 수정 사항 관련 제품 업데이트는 서비스 팩 및 CFP(누적 수정 팩)를 통해 제공됩니다. 이 접근 방식으로 주기적인 릴리스를 통해 제품 업데이트를 더 신속하게 적용할 수 있습니다. 예정된 제품 업데이트 릴리스의 일정은 다음과 같습니다.
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
@@ -95,18 +95,18 @@ ht-degree: 53%
 
 >[!AVAILABILITY]
 >
-> AEM 6.5 지원은 AEM 6.5 LTS를 통해 계속됩니다. 현재 6.5 지원 타임라인:
+> AEM 6.5 지원은 AEM 6.5 LTS까지 계속됩니다. 현재 6.5 지원 타임라인:
 >
 > * **Adobe Managed Services** 고객: 2026년 8월 31일까지 종료됩니다.
-> * **Prem** 고객: 핵심 지원은 현재 2027년 2월까지 종료될 예정입니다.
+> * **On Prem** 고객: 핵심 지원은 현재 2027년 2월까지 종료될 예정입니다.
 > 
->AEM 6.5 LTS는 두 경로를 다룹니다. 자세한 내용은 [AEM 6.5 LTS FAQ](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/faq)를 참조하십시오.
+>AEM 6.5 LTS는 두 경로를 모두 다룹니다. 자세한 내용은 [AEM 6.5 LTS 자주 묻는 질문](https://experienceleague.adobe.com/ko/docs/experience-manager-65-lts/content/release-notes/faq)을 참조하십시오.
 
 >[!NOTE]
 >
 > 6.5.26.0은 AEM 6.5에 대해 마지막으로 지원되는 서비스 팩 릴리스입니다.
 >
-> 각 서비스 팩은 릴리스 이후 2027년 2월 28일까지 최대 18개월 동안 지원됩니다. [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html#cq)을 참조하세요.
+> 각 서비스 팩은 릴리스 후 최대 18개월 동안(2027년 2월 28일까지) 지원됩니다. [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html#cq)을 참조하십시오.
 
 >[!NOTE]
 >
