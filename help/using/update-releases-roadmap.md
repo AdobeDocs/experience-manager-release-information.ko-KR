@@ -5,10 +5,8 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 855946eca93d2e4f8a3efe274e4842e75b6e46b7
 workflow-type: tm+mt
 source-wordcount: '1134'
-ht-degree: 94%
-
+ht-degree: 100%
 ---
-
 # [!DNL Experience Manager] 릴리스 로드맵 {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager]는 지속적으로 새로운 기능을 제공하고 기존 기능을 개선하고 있습니다. [!DNL Cloud Service], 관리형 서비스 및 온프레미스 버전의 사용자를 위해 버그 수정을 제공합니다. 이 문서에서는 [!DNL Experience Manager]에 예정된 릴리스가 나열되어 있습니다.
@@ -60,10 +58,10 @@ ht-degree: 94%
 >
 >**계획된 유지 관리 제외 기간**
 >
-> 다음 일정 동안에는 자동 AEMaaCS 유지 관리가 실행되지 않으며, 시작 및 종료 시간 기준은 자정(00:00)입니다.
+> 다음 일정 동안에는 자동 AEMaaCS 유지 관리가 실행되지 않으며, 시작 및 종료 시간 기준은 자정(00:00)(CET)입니다.
 >
->* 2026년 11월 23일 월요일부터 2026년 12월 1일 화요일까지
->* 2026년 12월 14일 월요일부터 2027년 1월 3일 일요일까지
+>* 2026년 11월 23일 월요일부터 2026년 12월 1일 화요일까지.
+>* 2026년 12월 14일 월요일부터 2027년 1월 3일 일요일까지.
 
 ## [!DNL Experience Manager] On-Premise 및 Managed Services {#aem-on-prem-managed-services}
 
