@@ -3,10 +3,10 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지에 대해 알아봅니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: c78532eaa6c54e4a6472467f0ea9f079ee784188
+source-git-commit: ab26b8a8240bc8547f5becb68d180e78b9bc68b5
 workflow-type: tm+mt
-source-wordcount: '16479'
-ht-degree: 99%
+source-wordcount: '16662'
+ht-degree: 98%
 ---
 # AEM [!DNL Forms] 릴리스 {#aem-forms-releases}
 
@@ -73,7 +73,29 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
             </a>
           </li>
         </ul>
-        <p>AEM Forms 6.5 LTS 서비스 팩 3 JEE 설치 관리자는 나중에 제공될 예정입니다.</p>
+        <strong style="display:block; margin:10px 0;">JEE 설치 관리자의 AEM Forms 6.5 LTS 서비스 팩 3</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">
+              JBoss® 및 Microsoft Windows용 AEM Forms 6.5 LTS 서비스 팩 3 설치 관리자
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">
+              JBoss® 및 Linux®용 AEM Forms 6.5 LTS 서비스 팩 3 설치 관리자
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_win.zip">
+              WebSphere® 및 Microsoft Windows용 AEM Forms 6.5 LTS 서비스 팩 3 설치 관리자
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
+              WebSphere® 및 Linux®용 AEM Forms 6.5 LTS 서비스 팩 3 설치 관리자
+            </a>
+          </li>
+        </ul>
       </td>
       <td>6.1.238</td>
     </tr>
@@ -1142,7 +1164,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&support-tab=home#support)에 문의하십시오.
+`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
 
 `[2]` macOS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에서는 PDF Generator 기능을 사용할 수 없습니다.
 
