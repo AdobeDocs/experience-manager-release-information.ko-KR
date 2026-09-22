@@ -3,9 +3,9 @@ title: AEM Forms 릴리스
 description: 모든 AEM Forms 릴리스 및 해당 패키지에 대해 알아봅니다.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: b52bcd4a3340a127cbd68657a0bbac64ca0d5548
+source-git-commit: 9c5c24d80196ce94e791338bc09e3751edba6997
 workflow-type: tm+mt
-source-wordcount: '16700'
+source-wordcount: '16723'
 ht-degree: 98%
 ---
 # AEM [!DNL Forms] 릴리스 {#aem-forms-releases}
@@ -101,6 +101,14 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
               AEM Forms Workbench 설치 관리자
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">SDK</strong>
+        <ul>
+          <li>
+            <a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.1.238/aemfd-client-sdk-6.1.238.jar">
+              AEM Forms 클라이언트 SDK
             </a>
           </li>
         </ul>
@@ -1172,7 +1180,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&support-tab=home#support)에 문의하십시오.
+`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
 
 `[2]` macOS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에서는 PDF Generator 기능을 사용할 수 없습니다.
 
