@@ -1,15 +1,32 @@
 ---
 title: 업데이트 릴리스 차량 정의
-description: 이 문서에서는 전체 릴리스, 기능 팩 및 서비스 팩 등 다양한 유형의  [!DNL Experience Manager]  릴리스에 대해 자세히 설명합니다.
+description: 이 문서에서는 전체 릴리스, 기능 팩 및 서비스 팩 등 다양한 유형의 [!DNL Experience Manager] 릴리스에 대해 자세히 설명합니다.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
 workflow-type: tm+mt
-source-wordcount: '743'
-ht-degree: 100%
-
+source-wordcount: '744'
+ht-degree: 97%
 ---
-
 # [!DNL Experience Manager] 업데이트 릴리스 차량 정의 {#update-release-vehicle-definitions}
 
 이 문서는 [!DNL Adobe]에서 고객에게 제공하는 전체 릴리스, 기능 팩 및 서비스 팩 등 다양한 유형의 [!DNL Adobe Experience Manager] 릴리스에 대한 세부 사항이 포함되어 있습니다.
@@ -37,16 +54,16 @@ ht-degree: 100%
 | 정의 | <ul> <li> 예약된 릴리스 </li> <li> 현재 롤백할 수 없음 </li> </ul> |
 | 이름 지정 | <ul> <li> 패치 릴리스 번호는 한 자리 숫자입니다. </li> <li> 설치 후 X.Y.Z.SPx 공식을 기준으로 설치된 릴리스 번호 패치 숫자가 증가합니다 </li> </ul> 여기서 X는 기본 버전 번호이고 Y는 보조 버전 번호이며 Z는 패치 번호입니다. x는 서비스 팩 번호입니다. |
 | 포함 | <ul> <li> 새로운 기능</li> <li>  개선 사항 </li> <li> 버그 수정 </li> <li> 일반 관심 기능 팩(제공된 경우) </li> </ul> |
-| 설명서 | <ul> <li> 릴리스 정보는 설명서 포털에 있습니다. </li> <li> 설명서 포털의 기능, 개선 사항, 버그 수정 사항 설명서 </li> </ul> |
+| 설명서 | <ul> <li> 릴리스 정보는 설명서 포털에 있습니다. </li> <li> 설명서 포털의 기능, 개선 사항 및 버그 수정 사항에 대한 설명서 </li> </ul> |
 | 케이던스 | 분기별 |
 | 가용성 및 설치 | <ul> <li> 패키지로 제공 </li> <li> 소프트웨어 배포 시 사용 가능</li> <li>  기존 기능 설치 필요 </li> </ul> |
-| 테스트 수준 | <ul> <li> 모든 수정 사항 QA 유효성 확인 </li> <li>  자동화를 통한 전체 패키지 온전성 유지 </li> </ul> |
+| 테스트 수준 | <ul> <li> 모든 수정 사항 QA 검증 완료 </li> <li>  자동화를 통한 전체 패키지 온전성 유지 </li> </ul> |
 
 ## 누적 수정 팩 {#cumulative-fix-pack-aem}
 
 | 항목 | 설명 |
 |-----|-----|
-| 정의 | <ul> <li> 수정 사항 릴리스의 단일 게재 모델 </li> <li> 개별 구성 요소의 콘텐츠 패키지를 포함하는 누적 콘텐츠 패키지 </li> <li>  CFP는 핫픽스를 롤오버하고 있으며 그 일부에는 향상된 기능이 없습니다.  </li> </ul> |
+| 정의 | <ul> <li> 수정 사항 릴리스의 단일 게재 모델 </li> <li> 개별 구성 요소의 콘텐츠 패키지를 포함하는 누적 콘텐츠 패키지 </li> <li>  CFP는 핫픽스의 롤오버이며 여기에 개선 사항은 포함되지 않습니다.  </li> </ul> |
 | 이름 지정 | X.Y.Z.CFPx <br> 여기서 X는 기본 버전 번호이고 Y는 보조 버전 번호이며 Z는 패치 번호입니다. x는 누적 서비스 팩 번호입니다. |
 | 포함 | CFP는 지정된 날짜까지의 모든 구성 요소 수정 사항이 포함된 누적 수정 팩입니다. 예를 들어 고객이 CFP3을 적용하면 CFP3 = CFP1 + CFP2가 됩니다. |
 | 설명서 | 릴리스 정보는 설명서 포털에 있습니다. |
@@ -69,12 +86,12 @@ ht-degree: 100%
 
 | 항목 | 세부 사항 |
 |--------|-----|
-| 정의 | <ul> <li>기능 팩은 추가 기능이며 서비스 팩을 통해 제공됩니다. [!DNL Experience Manager] 버전에서 마지막 서비스 팩을 릴리스한 경우 Adobe는 향후 해당 기능에 대한 기능 팩을 제공하지 않습니다. </li> <li> 기능 팩에는 후속 제품 릴리스로 예정되어 있지만 [!DNL Adobe's] 제품 관리의 결정에 따라 일찍 제공된 제품 개선 사항이 포함됩니다.</li> <li>  기능은 항상 다음 주요 릴리스와 병합됩니다. 그 후 고객 필요로 하는 [!DNL Experience Manager] 버전으로 포팅됩니다. </li> <li>  일반 관심 및 GA 기능 팩은 다음 서비스 팩에 병합됩니다.  </li> </ul> |
+| 정의 | <ul> <li>기능 팩은 추가 기능이며 서비스 팩을 통해 제공됩니다. [!DNL Experience Manager] 버전에서 마지막 서비스 팩을 릴리스한 경우 Adobe는 향후 해당 기능에 대한 기능 팩을 제공하지 않습니다. </li> <li> 기능 팩에는 후속 제품 릴리스로 예정되어 있지만 [!DNL Adobe's] 제품 관리의 결정에 따라 일찍 제공된 제품 개선 사항이 포함됩니다.</li> <li>  기능은 항상 다음 주요 릴리스와 병합됩니다. 그 후 고객 필요로 하는 [!DNL Experience Manager] 버전으로 포팅됩니다. </li> <li>  일반 관심도 및 GA 기능 팩은 다음 서비스 팩에 병합됩니다.  </li> </ul> |
 | 이름 지정 | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | 포함 | <ul> <li> 새로운 기능 </li> <li> 개선 사항 </li> <li> 버그 수정(증분 제품 업데이트) </li> </ul> |
 | 설명서 | 설명서는 adobe.com에서 제공됩니다. |
 | 케이던스 | 제품 영역에 따라 다름 |
 | 가용성 및 설치 | <ul> <li>서비스 팩을 통해 제공 </li> <li> 소프트웨어 배포 시 사용할 수 있습니다. 고객은 소프트웨어 배포를 통해 [!DNL Adobe's] 이용 약관에 동의합니다. </li> </ul> |
-| 테스트 수준 | 일반 공급 기능 팩은 QA가 유효성을 확인합니다. |
+| 테스트 수준 | 일반 공급 기능 팩은 QA 검증을 거칩니다. |
 
-* 1: Oak 수정 사항은 개별 핫픽스로 제공되지 않습니다. 하지만 후속 누적 Oak 핫픽스에 포함됩니다. 필요한 경우, 최신 COFP 위에 빌드된 진단을 제공할 수 있습니다. 전제 조건은 고객의 최신 COFP가 실행 중인 것입니다. 진단 빌드는 핫픽스와 동일한 수준의 품질 보증만 제공합니다. 따라서 누적 수정 팩, 서비스 팩 또는 제품 릴리스만큼의 품질 보증을 제공하지 않습니다. 최종 수정 내용은 다음 CFP와 함께 제공됩니다.
+* 1: Oak 수정 사항은 개별 핫픽스로 제공되지 않습니다. 하지만 후속 누적 Oak 핫픽스에 포함됩니다. 필요한 경우, 최신 COFP 위에 빌드된 진단을 제공할 수 있습니다. 전제 조건은 고객이 최신 COFP를 실행 중이어야 한다는 것입니다. 진단 빌드는 핫픽스와 동일한 수준의 품질 보증만 제공합니다. 따라서 누적 수정 팩, 서비스 팩 또는 제품 릴리스만큼의 품질 보증을 제공하지 않습니다. 최종 수정 내용은 다음 CFP와 함께 제공됩니다.
