@@ -3,13 +3,30 @@ title: AEM Forms JEE에 누적 수정 팩 설치
 description: AEM Forms JEE에 CFP(누적 수정 팩)를 설치 및 구성하는 단계의 요약입니다.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
-source-wordcount: '932'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '946'
 ht-degree: 100%
-
 ---
-
 # AEM[!DNL  Forms] JEE에 누적 수정 팩 설치{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## AEM 6.3 [!DNL Forms JEE]에 CFP 설치 {#install-cfp-forms-6-3}
@@ -59,7 +76,7 @@ AEM Forms JEE 패키지(aemfd-jee-bundles-package-6.2CFP5, 버전 1.0.2)에서�
 >
 >AEM 6.2 CFP4 이후 버전에서 업그레이드 프로세스 중 시간 초과로 인해 문제가 발생하는 경우에는 다음 지침에 따라 DSC 작업에 대한 시간 제한을 구성할 수 있습니다.
 
-DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니다. 설치, 로드, 시작, 중지 등의 DSC 작업에 대한 시간 제한을 변경하려면 `-D` 옵션과 함께 JVM 인수를 사용하여 `adobe.component.registry.timeout`을 설정해야 합니다.
+DSC 배포는 소요 시간이 일정하지 않아 실패할 수 있습니다. 설치, 로드, 시작, 중지 등의 DSC 작업에 대한 시간 제한을 변경하려면 `-D` 옵션과 함께 JVM 인수를 사용하여 `adobe.component.registry.timeout`을 설정해야 합니다.
 
 키 값을 초 단위로 지정합니다. 예를 들어`-Dadobe.component.registry.timeout=300`
 
@@ -98,7 +115,7 @@ DSC 배포의 소요 시간은 달라질 수 있어 실패의 원인이 됩니�
 
    **Windows**
 
-   설치 관리자를 복사한 설치 미디어 또는 폴더로 이동합니다.
+   설치 미디어의 디렉터리 또는 설치 관리자를 복사한 폴더로 이동합니다.
 
    * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`

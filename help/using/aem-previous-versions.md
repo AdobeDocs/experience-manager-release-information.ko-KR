@@ -3,13 +3,30 @@ title: 이전 버전의 AEM, CQ 및 CRX 설명서 다운로드
 description: 이전 버전의 Adobe Experience Manager, CQ 및 CRX에 대한 설명서 패키지를 다운로드합니다.
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: ht
-source-wordcount: '964'
-ht-degree: 100%
-
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '965'
+ht-degree: 97%
 ---
-
 # 이전 버전의 [!DNL Adobe Experience Manager], CQ 및 CRX 설명서 {#older-versions-aem-cq-crx}
 
 이전 버전의 AEM, CQ 및 CRX에 대한 이전 도움말 안내서를 찾으십시오.
@@ -27,7 +44,7 @@ ht-degree: 100%
 패키지를 다운로드하기 전에 콘텐츠를 사용할 사용자를 결정하십시오. 이 결정에 따라 배포 방법이 결정됩니다.
 
 * 개발자는 빠른 참조를 위해 로컬에서 설치할 수 있습니다.
-* Adobe에서는 보다 광범위한 조직의 문서화 요구를 위해서 패키지가 내부적으로 액세스할 수 있는 비프로덕션 AEM 작성자 인스턴스에 배포되는 것을 권장하여 드립니다.
+* Adobe에서는 보다 광범위한 조직의 문서화 요구를 위해 패키지를 내부적으로 액세스할 수 있는 비프로덕션 AEM 작성자 인스턴스에 배포할 것을 권장합니다.
 
 >[!NOTE]
 >
@@ -95,8 +112,8 @@ Adobe ID를 만들거나 관리하는 데 도움이 필요한 경우 [이 안내
 
 1. 확인 대화 상자에서 **[!UICONTROL 설치]**&#x200B;를 다시 선택합니다. 설치하는 데 몇 분 정도 소요됩니다.
 
-1. 웹 브라우저에서 문서 페이지를 실행하십시오. AEM 5.6.1 사용 예, http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. 웹 브라우저에서 문서 페이지를 엽니다. AEM 5.6.1 예를 사용하면 URL은 http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html이 됩니다.
 
 ## [!DNL Experience Manager] 커뮤니티에서 도움 받기 {#get-help-from-aem-community}
 
-Experience Manager 사용에 대한 질문이 있는 경우 Adobe는 [ [!DNL Experience Manager] 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ko)에서 경험이 풍부한 커뮤니티 전문가에게 문의해 보실 것을 권장합니다.
+Experience Manager 사용에 대한 질문이 있는 경우 Adobe는 [&#x200B; [!DNL Experience Manager] 포럼](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ko)에서 경험이 풍부한 커뮤니티 전문가에게 문의해 보실 것을 권장합니다.
