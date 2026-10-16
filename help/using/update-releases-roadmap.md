@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+source-git-commit: 81cdbe635093d2225a7d69b5123cb27af52dbda6
 workflow-type: tm+mt
-source-wordcount: '1222'
-ht-degree: 100%
+source-wordcount: '1268'
+ht-degree: 97%
 ---
 # [!DNL Experience Manager] 릴리스 로드맵 {#aem-releases-roadmap}
 
@@ -62,16 +62,20 @@ ht-degree: 100%
 | 기능 릴리스 [2026.8.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | 기능 활성화 | 2026년 8월 27일 | 활성화됨 |
 | 유지 보수 릴리스 [27830](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | 자동 업데이트 | 2026년 8월 31일~9월 2일 | 업데이트됨 |
 | 기능 릴리스 [2026.9.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 9월 24일 | 활성화됨 |
-| 유지 보수 릴리스 [28386](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 9월 28~30일 | 업데이트됨 |
+| 유지 보수 릴리스 [28386](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 자동 업데이트 | 2026년 9월 28~30일 | 업데이트됨 |
+| 유지 관리 릴리스 [28871](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 10월 12~14일 | 업데이트됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 관리 릴리스 | 자동 업데이트 | 2026년 10월 12~14일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2026년 10월 26~28일 | 대상 |
 | 기능 릴리스 2026.10.0 | 기능 활성화 | 2026년 10월 29일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2026년 11월 9~11일 | 대상 |
+| 기능 릴리스 2026.11.0 | 기능 활성화 | 2026년 11월 19일 | 대상 |
+| 유지 관리 릴리스 | 자동 업데이트 | 2026년 12월 7~9일 | 대상 |
+| 기능 릴리스 2026.12.0 | 기능 활성화 | 2026년 12월 10일 | 대상 |
+
 
 >[!CAUTION]
 >
