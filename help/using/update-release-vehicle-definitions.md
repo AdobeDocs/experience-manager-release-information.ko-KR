@@ -1,6 +1,6 @@
 ---
 title: 업데이트 릴리스 차량 정의
-description: 이 문서에서는 전체 릴리스, 기능 팩 및 서비스 팩 등 다양한 유형의 [!DNL Experience Manager] 릴리스에 대해 자세히 설명합니다.
+description: 이 문서에서는 전체 릴리스, 기능 팩, 서비스 팩을 비롯한 [!DNL Experience Manager] 릴리스의 다양한 유형을 자세히 설명합니다.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 product_v2:
@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '744'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # [!DNL Experience Manager] 업데이트 릴리스 차량 정의 {#update-release-vehicle-definitions}
 
@@ -86,7 +86,7 @@ ht-degree: 97%
 
 | 항목 | 세부 사항 |
 |--------|-----|
-| 정의 | <ul> <li>기능 팩은 추가 기능이며 서비스 팩을 통해 제공됩니다. [!DNL Experience Manager] 버전에서 마지막 서비스 팩을 릴리스한 경우 Adobe는 향후 해당 기능에 대한 기능 팩을 제공하지 않습니다. </li> <li> 기능 팩에는 후속 제품 릴리스로 예정되어 있지만 [!DNL Adobe's] 제품 관리의 결정에 따라 일찍 제공된 제품 개선 사항이 포함됩니다.</li> <li>  기능은 항상 다음 주요 릴리스와 병합됩니다. 그 후 고객 필요로 하는 [!DNL Experience Manager] 버전으로 포팅됩니다. </li> <li>  일반 관심도 및 GA 기능 팩은 다음 서비스 팩에 병합됩니다.  </li> </ul> |
+| 정의 | <ul> <li>기능 팩은 추가 기능이며 서비스 팩을 통해 제공됩니다. [!DNL Experience Manager] 버전에서 마지막 서비스 팩을 릴리스한 경우 Adobe는 향후 해당 기능에 대한 기능 팩을 제공하지 않습니다. </li> <li> 기능 팩에는 후속 제품 릴리스로 예정되어 있지만 [!DNL Adobe's] 제품 관리 의 결정에 따라 일찍 제공된 제품 개선 사항이 포함됩니다.</li> <li>  기능은 항상 다음 주요 릴리스와 병합됩니다. 그 후 고객 필요로 하는 [!DNL Experience Manager] 버전으로 포팅됩니다. </li> <li>  일반 관심도 및 GA 기능 팩은 다음 서비스 팩에 병합됩니다.  </li> </ul> |
 | 이름 지정 | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | 포함 | <ul> <li> 새로운 기능 </li> <li> 개선 사항 </li> <li> 버그 수정(증분 제품 업데이트) </li> </ul> |
 | 설명서 | 설명서는 adobe.com에서 제공됩니다. |
