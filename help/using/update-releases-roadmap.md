@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: c62d9cb2b6a7ba3987eafb506d353e85145d7b5d
 workflow-type: tm+mt
 source-wordcount: '1312'
-ht-degree: 93%
+ht-degree: 98%
 ---
 # [!DNL Experience Manager] 릴리스 로드맵 {#aem-releases-roadmap}
 
