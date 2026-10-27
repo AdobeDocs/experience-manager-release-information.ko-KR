@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 3d4bc1708d541faaf1d18ee379dc0277d5bf2dc4
+source-git-commit: c62d9cb2b6a7ba3987eafb506d353e85145d7b5d
 workflow-type: tm+mt
-source-wordcount: '1287'
-ht-degree: 95%
+source-wordcount: '1312'
+ht-degree: 98%
 ---
 # [!DNL Experience Manager] 릴리스 로드맵 {#aem-releases-roadmap}
 
@@ -64,12 +64,12 @@ ht-degree: 95%
 | 기능 릴리스 [2026.9.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 9월 24일 | 활성화됨 |
 | 유지 보수 릴리스 [28386](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 자동 업데이트 | 2026년 9월 28~30일 | 업데이트됨 |
 | 유지 관리 릴리스 [28871](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | 자동 업데이트 | 2026년 10월 12~14일 | 업데이트됨 |
+| 유지 관리 릴리스 [29023](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 10월 26~28일 | 업데이트됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
 
 | 릴리스 | 이벤트 | 일정 | 상태 |
 |---|---|---|---|
-| 유지 관리 릴리스 [29023](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 자동 업데이트 | 2026년 10월 26~28일 | 대상 |
 | 기능 릴리스 2026.10.0 | 기능 활성화 | 2026년 10월 29일 | 대상 |
 | 유지 관리 릴리스 | 자동 업데이트 | 2026년 11월 9~11일 | 대상 |
 | 기능 릴리스 2026.11.0 | 기능 활성화 | 2026년 11월 19일 | 대상 |
@@ -130,7 +130,7 @@ ht-degree: 95%
 >
 > 6.5.26.0은(는) AEM 6.5에 마지막으로 지원되는 서비스 팩 릴리스입니다.
 >
-> 각 서비스 팩은 릴리스 후 최대 18개월 동안(2027년 2월 28일까지) 지원됩니다. [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html#cq)을 참조하십시오.
+> 각 서비스 팩은 릴리스 후 최대 18개월 동안(2027년 2월 28일까지) 지원됩니다. [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html#cq)을 참조하십시오. 2028년 2월까지 6.5에 대한 확장 지원을 승인한 경우 마지막으로 릴리스된 서비스 팩 26에서만 중요한 보안 수정 사항을 사용할 수 있습니다.
 
 >[!NOTE]
 >
