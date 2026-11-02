@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 64418defc203acc2f11b37997ba67006156a9af3
 workflow-type: tm+mt
 source-wordcount: '1329'
-ht-degree: 96%
+ht-degree: 98%
 ---
 # [!DNL Experience Manager] 릴리스 로드맵 {#aem-releases-roadmap}
 
@@ -130,7 +130,7 @@ ht-degree: 96%
 >
 > 6.5.26.0은(는) AEM 6.5에 마지막으로 지원되는 서비스 팩 릴리스입니다.
 >
-> 각 서비스 팩은 릴리스 후 최대 18개월 동안(2027년 2월 28일까지) 지원됩니다. [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html#cq)을 참조하십시오. 2028년 2월까지 6.5에 대한 확장 지원을 승인한 경우 마지막으로 릴리스된 서비스 팩 26에서만 중요한 보안 수정 사항을 사용할 수 있습니다.
+> 각 서비스 팩은 릴리스 후 최대 18개월 동안(2027년 2월 28일까지) 지원됩니다. [제품 및 기술 지원 기간](https://helpx.adobe.com/kr/support/programs/eol-matrix.html#cq)을 참조하십시오. 2028년 2월까지 6.5에 대한 연장 지원을 승인받은 경우, 중요한 보안 수정 사항은 마지막으로 릴리스된 서비스 팩 26에서만 제공됩니다.
 
 >[!NOTE]
 >
