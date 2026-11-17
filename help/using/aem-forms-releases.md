@@ -22,10 +22,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: ht
-source-wordcount: '16723'
-ht-degree: 100%
+source-git-commit: 39a9a4644f61255c183c0a0ec732d9974b20818d
+workflow-type: tm+mt
+source-wordcount: '16896'
+ht-degree: 98%
 ---
 # AEM [!DNL Forms] 릴리스 {#aem-forms-releases}
 
@@ -112,6 +112,34 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
               WebSphere® 및 Linux®용 AEM Forms 6.5 LTS 서비스 팩 3 설치 관리자
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">Forms Designer 64비트 전체 설치 관리자(LTS 3)</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/english/aemforms_designer_6_6_0_wwe_win.zip">
+              영어 언어 설치 관리자
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/french/aemforms_designer_6_6_0_wwf_win.zip">
+              프랑스어 언어 설치 관리자
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/german/aemforms_designer_6_6_0_d_win.zip">
+              독일어 언어 설치 관리자
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/japanese/aemforms_designer_6_6_0_j_win.zip">
+              일본어 언어 설치 관리자
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/spanish/aemforms_designer_6_6_0_wws_win.zip">
+              스페인어 언어 설치 관리자
             </a>
           </li>
         </ul>
@@ -1199,7 +1227,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&support-tab=home#support)에 문의하십시오.
+`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
 
 `[2]` macOS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에서는 PDF Generator 기능을 사용할 수 없습니다.
 
