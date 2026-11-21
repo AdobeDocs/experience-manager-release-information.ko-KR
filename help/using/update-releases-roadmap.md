@@ -59,7 +59,7 @@ ht-degree: 88%
 | 유지 보수 릴리스 [28386](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 자동 업데이트 | 2026년 9월 28~30일 | 업데이트됨 |
 | 유지 관리 릴리스 [28871](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | 자동 업데이트 | 2026년 10월 12~14일 | 업데이트됨 |
 | 유지 관리 릴리스 [29023](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023) | 자동 업데이트 | 2026년 10월 26~28일 | 업데이트됨 |
-| 기능 릴리스 [2026.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) | 기능 활성화 | 2026년 10월 29일 | 활성화됨 |
+| 기능 릴리스 [2026.10.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) | 기능 활성화 | 2026년 10월 29일 | 활성화됨 |
 | 유지 관리 릴리스 [29251](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-11-0#release-29251) | 자동 업데이트 | 2026년 11월 9~11일 | 업데이트됨 |
 | 기능 릴리스 [2026.11.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 11월 19일 | 활성화됨 |
 
