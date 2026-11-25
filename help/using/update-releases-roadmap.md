@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 3d6fb57a76993b1acc466b266957ba6f3ed55d94
+source-git-commit: 1ad2d335425f6b3b89073449ff17d50dec880e19
 workflow-type: tm+mt
-source-wordcount: '1300'
-ht-degree: 88%
+source-wordcount: '1325'
+ht-degree: 86%
 ---
 # [!DNL Experience Manager] 릴리스 로드맵 {#aem-releases-roadmap}
 
@@ -105,7 +105,9 @@ ht-degree: 88%
 
 >[!NOTE]
 >
-> 보안 수정 사항은 마지막으로 릴리스된 서비스 팩에서만 사용할 수 있습니다.
+> Adobe에서는 사용 가능한 각 AEM 6.5 LTS 서비스 팩을 채택할 것을 권장합니다. 최신 기능, 개선 사항 및 버그 수정 사항의 이점을 얻기 위해 분기별 업데이트를 계획합니다.
+> 
+> 보안 수정 사항은 최신 서비스 팩에만 사용할 수 있습니다.
 
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
