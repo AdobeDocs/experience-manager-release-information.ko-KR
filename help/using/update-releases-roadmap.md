@@ -58,9 +58,9 @@ ht-degree: 86%
 | 기능 릴리스 [2026.9.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-9-0) | 기능 활성화 | 2026년 9월 24일 | 활성화됨 |
 | 유지 보수 릴리스 [28386](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 자동 업데이트 | 2026년 9월 28~30일 | 업데이트됨 |
 | 유지 관리 릴리스 [28871](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | 자동 업데이트 | 2026년 10월 12~14일 | 업데이트됨 |
-| 유지 관리 릴리스 [29023](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023) | 자동 업데이트 | 2026년 10월 26~28일 | 업데이트됨 |
-| 기능 릴리스 [2026.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) | 기능 활성화 | 2026년 10월 29일 | 활성화됨 |
-| 유지 관리 릴리스 [29251](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-11-0#release-29251) | 자동 업데이트 | 2026년 11월 9~11일 | 업데이트됨 |
+| 유지 관리 릴리스 [29023](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023) | 자동 업데이트 | 2026년 10월 26~28일 | 업데이트됨 |
+| 기능 릴리스 [2026.10.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) | 기능 활성화 | 2026년 10월 29일 | 활성화됨 |
+| 유지 관리 릴리스 [29251](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-11-0#release-29251) | 자동 업데이트 | 2026년 11월 9~11일 | 업데이트됨 |
 | 기능 릴리스 [2026.11.0](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 기능 활성화 | 2026년 11월 19일 | 활성화됨 |
 
 ### 예정된 [!DNL Cloud Service] 릴리스 {#upcoming}
@@ -120,7 +120,7 @@ ht-degree: 86%
 | [!DNL Experience Manager] 6.5 [서비스 팩 22](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | 서비스 팩 | 2024년 11월 21일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 23](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | 서비스 팩 | 2025년 5월 22일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 24](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) | 6.5.24.0 | 서비스 팩 | 2025년 11월 26일 | 활성화됨 |
-| [!DNL Experience Manager] 6.5 [서비스 팩 25](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-25) | 6.5.25.0 | 서비스 팩 | 2026년 5월 21일 | 활성화됨 |
+| [!DNL Experience Manager] 6.5 [서비스 팩 25](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/service-pack/6-5-25) | 6.5.25.0 | 서비스 팩 | 2026년 5월 21일 | 활성화됨 |
 | [!DNL Experience Manager] 6.5 [서비스 팩 26](https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.26.0 | 서비스 팩 | 2026년 11월 12일 | 대상 |
 
 >[!AVAILABILITY]
