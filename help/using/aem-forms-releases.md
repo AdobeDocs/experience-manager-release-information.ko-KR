@@ -22,7 +22,7 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 1ba38fca4b11858c2ad3a5a3f4cebb9a151b8ed3
+source-git-commit: a01f70f8731cff20868384e1448c6c13a8f2869c
 workflow-type: tm+mt
 source-wordcount: '17500'
 ht-degree: 96%
@@ -309,7 +309,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>빌드 버전</strong></td>
     </tr>
     <tr>
-      <td>2026년 11월 23일</td>
+      <td>2026년 11월 25일</td>
       <td>
         <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-65/content/release-notes/release-notes">
           AEM 6.5.26.0용 AEM 6.5 Forms 서비스 팩 26 Forms 추가 기능 패키지
@@ -1275,7 +1275,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/ko?support-solution=General&support-tab=home#support)에 문의하십시오.
+`[1]` Workbench, Rights Management SDK, PPL(Portable Protection Library) 및 향상된 PPL의 설치 관리자를 받으려면 [Adobe 지원 센터](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)에 문의하십시오.
 
 `[2]` macOS X용 AEM [!DNL Forms] 추가 기능 패키지는 프로덕션 환경에서 지원되지 않으므로 데모용으로만 사용해야 합니다. macOS X 패키지에서는 PDF Generator 기능을 사용할 수 없습니다.
 
